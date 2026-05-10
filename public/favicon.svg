@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Beste Apparaten">
+  <rect width="64" height="64" rx="10" fill="#28635b"/>
+  <path d="M18 18h28v28H18z" fill="#fffdfa"/>
+  <path d="M24 25h16M24 32h16M24 39h10" stroke="#28635b" stroke-width="4" stroke-linecap="round"/>
+</svg>

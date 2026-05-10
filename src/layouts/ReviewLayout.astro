@@ -1,0 +1,132 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import BaseLayout from './BaseLayout.astro';
+import AffiliateNotice from '../components/AffiliateNotice.astro';
+import ArticleCard from '../components/ArticleCard.astro';
+import ComparisonTable from '../components/ComparisonTable.astro';
+
+interface Props {
+  review: CollectionEntry<'reviews'>;
+  relatedArticles: CollectionEntry<'reviews'>[];
+}
+
+const { review, relatedArticles } = Astro.props;
+const data = review.data;
+const site = Astro.site ?? new URL('https://dutch-appliances-site.vercel.app');
+const canonical = new URL(`/${data.slug}/`, site).toString();
+const categoryLabel = {
+  huishoudelijk: 'Huishoudelijk',
+  keuken: 'Keuken',
+  schoonmaken: 'Schoonmaken'
+}[data.category];
+
+const bestProduct = data.products[0];
+const schema = {
+  '@context': 'https://schema.org',
+  '@type': 'Product',
+  name: data.featuredProduct,
+  description: data.description,
+  category: categoryLabel,
+  review: {
+    '@type': 'Review',
+    author: {
+      '@type': 'Organization',
+      name: 'Beste Apparaten'
+    },
+    reviewRating: {
+      '@type': 'Rating',
+      ratingValue: data.rating,
+      bestRating: 5,
+      worstRating: 1
+    },
+    name: data.title,
+    reviewBody: data.description
+  },
+  aggregateRating: {
+    '@type': 'AggregateRating',
+    ratingValue: data.rating,
+    bestRating: 5,
+    worstRating: 1,
+    ratingCount: 1
+  },
+  offers: {
+    '@type': 'AggregateOffer',
+    priceCurrency: 'EUR',
+    offerCount: data.products.length,
+    availability: 'https://schema.org/InStock'
+  }
+};
+---
+
+<BaseLayout title={`${data.title} | Beste Apparaten`} description={data.description} canonicalUrl={canonical} ogType="article">
+  <script type="application/ld+json" set:html={JSON.stringify(schema)} />
+
+  <article class="mx-auto max-w-6xl px-4 py-10 sm:px-6 lg:px-8">
+    <header class="grid gap-8 lg:grid-cols-[1.6fr_0.9fr] lg:items-end">
+      <div>
+        <p class="text-sm font-bold uppercase tracking-[0.16em] text-leaf">{categoryLabel} / koopgids {data.modelYear}</p>
+        <h1 class="mt-4 max-w-4xl font-serif text-4xl font-semibold leading-tight text-ink sm:text-5xl">
+          {data.title}
+        </h1>
+        <p class="mt-5 max-w-3xl text-lg leading-8 text-muted">{data.description}</p>
+        <div class="mt-6 flex flex-wrap gap-3 text-sm font-semibold">
+          <span class="rounded bg-[#edf4f2] px-3 py-1.5 text-leaf">Score {data.rating.toFixed(1)}/5</span>
+          <span class="rounded bg-linen px-3 py-1.5 text-muted">{data.priceRange}</span>
+          <span class="rounded bg-linen px-3 py-1.5 text-muted">{data.readingTime}</span>
+          <time class="rounded bg-linen px-3 py-1.5 text-muted" datetime={data.date.toISOString()}>
+            Update {data.date.toLocaleDateString('nl-NL', { year: 'numeric', month: 'long', day: 'numeric' })}
+          </time>
+        </div>
+      </div>
+
+      <aside class="rounded border border-[#dfe8e5] bg-[#f3faf7] p-5">
+        <p class="text-sm font-bold uppercase tracking-[0.16em] text-leaf">Beste keuze</p>
+        <h2 class="mt-2 font-serif text-2xl font-semibold text-ink">{bestProduct.name}</h2>
+        <p class="mt-3 text-sm leading-6 text-muted">{bestProduct.verdict}</p>
+        <a class="mt-5 inline-flex rounded bg-leaf px-4 py-2 text-sm font-bold text-white hover:bg-[#1f514b]" href={bestProduct.affiliateLink} rel="nofollow sponsored">
+          Bekijk placeholder-link
+        </a>
+      </aside>
+    </header>
+
+    <section class="mt-10 grid gap-4 md:grid-cols-2">
+      <div class="rounded border border-[#e6ded2] bg-paper p-5">
+        <h2 class="font-serif text-2xl font-semibold text-ink">Pluspunten</h2>
+        <ul class="mt-4 space-y-2 text-muted">
+          {data.pros.map((item) => <li class="flex gap-2"><span class="font-bold text-leaf">+</span><span>{item}</span></li>)}
+        </ul>
+      </div>
+      <div class="rounded border border-[#e6ded2] bg-paper p-5">
+        <h2 class="font-serif text-2xl font-semibold text-ink">Minpunten</h2>
+        <ul class="mt-4 space-y-2 text-muted">
+          {data.cons.map((item) => <li class="flex gap-2"><span class="font-bold text-clay">-</span><span>{item}</span></li>)}
+        </ul>
+      </div>
+    </section>
+
+    <section class="mt-10">
+      <h2 class="font-serif text-3xl font-semibold text-ink">Vergelijking in het kort</h2>
+      <p class="mt-2 max-w-3xl text-muted">
+        De links hieronder zijn placeholders tot anonymous-operator is toegelaten tot het Bol.com Partner Programma.
+      </p>
+      <div class="mt-5">
+        <ComparisonTable products={data.products} />
+      </div>
+    </section>
+
+    <div class="mt-10">
+      <AffiliateNotice />
+    </div>
+
+    <div class="prose-review mx-auto mt-10 max-w-3xl">
+      <slot />
+    </div>
+
+    <section class="mt-14">
+      <h2 class="font-serif text-3xl font-semibold text-ink">Gerelateerde koopgidsen</h2>
+      <div class="mt-6 grid gap-5 md:grid-cols-3">
+        {relatedArticles.map((article) => <ArticleCard article={article} />)}
+      </div>
+    </section>
+  </article>
+</BaseLayout>

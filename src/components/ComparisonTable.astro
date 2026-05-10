@@ -1,0 +1,47 @@
+---
+interface Product {
+  name: string;
+  verdict: string;
+  priceRange: string;
+  bestFor: string;
+  rating: number;
+  affiliateLink: string;
+}
+
+interface Props {
+  products: Product[];
+}
+
+const { products } = Astro.props;
+---
+
+<div class="overflow-x-auto rounded border border-[#e6ded2] bg-paper">
+  <table class="w-full min-w-[760px] border-collapse text-left text-sm">
+    <thead class="bg-linen text-ink">
+      <tr>
+        <th class="px-4 py-3">Product</th>
+        <th class="px-4 py-3">Beste voor</th>
+        <th class="px-4 py-3">Prijsrange</th>
+        <th class="px-4 py-3">Score</th>
+        <th class="px-4 py-3">Korte conclusie</th>
+        <th class="px-4 py-3">Link</th>
+      </tr>
+    </thead>
+    <tbody>
+      {products.map((product) => (
+        <tr class="border-t border-[#e8e1d7] align-top">
+          <td class="px-4 py-3 font-semibold text-ink">{product.name}</td>
+          <td class="px-4 py-3 text-muted">{product.bestFor}</td>
+          <td class="px-4 py-3 text-muted">{product.priceRange}</td>
+          <td class="px-4 py-3 font-bold text-leaf">{product.rating.toFixed(1)}/5</td>
+          <td class="px-4 py-3 text-muted">{product.verdict}</td>
+          <td class="px-4 py-3">
+            <a class="inline-flex rounded bg-leaf px-3 py-2 text-xs font-bold text-white hover:bg-[#1f514b]" href={product.affiliateLink} rel="nofollow sponsored">
+              Bekijk
+            </a>
+          </td>
+        </tr>
+      ))}
+    </tbody>
+  </table>
+</div>
