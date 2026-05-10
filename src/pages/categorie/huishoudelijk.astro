@@ -1,0 +1,24 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+
+const reviews = (await getCollection('reviews', ({ data }) => !data.draft && data.category === 'huishoudelijk'))
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+---
+
+<BaseLayout
+  title="Huishoudelijke apparaten vergelijken 2026 | Beste Apparaten"
+  description="Nederlandse koopgidsen voor praktische huishoudelijke apparaten in 2026, met heldere pluspunten, minpunten en budgetadvies."
+>
+  <section class="mx-auto max-w-6xl px-4 py-12 sm:px-6 lg:px-8">
+    <p class="text-sm font-bold uppercase tracking-[0.16em] text-leaf">Categorie</p>
+    <h1 class="mt-3 font-serif text-4xl font-semibold text-ink">Huishoudelijk</h1>
+    <p class="mt-4 max-w-3xl text-lg leading-8 text-muted">
+      Apparaten die dagelijks werk in huis lichter maken, met extra aandacht voor onderhoud, geluidsniveau en totale gebruikskosten.
+    </p>
+    <div class="mt-8 grid gap-5 md:grid-cols-2 lg:grid-cols-3">
+      {reviews.map((article) => <ArticleCard article={article} />)}
+    </div>
+  </section>
+</BaseLayout>

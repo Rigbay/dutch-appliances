@@ -1,0 +1,30 @@
+---
+const navItems = [
+  { href: '/', label: 'Home' },
+  { href: '/categorie/huishoudelijk/', label: 'Huishoudelijk' },
+  { href: '/categorie/keuken/', label: 'Keuken' },
+  { href: '/categorie/schoonmaken/', label: 'Schoonmaken' },
+  { href: '/over/', label: 'Over' }
+];
+---
+
+<header class="border-b border-[#e8e1d7] bg-paper/95 backdrop-blur">
+  <div class="mx-auto flex max-w-6xl flex-col gap-4 px-4 py-4 sm:px-6 lg:flex-row lg:items-center lg:justify-between lg:px-8">
+    <a href="/" class="inline-flex items-center gap-3 text-ink" aria-label="Beste Apparaten home">
+      <span class="flex h-10 w-10 items-center justify-center rounded bg-leaf text-lg font-black text-white">BA</span>
+      <span>
+        <span class="block font-serif text-xl font-semibold leading-none">Beste Apparaten</span>
+        <span class="block text-xs font-medium uppercase tracking-[0.16em] text-muted">Nederlandse koopgidsen</span>
+      </span>
+    </a>
+    <nav aria-label="Hoofdnavigatie">
+      <ul class="flex flex-wrap gap-2 text-sm font-semibold text-muted">
+        {navItems.map((item) => (
+          <li>
+            <a class="rounded px-3 py-2 transition hover:bg-linen hover:text-ink" href={item.href}>{item.label}</a>
+          </li>
+        ))}
+      </ul>
+    </nav>
+  </div>
+</header>

@@ -1,0 +1,88 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import ArticleCard from '../components/ArticleCard.astro';
+
+const reviews = (await getCollection('reviews', ({ data }) => !data.draft))
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+
+const categories = [
+  { href: '/categorie/keuken/', label: 'Keuken', text: 'Airfryers, koffiemachines, waterkokers, broodroosters, magnetrons en stoomovens.' },
+  { href: '/categorie/schoonmaken/', label: 'Schoonmaken', text: 'Stofzuigers, robotstofzuigers en draadloze steelstofzuigers voor drukke huishoudens.' },
+  { href: '/categorie/huishoudelijk/', label: 'Huishoudelijk', text: 'Praktische apparaten die dagelijks werk in huis sneller en lichter maken.' }
+];
+---
+
+<BaseLayout
+  title="Beste Apparaten 2026: Nederlandse koopgidsen voor huishoudelijke apparaten"
+  description="Nederlandstalige koopgidsen voor de beste airfryer, stofzuiger, koffiemachine, waterkoker en andere apparaten in 2026."
+>
+  <section class="border-b border-[#e8e1d7] bg-linen">
+    <div class="mx-auto grid max-w-6xl gap-8 px-4 py-12 sm:px-6 lg:grid-cols-[1.35fr_0.65fr] lg:px-8">
+      <div>
+        <p class="text-sm font-bold uppercase tracking-[0.16em] text-leaf">Koopgidsen voor Nederland</p>
+        <h1 class="mt-4 max-w-4xl font-serif text-4xl font-semibold leading-tight text-ink sm:text-5xl">
+          Beste huishoudelijke apparaten van 2026, helder vergeleken.
+        </h1>
+        <p class="mt-5 max-w-2xl text-lg leading-8 text-muted">
+          Beste Apparaten helpt je snel kiezen met nuchtere vergelijkingen, bekende minpunten, budgetadvies en duidelijke Bol.com-link placeholders tot de affiliate koppeling live staat.
+        </p>
+        <div class="mt-7 flex flex-wrap gap-3">
+          <a class="rounded bg-leaf px-5 py-3 text-sm font-bold text-white hover:bg-[#1f514b]" href="#laatste-reviews">Bekijk reviews</a>
+          <a class="rounded border border-[#cbbda9] px-5 py-3 text-sm font-bold text-ink hover:bg-paper" href="/over/">Hoe we vergelijken</a>
+        </div>
+      </div>
+      <div class="rounded border border-[#e1d8ca] bg-paper p-5">
+        <p class="font-serif text-2xl font-semibold text-ink">Publicatieplan</p>
+        <dl class="mt-5 grid gap-4 text-sm">
+          <div class="flex items-center justify-between gap-4 border-b border-[#eee7dd] pb-3">
+            <dt class="text-muted">Live artikelen</dt>
+            <dd class="font-bold text-leaf">{reviews.length}</dd>
+          </div>
+          <div class="flex items-center justify-between gap-4 border-b border-[#eee7dd] pb-3">
+            <dt class="text-muted">Doel maand 2</dt>
+            <dd class="font-bold text-ink">50</dd>
+          </div>
+          <div class="flex items-center justify-between gap-4">
+            <dt class="text-muted">Focus</dt>
+            <dd class="font-bold text-ink">SEO + affiliate</dd>
+          </div>
+        </dl>
+      </div>
+    </div>
+  </section>
+
+  <section class="mx-auto max-w-6xl px-4 py-10 sm:px-6 lg:px-8">
+    <h2 class="font-serif text-3xl font-semibold text-ink">Categorieen</h2>
+    <div class="mt-6 grid gap-5 md:grid-cols-3">
+      {categories.map((category) => (
+        <a class="rounded border border-[#e6ded2] bg-paper p-5 shadow-sm transition hover:-translate-y-0.5 hover:shadow-soft" href={category.href}>
+          <span class="text-sm font-bold uppercase tracking-[0.14em] text-leaf">{category.label}</span>
+          <p class="mt-3 text-sm leading-6 text-muted">{category.text}</p>
+        </a>
+      ))}
+    </div>
+  </section>
+
+  <section id="laatste-reviews" class="mx-auto max-w-6xl px-4 py-8 sm:px-6 lg:px-8">
+    <div class="flex flex-col gap-2 sm:flex-row sm:items-end sm:justify-between">
+      <div>
+        <h2 class="font-serif text-3xl font-semibold text-ink">Laatste reviews</h2>
+        <p class="mt-2 text-muted">Koopgidsen met vergelijkingstabel, budgetkeuze en FAQ.</p>
+      </div>
+      <a class="text-sm font-bold text-leaf hover:text-[#1f514b]" href="/categorie/keuken/">Start bij keukenapparaten</a>
+    </div>
+    <div class="mt-6 grid gap-5 md:grid-cols-2 lg:grid-cols-3">
+      {reviews.map((article) => <ArticleCard article={article} />)}
+    </div>
+  </section>
+
+  <section class="mx-auto max-w-6xl px-4 py-10 sm:px-6 lg:px-8">
+    <div class="max-w-3xl">
+      <h2 class="font-serif text-3xl font-semibold text-ink">Over deze site</h2>
+      <p class="mt-4 text-muted">
+        Deze site is gebouwd als statische Astro-site: snel, onderhoudsarm en geschikt om wekelijks nieuwe Markdown-artikelen te publiceren. De aanbevelingen zijn gebaseerd op productspecificaties, prijsniveau, beschikbare gebruikerservaringen en bekende aandachtspunten. Er wordt niet gedaan alsof elk product hands-on is getest.
+      </p>
+    </div>
+  </section>
+</BaseLayout>

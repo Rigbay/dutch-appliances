@@ -1,0 +1,19 @@
+---
+interface Props {
+  compact?: boolean;
+}
+
+const { compact = false } = Astro.props;
+---
+
+<aside class:list={[
+  'rounded border border-[#eadfcf] bg-[#fff8ec] text-[#604019]',
+  compact ? 'px-4 py-3 text-sm' : 'px-5 py-4 text-base'
+]}>
+  <p class="font-bold">Affiliate disclosure</p>
+  <p class="mt-1">
+    Sommige links op deze pagina zijn affiliate links naar Bol.com. Als je via zo'n link koopt, kan deze site een
+    commissie ontvangen. Jij betaalt daardoor niet extra. De rangschikking blijft gebaseerd op geschiktheid,
+    specificaties, prijsniveau en bekende minpunten.
+  </p>
+</aside>

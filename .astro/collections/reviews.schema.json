@@ -1,0 +1,157 @@
+{
+  "$ref": "#/definitions/reviews",
+  "definitions": {
+    "reviews": {
+      "type": "object",
+      "properties": {
+        "title": {
+          "type": "string"
+        },
+        "slug": {
+          "type": "string"
+        },
+        "description": {
+          "type": "string",
+          "minLength": 80,
+          "maxLength": 180
+        },
+        "category": {
+          "type": "string",
+          "enum": [
+            "huishoudelijk",
+            "keuken",
+            "schoonmaken"
+          ]
+        },
+        "rating": {
+          "type": "number",
+          "minimum": 1,
+          "maximum": 5
+        },
+        "priceRange": {
+          "type": "string"
+        },
+        "pros": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "minItems": 2
+        },
+        "cons": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "minItems": 2
+        },
+        "affiliateLinks": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "minItems": 1
+        },
+        "date": {
+          "anyOf": [
+            {
+              "type": "string",
+              "format": "date-time"
+            },
+            {
+              "type": "string",
+              "format": "date"
+            },
+            {
+              "type": "integer",
+              "format": "unix-time"
+            }
+          ]
+        },
+        "modelYear": {
+          "type": "number"
+        },
+        "featuredProduct": {
+          "type": "string"
+        },
+        "readingTime": {
+          "type": "string"
+        },
+        "products": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "verdict": {
+                "type": "string"
+              },
+              "priceRange": {
+                "type": "string"
+              },
+              "bestFor": {
+                "type": "string"
+              },
+              "rating": {
+                "type": "number",
+                "minimum": 1,
+                "maximum": 5
+              },
+              "affiliateLink": {
+                "type": "string",
+                "minLength": 1
+              }
+            },
+            "required": [
+              "name",
+              "verdict",
+              "priceRange",
+              "bestFor",
+              "rating",
+              "affiliateLink"
+            ],
+            "additionalProperties": false
+          },
+          "minItems": 5
+        },
+        "related": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "minItems": 2,
+          "maxItems": 3
+        },
+        "draft": {
+          "type": "boolean",
+          "default": false
+        },
+        "$schema": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "title",
+        "slug",
+        "description",
+        "category",
+        "rating",
+        "priceRange",
+        "pros",
+        "cons",
+        "affiliateLinks",
+        "date",
+        "modelYear",
+        "featuredProduct",
+        "readingTime",
+        "products",
+        "related"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "$schema": "http://json-schema.org/draft-07/schema#"
+}
