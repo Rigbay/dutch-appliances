@@ -58,9 +58,9 @@ products:
     rating: 4.3
     affiliateLink: "https://partner.bol.com/..."
 related:
-  - "beste-wasdrogers"
-  - "energiezuinige-huishoudelijke-apparaten"
-  - "onderhoud-wasmachine"
+  - "beste-wasdroger-2026"
+  - "beste-stofzuiger-2026"
+  - "beste-draadloze-stofzuiger-2026"
 draft: false
 ---
 
