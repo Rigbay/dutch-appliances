@@ -30,5 +30,53 @@
     "tokens_out": 4000,
     "cost_est": 0.0016926,
     "slug": "beste-wasdroger-2026"
+  },
+  {
+    "date": "2026-05-12",
+    "model": "gemini",
+    "tokens_in": 927,
+    "tokens_out": 4000,
+    "cost_est": 0.0016927,
+    "slug": "beste-slowcooker-2026"
+  },
+  {
+    "date": "2026-05-12",
+    "model": "gemini",
+    "tokens_in": 923,
+    "tokens_out": 4000,
+    "cost_est": 0.0016923,
+    "slug": "beste-strijkijzer-2026"
+  },
+  {
+    "date": "2026-05-12",
+    "model": "gemini",
+    "tokens_in": 934,
+    "tokens_out": 4000,
+    "cost_est": 0.0016934,
+    "slug": "beste-stofzuiger-met-zak-2026"
+  },
+  {
+    "date": "2026-05-12",
+    "model": "gemini",
+    "tokens_in": 925,
+    "tokens_out": 4000,
+    "cost_est": 0.0016925,
+    "slug": "beste-raamreiniger-2026"
+  },
+  {
+    "date": "2026-05-12",
+    "model": "gemini",
+    "tokens_in": 927,
+    "tokens_out": 4000,
+    "cost_est": 0.0016927,
+    "slug": "beste-dweilrobot-2026"
+  },
+  {
+    "date": "2026-05-12",
+    "model": "gemini",
+    "tokens_in": 920,
+    "tokens_out": 4000,
+    "cost_est": 0.0016920000000000001,
+    "slug": "beste-staafmixer-2026"
   }
 ]
