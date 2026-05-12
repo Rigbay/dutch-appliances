@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2026-05-11",
+    "model": "gemini",
+    "tokens_in": 934,
+    "tokens_out": 4000,
+    "cost_est": 0.0016934,
+    "slug": "beste-friteuse-2026"
+  },
+  {
+    "date": "2026-05-11",
+    "model": "gemini",
+    "tokens_in": 926,
+    "tokens_out": 4000,
+    "cost_est": 0.0016926,
+    "slug": "beste-senseo-koffiezetapparaat-2026"
+  },
+  {
+    "date": "2026-05-11",
+    "model": "gemini",
+    "tokens_in": 934,
+    "tokens_out": 4000,
+    "cost_est": 0.0016934,
+    "slug": "beste-wasmachine-2026"
+  },
+  {
+    "date": "2026-05-11",
+    "model": "gemini",
+    "tokens_in": 926,
+    "tokens_out": 4000,
+    "cost_est": 0.0016926,
+    "slug": "beste-wasdroger-2026"
+  }
+]

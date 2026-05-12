@@ -52,7 +52,7 @@ related:
   - "beste-broodrooster-2026"
   - "beste-waterkoker-2026"
   - "beste-stoomoven-2026"
-draft: true
+draft: false
 ---
 
 

@@ -52,7 +52,7 @@ related:
   - "beste-koffiemachine-2026"
   - "beste-waterkoker-2026"
   - "beste-handmixer-2026"
-draft: true
+draft: false
 ---
 
 

@@ -52,7 +52,7 @@ related:
   - "beste-stofzuiger-2026"
   - "beste-robotstofzuiger-2026"
   - "beste-handmixer-2026"
-draft: true
+draft: false
 ---
 
 

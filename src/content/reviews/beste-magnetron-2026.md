@@ -52,7 +52,7 @@ related:
   - "beste-stoomoven-2026"
   - "beste-airfryer-2026"
   - "beste-waterkoker-2026"
-draft: true
+draft: false
 ---
 
 
