@@ -55,9 +55,9 @@ products:
     rating: 4.2
     affiliateLink: "https://partner.bol.com/nl/product/krups-nespresso-essenza-mini-x-n300-white/9200000127399881"
 related:
-  - "beste-koffiemachines-2026"
-  - "onderhoud-koffiezetapparaat"
-  - "duurzame-koffie-opties"
+  - "beste-koffiemachine-2026"
+  - "beste-waterkoker-2026"
+  - "beste-broodrooster-2026"
 draft: false
 ---
 

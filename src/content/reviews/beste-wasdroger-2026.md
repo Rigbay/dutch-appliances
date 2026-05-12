@@ -58,9 +58,9 @@ products:
     rating: 3.9
     affiliateLink: "https://partner.bol.com/..."
 related:
-  - "wasmachines-vergelijken"
-  - "energiezuinig-wonen"
-  - "onderhoud-huishoudelijke-apparaten"
+  - "beste-wasmachine-2026"
+  - "beste-stofzuiger-2026"
+  - "beste-robotstofzuiger-2026"
 draft: false
 ---
 

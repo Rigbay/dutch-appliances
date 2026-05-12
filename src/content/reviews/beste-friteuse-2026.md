@@ -54,8 +54,8 @@ products:
     affiliateLink: "https://partner.bol.com/product/Domo-DO507FR-Heteluchtfriteuse"
 related:
   - "beste-airfryer-2026"
-  - "keukengadgets-voor-gezinnen"
-  - "gezond-eten-recepten"
+  - "beste-stoomoven-2026"
+  - "beste-magnetron-2026"
 draft: false
 ---
 
