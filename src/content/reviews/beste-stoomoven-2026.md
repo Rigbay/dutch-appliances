@@ -52,7 +52,7 @@ related:
   - "beste-magnetron-2026"
   - "beste-airfryer-2026"
   - "beste-broodrooster-2026"
-draft: true
+draft: false
 ---
 
 

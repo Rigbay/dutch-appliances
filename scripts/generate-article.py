@@ -116,7 +116,7 @@ def call_gemini(prompt: str, api_key: str) -> dict:
     import urllib.request
     import urllib.error
 
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={api_key}"
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent?key={api_key}"
 
     body = {
         "contents": [{"parts": [{"text": prompt}]}],
@@ -334,7 +334,7 @@ class CostLogger:
 # Cost estimation
 # ---------------------------------------------------------------------------
 
-# Gemini 2.0 Flash pricing (May 2026): $0.10/1M input, $0.40/1M output tokens
+# Gemini 2.5 Flash-Lite pricing (May 2026): $0.10/1M input, $0.40/1M output tokens
 GEMINI_INPUT_COST = 0.10 / 1_000_000
 GEMINI_OUTPUT_COST = 0.40 / 1_000_000
 
