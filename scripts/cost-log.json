@@ -78,5 +78,53 @@
     "tokens_out": 4000,
     "cost_est": 0.0016920000000000001,
     "slug": "beste-staafmixer-2026"
+  },
+  {
+    "date": "2026-05-13",
+    "model": "gemini",
+    "tokens_in": 920,
+    "tokens_out": 4000,
+    "cost_est": 0.0016920000000000001,
+    "slug": "beste-keukenmachine-2026"
+  },
+  {
+    "date": "2026-05-13",
+    "model": "gemini",
+    "tokens_in": 932,
+    "tokens_out": 4000,
+    "cost_est": 0.0016932000000000002,
+    "slug": "beste-airconditioner-2026"
+  },
+  {
+    "date": "2026-05-13",
+    "model": "gemini",
+    "tokens_in": 931,
+    "tokens_out": 4000,
+    "cost_est": 0.0016931000000000001,
+    "slug": "beste-elektrische-kachel-2026"
+  },
+  {
+    "date": "2026-05-13",
+    "model": "gemini",
+    "tokens_in": 936,
+    "tokens_out": 4000,
+    "cost_est": 0.0016936000000000002,
+    "slug": "beste-luchtreiniger-2026"
+  },
+  {
+    "date": "2026-05-13",
+    "model": "gemini",
+    "tokens_in": 926,
+    "tokens_out": 4000,
+    "cost_est": 0.0016926,
+    "slug": "beste-blender-2026"
+  },
+  {
+    "date": "2026-05-13",
+    "model": "gemini",
+    "tokens_in": 918,
+    "tokens_out": 4000,
+    "cost_est": 0.0016918,
+    "slug": "beste-inductiekookplaat-2026"
   }
 ]
