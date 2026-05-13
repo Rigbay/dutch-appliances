@@ -1,0 +1,19 @@
+name: Submit Sitemap to IndexNow
+
+on:
+  schedule:
+    # Run at midnight UTC every Monday — weekly submission
+    - cron: '0 0 * * 1'
+  workflow_dispatch:
+
+jobs:
+  submit-indexnow:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Submit sitemap URLs to IndexNow
+        uses: jakob-bagterp/index-now-submit-sitemap-urls-action@v1
+        with:
+          host: rigbay.github.io
+          api_key: ${{ secrets.INDEX_NOW_API_KEY }}
+          api_key_location: https://rigbay.github.io/dutch-appliances/107f03c08e12ebfc07a124ba28b5dd6f.txt
+          sitemap_locations: https://rigbay.github.io/dutch-appliances/sitemap-index.xml
