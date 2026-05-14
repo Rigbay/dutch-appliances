@@ -150,5 +150,21 @@
     "tokens_out": 4000,
     "cost_est": 0.0016939000000000001,
     "slug": "beste-koelkast-vriezer-combinatie-2026"
+  },
+  {
+    "date": "2026-05-14",
+    "model": "gemini",
+    "tokens_in": 928,
+    "tokens_out": 4000,
+    "cost_est": 0.0016928000000000002,
+    "slug": "beste-vaatwasser-2026"
+  },
+  {
+    "date": "2026-05-14",
+    "model": "gemini",
+    "tokens_in": 936,
+    "tokens_out": 4000,
+    "cost_est": 0.0016936000000000002,
+    "slug": "beste-afzuigkap-2026"
   }
 ]

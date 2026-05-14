@@ -64,7 +64,7 @@ related:
   - "beste-vaatwassers-2026"
   - "energiezuinige-ovens-2026"
   - "stille-wasmachines-2026"
-draft: true
+draft: false
 ---
 
 # De Beste Koelkasten van 2026: Uw Gids naar Energiezuinigheid, Ruimte en Betrouwbaarheid
