@@ -65,7 +65,7 @@ related:
   - "beste-koelkasten-2026"
   - "energiezuinige-huishoudelijke-apparaten"
   - "keuken-organisatie-tips"
-draft: true
+draft: false
 ---
 
 # De Beste Vriezers 2026: Meer Ruimte, Minder Stress

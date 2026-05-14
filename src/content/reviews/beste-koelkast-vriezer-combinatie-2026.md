@@ -56,7 +56,7 @@ related:
   - "energiezuinige-koelkasten"
   - "inbouwkoelkasten-2026"
   - "vriezers-voor-thuisgebruik"
-draft: true
+draft: false
 ---
 
 # De Beste Koelkast-Vriezer Combinaties 2026: Slimme Keuzes voor Elk Huishouden
