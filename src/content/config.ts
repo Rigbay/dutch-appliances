@@ -16,7 +16,7 @@ const reviews = defineCollection({
     title: z.string(),
     slug: z.string(),
     description: z.string().min(80).max(180),
-    category: z.enum(['huishoudelijk', 'keuken', 'schoonmaken']),
+    category: z.enum(['huishoudelijk', 'keuken', 'schoonmaken', 'tuin']),
     rating: z.number().min(1).max(5),
     priceRange: z.string(),
     pros: z.array(z.string()).min(2),
