@@ -126,5 +126,29 @@
     "tokens_out": 4000,
     "cost_est": 0.0016918,
     "slug": "beste-inductiekookplaat-2026"
+  },
+  {
+    "date": "2026-05-14",
+    "model": "gemini",
+    "tokens_in": 930,
+    "tokens_out": 4000,
+    "cost_est": 0.001693,
+    "slug": "beste-koelkast-2026"
+  },
+  {
+    "date": "2026-05-14",
+    "model": "gemini",
+    "tokens_in": 929,
+    "tokens_out": 4000,
+    "cost_est": 0.0016929,
+    "slug": "beste-vriezer-2026"
+  },
+  {
+    "date": "2026-05-14",
+    "model": "gemini",
+    "tokens_in": 939,
+    "tokens_out": 4000,
+    "cost_est": 0.0016939000000000001,
+    "slug": "beste-koelkast-vriezer-combinatie-2026"
   }
 ]
