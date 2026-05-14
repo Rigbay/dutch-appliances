@@ -20,7 +20,8 @@
           "enum": [
             "huishoudelijk",
             "keuken",
-            "schoonmaken"
+            "schoonmaken",
+            "tuin"
           ]
         },
         "rating": {
