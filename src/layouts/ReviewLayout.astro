@@ -12,7 +12,7 @@ interface Props {
 
 const { review, relatedArticles } = Astro.props;
 const data = review.data;
-const site = Astro.site ?? new URL('https://dutch-appliances-site.vercel.app');
+const site = Astro.site ?? new URL('https://rigbay.github.io/dutch-appliances');
 const canonical = new URL(`/${data.slug}/`, site).toString();
 const categoryLabel = {
   huishoudelijk: 'Huishoudelijk',
@@ -68,9 +68,38 @@ const schema = {
     availability: 'https://schema.org/InStock'
   }
 };
+const articleSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'BlogPosting',
+  '@id': canonical + '#article',
+  'headline': data.title,
+  'description': data.description,
+  'datePublished': data.date.toISOString().split('T')[0],
+  'dateModified': data.date.toISOString().split('T')[0],
+  'author': {
+    '@type': 'Organization',
+    'name': 'Beste Apparaten',
+    '@id': site.toString() + '#organization'
+  },
+  'publisher': {
+    '@type': 'Organization',
+    '@id': site.toString() + '#organization'
+  },
+  'inLanguage': 'nl-NL',
+  'about': {
+    '@type': 'Product',
+    'name': data.featuredProduct,
+    '@id': canonical + '#product'
+  },
+  'mainEntityOfPage': {
+    '@type': 'WebPage',
+    '@id': canonical
+  }
+};
 ---
 
 <BaseLayout title={`${data.title} | Beste Apparaten`} description={data.description} canonicalUrl={canonical} ogType="article">
+  <script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
   <script type="application/ld+json" set:html={JSON.stringify(schema)} />
   <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
 
