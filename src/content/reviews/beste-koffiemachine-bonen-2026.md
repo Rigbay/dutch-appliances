@@ -1,76 +1,78 @@
 ---
-title: "De Beste Koffiemachines met Bonenmaler: Jouw Gids voor Perfecte Koffie in 2026"
-slug: "beste-koffiemachine-bonen-2026"
-description: "Ontdek de top koffiemachines die jouw favoriete bonen malen voor de ultieme smaakbeleving. Van espressomachines tot filterapparaten."
-category: "keuken"
+title: 'De Beste Koffiemachines met Bonenmaler: Jouw Gids voor Perfecte Koffie in
+  2026'
+slug: beste-koffiemachine-bonen-2026
+description: Ontdek de top koffiemachines die jouw favoriete bonen malen voor de ultieme
+  smaakbeleving. Van espressomachines tot filterapparaten.
+category: keuken
 rating: 4.5
-priceRange: "EUR 150-1200"
+priceRange: EUR 150-1200
 pros:
-  - "Vers gemalen bonen"
-  - "Volledige controle over smaak"
-  - "Breed aanbod modellen"
+- Vers gemalen bonen
+- Volledige controle over smaak
+- Breed aanbod modellen
 cons:
-  - "Hogere aanschafprijs"
-  - "Vereist meer onderhoud"
-  - "Groter formaat"
+- Hogere aanschafprijs
+- Vereist meer onderhoud
+- Groter formaat
 affiliateLinks:
-  - "https://partner.bol.com/.../placeholder"
+- https://partner.bol.com/.../placeholder
 modelYear: 2026
-featuredProduct: "Sage Barista Express"
-readingTime: "7 min"
+featuredProduct: Sage Barista Express
+readingTime: 7 min
 date: 2026-05-13
 products:
-  - name: "Sage Barista Express"
-    verdict: "Topproduct in zijn categorie met uitstekende prestaties."
-    priceRange: "EUR 50-400"
-    bestFor: "Allround thuisbarista, espresso & melkdranken"
-    rating: 1.8
-    affiliateLink: "https://partner.bol.com/.../placeholder"
-  - name: "De'Longhi Dedica Arte"
-    verdict: "Topproduct in zijn categorie met uitstekende prestaties."
-    priceRange: "EUR 50-400"
-    bestFor: "Compacte keuken, instapmodel espresso"
-    rating: 1.1
-    affiliateLink: "https://partner.bol.com/.../placeholder"
-  - name: "Moccamaster KBG Select"
-    verdict: "Topproduct in zijn categorie met uitstekende prestaties."
-    priceRange: "EUR 50-400"
-    bestFor: "Filterkoffie purist (met losse maler)"
-    rating: 1.25
-    affiliateLink: "https://partner.bol.com/.../placeholder"
-  - name: "Sage Precision Brewer"
-    verdict: "Topproduct in zijn categorie met uitstekende prestaties."
-    priceRange: "EUR 50-400"
-    bestFor: "Filterkoffie controle, diverse zetmethodes"
-    rating: 1.8
-    affiliateLink: "https://partner.bol.com/.../placeholder"
-  - name: "Solis Scala (Bonenmaler)"
-    verdict: "Topproduct in zijn categorie met uitstekende prestaties."
-    priceRange: "EUR 50-400"
-    bestFor: "Compacte, degelijke maler voor elke machine"
-    rating: 4.0
-    affiliateLink: "https://partner.bol.com/.../placeholder"
-  - name: "Sage Smart Grinder Pro"
-    verdict: "Topproduct in zijn categorie met uitstekende prestaties."
-    priceRange: "EUR 50-400"
-    bestFor: "Precisie malen, veel instelmogelijkheden"
-    rating: 4.2
-    affiliateLink: "https://partner.bol.com/.../placeholder"
+- name: Sage Barista Express
+  verdict: Topproduct in zijn categorie met uitstekende prestaties.
+  priceRange: EUR 50-400
+  bestFor: Allround thuisbarista, espresso & melkdranken
+  rating: 1.8
+  affiliateLink: https://partner.bol.com/.../placeholder
+- name: De'Longhi Dedica Arte
+  verdict: Topproduct in zijn categorie met uitstekende prestaties.
+  priceRange: EUR 50-400
+  bestFor: Compacte keuken, instapmodel espresso
+  rating: 1.1
+  affiliateLink: https://partner.bol.com/.../placeholder
+- name: Moccamaster KBG Select
+  verdict: Topproduct in zijn categorie met uitstekende prestaties.
+  priceRange: EUR 50-400
+  bestFor: Filterkoffie purist (met losse maler)
+  rating: 1.25
+  affiliateLink: https://partner.bol.com/.../placeholder
+- name: Sage Precision Brewer
+  verdict: Topproduct in zijn categorie met uitstekende prestaties.
+  priceRange: EUR 50-400
+  bestFor: Filterkoffie controle, diverse zetmethodes
+  rating: 1.8
+  affiliateLink: https://partner.bol.com/.../placeholder
+- name: Solis Scala (Bonenmaler)
+  verdict: Topproduct in zijn categorie met uitstekende prestaties.
+  priceRange: EUR 50-400
+  bestFor: Compacte, degelijke maler voor elke machine
+  rating: 4.0
+  affiliateLink: https://partner.bol.com/.../placeholder
+- name: Sage Smart Grinder Pro
+  verdict: Topproduct in zijn categorie met uitstekende prestaties.
+  priceRange: EUR 50-400
+  bestFor: Precisie malen, veel instelmogelijkheden
+  rating: 4.2
+  affiliateLink: https://partner.bol.com/.../placeholder
 related:
-  - "beste-stofzuiger-2026"
-  - "beste-dweilrobot-2026"
-  - "beste-strijkijzer-2026"
+- beste-stofzuiger-2026
+- beste-dweilrobot-2026
+- beste-strijkijzer-2026
 ---
 
 # De Beste Koffiemachines met Bonenmaler: Jouw Gids voor Perfecte Koffie in 2026
 
 De geur van versgemalen koffiebonen, die langzaam de keuken vult in de vroege ochtend. Het geluid van de maler die zijn werk doet, gevolgd door het zachte pruttelen van de machine. Voor veel koffieliefhebbers is dit de ultieme start van de dag. En gelijk hebben ze. Want niets verslaat de smaak van koffie die je zelf maalt, vlak voordat deze wordt gezet. De oliën en aroma's zijn dan op hun piek, wat resulteert in een kop koffie die simpelweg niet te evenaren is met voorgemalen bonen.
 
-Maar de wereld van koffiemachines met ingebouwde bonenmaler kan overweldigend zijn. Van volautomatische espressomachines die met een druk op de knop een cappuccino toveren tot geavanceerde filterapparaten die elke nuance van je boon naar boven halen – waar begin je? Deze gids is speciaal samengesteld voor de purist, de enthousiasteling, de fijnproever die de controle wil hebben over elke stap van het zetproces. We duiken dieper in de mogelijkheden, bespreken de voor- en nadelen, en helpen je de machine te vinden die perfect aansluit bij jouw koffiewensen en budget. Of je nu droomt van een perfecte espresso, een volle filterkoffie, of alles daartussenin, hier vind je de informatie die je nodig hebt.
+Maar de wereld van koffiemachines met ingebouwde bonenmaler kan overweldigend zijn. Van volautomatische espressomachines die met een druk op de knop een cappuccino toveren tot geavanceerde filterapparaten die elke nuance van je boon naar boven halen – waar begin je? Deze gids is speciaal samengesteld voor de purist, de enthousiasteling, de fijnproever die de controle wil hebben over elke stap van het zetproces. We duiken dieper in de mogelijkheden, bespreken de voor- en nadelen, en helpen je de machine te vinden die perfect aansluit bij jouw koffiewensen en budget. Of je nu droomt van een perfecte espresso, een volle filterkoffie, of alles daartussenin, hier vind je de informatie die je nodig hebt. onze [filterkoffiemachine gids](/reviews/beste-filterkoffiemachine-2026/).
 
 ## Snel Advies: Welke Koffiemachine met Bonenmaler past bij jou?
 
-*   **Voor de Snelheid en Gemak:** **Sage Barista Express**. Ideaal als je een volautomatische machine zoekt die toch de controle biedt over het malen en zetten van espresso, cappuccino en latte macchiato. Perfect voor drukke ochtenden zonder concessies te doen aan smaak. Te vinden bij de grotere elektronicawinkels zoals Coolblue en MediaMarkt.
+*   **Voor de Snelheid en Gemak:** **Sage Barista Express**. onze [koffiemachine gids](/reviews/beste-koffiemachine-2026/). Ideaal als je een volautomatische machine zoekt die toch de controle biedt over het malen en zetten van espresso, cappuccino en latte macchiato. Perfect voor drukke ochtenden zonder concessies te doen aan smaak. Te vinden bij de grotere elektronicawinkels zoals Coolblue en MediaMarkt.
 *   **Voor de Filterkoffie Purist:** **Moccamaster KBG Select**. Hoewel geen ingebouwde maler, is dit apparaat de gouden standaard voor filterkoffie. Combineer deze met een losse, goede bonenmaler (zoals de Solis Scala) voor de ultieme filterervaring. De Moccamaster staat bekend om zijn consistente temperatuur en snelle zetproces.
 *   **Voor de Compacte Koffiehoek:** **De'Longhi Dedica Arte (met losse maler)**. De Dedica zelf is een compacte espressomachine. Combineer deze met een kleine, maar krachtige bonenmaler zoals de Sage Smart Grinder Pro voor een stijlvolle en ruimtebesparende opstelling die toch uitstekende espresso levert.
 

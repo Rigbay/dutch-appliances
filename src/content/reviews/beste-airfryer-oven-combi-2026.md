@@ -1,68 +1,70 @@
 ---
-title: "De Ultieme Koopgids Airfryer-Oven Combinaties 2026: Slim Bakken, Braden en Airfryen"
-slug: "beste-airfryer-oven-combi-2026"
-description: "Zoek je een alles-in-één keukenapparaat? Ontdek de beste airfryer-oven combinaties voor 2026. Multifunctioneel gemak voor elk huishouden."
-category: "keuken"
+title: 'De Ultieme Koopgids Airfryer-Oven Combinaties 2026: Slim Bakken, Braden en
+  Airfryen'
+slug: beste-airfryer-oven-combi-2026
+description: Zoek je een alles-in-één keukenapparaat? Ontdek de beste airfryer-oven
+  combinaties voor 2026. Multifunctioneel gemak voor elk huishouden.
+category: keuken
 rating: 4.5
-priceRange: "EUR 150-450"
+priceRange: EUR 150-450
 pros:
-  - "Veelzijdig inzetbaar"
-  - "Tijdbesparend"
-  - "Eenvoudig te bedienen"
+- Veelzijdig inzetbaar
+- Tijdbesparend
+- Eenvoudig te bedienen
 cons:
-  - "Kan groot zijn"
-  - "Prijs"
-  - "Geluidsniveau"
+- Kan groot zijn
+- Prijs
+- Geluidsniveau
 affiliateLinks:
-  - "https://partner.bol.com/.../placeholder"
+- https://partner.bol.com/.../placeholder
 modelYear: 2026
-featuredProduct: "Philips Airfryer Combi XXL"
-readingTime: "8 min"
+featuredProduct: Philips Airfryer Combi XXL
+readingTime: 8 min
 date: 2026-05-13
 products:
-  - name: "**Ninja Foodi Max Pro**"
-    verdict: "Topproduct in zijn categorie met uitstekende prestaties."
-    priceRange: "EUR 50-400"
-    bestFor: "Alleskunner, maximale veelzijdigheid"
-    rating: 4.8
-    affiliateLink: "https://partner.bol.com/.../placeholder"
-  - name: "**Philips Airfryer Combi XXL**"
-    verdict: "Topproduct in zijn categorie met uitstekende prestaties."
-    priceRange: "EUR 50-400"
-    bestFor: "Gezinnen, bewezen kwaliteit, gezonde opties"
-    rating: 4.7
-    affiliateLink: "https://partner.bol.com/.../placeholder"
-  - name: "**Instant Pot Omni Plus**"
-    verdict: "Topproduct in zijn categorie met uitstekende prestaties."
-    priceRange: "EUR 50-400"
-    bestFor: "Kleine keuken, slimme functies, veelzijdig"
-    rating: 4.4
-    affiliateLink: "https://partner.bol.com/.../placeholder"
-  - name: "**Tefal EasyFry & Grill**"
-    verdict: "Topproduct in zijn categorie met uitstekende prestaties."
-    priceRange: "EUR 50-400"
-    bestFor: "Beste koop, goede prijs-kwaliteit"
-    rating: 4.2
-    affiliateLink: "https://partner.bol.com/.../placeholder"
-  - name: "**Cosori Smart Oven Air Fryer**"
-    verdict: "Topproduct in zijn categorie met uitstekende prestaties."
-    priceRange: "EUR 50-400"
-    bestFor: "Budgetbewust, slimme functies, ruime inhoud"
-    rating: 4.5
-    affiliateLink: "https://partner.bol.com/.../placeholder"
-  - name: "**Emerio Airfryer Oven**"
-    verdict: "Topproduct in zijn categorie met uitstekende prestaties."
-    priceRange: "EUR 50-400"
-    bestFor: "Zeer budgetvriendelijk, basis functionaliteit"
-    rating: 3.8
-    affiliateLink: "https://partner.bol.com/.../placeholder"
+- name: '**Ninja Foodi Max Pro**'
+  verdict: Topproduct in zijn categorie met uitstekende prestaties.
+  priceRange: EUR 50-400
+  bestFor: Alleskunner, maximale veelzijdigheid
+  rating: 4.8
+  affiliateLink: https://partner.bol.com/.../placeholder
+- name: '**Philips Airfryer Combi XXL**'
+  verdict: Topproduct in zijn categorie met uitstekende prestaties.
+  priceRange: EUR 50-400
+  bestFor: Gezinnen, bewezen kwaliteit, gezonde opties
+  rating: 4.7
+  affiliateLink: https://partner.bol.com/.../placeholder
+- name: '**Instant Pot Omni Plus**'
+  verdict: Topproduct in zijn categorie met uitstekende prestaties.
+  priceRange: EUR 50-400
+  bestFor: Kleine keuken, slimme functies, veelzijdig
+  rating: 4.4
+  affiliateLink: https://partner.bol.com/.../placeholder
+- name: '**Tefal EasyFry & Grill**'
+  verdict: Topproduct in zijn categorie met uitstekende prestaties.
+  priceRange: EUR 50-400
+  bestFor: Beste koop, goede prijs-kwaliteit
+  rating: 4.2
+  affiliateLink: https://partner.bol.com/.../placeholder
+- name: '**Cosori Smart Oven Air Fryer**'
+  verdict: Topproduct in zijn categorie met uitstekende prestaties.
+  priceRange: EUR 50-400
+  bestFor: Budgetbewust, slimme functies, ruime inhoud
+  rating: 4.5
+  affiliateLink: https://partner.bol.com/.../placeholder
+- name: '**Emerio Airfryer Oven**'
+  verdict: Topproduct in zijn categorie met uitstekende prestaties.
+  priceRange: EUR 50-400
+  bestFor: Zeer budgetvriendelijk, basis functionaliteit
+  rating: 3.8
+  affiliateLink: https://partner.bol.com/.../placeholder
 related:
-  - "beste-stofzuiger-2026"
-  - "beste-dweilrobot-2026"
-  - "beste-strijkijzer-2026"
+- beste-stofzuiger-2026
+- beste-dweilrobot-2026
+- beste-strijkijzer-2026
 ---
 
-# De Ultieme Koopgids Airfryer-Oven Combinaties 2026: Slim Bakken, Braden en Airfryen
+# De Ultieme Koopgids Airfryer-Oven Combinaties 2026: Slim Bakken, Braden en Airfryen onze [airfryer met twee manden gids](/reviews/beste-airfryer-met-twee-manden-2026/). onze [airfryer friteuse gids](/reviews/airfryer-vs-friteuse-2026/). onze [airfryer gids](/reviews/beste-airfryer-2026/).
 
 De keuken evolueert razendsnel, en met de komst van de airfryer-oven combinatie staan we aan de vooravond van een culinaire revolutie in ons eigen huis. Vergeet die overvolle aanrechtbladen met losse apparaten; deze slimme keukenhulpen bundelen de kracht van een airfryer, een oven, een grill en soms zelfs meer in één stijlvol en compact apparaat. Of je nu een snelle, gezonde maaltijd wilt bereiden, een uitgebreid diner wilt bakken, of gewoon die perfect knapperige frietjes wilt toveren, de airfryer-oven combinatie is jouw nieuwe beste vriend in de keuken. In deze gids duiken we diep in de wereld van deze multifunctionele wonderen en helpen we je de perfecte match te vinden voor jouw huishouden en levensstijl.
 

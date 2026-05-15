@@ -1,67 +1,73 @@
 ---
-title: "Beste koffiemachine 2026: van bonen tot kop voor iedere koffiedrinker"
-slug: "beste-koffiemachine-2026"
-description: "Vergelijk de beste koffiemachines van 2026: bonen, pads, filter en volautomaat, met temperatuur, onderhoudsgemak en Bol.com placeholders."
-category: "keuken"
+title: 'Beste koffiemachine 2026: van bonen tot kop voor iedere koffiedrinker'
+slug: beste-koffiemachine-2026
+description: 'Vergelijk de beste koffiemachines van 2026: bonen, pads, filter en volautomaat,
+  met temperatuur, onderhoudsgemak en Bol.com placeholders.'
+category: keuken
 rating: 4.7
-priceRange: "EUR 60-1.200"
+priceRange: EUR 60-1.200
 pros:
-  - "Advies per type: bonen, pads, filter en volautomaat"
-  - "Aandacht voor melkopschuimen, temperatuur en onderhoud"
-  - "Van instap tot barista-niveau binnen één gids"
+- 'Advies per type: bonen, pads, filter en volautomaat'
+- Aandacht voor melkopschuimen, temperatuur en onderhoud
+- Van instap tot barista-niveau binnen één gids
 cons:
-  - "Volautomaten zijn duur in aanschaf en onderhoud"
-  - "Padmachines produceren meer afval dan bonenmachines"
-  - "Filterkoffie is lekkerder maar minder snel dan een pad"
+- Volautomaten zijn duur in aanschaf en onderhoud
+- Padmachines produceren meer afval dan bonenmachines
+- Filterkoffie is lekkerder maar minder snel dan een pad
 affiliateLinks:
-  - "https://partner.bol.com/.../[PHILIPS-5400-LatteGo]"
-  - "https://partner.bol.com/.../[DE-LONGHI-DINAMICA-PLUS]"
-  - "https://partner.bol.com/.../[SAGE-BARISTA-EXPRESS]"
+- https://partner.bol.com/.../[PHILIPS-5400-LatteGo]
+- https://partner.bol.com/.../[DE-LONGHI-DINAMICA-PLUS]
+- https://partner.bol.com/.../[SAGE-BARISTA-EXPRESS]
 date: 2026-05-06
 modelYear: 2026
-featuredProduct: "Philips 5400 Serie LatteGo EP5447"
-readingTime: "11 min"
+featuredProduct: Philips 5400 Serie LatteGo EP5447
+readingTime: 11 min
 products:
-  - name: "Philips 5400 Serie LatteGo EP5447"
-    verdict: "Beste volautomaat voor thuis met LatteGo-melksysteem (geen slang), 12 drankjes en intuïtief touchscreen."
-    priceRange: "EUR 550-700"
-    bestFor: "Volautomaat gemak"
-    rating: 4.7
-    affiliateLink: "https://partner.bol.com/.../[PHILIPS-5400-LatteGo]"
-  - name: "De'Longhi Dinamica Plus ECAM370.95.T"
-    verdict: "Premium volautomaat met app-bediening, keramische molen en uitstekende espresso-crema."
-    priceRange: "EUR 700-950"
-    bestFor: "Premium espresso"
-    rating: 4.8
-    affiliateLink: "https://partner.bol.com/.../[DE-LONGHI-DINAMICA-PLUS]"
-  - name: "Sage the Barista Express SES876"
-    verdict: "Halfautomaat met geïntegreerde molen en handmatige stoompijp voor wie zelf wil leren."
-    priceRange: "EUR 550-700"
-    bestFor: "Halfautomaat leren"
-    rating: 4.6
-    affiliateLink: "https://partner.bol.com/.../[SAGE-BARISTA-EXPRESS]"
-  - name: "Siemens EQ.300 TI351209RW"
-    verdict: "Betaalbare volautomaat met keramische molen en melkopschuimer, compact voor kleine keukens."
-    priceRange: "EUR 300-400"
-    bestFor: "Instap volautomaat"
-    rating: 4.3
-    affiliateLink: "https://partner.bol.com/.../[SIEMENS-EQ300]"
-  - name: "Philips Senseo Maestro CSA260"
-    verdict: "Snelste oplossing voor wie geen gedoe wil: pads, melkreservoir en koffie in 30 seconden."
-    priceRange: "EUR 120-180"
-    bestFor: "Pad gemak"
-    rating: 4.2
-    affiliateLink: "https://partner.bol.com/.../[SENSEO-MAESTRO]"
+- name: Philips 5400 Serie LatteGo EP5447
+  verdict: Beste volautomaat voor thuis met LatteGo-melksysteem (geen slang), 12 drankjes
+    en intuïtief touchscreen.
+  priceRange: EUR 550-700
+  bestFor: Volautomaat gemak
+  rating: 4.7
+  affiliateLink: https://partner.bol.com/.../[PHILIPS-5400-LatteGo]
+- name: De'Longhi Dinamica Plus ECAM370.95.T
+  verdict: Premium volautomaat met app-bediening, keramische molen en uitstekende
+    espresso-crema.
+  priceRange: EUR 700-950
+  bestFor: Premium espresso
+  rating: 4.8
+  affiliateLink: https://partner.bol.com/.../[DE-LONGHI-DINAMICA-PLUS]
+- name: Sage the Barista Express SES876
+  verdict: Halfautomaat met geïntegreerde molen en handmatige stoompijp voor wie zelf
+    wil leren.
+  priceRange: EUR 550-700
+  bestFor: Halfautomaat leren
+  rating: 4.6
+  affiliateLink: https://partner.bol.com/.../[SAGE-BARISTA-EXPRESS]
+- name: Siemens EQ.300 TI351209RW
+  verdict: Betaalbare volautomaat met keramische molen en melkopschuimer, compact
+    voor kleine keukens.
+  priceRange: EUR 300-400
+  bestFor: Instap volautomaat
+  rating: 4.3
+  affiliateLink: https://partner.bol.com/.../[SIEMENS-EQ300]
+- name: Philips Senseo Maestro CSA260
+  verdict: 'Snelste oplossing voor wie geen gedoe wil: pads, melkreservoir en koffie
+    in 30 seconden.'
+  priceRange: EUR 120-180
+  bestFor: Pad gemak
+  rating: 4.2
+  affiliateLink: https://partner.bol.com/.../[SENSEO-MAESTRO]
 related:
-  - "beste-waterkoker-2026"
-  - "beste-broodrooster-2026"
-  - "beste-stoomoven-2026"
+- beste-waterkoker-2026
+- beste-broodrooster-2026
+- beste-stoomoven-2026
 draft: false
 ---
 
-Een goede koffiemachine in 2026 is een persoonlijke keuze. Sommigen willen binnen 30 seconden een kop zonder gedoe. Anderen willen de controle over malingsgraad, druk en melktextuur. En weer anderen willen gewoon elke ochtend hetzelfde perfecte kopje zonder variatie.
+Een goede koffiemachine in 2026 is een persoonlijke keuze. onze [koffiemachine bonen gids](/reviews/beste-koffiemachine-bonen-2026/). onze [koffiemachine onder 200 euro gids](/reviews/beste-koffiemachine-onder-200-euro-2026/). Sommigen willen binnen 30 seconden een kop zonder gedoe. Anderen willen de controle over malingsgraad, druk en melktextuur. En weer anderen willen gewoon elke ochtend hetzelfde perfecte kopje zonder variatie.
 
-De **Philips 5400 Serie LatteGo EP5447** is voor de meeste huishoudens de beste balans. Het LatteGo-melksysteem heeft geen slangen die je moet reinigen — het melkreservoir klikt los en past in de vaatwasser. Het touchscreen bedient intuïtief en twaalf voorgeprogrammeerde drankjes dekken van espresso tot iced coffee. De prijs is voor een volautomaat middelmatig; de onderhoudsvriendelijkheid is bovengemiddeld.
+De **Philips 5400 Serie LatteGo EP5447** is voor de meeste huishoudens de beste balans. Het LatteGo-melksysteem heeft geen slangen die je moet reinigen — het melkreservoir klikt los en past in de vaatwasser. onze [vaatwasser gids](/reviews/beste-vaatwasser-2026/). Het touchscreen bedient intuïtief en twaalf voorgeprogrammeerde drankjes dekken van espresso tot iced coffee. De prijs is voor een volautomaat middelmatig; de onderhoudsvriendelijkheid is bovengemiddeld.
 
 De **De'Longhi Dinamica Plus ECAM370.95.T** is voor wie espresso serieus neemt. De keramische molen maalt stiller en koeler dan staal, wat de smaak beschermt. De app-bediening is handig als je vanuit bed een cappuccino wilt starten. Het nadeel is de prijs en het formaat: dit apparaat vraagt aanrechtplek.
 

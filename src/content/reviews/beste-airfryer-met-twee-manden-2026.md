@@ -1,70 +1,71 @@
 ---
-title: "De Beste Airfryers met Twee Manden: Dubbel Koken, Dubbel Genieten in 2026"
-slug: "beste-airfryer-met-twee-manden-2026"
-description: "Bereid twee gerechten tegelijk met de beste airfryers met dubbele manden. Vergelijk Ninja, Philips, Princess en meer voor jouw ideale keukenmaatje."
-category: "keuken"
+title: 'De Beste Airfryers met Twee Manden: Dubbel Koken, Dubbel Genieten in 2026'
+slug: beste-airfryer-met-twee-manden-2026
+description: Bereid twee gerechten tegelijk met de beste airfryers met dubbele manden.
+  Vergelijk Ninja, Philips, Princess en meer voor jouw ideale keukenmaatje.
+category: keuken
 rating: 4.5
-priceRange: "EUR 100-350"
+priceRange: EUR 100-350
 pros:
-  - "Twee gerechten tegelijk"
-  - "Tijdsbesparing"
-  - "Flexibiliteit"
+- Twee gerechten tegelijk
+- Tijdsbesparing
+- Flexibiliteit
 cons:
-  - "Groter formaat"
-  - "Hoger prijskaartje"
-  - "Kan meer geluid maken"
+- Groter formaat
+- Hoger prijskaartje
+- Kan meer geluid maken
 affiliateLinks:
-  - "https://partner.bol.com/.../placeholder"
+- https://partner.bol.com/.../placeholder
 modelYear: 2026
-featuredProduct: "Ninja Foodi Dual Zone AF300EU"
-readingTime: "8 min"
+featuredProduct: Ninja Foodi Dual Zone AF300EU
+readingTime: 8 min
 date: 2026-05-13
 products:
-  - name: "**Ninja Foodi Dual Zone AF300EU**"
-    verdict: "Topproduct in zijn categorie met uitstekende prestaties."
-    priceRange: "EUR 50-400"
-    bestFor: "Tijdsbesparing, Sync Finish"
-    rating: 4.8
-    affiliateLink: "https://partner.bol.com/.../placeholder"
-  - name: "**Philips Premium XXL Dual Basket**"
-    verdict: "Topproduct in zijn categorie met uitstekende prestaties."
-    priceRange: "EUR 50-400"
-    bestFor: "Kwaliteit, Gezond koken (vetverwijdering)"
-    rating: 4.7
-    affiliateLink: "https://partner.bol.com/.../placeholder"
-  - name: "**Princess Dual Airfryer XL**"
-    verdict: "Topproduct in zijn categorie met uitstekende prestaties."
-    priceRange: "EUR 50-400"
-    bestFor: "Budgetvriendelijk, Goede basisfunctionaliteit"
-    rating: 4.2
-    affiliateLink: "https://partner.bol.com/.../placeholder"
-  - name: "**Instant Pot Duo Crisp 2-in-1**"
-    verdict: "Topproduct in zijn categorie met uitstekende prestaties."
-    priceRange: "EUR 50-400"
-    bestFor: "Veelzijdigheid (meerdere functies)"
-    rating: 4.4
-    affiliateLink: "https://partner.bol.com/.../placeholder"
-  - name: "**Cosori Dual Blaze Airfryer**"
-    verdict: "Topproduct in zijn categorie met uitstekende prestaties."
-    priceRange: "EUR 50-400"
-    bestFor: "Ruimtebesparing (relatief), Gelijkmatige garing"
-    rating: 4.5
-    affiliateLink: "https://partner.bol.com/.../placeholder"
-  - name: "**Tefal ActiFry Genius XL 2-in-1**"
-    verdict: "Topproduct in zijn categorie met uitstekende prestaties."
-    priceRange: "EUR 50-400"
-    bestFor: "Makkelijk roeren, Specifieke gerechten"
-    rating: 1.712
-    affiliateLink: "https://partner.bol.com/.../placeholder"
+- name: '**Ninja Foodi Dual Zone AF300EU**'
+  verdict: Topproduct in zijn categorie met uitstekende prestaties.
+  priceRange: EUR 50-400
+  bestFor: Tijdsbesparing, Sync Finish
+  rating: 4.8
+  affiliateLink: https://partner.bol.com/.../placeholder
+- name: '**Philips Premium XXL Dual Basket**'
+  verdict: Topproduct in zijn categorie met uitstekende prestaties.
+  priceRange: EUR 50-400
+  bestFor: Kwaliteit, Gezond koken (vetverwijdering)
+  rating: 4.7
+  affiliateLink: https://partner.bol.com/.../placeholder
+- name: '**Princess Dual Airfryer XL**'
+  verdict: Topproduct in zijn categorie met uitstekende prestaties.
+  priceRange: EUR 50-400
+  bestFor: Budgetvriendelijk, Goede basisfunctionaliteit
+  rating: 4.2
+  affiliateLink: https://partner.bol.com/.../placeholder
+- name: '**Instant Pot Duo Crisp 2-in-1**'
+  verdict: Topproduct in zijn categorie met uitstekende prestaties.
+  priceRange: EUR 50-400
+  bestFor: Veelzijdigheid (meerdere functies)
+  rating: 4.4
+  affiliateLink: https://partner.bol.com/.../placeholder
+- name: '**Cosori Dual Blaze Airfryer**'
+  verdict: Topproduct in zijn categorie met uitstekende prestaties.
+  priceRange: EUR 50-400
+  bestFor: Ruimtebesparing (relatief), Gelijkmatige garing
+  rating: 4.5
+  affiliateLink: https://partner.bol.com/.../placeholder
+- name: '**Tefal ActiFry Genius XL 2-in-1**'
+  verdict: Topproduct in zijn categorie met uitstekende prestaties.
+  priceRange: EUR 50-400
+  bestFor: Makkelijk roeren, Specifieke gerechten
+  rating: 1.712
+  affiliateLink: https://partner.bol.com/.../placeholder
 related:
-  - "beste-stofzuiger-2026"
-  - "beste-dweilrobot-2026"
-  - "beste-strijkijzer-2026"
+- beste-stofzuiger-2026
+- beste-dweilrobot-2026
+- beste-strijkijzer-2026
 ---
 
 ## De Beste Airfryers met Twee Manden: Dubbel Koken, Dubbel Genieten in 2026
 
-De keuken is het hart van het huis, en steeds meer huishoudens ontdekken het gemak van de airfryer. Maar wat als je niet alleen frietjes wilt bakken, maar ook een stukje kip of groenten wilt bereiden? En dat liefst tegelijkertijd, zonder twee apparaten tegelijk te hoeven gebruiken? Dan is een airfryer met twee manden dé oplossing. Deze slimme keukenapparaten bieden de flexibiliteit om verschillende gerechten op verschillende temperaturen en tijden te bereiden, wat een enorme tijdsbesparing kan opleveren, zeker op drukke avonden. Geen gedoe meer met om de beurt bakken of gerechten die koud worden terwijl je op het volgende wacht. In deze koopgids duiken we diep in de wereld van de dual basket airfryers en helpen we je de perfecte keuze te maken voor jouw keuken en gezin.
+De keuken is het hart van het huis, en steeds meer huishoudens ontdekken het gemak van de airfryer. onze [airfryer friteuse gids](/reviews/airfryer-vs-friteuse-2026/). onze [airfryer gids](/reviews/beste-airfryer-2026/). onze [airfryer onder 100 euro gids](/reviews/beste-airfryer-onder-100-euro-2026/). Maar wat als je niet alleen frietjes wilt bakken, maar ook een stukje kip of groenten wilt bereiden? En dat liefst tegelijkertijd, zonder twee apparaten tegelijk te hoeven gebruiken? Dan is een airfryer met twee manden dé oplossing. Deze slimme keukenapparaten bieden de flexibiliteit om verschillende gerechten op verschillende temperaturen en tijden te bereiden, wat een enorme tijdsbesparing kan opleveren, zeker op drukke avonden. Geen gedoe meer met om de beurt bakken of gerechten die koud worden terwijl je op het volgende wacht. In deze koopgids duiken we diep in de wereld van de dual basket airfryers en helpen we je de perfecte keuze te maken voor jouw keuken en gezin.
 
 Of je nu een gezin hebt met verschillende eetwensen of simpelweg efficiënter wilt koken, een airfryer met dubbele mand biedt uitkomst. Stel je voor: aan de ene kant goudbruine frietjes, aan de andere kant sappige kipfilet, allebei klaar op hetzelfde moment. Dit opent een wereld aan culinaire mogelijkheden en maakt het bereiden van een complete maaltijd een stuk eenvoudiger en sneller. We kijken naar de meest populaire modellen op de markt, vergelijken hun prestaties, handige functies en natuurlijk de prijs. Zo weet je precies waar je op moet letten en welk apparaat het beste bij jouw situatie past.
 

@@ -1,72 +1,73 @@
 ---
-title: "Koffiemachines Onder €200: Jouw Dagelijkse Dosis Genot in 2026"
-slug: "beste-koffiemachine-onder-200-euro-2026"
-description: "Op zoek naar een goede koffiemachine onder de 200 euro? Ontdek de beste opties voor 2026, van filterapparaten tot volautomaten. Lees onze koopgids!"
-category: "keuken"
+title: 'Koffiemachines Onder €200: Jouw Dagelijkse Dosis Genot in 2026'
+slug: beste-koffiemachine-onder-200-euro-2026
+description: Op zoek naar een goede koffiemachine onder de 200 euro? Ontdek de beste
+  opties voor 2026, van filterapparaten tot volautomaten. Lees onze koopgids!
+category: keuken
 rating: 4.2
-priceRange: "EUR 50-200"
+priceRange: EUR 50-200
 pros:
-  - "Betaalbaar"
-  - "Lekker dagelijks kopje koffie"
-  - "Verschillende soorten machines"
+- Betaalbaar
+- Lekker dagelijks kopje koffie
+- Verschillende soorten machines
 cons:
-  - "Beperkte opties onder \u20ac200"
-  - "Soms minder duurzaam"
-  - "Minder luxe functies"
+- Beperkte opties onder €200
+- Soms minder duurzaam
+- Minder luxe functies
 affiliateLinks:
-  - "https://partner.bol.com/.../placeholder"
+- https://partner.bol.com/.../placeholder
 modelYear: 2026
-featuredProduct: "De'Longhi Stilosa"
-readingTime: "7 min"
+featuredProduct: De'Longhi Stilosa
+readingTime: 7 min
 date: 2026-05-13
 products:
-  - name: "**De'Longhi Stilosa**"
-    verdict: "Topproduct in zijn categorie met uitstekende prestaties."
-    priceRange: "EUR 50-400"
-    bestFor: "Compacte volautomaat, snelle koffie"
-    rating: 4.5
-    affiliateLink: "https://partner.bol.com/.../placeholder"
-  - name: "**Philips 5400 Lite**"
-    verdict: "Topproduct in zijn categorie met uitstekende prestaties."
-    priceRange: "EUR 50-400"
-    bestFor: "Veelzijdige koffiedrinker"
-    rating: 4.2
-    affiliateLink: "https://partner.bol.com/.../placeholder"
-  - name: "**Krups Virtuoso**"
-    verdict: "Topproduct in zijn categorie met uitstekende prestaties."
-    priceRange: "EUR 50-400"
-    bestFor: "Kleine keuken, stijlvol design"
-    rating: 1.21015
-    affiliateLink: "https://partner.bol.com/.../placeholder"
-  - name: "**Bosch Tassimo My Way**"
-    verdict: "Topproduct in zijn categorie met uitstekende prestaties."
-    priceRange: "EUR 50-400"
-    bestFor: "Gemak, variatie aan cups"
-    rating: 3.8
-    affiliateLink: "https://partner.bol.com/.../placeholder"
-  - name: "**Melitta Look IV**"
-    verdict: "Topproduct in zijn categorie met uitstekende prestaties."
-    priceRange: "EUR 50-400"
-    bestFor: "Eenvoud, grote kan koffie"
-    rating: 1.21015
-    affiliateLink: "https://partner.bol.com/.../placeholder"
-  - name: "**Severin KA 9254**"
-    verdict: "Topproduct in zijn categorie met uitstekende prestaties."
-    priceRange: "EUR 50-400"
-    bestFor: "Zeer budgetvriendelijk filter"
-    rating: 1.21015
-    affiliateLink: "https://partner.bol.com/.../placeholder"
+- name: '**De''Longhi Stilosa**'
+  verdict: Topproduct in zijn categorie met uitstekende prestaties.
+  priceRange: EUR 50-400
+  bestFor: Compacte volautomaat, snelle koffie
+  rating: 4.5
+  affiliateLink: https://partner.bol.com/.../placeholder
+- name: '**Philips 5400 Lite**'
+  verdict: Topproduct in zijn categorie met uitstekende prestaties.
+  priceRange: EUR 50-400
+  bestFor: Veelzijdige koffiedrinker
+  rating: 4.2
+  affiliateLink: https://partner.bol.com/.../placeholder
+- name: '**Krups Virtuoso**'
+  verdict: Topproduct in zijn categorie met uitstekende prestaties.
+  priceRange: EUR 50-400
+  bestFor: Kleine keuken, stijlvol design
+  rating: 1.21015
+  affiliateLink: https://partner.bol.com/.../placeholder
+- name: '**Bosch Tassimo My Way**'
+  verdict: Topproduct in zijn categorie met uitstekende prestaties.
+  priceRange: EUR 50-400
+  bestFor: Gemak, variatie aan cups
+  rating: 3.8
+  affiliateLink: https://partner.bol.com/.../placeholder
+- name: '**Melitta Look IV**'
+  verdict: Topproduct in zijn categorie met uitstekende prestaties.
+  priceRange: EUR 50-400
+  bestFor: Eenvoud, grote kan koffie
+  rating: 1.21015
+  affiliateLink: https://partner.bol.com/.../placeholder
+- name: '**Severin KA 9254**'
+  verdict: Topproduct in zijn categorie met uitstekende prestaties.
+  priceRange: EUR 50-400
+  bestFor: Zeer budgetvriendelijk filter
+  rating: 1.21015
+  affiliateLink: https://partner.bol.com/.../placeholder
 related:
-  - "beste-stofzuiger-2026"
-  - "beste-dweilrobot-2026"
-  - "beste-strijkijzer-2026"
+- beste-stofzuiger-2026
+- beste-dweilrobot-2026
+- beste-strijkijzer-2026
 ---
 
 # Koffiemachines Onder €200: Jouw Dagelijkse Dosis Genot in 2026
 
 Een goed begin van de dag begint voor velen met een dampende kop koffie. Maar de keuze aan koffiemachines kan overweldigend zijn, en de prijzen lopen al snel op. Gelukkig betekent een beperkt budget niet dat je concessies moet doen aan smaak en kwaliteit. Ook onder de €200 zijn er uitstekende machines te vinden die zorgen voor een heerlijk dagelijks kopje koffie. In deze koopgids duiken we in de wereld van betaalbare koffiemachines en helpen we je de perfecte keuze te maken voor jouw keuken en jouw smaak.
 
-Of je nu houdt van een krachtige espresso, een romige cappuccino, of gewoon een simpel, maar smaakvol kopje filterkoffie, er is voor ieder wat wils. We kijken naar verschillende soorten machines, van traditionele filterapparaten tot compacte volautomaten en handige cupsystemen. We bespreken de voor- en nadelen van elk type, zodat je precies weet wat je kunt verwachten. En natuurlijk geven we concrete productaanbevelingen, gebaseerd op onze research en de ervaringen van andere consumenten. Want lekker koffiedrinken hoeft niet de hoofdprijs te kosten.
+Of je nu houdt van een krachtige espresso, een romige cappuccino, of gewoon een simpel, maar smaakvol kopje filterkoffie, er is voor ieder wat wils. onze [filterkoffiemachine gids](/reviews/beste-filterkoffiemachine-2026/). We kijken naar verschillende soorten machines, van traditionele filterapparaten tot compacte volautomaten en handige cupsystemen. onze [compacte airfryer gids](/reviews/beste-compacte-airfryer-2026/). We bespreken de voor- en nadelen van elk type, zodat je precies weet wat je kunt verwachten. En natuurlijk geven we concrete productaanbevelingen, gebaseerd op onze research en de ervaringen van andere consumenten. Want lekker koffiedrinken hoeft niet de hoofdprijs te kosten.
 
 ## Snel Advies: De Juiste Machine voor Jou
 
@@ -94,7 +95,7 @@ De Krups Virtuoso is een compacte en stijlvolle filterkoffiemachine die zich per
 
 ## Waar op Letten bij de Aankoop?
 
-Bij het kiezen van een koffiemachine onder de €200 is het belangrijk om realistisch te zijn over wat je kunt verwachten. De focus ligt hier op functionaliteit, gebruiksgemak en een degelijke koffiekwaliteit, niet op de meest geavanceerde technologische snufjes of premium materialen.
+Bij het kiezen van een koffiemachine onder de €200 is het belangrijk om realistisch te zijn over wat je kunt verwachten. onze [koffiemachine gids](/reviews/beste-koffiemachine-2026/). De focus ligt hier op functionaliteit, gebruiksgemak en een degelijke koffiekwaliteit, niet op de meest geavanceerde technologische snufjes of premium materialen.
 
 **Schoonmaak: Het Grote Verschil**
 
