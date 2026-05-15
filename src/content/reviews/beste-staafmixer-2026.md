@@ -26,31 +26,31 @@ products:
     priceRange: "EUR 150-200"
     bestFor: "Allround gebruik met focus op power en accessoires"
     rating: 4.8
-    affiliateLink: "https://partner.bol.com/nl/nl/p/braun-multiquick-9-mq9138xi-staafmixer/9200000168673538/"
+    affiliateLink: "https://partner.bol.com/click/click?p=2&t=url&s=1520310&f=TXL&url=https%3A%2F%2Fpartner.bol.com%2Fnl%2Fnl%2Fp%2Fbraun-multiquick-9-mq9138xi-staafmixer%2F9200000168673538%2F"
   - name: "Philips ProMix HR2652/90"
     verdict: "Een uitstekende balans tussen prijs, prestaties en gebruiksgemak, ideaal voor dagelijks gebruik."
     priceRange: "EUR 80-120"
     bestFor: "Dagelijks gebruik en soep/smoothies"
     rating: 4.5
-    affiliateLink: "https://partner.bol.com/nl/nl/p/philips-promix-hr2652-90-staafmixer-met-turbo-knop/9200000090789883/"
+    affiliateLink: "https://partner.bol.com/click/click?p=2&t=url&s=1520310&f=TXL&url=https%3A%2F%2Fpartner.bol.com%2Fnl%2Fnl%2Fp%2Fphilips-promix-hr2652-90-staafmixer-met-turbo-knop%2F9200000090789883%2F"
   - name: "Bosch ErgoMixx MSM67170"
     verdict: "Solide performer met een comfortabele grip en goede prijs-kwaliteitverhouding."
     priceRange: "EUR 60-90"
     bestFor: "Basisgebruik en soep"
     rating: 4.2
-    affiliateLink: "https://partner.bol.com/nl/nl/p/bosch-ergomixx-msm67170-staafmixer/9200000070267458/"
+    affiliateLink: "https://partner.bol.com/click/click?p=2&t=url&s=1520310&f=TXL&url=https%3A%2F%2Fpartner.bol.com%2Fnl%2Fnl%2Fp%2Fbosch-ergomixx-msm67170-staafmixer%2F9200000070267458%2F"
   - name: "Tefal OptiBlend HB872D"
     verdict: "Krachtig en efficiënt, met een scherp mes dat zelfs de meest veeleisende ingrediënten aanpakt."
     priceRange: "EUR 70-110"
     bestFor: "Krachtige mixen en gladde resultaten"
     rating: 4.4
-    affiliateLink: "https://partner.bol.com/nl/nl/p/tefal-optiblend-hb872d-staafmixer/9200000035685791/"
+    affiliateLink: "https://partner.bol.com/click/click?p=2&t=url&s=1520310&f=TXL&url=https%3A%2F%2Fpartner.bol.com%2Fnl%2Fnl%2Fp%2Ftefal-optiblend-hb872d-staafmixer%2F9200000035685791%2F"
   - name: "KitchenAid 5KHBS1206"
     verdict: "Stijlvol design gecombineerd met goede prestaties, een aanwinst voor elke keuken."
     priceRange: "EUR 100-150"
     bestFor: "Designbewuste thuiskoks en fruitige smoothies"
     rating: 4.3
-    affiliateLink: "https://partner.bol.com/nl/nl/p/kitchenaid-5khbs1206-staafmixer-zwart/9200000125134537/"
+    affiliateLink: "https://partner.bol.com/click/click?p=2&t=url&s=1520310&f=TXL&url=https%3A%2F%2Fpartner.bol.com%2Fnl%2Fnl%2Fp%2Fkitchenaid-5khbs1206-staafmixer-zwart%2F9200000125134537%2F"
 related:
   - "beste-handmixer-2026"
   - "beste-friteuse-2026"

@@ -36,9 +36,14 @@ const { products } = Astro.props;
           <td class="px-4 py-3 font-bold text-leaf">{product.rating.toFixed(1)}/5</td>
           <td class="px-4 py-3 text-muted">{product.verdict}</td>
           <td class="px-4 py-3">
-            <a class="inline-flex rounded bg-leaf px-3 py-2 text-xs font-bold text-white hover:bg-[#1f514b]" href={product.affiliateLink} rel="nofollow sponsored">
-              Bekijk
-            </a>
+            <div class="flex flex-col gap-1">
+              <a class="inline-flex rounded bg-leaf px-3 py-2 text-xs font-bold text-white hover:bg-[#1f514b]" href={product.affiliateLink} rel="nofollow sponsored">
+                Bekijk
+              </a>
+              <a class="inline-flex rounded bg-[#232f3e] px-3 py-2 text-xs font-bold text-white hover:bg-[#131921]" href={`https://www.amazon.nl/s?k=${encodeURIComponent(product.name.replace(/\*\*/g, '').trim())}&tag=kieskeukennl-21`} rel="nofollow sponsored" target="_blank">
+                Amazon
+              </a>
+            </div>
           </td>
         </tr>
       ))}

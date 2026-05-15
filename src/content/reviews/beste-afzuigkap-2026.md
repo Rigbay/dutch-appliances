@@ -14,12 +14,12 @@ cons:
   - "Onderhoud (filters) is noodzakelijk"
   - "Installatie kan complex zijn"
 affiliateLinks:
-  - "https://partner.bol.com/nl/nl/p/bosch-dwb06w550-wandmodel-afzuigkap/9300000159987654/"
-  - "https://partner.bol.com/nl/nl/p/siemens-lf98bc530-eilandafzuigkap/9300000159987655/"
-  - "https://partner.bol.com/nl/nl/p/aeg-dbe5660hm-wandmodel-afzuigkap/9300000159987656/"
-  - "https://partner.bol.com/nl/nl/p/etnadesignline-etnadesignline-afzuigkap-rvs/9300000159987657/"
-  - "https://partner.bol.com/nl/nl/p/inventum-ahv700br-afzuigkap/9300000159987658/"
-  - "https://partner.bol.com/nl/nl/p/faber-faber-galileo-smart-afzuigkap-wit/9300000159987659/"
+  - "https://partner.bol.com/click/click?p=2&t=url&s=1520310&f=TXL&url=https%3A%2F%2Fpartner.bol.com%2Fnl%2Fnl%2Fp%2Fbosch-dwb06w550-wandmodel-afzuigkap%2F9300000159987654%2F"
+  - "https://partner.bol.com/click/click?p=2&t=url&s=1520310&f=TXL&url=https%3A%2F%2Fpartner.bol.com%2Fnl%2Fnl%2Fp%2Fsiemens-lf98bc530-eilandafzuigkap%2F9300000159987655%2F"
+  - "https://partner.bol.com/click/click?p=2&t=url&s=1520310&f=TXL&url=https%3A%2F%2Fpartner.bol.com%2Fnl%2Fnl%2Fp%2Faeg-dbe5660hm-wandmodel-afzuigkap%2F9300000159987656%2F"
+  - "https://partner.bol.com/click/click?p=2&t=url&s=1520310&f=TXL&url=https%3A%2F%2Fpartner.bol.com%2Fnl%2Fnl%2Fp%2Fetnadesignline-etnadesignline-afzuigkap-rvs%2F9300000159987657%2F"
+  - "https://partner.bol.com/click/click?p=2&t=url&s=1520310&f=TXL&url=https%3A%2F%2Fpartner.bol.com%2Fnl%2Fnl%2Fp%2Finventum-ahv700br-afzuigkap%2F9300000159987658%2F"
+  - "https://partner.bol.com/click/click?p=2&t=url&s=1520310&f=TXL&url=https%3A%2F%2Fpartner.bol.com%2Fnl%2Fnl%2Fp%2Ffaber-faber-galileo-smart-afzuigkap-wit%2F9300000159987659%2F"
 date: 2026-05-14
 modelYear: 2026
 featuredProduct: "Bosch DWB06W550"
@@ -30,37 +30,37 @@ products:
     priceRange: "EUR 350-550"
     bestFor: "Gemiddelde huishoudens die een betrouwbare wandafzuigkap zoeken."
     rating: 4.5
-    affiliateLink: "https://partner.bol.com/nl/nl/p/bosch-dwb06w550-wandmodel-afzuigkap/9300000159987654/"
+    affiliateLink: "https://partner.bol.com/click/click?p=2&t=url&s=1520310&f=TXL&url=https%3A%2F%2Fpartner.bol.com%2Fnl%2Fnl%2Fp%2Fbosch-dwb06w550-wandmodel-afzuigkap%2F9300000159987654%2F"
   - name: "Siemens LF98BC530 Eilandafzuigkap"
     verdict: "De topkeuze voor open keukens met een kookeiland, dankzij indrukwekkende afzuigkracht en strak design."
     priceRange: "EUR 1200-2500"
     bestFor: "Luxe open keukens met een kookeiland."
     rating: 4.8
-    affiliateLink: "https://partner.bol.com/nl/nl/p/siemens-lf98bc530-eilandafzuigkap/9300000159987655/"
+    affiliateLink: "https://partner.bol.com/click/click?p=2&t=url&s=1520310&f=TXL&url=https%3A%2F%2Fpartner.bol.com%2Fnl%2Fnl%2Fp%2Fsiemens-lf98bc530-eilandafzuigkap%2F9300000159987655%2F"
   - name: "AEG DBE5660HM Wandmodel Afzuigkap"
     verdict: "Uitstekende prijs-kwaliteitverhouding met krachtige afzuiging en een modern uiterlijk."
     priceRange: "EUR 250-400"
     bestFor: "Huishoudens die op zoek zijn naar een krachtige en stijlvolle wandafzuigkap zonder de hoofdprijs te betalen."
     rating: 4.3
-    affiliateLink: "https://partner.bol.com/nl/nl/p/aeg-dbe5660hm-wandmodel-afzuigkap/9300000159987656/"
+    affiliateLink: "https://partner.bol.com/click/click?p=2&t=url&s=1520310&f=TXL&url=https%3A%2F%2Fpartner.bol.com%2Fnl%2Fnl%2Fp%2Faeg-dbe5660hm-wandmodel-afzuigkap%2F9300000159987656%2F"
   - name: "Etna Design Line Afzuigkap RVS"
     verdict: "Een budgetvriendelijke optie die toch een degelijke prestatie levert en het keukeninterieur opfrist."
     priceRange: "EUR 150-250"
     bestFor: "Budgetbewuste kopers die een functionele afzuigkap nodig hebben."
     rating: 3.8
-    affiliateLink: "https://partner.bol.com/nl/nl/p/etnadesignline-etnadesignline-afzuigkap-rvs/9300000159987657/"
+    affiliateLink: "https://partner.bol.com/click/click?p=2&t=url&s=1520310&f=TXL&url=https%3A%2F%2Fpartner.bol.com%2Fnl%2Fnl%2Fp%2Fetnadesignline-etnadesignline-afzuigkap-rvs%2F9300000159987657%2F"
   - name: "Inventum AHV700BR Afzuigkap"
     verdict: "Een compacte en betaalbare recirculatiekap, ideaal voor kleinere keukens of als je geen buitenafvoer hebt."
     priceRange: "EUR 200-300"
     bestFor: "Kleine keukens, huurwoningen of situaties waar een buitenafvoer niet mogelijk is."
     rating: 4.0
-    affiliateLink: "https://partner.bol.com/nl/nl/p/inventum-ahv700br-afzuigkap/9300000159987658/"
+    affiliateLink: "https://partner.bol.com/click/click?p=2&t=url&s=1520310&f=TXL&url=https%3A%2F%2Fpartner.bol.com%2Fnl%2Fnl%2Fp%2Finventum-ahv700br-afzuigkap%2F9300000159987658%2F"
   - name: "Faber Galileo Smart Afzuigkap Wit"
     verdict: "Een innovatieve plafondafzuigkap die bijna onzichtbaar is en toch effectief werkt."
     priceRange: "EUR 800-1500"
     bestFor: "Moderne, minimalistische keukens waar de afzuigkap zo min mogelijk op moet vallen."
     rating: 4.6
-    affiliateLink: "https://partner.bol.com/nl/nl/p/faber-faber-galileo-smart-afzuigkap-wit/9300000159987659/"
+    affiliateLink: "https://partner.bol.com/click/click?p=2&t=url&s=1520310&f=TXL&url=https%3A%2F%2Fpartner.bol.com%2Fnl%2Fnl%2Fp%2Ffaber-faber-galileo-smart-afzuigkap-wit%2F9300000159987659%2F"
 related:
   - "afzuigkap-onderhoud"
   - "keukenapparatuur-trends-2026"

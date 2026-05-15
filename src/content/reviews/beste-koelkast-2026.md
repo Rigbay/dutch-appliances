@@ -14,7 +14,7 @@ cons:
   - "Sommige geavanceerde functies kunnen complex zijn in gebruik."
   - "Grote koelkasten vereisen voldoende ruimte in de keuken."
 affiliateLinks:
-  - "https://partner.bol.com/nl/nl/p/samsung-rb38t775db1-koelvriescombinatie/9300000016402800/"
+  - "https://partner.bol.com/click/click?p=2&t=url&s=1520310&f=TXL&url=https%3A%2F%2Fpartner.bol.com%2Fnl%2Fnl%2Fp%2Fsamsung-rb38t775db1-koelvriescombinatie%2F9300000016402800%2F"
   - "https://www.coolblue.nl/product/854782/bosch-serie-6-kgn39vxep.html"
   - "https://www.mediamarkt.nl/nl/product/_siemens-iq500-kg39nlidp-1852274.html"
   - "https://www.koelkasten.nl/liebherr-cbn-es-3913-plus.html"
@@ -35,7 +35,7 @@ products:
     priceRange: "EUR 800-1100"
     bestFor: "Moderne huishoudens die waarde hechten aan technologie en design."
     rating: 4.5
-    affiliateLink: "https://partner.bol.com/nl/nl/p/samsung-rb38t775db1-koelvriescombinatie/9300000016402800/"
+    affiliateLink: "https://partner.bol.com/click/click?p=2&t=url&s=1520310&f=TXL&url=https%3A%2F%2Fpartner.bol.com%2Fnl%2Fnl%2Fp%2Fsamsung-rb38t775db1-koelvriescombinatie%2F9300000016402800%2F"
   - name: "Bosch Serie 6 KGN39VXEP Koelvriescombinatie"
     verdict: "De Bosch Serie 6 staat bekend om zijn efficiëntie en stille werking, een solide keuze voor praktisch elk huishouden."
     priceRange: "EUR 700-950"
