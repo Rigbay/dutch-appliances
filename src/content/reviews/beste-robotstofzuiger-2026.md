@@ -78,3 +78,9 @@ Kies de Xiaomi Robot Vacuum X20+ als je wilt proberen of een robotstofzuiger bij
 **Beste koop:** Ecovacs Deebot T30S Omni. Je krijgt 85% van de Roborock-ervaring voor zo'n 60% van de prijs. Het warmwater zelfreinigend station is een luxe die je pas mist als je hem eenmaal hebt.
 
 **Beste prestaties:** Roborock Qrevo MaxV. De dubbele dweilrollers en uitgekiende app maken dit de meest complete robot op de markt. Voor wie geen compromissen wil.
+
+## Gerelateerde artikelen
+
+- [Beste stofzuiger 2026: welke zuiger past bij jouw huis?](/reviews/beste-stofzuiger-2026/)
+- [Beste draadloze stofzuiger 2026: steel en stick vergeleken](/reviews/beste-draadloze-stofzuiger-2026/)
+- [Beste waterkoker 2026: snel, stil en stijlvol kokend water](/reviews/beste-waterkoker-2026/)

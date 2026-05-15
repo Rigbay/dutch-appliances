@@ -118,3 +118,9 @@ Als je vooral complete maaltijden wilt maken, kijk dan ook naar onze gids voor d
 ## Affiliate disclosure
 
 Deze pagina bevat Bol.com affiliate placeholders. Na toelating tot het partnerprogramma kunnen deze links worden vervangen door echte deep links. De rangschikking is gebaseerd op geschiktheid, specificaties, prijsniveau en bekende minpunten; niet op commissiehoogte.
+
+## Gerelateerde artikelen
+
+- [Beste magnetron 2026: solo, grill en combi vergeleken](/reviews/beste-magnetron-2026/)
+- [Beste waterkoker 2026: snel, stil en stijlvol kokend water](/reviews/beste-waterkoker-2026/)
+- [Beste stoomoven 2026: gezond koken met stoom](/reviews/beste-stoomoven-2026/)

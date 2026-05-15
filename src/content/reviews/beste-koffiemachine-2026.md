@@ -80,3 +80,9 @@ Kies de Siemens EQ.300 als je een volautomaat wilt maar niet meer dan vier euro 
 **Beste koop:** Philips Senseo Maestro CSA260. Voor wie snelheid boven alles stelt: 30 seconden van knop tot kop, melkreservoir voor cappuccino, en het bekende Senseo-gemak zonder barista-ambities.
 
 **Beste prestaties:** De'Longhi Dinamica Plus ECAM370.95.T. De combinatie van keramische molen, app-bediening en uitmuntende espresso-crema maakt dit de thuisbarista-standaard.
+
+## Gerelateerde artikelen
+
+- [Beste waterkoker 2026: snel, stil en stijlvol kokend water](/reviews/beste-waterkoker-2026/)
+- [Beste broodrooster 2026: van crocant tot Brunch](/reviews/beste-broodrooster-2026/)
+- [Beste stoomoven 2026: gezond koken met stoom](/reviews/beste-stoomoven-2026/)
