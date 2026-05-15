@@ -1,63 +1,65 @@
 ---
-title: "Beste waterkoker 2026: snel, stil en stijlvol kokend water"
-slug: "beste-waterkoker-2026"
-description: "Vergelijk de beste waterkokers van 2026: temperatuurregeling, stilte, dubbelwandig en design, met eerlijke minpunten."
-category: "keuken"
+title: 'Beste waterkoker 2026: snel, stil en stijlvol kokend water'
+slug: beste-waterkoker-2026
+description: 'Vergelijk de beste waterkokers van 2026: temperatuurregeling, stilte,
+  dubbelwandig en design, met eerlijke minpunten.'
+category: keuken
 rating: 4.4
-priceRange: "EUR 30-180"
+priceRange: EUR 30-180
 pros:
-  - "Snelle keuzehulp per type: basic, temperatuur, reis en design"
-  - "Dubbelwandig houdt water langer warm en voorkomt brandwonden"
-  - "Temperatuurkokers zijn ideaal voor groene thee en babyvoeding"
+- 'Snelle keuzehulp per type: basic, temperatuur, reis en design'
+- Dubbelwandig houdt water langer warm en voorkomt brandwonden
+- Temperatuurkokers zijn ideaal voor groene thee en babyvoeding
 cons:
-  - "Temperatuurkokers kosten 3-4x meer dan basisuitvoeringen"
-  - "Plastic kokers kunnen smaak afgeven bij hoog gebruik"
-  - "Grote inhoud kokers zuigen meer stroom bij herhaald opwarmen"
+- Temperatuurkokers kosten 3-4x meer dan basisuitvoeringen
+- Plastic kokers kunnen smaak afgeven bij hoog gebruik
+- Grote inhoud kokers zuigen meer stroom bij herhaald opwarmen
 affiliateLinks:
-  - "https://www.amazon.nl/s?k=Bosch+Sky+Kettle+TWK7203&tag=kieskeukennl-21"
-  - "https://www.amazon.nl/s?k=Philips+Viva+Collection+HD9356&tag=kieskeukennl-21"
-  - "https://www.amazon.nl/s?k=Smeg+Kettle+KLF03&tag=kieskeukennl-21"
-  - "https://www.amazon.nl/s?k=Bosch+CompactClass+TWK3A011&tag=kieskeukennl-21"
-  - "https://www.amazon.nl/s?k=KitchenAid+Artisan+5KEK1522&tag=kieskeukennl-21"
+- https://www.amazon.nl/s?k=Bosch+Sky+Kettle+TWK7203&tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=Philips+Viva+Collection+HD9356&tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=Smeg+Kettle+KLF03&tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=Bosch+CompactClass+TWK3A011&tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=KitchenAid+Artisan+5KEK1522&tag=kieskeukennl-21
 date: 2026-05-06
 modelYear: 2026
-featuredProduct: "Bosch Sky Kettle TWK7203"
-readingTime: "7 min"
+featuredProduct: Bosch Sky Kettle TWK7203
+readingTime: 7 min
 products:
-  - name: "Bosch Sky Kettle TWK7203"
-    verdict: "Beste temperatuurkoker met touchscreen, 7 standen, keep-warm en stil ontwerp."
-    priceRange: "EUR 90-130"
-    bestFor: "Temperatuur en stilte"
-    rating: 4.7
-    affiliateLink: "https://www.amazon.nl/s?k=Bosch+Sky+Kettle+TWK7203&tag=kieskeukennl-21"
-  - name: "Philips Viva Collection HD9356"
-    verdict: "Degelijke dubbelwandige koker met temperatuurkeuze en lange levensduur."
-    priceRange: "EUR 60-80"
-    bestFor: "Prijs-kwaliteit"
-    rating: 4.5
-    affiliateLink: "https://www.amazon.nl/s?k=Philips+Viva+Collection+HD9356&tag=kieskeukennl-21"
-  - name: "Smeg kettle KLF03"
-    verdict: "Iconisch retro design in vele kleuren, basic functie, maar een statement op het aanrecht."
-    priceRange: "EUR 140-180"
-    bestFor: "Design"
-    rating: 4.3
-    affiliateLink: "https://www.amazon.nl/s?k=Smeg+Kettle+KLF03&tag=kieskeukennl-21"
-  - name: "Bosch CompactClass TWK3A011"
-    verdict: "Betaalbare basic-koker met roestvrij staal en uitneembaar kalkfilter."
-    priceRange: "EUR 30-45"
-    bestFor: "Budget"
-    rating: 4.2
-    affiliateLink: "https://www.amazon.nl/s?k=Bosch+CompactClass+TWK3A011&tag=kieskeukennl-21"
-  - name: "KitchenAid Artisan 5KEK1522"
-    verdict: "Premium dubbelwandig ontwerp met temperatuurstanden en fluisterstille werking."
-    priceRange: "EUR 130-170"
-    bestFor: "Premium stil"
-    rating: 4.6
-    affiliateLink: "https://www.amazon.nl/s?k=KitchenAid+Artisan+5KEK1522&tag=kieskeukennl-21"
+- name: Bosch Sky Kettle TWK7203
+  verdict: Beste temperatuurkoker met touchscreen, 7 standen, keep-warm en stil ontwerp.
+  priceRange: EUR 90-130
+  bestFor: Temperatuur en stilte
+  rating: 4.7
+  affiliateLink: https://www.amazon.nl/s?k=Bosch+Sky+Kettle+TWK7203&tag=kieskeukennl-21
+- name: Philips Viva Collection HD9356
+  verdict: Degelijke dubbelwandige koker met temperatuurkeuze en lange levensduur.
+  priceRange: EUR 60-80
+  bestFor: Prijs-kwaliteit
+  rating: 4.5
+  affiliateLink: https://www.amazon.nl/s?k=Philips+Viva+Collection+HD9356&tag=kieskeukennl-21
+- name: Smeg kettle KLF03
+  verdict: Iconisch retro design in vele kleuren, basic functie, maar een statement
+    op het aanrecht.
+  priceRange: EUR 140-180
+  bestFor: Design
+  rating: 4.3
+  affiliateLink: https://www.amazon.nl/s?k=Smeg+Kettle+KLF03&tag=kieskeukennl-21
+- name: Bosch CompactClass TWK3A011
+  verdict: Betaalbare basic-koker met roestvrij staal en uitneembaar kalkfilter.
+  priceRange: EUR 30-45
+  bestFor: Budget
+  rating: 4.2
+  affiliateLink: https://www.amazon.nl/s?k=Bosch+CompactClass+TWK3A011&tag=kieskeukennl-21
+- name: KitchenAid Artisan 5KEK1522
+  verdict: Premium dubbelwandig ontwerp met temperatuurstanden en fluisterstille werking.
+  priceRange: EUR 130-170
+  bestFor: Premium stil
+  rating: 4.6
+  affiliateLink: https://www.amazon.nl/s?k=KitchenAid+Artisan+5KEK1522&tag=kieskeukennl-21
 related:
-  - "beste-koffiemachine-2026"
-  - "beste-stoomoven-2026"
-  - "beste-broodrooster-2026"
+- beste-koffiemachine-2026
+- beste-stoomoven-2026
+- beste-broodrooster-2026
 draft: false
 ---
 
@@ -89,7 +91,7 @@ Kies de **KitchenAid Artisan 5KEK1522** als stilte en design allebei belangrijk 
 
 **Beste design:** Smeg kettle KLF03. De KLF03 is de blikvanger onder de waterkokers. Het poedergecoate staal, de chromen handgreep en de bolle vormen verwijzen naar de Italiaanse jaren vijftig. Hij kookt water snel en doet niet moeilijk, maar verwacht geen geavanceerde functies. Een interieurkeuze, geen techniekkeuze.
 
-**Beste premium:** KitchenAid Artisan 5KEK1522. De KitchenAid is stiller dan stil — je hoort het water borrelen maar nauwelijks de koker zelf. De dubbelwandige constructie isoleert uitstekend, de aluminium behuizing met kleuraccenten oogt luxe en de temperatuurselectie is intuïtief met een draaiknop. Het gewicht is aanzienlijk, dus haal hem niet van stal als je kracht in je polsen beperkt is.
+**Beste premium:** KitchenAid Artisan 5KEK1522. De KitchenAid is stiller dan stil — je hoort het water borrelen maar nauwelijks de koker zelf. De dubbelwandige constructie isoleert uitstekend, de aluminium behuizing met kleuraccenten oogt luxe en de temperatuurselectie is intuïtief met een draaiknop. onze [luxe airfryer gids](/reviews/beste-luxe-airfryer-2026/). Het gewicht is aanzienlijk, dus haal hem niet van stal als je kracht in je polsen beperkt is.
 
 ## Detailvergelijking per product
 
@@ -115,7 +117,7 @@ De KLF03 is onmiskenbaar Smeg: bol, vrolijk en onbeschaamd retro. Het poedergeco
 
 Technisch is de KLF03 een basic koker in een dure jas. Hij kookt water snel (2400 watt, 1,7 liter) maar biedt geen temperatuurregeling, geen keep-warm en geen geluidsdemping. De waterniveau-indicator is een klassiek venster achter het handvat — charmant maar minder praktisch dan aan beide zijden. Het kalkfilter is van roestvrij staal en wasbaar.
 
-De prijs van honderdzestig euro is hoog voor de geboden functionaliteit. Je betaalt hier voor design, merkbeleving en het feit dat Smeg-kokers nu eenmaal duur zijn. Dat is geen verborgen gebrek — het is de propositie van het merk. Wie esthetiek belangrijk vindt en het niet erg vindt dat de koker alleen water kookt, koopt met de KLF03 een blijvertje. Combineert prachtig met de SMEG TSF02 broodrooster voor een gecoördineerd aanrecht.
+De prijs van honderdzestig euro is hoog voor de geboden functionaliteit. Je betaalt hier voor design, merkbeleving en het feit dat Smeg-kokers nu eenmaal duur zijn. Dat is geen verborgen gebrek — het is de propositie van het merk. Wie esthetiek belangrijk vindt en het niet erg vindt dat de koker alleen water kookt, koopt met de KLF03 een blijvertje. Combineert prachtig met de SMEG TSF02 broodrooster voor een gecoördineerd aanrecht. onze [broodrooster gids](/reviews/beste-broodrooster-2026/).
 
 ### Bosch CompactClass TWK3A011 — Budget
 

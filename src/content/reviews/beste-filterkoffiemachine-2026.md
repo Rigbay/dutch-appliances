@@ -1,64 +1,66 @@
 ---
-title: "beste filterkoffiemachines van 2026"
-slug: "beste-filterkoffiemachine-2026"
-description: "# De Beste Filterkoffiemachines van 2026: Jouw Gids voor de Perfecte Kop  De geur van vers gezette filterkoffie, een onmisbaar ochtendritueel voor velen. Of je nu een ..."
-category: "keuken"
+title: beste filterkoffiemachines van 2026
+slug: beste-filterkoffiemachine-2026
+description: '# De Beste Filterkoffiemachines van 2026: Jouw Gids voor de Perfecte
+  Kop  De geur van vers gezette filterkoffie, een onmisbaar ochtendritueel voor velen.
+  Of je nu een ...'
+category: keuken
 rating: 4.0
-priceRange: "€30 - €500+"
+priceRange: €30 - €500+
 pros:
-  - "Hoge kwaliteit"
-  - "Gebruiksvriendelijk"
-  - "Duurzaam"
+- Hoge kwaliteit
+- Gebruiksvriendelijk
+- Duurzaam
 cons:
-  - "Sommige modellen prijzig"
-  - "Onderhoud nodig"
+- Sommige modellen prijzig
+- Onderhoud nodig
 affiliateLinks:
-  - "https://partner.bol.com/click/click?p=1&t=url&s=placeholder&f=ban&name=beste-filterkoffiemachine-2026"
+- https://partner.bol.com/click/click?p=1&t=url&s=placeholder&f=ban&name=beste-filterkoffiemachine-2026
 date: 2026-05-14
 modelYear: 2026
-featuredProduct: ""
-readingTime: "9 min"
+featuredProduct: ''
+readingTime: 9 min
 products:
-  - name: "Moccamaster KBGV Select"
-    verdict: "Beste allround voor kwaliteit en duurzaamheid"
-    priceRange: "€250"
-    bestFor: "huishoudens die topkwaliteit en lange levensduur zoeken"
-    rating: 4.8
-    affiliateLink: "https://partner.bol.com/click/click?p=1&t=url&s=placeholder&f=ban&name=beste-filterkoffiemachine-2026-moccamaster-kbgv"
-  - name: "Moccamaster Cup-One"
-    verdict: "Beste voor éénpersoonshuishouden"
-    priceRange: "€209"
-    bestFor: "singles die één perfecte kop per keer willen zetten"
-    rating: 4.5
-    affiliateLink: "https://partner.bol.com/click/click?p=1&t=url&s=placeholder&f=ban&name=beste-filterkoffiemachine-2026-cup-one"
-  - name: "Philips Grind & Brew 5000"
-    verdict: "Beste met ingebouwde molen"
-    priceRange: "€180"
-    bestFor: "gezinnen die gemak en versgemalen koffie waarderen"
-    rating: 4.3
-    affiliateLink: "https://partner.bol.com/click/click?p=1&t=url&s=placeholder&f=ban&name=beste-filterkoffiemachine-2026-philips-grind"
-  - name: "Wilfa Svart Presisjon WSP-1B"
-    verdict: "Beste budget voor specialty koffie"
-    priceRange: "€130"
-    bestFor: "budgetbewuste specialty koffieliefhebbers"
-    rating: 4.2
-    affiliateLink: "https://partner.bol.com/click/click?p=1&t=url&s=placeholder&f=ban&name=beste-filterkoffiemachine-2026-wilfa-svart"
-  - name: "Melitta AromaFresh II"
-    verdict: "Beste veelzijdigheid met ingebouwde molen"
-    priceRange: "€120"
-    bestFor: "huishoudens die betaalbare kwaliteit met molen willen"
-    rating: 4.1
-    affiliateLink: "https://partner.bol.com/click/click?p=1&t=url&s=placeholder&f=ban&name=beste-filterkoffiemachine-2026-melitta-aroma"
-  - name: "Sage Precision Brewer"
-    verdict: "Beste voor aanpasbare zetparameters"
-    priceRange: "€299"
-    bestFor: "koffie-enthousiastelingen die volledige controle willen"
-    rating: 4.4
-    affiliateLink: "https://partner.bol.com/click/click?p=1&t=url&s=placeholder&f=ban&name=beste-filterkoffiemachine-2026-sage-precision"
+- name: Moccamaster KBGV Select
+  verdict: Beste allround voor kwaliteit en duurzaamheid
+  priceRange: €250
+  bestFor: huishoudens die topkwaliteit en lange levensduur zoeken
+  rating: 4.8
+  affiliateLink: https://partner.bol.com/click/click?p=1&t=url&s=placeholder&f=ban&name=beste-filterkoffiemachine-2026-moccamaster-kbgv
+- name: Moccamaster Cup-One
+  verdict: Beste voor éénpersoonshuishouden
+  priceRange: €209
+  bestFor: singles die één perfecte kop per keer willen zetten
+  rating: 4.5
+  affiliateLink: https://partner.bol.com/click/click?p=1&t=url&s=placeholder&f=ban&name=beste-filterkoffiemachine-2026-cup-one
+- name: Philips Grind & Brew 5000
+  verdict: Beste met ingebouwde molen
+  priceRange: €180
+  bestFor: gezinnen die gemak en versgemalen koffie waarderen
+  rating: 4.3
+  affiliateLink: https://partner.bol.com/click/click?p=1&t=url&s=placeholder&f=ban&name=beste-filterkoffiemachine-2026-philips-grind
+- name: Wilfa Svart Presisjon WSP-1B
+  verdict: Beste budget voor specialty koffie
+  priceRange: €130
+  bestFor: budgetbewuste specialty koffieliefhebbers
+  rating: 4.2
+  affiliateLink: https://partner.bol.com/click/click?p=1&t=url&s=placeholder&f=ban&name=beste-filterkoffiemachine-2026-wilfa-svart
+- name: Melitta AromaFresh II
+  verdict: Beste veelzijdigheid met ingebouwde molen
+  priceRange: €120
+  bestFor: huishoudens die betaalbare kwaliteit met molen willen
+  rating: 4.1
+  affiliateLink: https://partner.bol.com/click/click?p=1&t=url&s=placeholder&f=ban&name=beste-filterkoffiemachine-2026-melitta-aroma
+- name: Sage Precision Brewer
+  verdict: Beste voor aanpasbare zetparameters
+  priceRange: €299
+  bestFor: koffie-enthousiastelingen die volledige controle willen
+  rating: 4.4
+  affiliateLink: https://partner.bol.com/click/click?p=1&t=url&s=placeholder&f=ban&name=beste-filterkoffiemachine-2026-sage-precision
 related:
-  - "beste-koffiemachine-2026"
-  - "beste-koffiemachine-onder-200-euro-2026"
-  - "beste-nespresso-apparaat-2026"
+- beste-koffiemachine-2026
+- beste-koffiemachine-onder-200-euro-2026
+- beste-nespresso-apparaat-2026
 ---
 
 # De Beste Filterkoffiemachines van 2026: Jouw Gids voor de Perfecte Kop
@@ -111,7 +113,7 @@ Of je nu een drukke ouder bent die snel een kan koffie nodig heeft, een enthousi
     *   **SCA-gecertificeerd (potentieel):** Hoewel niet altijd expliciet vermeld op de verpakking van alle varianten, is de Svart Presisjon ontworpen met de principes van de Specialty Coffee Association in gedachten. Dit betekent dat de machine streven naar de ideale zetparameters voor een optimale extractie. Het resultaat is een koffie die de subtiele smaken van specialty bonen goed naar voren brengt.
     *   **Eenvoudige en Intuïtieve Bediening:** De machine is zeer eenvoudig in gebruik. Vul het waterreservoir, voeg gemalen koffie toe aan de filterhouder en zet de machine aan. Er zijn geen ingewikkelde instellingen, wat het een toegankelijk apparaat maakt voor zowel beginners als ervaren koffiedrinkers die geen behoefte hebben aan extra functionaliteit.
 *   **2 eerlijke nadelen:**
-    *   **Bouwkwaliteit minder robuust dan duurdere opties:** Hoewel de machine degelijk is voor zijn prijs, is de gebruikte kunststof minder premium dan het metaal van duurdere Moccamaster-modellen. Dit kan resulteren in een minder luxe gevoel en mogelijk een kortere levensduur bij intensief dagelijks gebruik.
+    *   **Bouwkwaliteit minder robuust dan duurdere opties:** Hoewel de machine degelijk is voor zijn prijs, is de gebruikte kunststof minder premium dan het metaal van duurdere Moccamaster-modellen. Dit kan resulteren in een minder luxe gevoel en mogelijk een kortere levensduur bij intensief dagelijks gebruik. onze [luxe airfryer gids](/reviews/beste-luxe-airfryer-2026/).
     *   **Capaciteit beperkter:** De machine heeft een maximale capaciteit van 1,25 liter (ongeveer 10 kopjes), wat voor grotere huishoudens of gasten mogelijk aan de krappe kant is.
 
 ### Beste voor Specialty Koffie: Technivorm Moccamaster KBGV Select

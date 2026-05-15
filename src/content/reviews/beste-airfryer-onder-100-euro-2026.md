@@ -1,64 +1,65 @@
 ---
-title: "De Beste Airfryers Onder €100 in 2026: Lekker en Betaalbaar Bakken!"
-slug: "beste-airfryer-onder-100-euro-2026"
-description: "Op zoek naar een goede airfryer zonder de hoofdprijs te betalen? Ontdek de beste modellen onder de €100 voor 2026. Kwaliteit voor ieder budget!"
-category: "keuken"
+title: 'De Beste Airfryers Onder €100 in 2026: Lekker en Betaalbaar Bakken!'
+slug: beste-airfryer-onder-100-euro-2026
+description: Op zoek naar een goede airfryer zonder de hoofdprijs te betalen? Ontdek
+  de beste modellen onder de €100 voor 2026. Kwaliteit voor ieder budget!
+category: keuken
 rating: 4.2
-priceRange: "EUR 50-100"
+priceRange: EUR 50-100
 pros:
-  - "Betaalbaar"
-  - "Compact"
-  - "Eenvoudig in gebruik"
+- Betaalbaar
+- Compact
+- Eenvoudig in gebruik
 cons:
-  - "Minder geavanceerde functies"
-  - "Kleinere capaciteit"
-  - "Kan luider zijn"
+- Minder geavanceerde functies
+- Kleinere capaciteit
+- Kan luider zijn
 affiliateLinks:
-  - "https://partner.bol.com/.../placeholder"
+- https://partner.bol.com/.../placeholder
 modelYear: 2026
-featuredProduct: "Tefal Easy Fry Compact"
-readingTime: "8 min"
+featuredProduct: Tefal Easy Fry Compact
+readingTime: 8 min
 date: 2026-05-13
 products:
-  - name: "Tefal Easy Fry Compact"
-    verdict: "Topproduct in zijn categorie met uitstekende prestaties."
-    priceRange: "EUR 50-400"
-    bestFor: "Kleine keuken, efficiëntie"
-    rating: 1.6
-    affiliateLink: "https://partner.bol.com/.../placeholder"
-  - name: "Princess Digital Airfryer"
-    verdict: "Topproduct in zijn categorie met uitstekende prestaties."
-    priceRange: "EUR 50-400"
-    bestFor: "Beginners, prijs-kwaliteit"
-    rating: 2.5
-    affiliateLink: "https://partner.bol.com/.../placeholder"
-  - name: "Domo Airfryer"
-    verdict: "Topproduct in zijn categorie met uitstekende prestaties."
-    priceRange: "EUR 50-400"
-    bestFor: "Ultiem budget, experimenteren"
-    rating: 2.0
-    affiliateLink: "https://partner.bol.com/.../placeholder"
-  - name: "Inventum GF500"
-    verdict: "Topproduct in zijn categorie met uitstekende prestaties."
-    priceRange: "EUR 50-400"
-    bestFor: "Gezin (klein), degelijke prestaties"
-    rating: 3.0
-    affiliateLink: "https://partner.bol.com/.../placeholder"
-  - name: "Tristar Airfryer"
-    verdict: "Topproduct in zijn categorie met uitstekende prestaties."
-    priceRange: "EUR 50-400"
-    bestFor: "Zeer prijsbewust, basisgebruik"
-    rating: 2.2
-    affiliateLink: "https://partner.bol.com/.../placeholder"
+- name: Tefal Easy Fry Compact
+  verdict: Topproduct in zijn categorie met uitstekende prestaties.
+  priceRange: EUR 50-400
+  bestFor: Kleine keuken, efficiëntie
+  rating: 1.6
+  affiliateLink: https://partner.bol.com/.../placeholder
+- name: Princess Digital Airfryer
+  verdict: Topproduct in zijn categorie met uitstekende prestaties.
+  priceRange: EUR 50-400
+  bestFor: Beginners, prijs-kwaliteit
+  rating: 2.5
+  affiliateLink: https://partner.bol.com/.../placeholder
+- name: Domo Airfryer
+  verdict: Topproduct in zijn categorie met uitstekende prestaties.
+  priceRange: EUR 50-400
+  bestFor: Ultiem budget, experimenteren
+  rating: 2.0
+  affiliateLink: https://partner.bol.com/.../placeholder
+- name: Inventum GF500
+  verdict: Topproduct in zijn categorie met uitstekende prestaties.
+  priceRange: EUR 50-400
+  bestFor: Gezin (klein), degelijke prestaties
+  rating: 3.0
+  affiliateLink: https://partner.bol.com/.../placeholder
+- name: Tristar Airfryer
+  verdict: Topproduct in zijn categorie met uitstekende prestaties.
+  priceRange: EUR 50-400
+  bestFor: Zeer prijsbewust, basisgebruik
+  rating: 2.2
+  affiliateLink: https://partner.bol.com/.../placeholder
 related:
-  - "beste-stofzuiger-2026"
-  - "beste-dweilrobot-2026"
-  - "beste-strijkijzer-2026"
+- beste-stofzuiger-2026
+- beste-dweilrobot-2026
+- beste-strijkijzer-2026
 ---
 
 # De Beste Airfryers Onder €100 in 2026: Lekker en Betaalbaar Bakken!
 
-De airfryer is niet meer weg te denken uit de moderne keuken. Het apparaat belooft knapperige frietjes, sappige kip en heerlijke snacks, allemaal met een fractie van het vet dat je in een traditionele friteuse gebruikt. Maar de aanschaf van zo'n keukenwonder kan best een investering zijn. Gelukkig is dat niet altijd nodig! Ook met een kleiner budget kun je genieten van de voordelen van airfryer-koken. In deze koopgids duiken we in de wereld van de betaalbare airfryers en helpen we je de beste keuze te maken voor minder dan €100.
+De airfryer is niet meer weg te denken uit de moderne keuken. onze [airfryer friteuse gids](/reviews/airfryer-vs-friteuse-2026/). onze [airfryer gids](/reviews/beste-airfryer-2026/). onze [airfryer met twee manden gids](/reviews/beste-airfryer-met-twee-manden-2026/). Het apparaat belooft knapperige frietjes, sappige kip en heerlijke snacks, allemaal met een fractie van het vet dat je in een traditionele friteuse gebruikt. Maar de aanschaf van zo'n keukenwonder kan best een investering zijn. Gelukkig is dat niet altijd nodig! Ook met een kleiner budget kun je genieten van de voordelen van airfryer-koken. In deze koopgids duiken we in de wereld van de betaalbare airfryers en helpen we je de beste keuze te maken voor minder dan €100.
 
 We begrijpen dat je niet per se een fortuin wilt uitgeven om kennis te maken met de airfryer. Misschien ben je nieuwsgierig naar de hype, heb je een kleine keuken, of ben je gewoon een prijsbewuste consument. Goed nieuws: er zijn uitstekende opties beschikbaar die niet misstaan in je keuken en die je portemonnee sparen. Deze modellen bieden vaak de basisfuncties die je nodig hebt om de meest populaire gerechten te bereiden, zonder de toeters en bellen die de prijs opdrijven. Van snelle snacks tot het opwarmen van restjes, een budgetvriendelijke airfryer kan een echte aanwinst zijn.
 

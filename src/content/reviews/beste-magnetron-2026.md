@@ -1,61 +1,67 @@
 ---
-title: "Beste magnetron 2026: solo, grill en combi vergeleken"
-slug: "beste-magnetron-2026"
-description: "Vergelijk de beste magnetrons van 2026: invertertechnologie, combi-oven functies en compacte modellen."
-category: "keuken"
+title: 'Beste magnetron 2026: solo, grill en combi vergeleken'
+slug: beste-magnetron-2026
+description: 'Vergelijk de beste magnetrons van 2026: invertertechnologie, combi-oven
+  functies en compacte modellen.'
+category: keuken
 rating: 4.4
-priceRange: "EUR 80-400"
+priceRange: EUR 80-400
 pros:
-  - "Veel modelkeuzes in elke prijsklasse"
-  - "Duidelijke specificaties beschikbaar voor vergelijken"
+- Veel modelkeuzes in elke prijsklasse
+- Duidelijke specificaties beschikbaar voor vergelijken
 cons:
-  - "Prijs en kwaliteit verschillen sterk per merk"
-  - "Onderhoud en reiniging vereisen regelmatige aandacht"
+- Prijs en kwaliteit verschillen sterk per merk
+- Onderhoud en reiniging vereisen regelmatige aandacht
 affiliateLinks:
-  - "https://www.amazon.nl/s?k=Panasonic+NN-CS89L&tag=kieskeukennl-21"
-  - "https://www.amazon.nl/s?k=Samsung+MS23K3515AS&tag=kieskeukennl-21"
-  - "https://www.amazon.nl/s?k=Inventum+MN255C&tag=kieskeukennl-21"
-  - "https://www.amazon.nl/s?k=Bosch+Serie+6+CFA634GS1&tag=kieskeukennl-21"
-  - "https://www.amazon.nl/s?k=Sharp+R843INW&tag=kieskeukennl-21"
+- https://www.amazon.nl/s?k=Panasonic+NN-CS89L&tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=Samsung+MS23K3515AS&tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=Inventum+MN255C&tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=Bosch+Serie+6+CFA634GS1&tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=Sharp+R843INW&tag=kieskeukennl-21
 date: 2026-05-06
 modelYear: 2026
-featuredProduct: "Panasonic NN-CS89L"
-readingTime: "9 min"
+featuredProduct: Panasonic NN-CS89L
+readingTime: 9 min
 products:
-  - name: "Panasonic NN-CS89L"
-    verdict: "De ultieme combi-magnetron met invertertechnologie, stoomfunctie en heteluchtoven — een volwaardige tweede oven voor ambitieuze thuiskoks."
-    priceRange: "EUR 350-450"
-    bestFor: "Beste combi"
-    rating: 4.8
-    affiliateLink: "https://www.amazon.nl/s?k=Panasonic+NN-CS89L&tag=kieskeukennl-21"
-  - name: "Samsung MS23K3515AS"
-    verdict: "De beste prijs-kwaliteit solomagnetron met stijlvol keramisch interieur, zuinige eco-stand en intuïtieve bediening."
-    priceRange: "EUR 100-140"
-    bestFor: "Prijs-kwaliteit"
-    rating: 4.5
-    affiliateLink: "https://www.amazon.nl/s?k=Samsung+MS23K3515AS&tag=kieskeukennl-21"
-  - name: "Inventum MN255C"
-    verdict: "Gunstig geprijsde basismagnetron met mechanische draaiknoppen, ideaal voor senioren en eenvoudig opwarmwerk zonder poespas."
-    priceRange: "EUR 70-100"
-    bestFor: "Budget"
-    rating: 4.1
-    affiliateLink: "https://www.amazon.nl/s?k=Inventum+MN255C&tag=kieskeukennl-21"
-  - name: "Bosch Serie 6 CFA634GS1"
-    verdict: "Krachtige inbouwmagnetron met inverter, grill en hetelucht — naadloos te integreren in een moderne keuken met Bosch-apparatuur."
-    priceRange: "EUR 500-650"
-    bestFor: "Inbouw"
-    rating: 4.6
-    affiliateLink: "https://www.amazon.nl/s?k=Bosch+Serie+6+CFA634GS1&tag=kieskeukennl-21"
-  - name: "Sharp R843INW"
-    verdict: "Betaalbare combi-magnetron met grill en hetelucht die uitstekend presteert voor krokante ovenschotels en gegratineerde gerechten."
-    priceRange: "EUR 180-240"
-    bestFor: "Grill/combi"
-    rating: 4.4
-    affiliateLink: "https://www.amazon.nl/s?k=Sharp+R843INW&tag=kieskeukennl-21"
+- name: Panasonic NN-CS89L
+  verdict: De ultieme combi-magnetron met invertertechnologie, stoomfunctie en heteluchtoven
+    — een volwaardige tweede oven voor ambitieuze thuiskoks.
+  priceRange: EUR 350-450
+  bestFor: Beste combi
+  rating: 4.8
+  affiliateLink: https://www.amazon.nl/s?k=Panasonic+NN-CS89L&tag=kieskeukennl-21
+- name: Samsung MS23K3515AS
+  verdict: De beste prijs-kwaliteit solomagnetron met stijlvol keramisch interieur,
+    zuinige eco-stand en intuïtieve bediening.
+  priceRange: EUR 100-140
+  bestFor: Prijs-kwaliteit
+  rating: 4.5
+  affiliateLink: https://www.amazon.nl/s?k=Samsung+MS23K3515AS&tag=kieskeukennl-21
+- name: Inventum MN255C
+  verdict: Gunstig geprijsde basismagnetron met mechanische draaiknoppen, ideaal voor
+    senioren en eenvoudig opwarmwerk zonder poespas.
+  priceRange: EUR 70-100
+  bestFor: Budget
+  rating: 4.1
+  affiliateLink: https://www.amazon.nl/s?k=Inventum+MN255C&tag=kieskeukennl-21
+- name: Bosch Serie 6 CFA634GS1
+  verdict: Krachtige inbouwmagnetron met inverter, grill en hetelucht — naadloos te
+    integreren in een moderne keuken met Bosch-apparatuur.
+  priceRange: EUR 500-650
+  bestFor: Inbouw
+  rating: 4.6
+  affiliateLink: https://www.amazon.nl/s?k=Bosch+Serie+6+CFA634GS1&tag=kieskeukennl-21
+- name: Sharp R843INW
+  verdict: Betaalbare combi-magnetron met grill en hetelucht die uitstekend presteert
+    voor krokante ovenschotels en gegratineerde gerechten.
+  priceRange: EUR 180-240
+  bestFor: Grill/combi
+  rating: 4.4
+  affiliateLink: https://www.amazon.nl/s?k=Sharp+R843INW&tag=kieskeukennl-21
 related:
-  - "beste-stoomoven-2026"
-  - "beste-airfryer-2026"
-  - "beste-waterkoker-2026"
+- beste-stoomoven-2026
+- beste-airfryer-2026
+- beste-waterkoker-2026
 draft: false
 ---
 
@@ -107,7 +113,7 @@ Bij de Bosch Serie 6 CFA634GS1 is de installatie niet DIY-vriendelijk; je hebt e
 
 ## Combineren met andere keukenapparaten
 
-Veel mensen vragen zich af of ze naast een magnetron nog een airfryer of stoomoven nodig hebben. Het antwoord hangt af van wat je kookt. Een airfryer is sneller en energiezuiniger voor snacks, friet en kipstukjes — zie onze [beste airfryer 2026](/reviews/beste-airfryer-2026/) gids. Een stoomoven is superieur voor wie gezond wil stomen zonder magnetronstraling — lees de [beste stoomoven 2026](/reviews/beste-stoomoven-2026/). En voor wie snel kokend water nodig heeft, biedt de [beste waterkoker 2026](/reviews/beste-waterkoker-2026/) de meest efficiënte optie.
+Veel mensen vragen zich af of ze naast een magnetron nog een airfryer of stoomoven nodig hebben. onze [airfryer friteuse gids](/reviews/airfryer-vs-friteuse-2026/). onze [airfryer gids](/reviews/beste-airfryer-2026/). onze [airfryer met twee manden gids](/reviews/beste-airfryer-met-twee-manden-2026/). Het antwoord hangt af van wat je kookt. Een airfryer is sneller en energiezuiniger voor snacks, friet en kipstukjes — zie onze [beste airfryer 2026](/reviews/beste-airfryer-2026/) gids. Een stoomoven is superieur voor wie gezond wil stomen zonder magnetronstraling — lees de [beste stoomoven 2026](/reviews/beste-stoomoven-2026/). En voor wie snel kokend water nodig heeft, biedt de [beste waterkoker 2026](/reviews/beste-waterkoker-2026/) de meest efficiënte optie.
 
 De Panasonic NN-CS89L combineert overigens al drie functies — magnetron, hetelucht én stoom — waardoor je in veel gevallen geen losse stoomoven of extra heteluchtapparaat nodig hebt. Dat maakt hem ondanks de hogere prijs juist een ruimtebesparende keuze.
 
