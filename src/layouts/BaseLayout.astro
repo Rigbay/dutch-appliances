@@ -17,9 +17,42 @@ const {
   ogType = 'website'
 } = Astro.props;
 
-const site = Astro.site ?? new URL('https://dutch-appliances-site.vercel.app');
+const site = Astro.site ?? new URL('https://rigbay.github.io/dutch-appliances');
 const canonical = canonicalUrl ?? new URL(Astro.url.pathname, site).toString();
 const ogImage = new URL('/og-default.svg', site).toString();
+
+// Organization + WebSite schema (highest-leverage post-March-2026)
+const orgSchema = {
+  '@context': 'https://schema.org',
+  '@id': site.toString() + '#organization',
+  '@type': 'Organization',
+  'name': 'Beste Apparaten',
+  'url': site.toString(),
+  'description': 'Nederlandstalige koopgidsen voor huishoudelijke apparaten — airfryers, stofzuigers, koffiemachines en meer.',
+  'logo': new URL('/favicon.svg', site).toString()
+};
+
+const webSiteSchema = {
+  '@context': 'https://schema.org',
+  '@id': site.toString() + '#website',
+  '@type': 'WebSite',
+  'url': site.toString(),
+  'name': 'Beste Apparaten',
+  'description': 'Nederlandstalige koopgidsen voor huishoudelijke apparaten',
+  'inLanguage': 'nl-NL',
+  'about': {
+    '@type': 'Organization',
+    '@id': site.toString() + '#organization'
+  },
+  'potentialAction': {
+    '@type': 'SearchAction',
+    'target': {
+      '@type': 'EntryPoint',
+      'urlTemplate': site.toString() + '/search?q={search_term_string}'
+    },
+    'query-input': 'required name=search_term_string'
+  }
+};
 ---
 
 <!doctype html>
@@ -40,6 +73,8 @@ const ogImage = new URL('/og-default.svg', site).toString();
     <meta name="twitter:description" content={description} />
     <meta name="twitter:image" content={ogImage} />
     <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <script type="application/ld+json" set:html={JSON.stringify(orgSchema)} />
+    <script type="application/ld+json" set:html={JSON.stringify(webSiteSchema)} />
   </head>
   <body>
     <Header />
