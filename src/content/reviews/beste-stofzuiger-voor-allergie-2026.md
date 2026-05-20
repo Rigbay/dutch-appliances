@@ -16,7 +16,7 @@ cons:
 - Soms zwaarder
 - Geluidsniveau kan variëren
 affiliateLinks:
-- https://partner.bol.com/.../placeholder
+- https://www.amazon.nl/dp/B00TY83I0S?tag=kieskeukennl-21
 modelYear: 2026
 featuredProduct: Miele Complete C3 Allergy PowerLine
 readingTime: 8 min
@@ -27,37 +27,37 @@ products:
   priceRange: EUR 50-400
   bestFor: Grondige reiniging, maximale filtratie
   rating: 3.0
-  affiliateLink: https://partner.bol.com/.../placeholder
+  affiliateLink: https://www.amazon.nl/dp/B00TY83I0S?tag=kieskeukennl-21
 - name: Dyson V15 Detect Absolute
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Draadloze flexibiliteit, slimme detectie
   rating: 4.7
-  affiliateLink: https://partner.bol.com/.../placeholder
+  affiliateLink: https://www.amazon.nl/dp/B00TY83I0S?tag=kieskeukennl-21
 - name: Philips Performer Ultimate Allergy
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Prijs-kwaliteit, effectieve filtratie
   rating: 4.0
-  affiliateLink: https://partner.bol.com/.../placeholder
+  affiliateLink: https://www.amazon.nl/dp/B00TY83I0S?tag=kieskeukennl-21
 - name: Bosch ProHygienic Serie 6
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Betaalbare optie, betrouwbare prestaties
   rating: 4.0
-  affiliateLink: https://partner.bol.com/.../placeholder
+  affiliateLink: https://www.amazon.nl/dp/B00TY83I0S?tag=kieskeukennl-21
 - name: AEG VX9 Allergy
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Stille werking, goede filtratie
   rating: 4.5
-  affiliateLink: https://partner.bol.com/.../placeholder
+  affiliateLink: https://www.amazon.nl/dp/B00TY83I0S?tag=kieskeukennl-21
 - name: Rowenta X-Force Flex 11.60 Aqua
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Wendbaarheid, aqua-functie voor extra reiniging
   rating: 4.2
-  affiliateLink: https://partner.bol.com/.../placeholder
+  affiliateLink: https://www.amazon.nl/dp/B00TY83I0S?tag=kieskeukennl-21
 related:
 - beste-stofzuiger-2026
 - beste-dweilrobot-2026

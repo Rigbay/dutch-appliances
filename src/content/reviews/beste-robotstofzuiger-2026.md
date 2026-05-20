@@ -14,9 +14,9 @@ cons:
   - "Onderhoud van borstels en reservoirs blijft nodig"
   - "Prijzige modellen dweilen nog steeds niet zo grondig als een handmop"
 affiliateLinks:
-  - "https://partner.bol.com/.../[ROBOROCK-QREVO-MAXV]"
-  - "https://partner.bol.com/.../[ECOVACS-DEEBOT-T30S]"
-  - "https://partner.bol.com/.../[IROBOT-ROOMBA-J9]"
+  - "https://www.amazon.nl/dp/B0GMH56TRH?tag=kieskeukennl-21"
+  - "https://www.amazon.nl/dp/B0GMH56TRH?tag=kieskeukennl-21"
+  - "https://www.amazon.nl/dp/B0GMH56TRH?tag=kieskeukennl-21"
 date: 2026-05-06
 modelYear: 2026
 featuredProduct: "Roborock Qrevo MaxV"
@@ -27,31 +27,31 @@ products:
     priceRange: "EUR 700-900"
     bestFor: "Alles-in-één premium"
     rating: 4.8
-    affiliateLink: "https://partner.bol.com/.../[ROBOROCK-QREVO-MAXV]"
+    affiliateLink: "https://www.amazon.nl/dp/B0GMH56TRH?tag=kieskeukennl-21"
   - name: "Ecovacs Deebot T30S Omni"
     verdict: "Scherpe prijs-kwaliteit met roterende dweilschijven en warmwater-zelfreinigend station."
     priceRange: "EUR 500-650"
     bestFor: "Prijs-kwaliteit"
     rating: 4.6
-    affiliateLink: "https://partner.bol.com/.../[ECOVACS-DEEBOT-T30S]"
+    affiliateLink: "https://www.amazon.nl/dp/B0GMH56TRH?tag=kieskeukennl-21"
   - name: "iRobot Roomba j9+"
     verdict: "Betrouwbare navigatie en dierhaar-prestaties, maar minder geavanceerde dweil dan concurrenten."
     priceRange: "EUR 600-800"
     bestFor: "Dierhaar en tapijt"
     rating: 4.5
-    affiliateLink: "https://partner.bol.com/.../[IROBOT-ROOMBA-J9]"
+    affiliateLink: "https://www.amazon.nl/dp/B0GMH56TRH?tag=kieskeukennl-21"
   - name: "Xiaomi Robot Vacuum X20+"
     verdict: "Betaalbaar instapmodel met LiDAR en dweilfunctie, maar basisstation is basis."
     priceRange: "EUR 300-420"
     bestFor: "Instap"
     rating: 4.2
-    affiliateLink: "https://partner.bol.com/.../[XIAOMI-X20]"
+    affiliateLink: "https://www.amazon.nl/dp/B0GMH56TRH?tag=kieskeukennl-21"
   - name: "Dreame L40 Ultra"
     verdict: "Slimme uitbreidbare robot met uitklapbare zijborstels en uitneembare dweilmodules."
     priceRange: "EUR 650-800"
     bestFor: "Slimme features"
     rating: 4.7
-    affiliateLink: "https://partner.bol.com/.../[DREAME-L40]"
+    affiliateLink: "https://www.amazon.nl/dp/B0GMH56TRH?tag=kieskeukennl-21"
 related:
   - "beste-stofzuiger-2026"
   - "beste-draadloze-stofzuiger-2026"

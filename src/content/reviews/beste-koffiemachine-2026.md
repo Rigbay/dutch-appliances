@@ -15,9 +15,9 @@ cons:
 - Padmachines produceren meer afval dan bonenmachines
 - Filterkoffie is lekkerder maar minder snel dan een pad
 affiliateLinks:
-- https://partner.bol.com/.../[PHILIPS-5400-LatteGo]
-- https://partner.bol.com/.../[DE-LONGHI-DINAMICA-PLUS]
-- https://partner.bol.com/.../[SAGE-BARISTA-EXPRESS]
+- https://www.amazon.nl/dp/B08CBJ8W9W?tag=kieskeukennl-21
+- https://www.amazon.nl/dp/B08CBJ8W9W?tag=kieskeukennl-21
+- https://www.amazon.nl/dp/B08CBJ8W9W?tag=kieskeukennl-21
 date: 2026-05-06
 modelYear: 2026
 featuredProduct: Philips 5400 Serie LatteGo EP5447
@@ -29,35 +29,35 @@ products:
   priceRange: EUR 550-700
   bestFor: Volautomaat gemak
   rating: 4.7
-  affiliateLink: https://partner.bol.com/.../[PHILIPS-5400-LatteGo]
+  affiliateLink: https://www.amazon.nl/dp/B08CBJ8W9W?tag=kieskeukennl-21
 - name: De'Longhi Dinamica Plus ECAM370.95.T
   verdict: Premium volautomaat met app-bediening, keramische molen en uitstekende
     espresso-crema.
   priceRange: EUR 700-950
   bestFor: Premium espresso
   rating: 4.8
-  affiliateLink: https://partner.bol.com/.../[DE-LONGHI-DINAMICA-PLUS]
+  affiliateLink: https://www.amazon.nl/dp/B08CBJ8W9W?tag=kieskeukennl-21
 - name: Sage the Barista Express SES876
   verdict: Halfautomaat met geïntegreerde molen en handmatige stoompijp voor wie zelf
     wil leren.
   priceRange: EUR 550-700
   bestFor: Halfautomaat leren
   rating: 4.6
-  affiliateLink: https://partner.bol.com/.../[SAGE-BARISTA-EXPRESS]
+  affiliateLink: https://www.amazon.nl/dp/B08CBJ8W9W?tag=kieskeukennl-21
 - name: Siemens EQ.300 TI351209RW
   verdict: Betaalbare volautomaat met keramische molen en melkopschuimer, compact
     voor kleine keukens.
   priceRange: EUR 300-400
   bestFor: Instap volautomaat
   rating: 4.3
-  affiliateLink: https://partner.bol.com/.../[SIEMENS-EQ300]
+  affiliateLink: https://www.amazon.nl/dp/B08CBJ8W9W?tag=kieskeukennl-21
 - name: Philips Senseo Maestro CSA260
   verdict: 'Snelste oplossing voor wie geen gedoe wil: pads, melkreservoir en koffie
     in 30 seconden.'
   priceRange: EUR 120-180
   bestFor: Pad gemak
   rating: 4.2
-  affiliateLink: https://partner.bol.com/.../[SENSEO-MAESTRO]
+  affiliateLink: https://www.amazon.nl/dp/B08CBJ8W9W?tag=kieskeukennl-21
 related:
 - beste-waterkoker-2026
 - beste-broodrooster-2026

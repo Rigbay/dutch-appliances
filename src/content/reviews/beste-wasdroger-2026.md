@@ -15,8 +15,8 @@ cons:
 - Initiële investering voor een warmtepompdroger kan hoger zijn.
 - Condensdrogers vereisen regelmatige ontluchting of waterafvoer.
 affiliateLinks:
-- https://partner.bol.com/...
-- https://partner.bol.com/...
+- https://www.amazon.nl/dp/B07KT96ZLC?tag=kieskeukennl-21
+- https://www.amazon.nl/dp/B07KT96ZLC?tag=kieskeukennl-21
 date: 2026-05-11
 modelYear: 2026
 featuredProduct: Bosch Serie 8 WTH85201NL Warmtepompdroger
@@ -29,7 +29,7 @@ products:
   bestFor: Huishoudens die een energiezuinige en zachte droogoplossing zoeken met
     slimme functies.
   rating: 4.7
-  affiliateLink: https://partner.bol.com/...
+  affiliateLink: https://www.amazon.nl/dp/B07KT96ZLC?tag=kieskeukennl-21
 - name: Miele T1 Excellence TSD 263 WP EcoSpeed
   verdict: Voor wie het beste van het beste wil op het gebied van duurzaamheid, droogresultaten
     en levensduur, is de Miele T1 Excellence de absolute top.
@@ -37,7 +37,7 @@ products:
   bestFor: Gebruikers die investeren in topkwaliteit, maximale levensduur en een premium
     droogervaring.
   rating: 4.9
-  affiliateLink: https://partner.bol.com/...
+  affiliateLink: https://www.amazon.nl/dp/B07KT96ZLC?tag=kieskeukennl-21
 - name: AEG Serie 7000 T7DB7368P Warmtepompdroger
   verdict: De AEG Serie 7000 blinkt uit in het drogen van delicate stoffen en biedt
     een uitstekende energie-efficiëntie voor zijn prijsklasse.
@@ -45,7 +45,7 @@ products:
   bestFor: Huishoudens met veel delicate kleding of die op zoek zijn naar een goede
     prijs-kwaliteitverhouding in warmtepompdrogers.
   rating: 4.5
-  affiliateLink: https://partner.bol.com/...
+  affiliateLink: https://www.amazon.nl/dp/B07KT96ZLC?tag=kieskeukennl-21
 - name: Samsung DV80TA020AE/EN OptimalDry Warmtepompdroger
   verdict: De Samsung OptimalDry is een solide keuze voor wie een betrouwbare en efficiënte
     warmtepompdroger zoekt met handige automatische functies.
@@ -53,7 +53,7 @@ products:
   bestFor: Gezinnen die een veelzijdige en gebruiksvriendelijke droger nodig hebben
     met goede droogresultaten.
   rating: 4.4
-  affiliateLink: https://partner.bol.com/...
+  affiliateLink: https://www.amazon.nl/dp/B07KT96ZLC?tag=kieskeukennl-21
 - name: LG RH9052B2S Warmtepompdroger
   verdict: Met zijn Dual Inverter technologie biedt de LG RH9052B2S een indrukwekkende
     energiebesparing en een kortere droogtijd.
@@ -61,7 +61,7 @@ products:
   bestFor: Energiebewuste consumenten die een snellere droogtijd en aantoonbare besparingen
     op hun energierekening wensen.
   rating: 4.6
-  affiliateLink: https://partner.bol.com/...
+  affiliateLink: https://www.amazon.nl/dp/B07KT96ZLC?tag=kieskeukennl-21
 - name: Beko DTKCE90W Condensdroger
   verdict: De Beko DTKCE90W is een uitstekende budgetkeuze voor wie een functionele
     condensdroger zoekt zonder al te veel poespas.
@@ -69,7 +69,7 @@ products:
   bestFor: Studenten, kleine huishoudens of als tweede droger waar de initiële investering
     laag moet blijven.
   rating: 3.9
-  affiliateLink: https://partner.bol.com/...
+  affiliateLink: https://www.amazon.nl/dp/B07KT96ZLC?tag=kieskeukennl-21
 related:
 - beste-wasmachine-2026
 - beste-stofzuiger-2026

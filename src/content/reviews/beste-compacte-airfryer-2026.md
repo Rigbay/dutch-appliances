@@ -15,7 +15,7 @@ cons:
 - Niet geschikt voor grote gezinnen
 - Kan geluid maken
 affiliateLinks:
-- https://partner.bol.com/.../placeholder
+- https://www.amazon.nl/dp/B08WJBVM5G?tag=kieskeukennl-21
 modelYear: 2026
 featuredProduct: Philips Essential Airfryer XL
 readingTime: 8 min
@@ -26,31 +26,31 @@ products:
   priceRange: EUR 50-400
   bestFor: Beste prestaties, gezinnen van 2
   rating: 3.5
-  affiliateLink: https://partner.bol.com/.../placeholder
+  affiliateLink: https://www.amazon.nl/dp/B0CQ8GHBRG?tag=kieskeukennl-21
 - name: Tefal Easy Fry Compact
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Beste koop, goede prijs-kwaliteit
   rating: 3.0
-  affiliateLink: https://partner.bol.com/.../placeholder
+  affiliateLink: https://www.amazon.nl/dp/B0CQ8GHBRG?tag=kieskeukennl-21
 - name: Princess Mini Airfryer
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Beste budget, studenten, incidenteel gebruik
   rating: 4.0
-  affiliateLink: https://partner.bol.com/.../placeholder
+  affiliateLink: https://www.amazon.nl/dp/B0CQ8GHBRG?tag=kieskeukennl-21
 - name: Cosori Lite
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Beste voor kleine keuken, design & gemak
   rating: 4.6
-  affiliateLink: https://partner.bol.com/.../placeholder
+  affiliateLink: https://www.amazon.nl/dp/B0CQ8GHBRG?tag=kieskeukennl-21
 - name: Inventum Compact Airfryer
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Solide allrounder voor kleine keukens
   rating: 2.5
-  affiliateLink: https://partner.bol.com/.../placeholder
+  affiliateLink: https://www.amazon.nl/dp/B0CQ8GHBRG?tag=kieskeukennl-21
 related:
 - beste-stofzuiger-2026
 - beste-dweilrobot-2026

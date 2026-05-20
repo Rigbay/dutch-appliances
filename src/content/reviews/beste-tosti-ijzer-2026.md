@@ -15,8 +15,8 @@ cons:
 - Kan geluidsproductie hebben bij intensief gebruik
 - Niet alle accessoires standaard meegeleverd
 affiliateLinks:
-- https://partner.bol.com/...
-- https://partner.bol.com/...
+- https://www.amazon.nl/dp/B0BWY9BY2S?tag=kieskeukennl-21
+- https://www.amazon.nl/dp/B0BWY9BY2S?tag=kieskeukennl-21
 date: 2026-05-14
 modelYear: 2026
 featuredProduct: Tefal Snack Collection
@@ -27,31 +27,31 @@ products:
   priceRange: EUR Flexibele snackliefhebbers, gezinnen
   bestFor: €50 - €80
   rating: 4.0
-  affiliateLink: https://partner.bol.com/.../[beste-tosti-ijzer-2026-1]
+  affiliateLink: https://www.amazon.nl/dp/B0BWY9BY2S?tag=kieskeukennl-21
 - name: Princess Croque Monsieur
   verdict: 8/10
   priceRange: EUR Betaalbare klassieker, studenten, tweepersoonshuishoudens
   bestFor: €25 - €45
   rating: 4.0
-  affiliateLink: https://partner.bol.com/.../[beste-tosti-ijzer-2026-2]
+  affiliateLink: https://www.amazon.nl/dp/B0BWY9BY2S?tag=kieskeukennl-21
 - name: Inventum TG500
   verdict: 7/10
   priceRange: EUR Budgetbewuste consumenten, studentenkamers
   bestFor: €15 - €30
   rating: 4.0
-  affiliateLink: https://partner.bol.com/.../[beste-tosti-ijzer-2026-3]
+  affiliateLink: https://www.amazon.nl/dp/B0BWY9BY2S?tag=kieskeukennl-21
 - name: Russell Hobbs Panini
   verdict: 8.5/10
   priceRange: EUR Panini-liefhebbers, snelle bereiding, extra grillfunctie
   bestFor: €40 - €60
   rating: 4.0
-  affiliateLink: https://partner.bol.com/.../[beste-tosti-ijzer-2026-4]
+  affiliateLink: https://www.amazon.nl/dp/B0BWY9BY2S?tag=kieskeukennl-21
 - name: WMF Tosti-ijzer
   verdict: 8.5/10
   priceRange: EUR Designbewuste consumenten, duurzaamheid, premium uitstraling
   bestFor: €70 - €100
   rating: 4.0
-  affiliateLink: https://partner.bol.com/.../[beste-tosti-ijzer-2026-5]
+  affiliateLink: https://www.amazon.nl/dp/B0BWY9BY2S?tag=kieskeukennl-21
 related:
 - beste-koelkast-vriezer-combinatie-2026
 - beste-senseo-koffiezetapparaat-2026

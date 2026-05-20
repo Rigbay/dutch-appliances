@@ -14,8 +14,8 @@ cons:
   - "Kan geluidsproductie hebben bij intensief gebruik"
   - "Niet alle accessoires standaard meegeleverd"
 affiliateLinks:
-  - "https://partner.bol.com/..."
-  - "https://partner.bol.com/..."
+  - "https://www.amazon.nl/dp/B07KT96ZLC?tag=kieskeukennl-21"
+  - "https://www.amazon.nl/dp/B07KT96ZLC?tag=kieskeukennl-21"
 date: 2026-05-14
 modelYear: 2026
 featuredProduct: "Bosch AFS 23-37"
@@ -26,31 +26,31 @@ products:
     priceRange: "EUR Comfort en duurzaamheid bij zwaar werk, grote tuinen, topkwaliteit"
     bestFor: "300 - 450"
     rating: 4.5
-    affiliateLink: "https://partner.bol.com/.../[beste-bosmaaier-2026-1]"
+    affiliateLink: "https://www.amazon.nl/dp/B01AI2PJQY?tag=kieskeukennl-21"
   - name: "FUXTEC FX-MS152"
     verdict: "9.5"
     priceRange: "EUR Kracht, prijs-kwaliteit, zwaar gras en struiken"
     bestFor: "250 - 350"
     rating: 4.8
-    affiliateLink: "https://partner.bol.com/.../[beste-bosmaaier-2026-2]"
+    affiliateLink: "https://www.amazon.nl/dp/B01AI2PJQY?tag=kieskeukennl-21"
   - name: "Einhell GC-BC 52"
     verdict: "8"
     priceRange: "EUR Budgetvriendelijk, zwaar werk, veelzijdigheid met meegeleverde accessoires"
     bestFor: "200 - 280"
     rating: 4.0
-    affiliateLink: "https://partner.bol.com/.../[beste-bosmaaier-2026-3]"
+    affiliateLink: "https://www.amazon.nl/dp/B01AI2PJQY?tag=kieskeukennl-21"
   - name: "Timberpro 2-in-1"
     verdict: "8.5"
     priceRange: "EUR Goede prijs-kwaliteit, veelzijdig met draad en mes"
     bestFor: "220 - 300"
     rating: 4.2
-    affiliateLink: "https://partner.bol.com/.../[beste-bosmaaier-2026-4]"
+    affiliateLink: "https://www.amazon.nl/dp/B01AI2PJQY?tag=kieskeukennl-21"
   - name: "Mardin Kantenmaaier"
     verdict: "8.5"
     priceRange: "EUR Ruig terrein, dik struikgewas, pure kracht"
     bestFor: "230 - 330"
     rating: 4.2
-    affiliateLink: "https://partner.bol.com/.../[beste-bosmaaier-2026-5]"
+    affiliateLink: "https://www.amazon.nl/dp/B01AI2PJQY?tag=kieskeukennl-21"
 related:
   - "beste-grasmaaier-2026"
   - "beste-heggenschaar-2026"

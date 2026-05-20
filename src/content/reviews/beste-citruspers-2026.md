@@ -15,8 +15,8 @@ cons:
 - Kan geluidsproductie hebben bij intensief gebruik
 - Niet alle accessoires standaard meegeleverd
 affiliateLinks:
-- https://partner.bol.com/...
-- https://partner.bol.com/...
+- https://www.amazon.nl/dp/B0CQ8GHBRG?tag=kieskeukennl-21
+- https://www.amazon.nl/dp/B0CQ8GHBRG?tag=kieskeukennl-21
 date: 2026-05-14
 modelYear: 2026
 featuredProduct: Philips Viva Collection
@@ -27,37 +27,37 @@ products:
   priceRange: EUR Dagelijks sap, goede prijs-kwaliteit
   bestFor: 40 - 60
   rating: 4.0
-  affiliateLink: https://partner.bol.com/.../[beste-citruspers-2026-1]
+  affiliateLink: https://www.amazon.nl/dp/B0CQ8GHBRG?tag=kieskeukennl-21
 - name: Princess Citrus Pro
   verdict: '3.8'
   priceRange: EUR Krachtig sap persen, ook grotere vruchten
   bestFor: 50 - 70
   rating: 3.8
-  affiliateLink: https://partner.bol.com/.../[beste-citruspers-2026-2]
+  affiliateLink: https://www.amazon.nl/dp/B0CQ8GHBRG?tag=kieskeukennl-21
 - name: KitchenAid Citruspers (Acc.)
   verdict: '4.2'
   priceRange: EUR Bestaande KitchenAid bezitters, compact
   bestFor: 60 - 80
   rating: 4.2
-  affiliateLink: https://partner.bol.com/.../[beste-citruspers-2026-3]
+  affiliateLink: https://www.amazon.nl/dp/B0CQ8GHBRG?tag=kieskeukennl-21
 - name: Sage The Citrus Press
   verdict: '4.8'
   priceRange: EUR Maximale sapopbrengst, luxe, stil, duurzaam
   bestFor: 120 - 150
   rating: 4.8
-  affiliateLink: https://partner.bol.com/.../[beste-citruspers-2026-4]
+  affiliateLink: https://www.amazon.nl/dp/B0CQ8GHBRG?tag=kieskeukennl-21
 - name: WMF Citruspers (Handmatig)
   verdict: '4.0'
   priceRange: EUR Geruisloos, geen stroom nodig, controle, duurzaam metaal
   bestFor: 40 - 60
   rating: 4.0
-  affiliateLink: https://partner.bol.com/.../[beste-citruspers-2026-5]
+  affiliateLink: https://www.amazon.nl/dp/B0CQ8GHBRG?tag=kieskeukennl-21
 - name: Princess Citruspers (212100)
   verdict: '3.5'
   priceRange: EUR Budgetbewuste gebruiker, incidenteel sap
   bestFor: 25 - 35
   rating: 3.5
-  affiliateLink: https://partner.bol.com/.../[beste-citruspers-2026-6]
+  affiliateLink: https://www.amazon.nl/dp/B0CQ8GHBRG?tag=kieskeukennl-21
 related:
 - beste-koelkast-vriezer-combinatie-2026
 - beste-senseo-koffiezetapparaat-2026

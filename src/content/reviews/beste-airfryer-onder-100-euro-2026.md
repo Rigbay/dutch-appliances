@@ -15,7 +15,7 @@ cons:
 - Kleinere capaciteit
 - Kan luider zijn
 affiliateLinks:
-- https://partner.bol.com/.../placeholder
+- https://www.amazon.nl/dp/B0CF9RZ5NV?tag=kieskeukennl-21
 modelYear: 2026
 featuredProduct: Tefal Easy Fry Compact
 readingTime: 8 min
@@ -26,31 +26,31 @@ products:
   priceRange: EUR 50-400
   bestFor: Kleine keuken, efficiëntie
   rating: 1.6
-  affiliateLink: https://partner.bol.com/.../placeholder
+  affiliateLink: https://www.amazon.nl/dp/B01CI29NHI?tag=kieskeukennl-21
 - name: Princess Digital Airfryer
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Beginners, prijs-kwaliteit
   rating: 2.5
-  affiliateLink: https://partner.bol.com/.../placeholder
+  affiliateLink: https://www.amazon.nl/dp/B01CI29NHI?tag=kieskeukennl-21
 - name: Domo Airfryer
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Ultiem budget, experimenteren
   rating: 2.0
-  affiliateLink: https://partner.bol.com/.../placeholder
+  affiliateLink: https://www.amazon.nl/dp/B01CI29NHI?tag=kieskeukennl-21
 - name: Inventum GF500
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Gezin (klein), degelijke prestaties
   rating: 3.0
-  affiliateLink: https://partner.bol.com/.../placeholder
+  affiliateLink: https://www.amazon.nl/dp/B01CI29NHI?tag=kieskeukennl-21
 - name: Tristar Airfryer
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Zeer prijsbewust, basisgebruik
   rating: 2.2
-  affiliateLink: https://partner.bol.com/.../placeholder
+  affiliateLink: https://www.amazon.nl/dp/B01CI29NHI?tag=kieskeukennl-21
 related:
 - beste-stofzuiger-2026
 - beste-dweilrobot-2026

@@ -14,8 +14,8 @@ cons:
   - "Kan geluidsproductie hebben bij intensief gebruik"
   - "Niet alle accessoires standaard meegeleverd"
 affiliateLinks:
-  - "https://partner.bol.com/..."
-  - "https://partner.bol.com/..."
+  - "https://www.amazon.nl/dp/B01DR6IT06?tag=kieskeukennl-21"
+  - "https://www.amazon.nl/dp/B01DR6IT06?tag=kieskeukennl-21"
 date: 2026-05-14
 modelYear: 2026
 featuredProduct: "Eurom Drops 20"
@@ -26,31 +26,31 @@ products:
     priceRange: "EUR Grotere ruimtes, kelders, ernstige vochtproblemen"
     bestFor: "€ 250 - € 350"
     rating: 4.2
-    affiliateLink: "https://partner.bol.com/.../[beste-ontvochtiger-2026-1]"
+    affiliateLink: "https://www.amazon.nl/dp/B0DF8191SW?tag=kieskeukennl-21"
   - name: "MeacoDry Arete One"
     verdict: "9.5"
     priceRange: "EUR Gemiddelde ruimtes, slaapkamers, stilte is prioriteit"
     bestFor: "€ 200 - € 300"
     rating: 4.8
-    affiliateLink: "https://partner.bol.com/.../[beste-ontvochtiger-2026-2]"
+    affiliateLink: "https://www.amazon.nl/dp/B0DF8191SW?tag=kieskeukennl-21"
   - name: "De'Longhi DEX210F"
     verdict: "8.0"
     priceRange: "EUR Gemiddelde ruimtes, wasdroogfunctie gewenst"
     bestFor: "€ 180 - € 250"
     rating: 4.0
-    affiliateLink: "https://partner.bol.com/.../[beste-ontvochtiger-2026-3]"
+    affiliateLink: "https://www.amazon.nl/dp/B0DF8191SW?tag=kieskeukennl-21"
   - name: "Pro Breeze 20L"
     verdict: "8.8"
     priceRange: "EUR Grote ruimtes, garages, snelle en krachtige ontvochtiging"
     bestFor: "€ 220 - € 320"
     rating: 4.4
-    affiliateLink: "https://partner.bol.com/.../[beste-ontvochtiger-2026-4]"
+    affiliateLink: "https://www.amazon.nl/dp/B0DF8191SW?tag=kieskeukennl-21"
   - name: "Inventum AD500"
     verdict: "7.0"
     priceRange: "EUR Kleine ruimtes, caravans, budgetbewuste keuze"
     bestFor: "€ 100 - € 150"
     rating: 3.5
-    affiliateLink: "https://partner.bol.com/.../[beste-ontvochtiger-2026-5]"
+    affiliateLink: "https://www.amazon.nl/dp/B0DF8191SW?tag=kieskeukennl-21"
 related:
   - "beste-wasdroger-2026"
   - "beste-elektrische-kachel-2026"

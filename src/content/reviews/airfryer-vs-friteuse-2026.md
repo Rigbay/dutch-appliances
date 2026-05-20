@@ -15,7 +15,7 @@ cons:
 - Groter formaat
 - Langer bakken
 affiliateLinks:
-- https://partner.bol.com/.../placeholder
+- https://www.amazon.nl/dp/B08T6H8XZR?tag=kieskeukennl-21
 modelYear: 2026
 featuredProduct: Philips Airfryer XXL
 readingTime: 10 min
@@ -26,43 +26,43 @@ products:
   priceRange: EUR 50-400
   bestFor: Gezinnen, veelzijdigheid, beste resultaten
   rating: 4.8
-  affiliateLink: https://partner.bol.com/.../placeholder
+  affiliateLink: https://www.amazon.nl/dp/B0CQ8GHBRG?tag=kieskeukennl-21
 - name: '**Tefal Oleoclean Pro 3.5L**'
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Authentieke smaak, grote porties, filter
   rating: 3.5
-  affiliateLink: https://partner.bol.com/.../placeholder
+  affiliateLink: https://www.amazon.nl/dp/B0CQ8GHBRG?tag=kieskeukennl-21
 - name: '**Ninja Foodi Max Dual Zone**'
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Twee gerechten tegelijk, veelzijdigheid
   rating: 4.7
-  affiliateLink: https://partner.bol.com/.../placeholder
+  affiliateLink: https://www.amazon.nl/dp/B0CQ8GHBRG?tag=kieskeukennl-21
 - name: '**Princess Aerofryer XXL**'
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Prijs-kwaliteit, gezinnen
   rating: 4.0
-  affiliateLink: https://partner.bol.com/.../placeholder
+  affiliateLink: https://www.amazon.nl/dp/B0CQ8GHBRG?tag=kieskeukennl-21
 - name: '**Tristar FR-6980**'
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Budget, kleine huishoudens
   rating: 3.0
-  affiliateLink: https://partner.bol.com/.../placeholder
+  affiliateLink: https://www.amazon.nl/dp/B0CQ8GHBRG?tag=kieskeukennl-21
 - name: '**Philips Essential Airfryer**'
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Kleine keukens, 1-2 personen
   rating: 3.5
-  affiliateLink: https://partner.bol.com/.../placeholder
+  affiliateLink: https://www.amazon.nl/dp/B0CQ8GHBRG?tag=kieskeukennl-21
 - name: '**Tefal Easy Clean FF1231**'
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Compact, eenvoudig, no-nonsense
   rating: 2.0
-  affiliateLink: https://partner.bol.com/.../placeholder
+  affiliateLink: https://www.amazon.nl/dp/B0CQ8GHBRG?tag=kieskeukennl-21
 related:
 - beste-airfryer-2026
 - beste-keukenmachine-2026

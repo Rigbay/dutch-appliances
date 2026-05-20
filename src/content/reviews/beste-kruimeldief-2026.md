@@ -14,7 +14,7 @@ cons:
 - Sommige modellen prijzig
 - Onderhoud nodig
 affiliateLinks:
-- https://partner.bol.com/click/click?p=1&t=url&s=placeholder&f=ban&name=beste-kruimeldief-2026
+- https://www.amazon.nl/dp/B09MD6NFGL?tag=kieskeukennl-21
 date: 2026-05-14
 modelYear: 2026
 featuredProduct: ''
@@ -29,43 +29,43 @@ products:
   priceRange: Laserdetectie, HEPA-filter, LCD-scherm
   bestFor: € 799,00
   rating: 4.8
-  affiliateLink: https://partner.bol.com/click/click?p=1&t=url&s=placeholder&f=ban&name=beste-kruimeldief-2026-dyson-v15-detect™-absolute
+  affiliateLink: https://www.amazon.nl/dp/B09MD6NFGL?tag=kieskeukennl-21
 - name: Philips SpeedPro Max Aqua FC6904/01
   verdict: € 399,00
   priceRange: 2-in-1 functie (stofzuigen & dweilen), 360° zuigmond
   bestFor: € 399,00
   rating: 4.5
-  affiliateLink: https://partner.bol.com/click/click?p=1&t=url&s=placeholder&f=ban&name=beste-kruimeldief-2026-philips-speedpro-max-aqua-fc69
+  affiliateLink: https://www.amazon.nl/dp/B09MD6NFGL?tag=kieskeukennl-21
 - name: Xiaomi Mi Handheld Vacuum Cleaner 1C
   verdict: € 129,00
   priceRange: Lichtgewicht, goede prijs-kwaliteit
   bestFor: € 129,00
   rating: 4.0
-  affiliateLink: https://partner.bol.com/click/click?p=1&t=url&s=placeholder&f=ban&name=beste-kruimeldief-2026-xiaomi-mi-handheld-vacuum-clea
+  affiliateLink: https://www.amazon.nl/dp/B09MD6NFGL?tag=kieskeukennl-21
 - name: Bosch Unlimited Serie
   verdict: € 349,00
   priceRange: Power for ALL accusysteem, verwisselbare accu
   bestFor: € 349,00
   rating: 4.4
-  affiliateLink: https://partner.bol.com/click/click?p=1&t=url&s=placeholder&f=ban&name=beste-kruimeldief-2026-bosch-unlimited-serie
+  affiliateLink: https://www.amazon.nl/dp/B09MD6NFGL?tag=kieskeukennl-21
 - name: Rowenta RH7233WO Air Force Light
   verdict: € 159,00
   priceRange: Compact, lichtgewicht, snoerloos
   bestFor: € 159,00
   rating: 3.8
-  affiliateLink: https://partner.bol.com/click/click?p=1&t=url&s=placeholder&f=ban&name=beste-kruimeldief-2026-rowenta-rh7233wo-air-force-lig
+  affiliateLink: https://www.amazon.nl/dp/B09MD6NFGL?tag=kieskeukennl-21
 - name: Hoover H-FREE 300 HF322H 011
   verdict: € 199,00
   priceRange: Compact opvouwbaar, LED verlichting
   bestFor: € 199,00
   rating: 4.1
-  affiliateLink: https://partner.bol.com/click/click?p=1&t=url&s=placeholder&f=ban&name=beste-kruimeldief-2026-hoover-h-free-300-hf322h-011
+  affiliateLink: https://www.amazon.nl/dp/B09MD6NFGL?tag=kieskeukennl-21
 - name: Samsung Bespoke Jet™ AI Vacuum Cleaner
   verdict: € 999,00
   priceRange: All-in-one laadstation, automatische vuilafvoer
   bestFor: € 999,00
   rating: 4.9
-  affiliateLink: https://partner.bol.com/click/click?p=1&t=url&s=placeholder&f=ban&name=beste-kruimeldief-2026-samsung-bespoke-jet™-ai-vacuum
+  affiliateLink: https://www.amazon.nl/dp/B09MD6NFGL?tag=kieskeukennl-21
 ---
 
 # De Beste Kruimeldieven en Handstofzuigers van 2026: Een Complete Koopgids

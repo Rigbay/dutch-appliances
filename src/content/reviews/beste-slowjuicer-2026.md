@@ -15,8 +15,8 @@ cons:
 - Kan geluidsproductie hebben bij intensief gebruik
 - Niet alle accessoires standaard meegeleverd
 affiliateLinks:
-- https://partner.bol.com/...
-- https://partner.bol.com/...
+- https://www.amazon.nl/dp/B06W5KYR22?tag=kieskeukennl-21
+- https://www.amazon.nl/dp/B06W5KYR22?tag=kieskeukennl-21
 date: 2026-05-14
 modelYear: 2026
 featuredProduct: KitchenBrothers
@@ -27,32 +27,32 @@ products:
   priceRange: EUR Beginners, af en toe sap, beperkt budget
   bestFor: €150 - €200
   rating: 3.2
-  affiliateLink: https://partner.bol.com/.../[beste-slowjuicer-2026-1]
+  affiliateLink: https://www.amazon.nl/dp/B07LFW7KJQ?tag=kieskeukennl-21
 - name: Byzoo Rhino
   verdict: '8.0'
   priceRange: EUR Dagelijks gebruik, goede prijs-kwaliteit, makkelijk schoonmaken
   bestFor: €250 - €350
   rating: 4.0
-  affiliateLink: https://partner.bol.com/.../[beste-slowjuicer-2026-2]
+  affiliateLink: https://www.amazon.nl/dp/B07LFW7KJQ?tag=kieskeukennl-21
 - name: Nutribullet Juicer Pro
   verdict: '8.5'
   priceRange: EUR Krachtig, veelzijdig, goede opbrengst, ook voor harde groenten
   bestFor: €300 - €400
   rating: 4.2
-  affiliateLink: https://partner.bol.com/.../[beste-slowjuicer-2026-3]
+  affiliateLink: https://www.amazon.nl/dp/B07LFW7KJQ?tag=kieskeukennl-21
 - name: Kuvings REVO830
   verdict: '9.5'
   priceRange: EUR Maximale opbrengst en voedingswaarde, stille werking, brede vulopening
   bestFor: €550 - €700
   rating: 4.8
-  affiliateLink: https://partner.bol.com/.../[beste-slowjuicer-2026-4]
+  affiliateLink: https://www.amazon.nl/dp/B07LFW7KJQ?tag=kieskeukennl-21
 - name: Angel Juicer 5500
   verdict: '9.8'
   priceRange: EUR Absolute topkwaliteit, maximale opbrengst, duurzaamheid, stille
     werking
   bestFor: €800 - €1000+
   rating: 4.9
-  affiliateLink: https://partner.bol.com/.../[beste-slowjuicer-2026-5]
+  affiliateLink: https://www.amazon.nl/dp/B07LFW7KJQ?tag=kieskeukennl-21
 related:
 - beste-koelkast-vriezer-combinatie-2026
 - beste-senseo-koffiezetapparaat-2026

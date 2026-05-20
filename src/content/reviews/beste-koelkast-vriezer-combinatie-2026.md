@@ -15,9 +15,9 @@ cons:
 - Intelligente functies kunnen complex zijn voor minder technisch ingestelde gebruikers.
 - Hogere aanschafprijs voor premium modellen.
 affiliateLinks:
-- https://partner.bol.com/...
-- https://partner.bol.com/...
-- https://partner.bol.com/...
+- https://www.amazon.nl/dp/B0CH7WGF9S?tag=kieskeukennl-21
+- https://www.amazon.nl/dp/B0CH7WGF9S?tag=kieskeukennl-21
+- https://www.amazon.nl/dp/B0CH7WGF9S?tag=kieskeukennl-21
 date: 2026-05-14
 modelYear: 2026
 featuredProduct: Samsung RF9000 Family Hub
@@ -30,7 +30,7 @@ products:
   bestFor: Technologisch onderlegde gezinnen die een centrale hub voor hun huishouden
     zoeken.
   rating: 4.8
-  affiliateLink: https://partner.bol.com/...
+  affiliateLink: https://www.amazon.nl/dp/B0CH7WGF9S?tag=kieskeukennl-21
 - name: Liebherr CBN 4813 Comfort NoFrost
   verdict: Voor wie compromisloze kwaliteit en een stille, betrouwbare werking zoekt,
     is de Liebherr CBN 4813 een uitstekende, duurzame keuze.
@@ -38,7 +38,7 @@ products:
   bestFor: Huishoudens die waarde hechten aan lange levensduur, efficiëntie en een
     stille werking.
   rating: 4.7
-  affiliateLink: https://partner.bol.com/...
+  affiliateLink: https://www.amazon.nl/dp/B0CH7WGF9S?tag=kieskeukennl-21
 - name: Bosch KGN86AI3P Serie 8
   verdict: De Bosch KGN86AI3P biedt een indrukwekkende balans tussen geavanceerde
     technologie, ruime inhoud en een modern design, voor een concurrerende prijs.
@@ -46,7 +46,7 @@ products:
   bestFor: Gezinnen die een ruime, betrouwbare en technologisch geavanceerde koelkast-vriezer
     willen zonder de hoofdprijs te betalen.
   rating: 4.6
-  affiliateLink: https://partner.bol.com/...
+  affiliateLink: https://www.amazon.nl/dp/B0CH7WGF9S?tag=kieskeukennl-21
 - name: AEG SCS 61800 F1
   verdict: Een solide en betaalbare keuze voor kleinere huishoudens of keukens, met
     een focus op basisfuncties en energiezuinigheid.
@@ -54,7 +54,7 @@ products:
   bestFor: Kleine huishoudens, studenten of als extra koelkast-vriezer op een beperkt
     budget.
   rating: 4.2
-  affiliateLink: https://partner.bol.com/...
+  affiliateLink: https://www.amazon.nl/dp/B0CH7WGF9S?tag=kieskeukennl-21
 - name: LG InstaView Door-in-Door GSX960NSAZ
   verdict: De LG InstaView onderscheidt zich met zijn unieke 'klop-en-kijk' functie
     en efficiënte koeltechnologie, ideaal voor wie gemak en innovatie zoekt.
@@ -62,7 +62,7 @@ products:
   bestFor: Gezinnen die houden van slimme gadgets en een stijlvolle, praktische koelkast
     wensen.
   rating: 4.5
-  affiliateLink: https://partner.bol.com/...
+  affiliateLink: https://www.amazon.nl/dp/B0CH7WGF9S?tag=kieskeukennl-21
 related:
 - airfryer-vs-friteuse-2026
 - beste-afzuigkap-2026

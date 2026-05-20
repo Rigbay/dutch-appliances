@@ -15,11 +15,11 @@ cons:
 - Initiële investering kan hoger zijn
 - Geluidsniveau kan variëren per model
 affiliateLinks:
-- https://partner.bol.com/nl/d/bosch-pxx675dv2e-inductiekookplaat/9300000174802116
-- https://partner.bol.com/nl/d/siemens-eh675mv1e-inductiekookplaat/65647182
-- https://partner.bol.com/nl/d/etna-wi562in-inductiekookplaat/68800123
-- https://partner.bol.com/nl/d/inventum-ikg6015-inductiekookplaat/9200000084803076
-- https://partner.bol.com/nl/d/tefal-everyday-induction-yt3041-draagbare-inductiekookplaat/9200000078230391
+- https://www.amazon.nl/dp/B0D14ZHFS8?tag=kieskeukennl-21
+- https://www.amazon.nl/dp/B0D14ZHFS8?tag=kieskeukennl-21
+- https://www.amazon.nl/dp/B0D14ZHFS8?tag=kieskeukennl-21
+- https://www.amazon.nl/dp/B0D14ZHFS8?tag=kieskeukennl-21
+- https://www.amazon.nl/dp/B0D14ZHFS8?tag=kieskeukennl-21
 date: 2026-05-13
 modelYear: 2026
 featuredProduct: Bosch PXX675DV2E
@@ -32,7 +32,7 @@ products:
   bestFor: Gezinnen en enthousiaste thuiskoks die een betrouwbare en veelzijdige inductiekookplaat
     zoeken.
   rating: 4.8
-  affiliateLink: https://partner.bol.com/nl/d/bosch-pxx675dv2e-inductiekookplaat/9300000174802116
+  affiliateLink: https://www.amazon.nl/dp/B0D14ZHFS8?tag=kieskeukennl-21
 - name: Siemens iQ700 EH675MV1E
   verdict: Voor wie het beste van het beste wil op het gebied van design en prestaties,
     met slimme functies en een premium uitstraling.
@@ -40,7 +40,7 @@ products:
   bestFor: Liefhebbers van designkeukens en koks die maximale controle en flexibiliteit
     wensen.
   rating: 4.7
-  affiliateLink: https://partner.bol.com/nl/d/siemens-eh675mv1e-inductiekookplaat/65647182
+  affiliateLink: https://www.amazon.nl/dp/B0D14ZHFS8?tag=kieskeukennl-21
 - name: Etna Inductie (Diverse modellen, bv. WI562IN)
   verdict: Etna biedt solide en betaalbare inductiekookplaten die een uitstekende
     upgrade zijn vanaf gas of keramisch.
@@ -48,7 +48,7 @@ products:
   bestFor: Huishoudens met een beperkter budget die een betrouwbare en gebruiksvriendelijke
     inductiekookplaat zoeken.
   rating: 4.3
-  affiliateLink: https://partner.bol.com/nl/d/etna-wi562in-inductiekookplaat/68800123
+  affiliateLink: https://www.amazon.nl/dp/B0D14ZHFS8?tag=kieskeukennl-21
 - name: Inventum IKG6015
   verdict: Een no-nonsense, prijsbewuste keuze die de basisprincipes van inductie
     perfect beheerst.
@@ -56,14 +56,14 @@ products:
   bestFor: Starters op de inductie-markt of voor wie een extra, voordelige kookzone
     nodig heeft.
   rating: 4.0
-  affiliateLink: https://partner.bol.com/nl/d/inventum-ikg6015-inductiekookplaat/9200000084803076
+  affiliateLink: https://www.amazon.nl/dp/B0D14ZHFS8?tag=kieskeukennl-21
 - name: Tefal Everyday Induction (Draagbaar)
   verdict: De ideale oplossing voor wie flexibiliteit nodig heeft, of het nu voor
     een studentenkamer, camper of als tijdelijke oplossing is.
   priceRange: EUR 70-100
   bestFor: Studenten, kampeerders, kleine huishoudens of als tijdelijke kookoplossing.
   rating: 4.2
-  affiliateLink: https://partner.bol.com/nl/d/tefal-everyday-induction-yt3041-draagbare-inductiekookplaat/9200000078230391
+  affiliateLink: https://www.amazon.nl/dp/B0D14ZHFS8?tag=kieskeukennl-21
 related:
 - beste-magnetron-2026
 - beste-stoomoven-2026
@@ -168,11 +168,11 @@ De specificaties op papier vertellen niet het hele verhaal. Er zijn diverse 'onz
 
 | Product                       | Inhoud (zones) | Max. Vermogen (kW) | Prijsrange (EUR) | Beste voor                                     | Score (1-5) | Affiliate Link                                                                           |
 | :---------------------------- | :------------- | :----------------- | :--------------- | :--------------------------------------------- | :---------- | :--------------------------------------------------------------------------------------- |
-| Bosch PXX675DV2E              | 4              | 7.4                | 700-900          | Allrounder, gezinnen, enthousiaste koks        | 4.8         | [Bol.com](https://partner.bol.com/nl/d/bosch-pxx675dv2e-inductiekookplaat/9300000174802116) |
-| Siemens iQ700 EH675MV1E       | 4 (flexzones)  | 7.4                | 900-1200         | Designliefhebbers, maximale controle            | 4.7         | [Bol.com](https://partner.bol.com/nl/d/siemens-eh675mv1e-inductiekookplaat/65647182) |
-| Etna Inductie (bv. WI562IN)   | 4              | 7.2                | 300-500          | Budgetbewust, starter op inductie             | 4.3         | [Bol.com](https://partner.bol.com/nl/d/etna-wi562in-inductiekookplaat/68800123) |
-| Inventum IKG6015              | 4              | 6.0                | 200-300          | Zeer budgetbewust, extra kookzone              | 4.0         | [Bol.com](https://partner.bol.com/nl/d/inventum-ikg6015-inductiekookplaat/9200000084803076) |
-| Tefal Everyday Induction (D)  | 1 (draagbaar)  | 2.0                | 70-100           | Studenten, camper, tijdelijke oplossing        | 4.2         | [Bol.com](https://partner.bol.com/nl/d/tefal-everyday-induction-yt3041-draagbare-inductiekookplaat/9200000078230391) |
+| Bosch PXX675DV2E              | 4              | 7.4                | 700-900          | Allrounder, gezinnen, enthousiaste koks        | 4.8         | [Bol.com](https://www.amazon.nl/dp/B0D14ZHFS8?tag=kieskeukennl-21 |
+| Siemens iQ700 EH675MV1E       | 4 (flexzones)  | 7.4                | 900-1200         | Designliefhebbers, maximale controle            | 4.7         | [Bol.com](https://www.amazon.nl/dp/B0D14ZHFS8?tag=kieskeukennl-21 |
+| Etna Inductie (bv. WI562IN)   | 4              | 7.2                | 300-500          | Budgetbewust, starter op inductie             | 4.3         | [Bol.com](https://www.amazon.nl/dp/B0D14ZHFS8?tag=kieskeukennl-21 |
+| Inventum IKG6015              | 4              | 6.0                | 200-300          | Zeer budgetbewust, extra kookzone              | 4.0         | [Bol.com](https://www.amazon.nl/dp/B0D14ZHFS8?tag=kieskeukennl-21 |
+| Tefal Everyday Induction (D)  | 1 (draagbaar)  | 2.0                | 70-100           | Studenten, camper, tijdelijke oplossing        | 4.2         | [Bol.com](https://www.amazon.nl/dp/B0D14ZHFS8?tag=kieskeukennl-21 |
 | Miele KM 7464 FR (voorbeeld)  | 4 (flexzones)  | 7.3                | 1200-1600        | Premium, hoogwaardige afwerking, lange levensduur | 4.9         | (Niet standaard in tabel wegens hogere prijsklasse)                                      |
 
 *(Let op: prijzen zijn indicatief en kunnen variëren. 'D' staat voor Draagbaar)*

@@ -15,7 +15,7 @@ cons:
 - Soms minder duurzaam
 - Minder luxe functies
 affiliateLinks:
-- https://partner.bol.com/.../placeholder
+- https://www.amazon.nl/dp/B085J8LBXF?tag=kieskeukennl-21
 modelYear: 2026
 featuredProduct: De'Longhi Stilosa
 readingTime: 7 min
@@ -26,37 +26,37 @@ products:
   priceRange: EUR 50-400
   bestFor: Compacte volautomaat, snelle koffie
   rating: 4.5
-  affiliateLink: https://partner.bol.com/.../placeholder
+  affiliateLink: https://www.amazon.nl/dp/B085J8LBXF?tag=kieskeukennl-21
 - name: '**Philips 5400 Lite**'
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Veelzijdige koffiedrinker
   rating: 4.2
-  affiliateLink: https://partner.bol.com/.../placeholder
+  affiliateLink: https://www.amazon.nl/dp/B085J8LBXF?tag=kieskeukennl-21
 - name: '**Krups Virtuoso**'
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Kleine keuken, stijlvol design
   rating: 1.21015
-  affiliateLink: https://partner.bol.com/.../placeholder
+  affiliateLink: https://www.amazon.nl/dp/B085J8LBXF?tag=kieskeukennl-21
 - name: '**Bosch Tassimo My Way**'
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Gemak, variatie aan cups
   rating: 3.8
-  affiliateLink: https://partner.bol.com/.../placeholder
+  affiliateLink: https://www.amazon.nl/dp/B085J8LBXF?tag=kieskeukennl-21
 - name: '**Melitta Look IV**'
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Eenvoud, grote kan koffie
   rating: 1.21015
-  affiliateLink: https://partner.bol.com/.../placeholder
+  affiliateLink: https://www.amazon.nl/dp/B085J8LBXF?tag=kieskeukennl-21
 - name: '**Severin KA 9254**'
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Zeer budgetvriendelijk filter
   rating: 1.21015
-  affiliateLink: https://partner.bol.com/.../placeholder
+  affiliateLink: https://www.amazon.nl/dp/B085J8LBXF?tag=kieskeukennl-21
 related:
 - beste-stofzuiger-2026
 - beste-dweilrobot-2026
