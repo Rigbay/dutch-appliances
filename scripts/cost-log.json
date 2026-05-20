@@ -166,5 +166,21 @@
     "tokens_out": 4000,
     "cost_est": 0.0016936000000000002,
     "slug": "beste-afzuigkap-2026"
+  },
+  {
+    "date": "2026-05-20",
+    "model": "gemini",
+    "tokens_in": 952,
+    "tokens_out": 4000,
+    "cost_est": 0.0016952,
+    "slug": "beste-robotgrasmaaier-2026"
+  },
+  {
+    "date": "2026-05-20",
+    "model": "gemini",
+    "tokens_in": 940,
+    "tokens_out": 4000,
+    "cost_est": 0.0016940000000000002,
+    "slug": "beste-tuinslang-2026"
   }
 ]
