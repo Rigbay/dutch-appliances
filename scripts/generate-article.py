@@ -210,7 +210,7 @@ def build_article(data: dict, slug: str, model_year: int = 2026) -> str:
     for r in related:
         lines.append(f'  - "{r}"')
 
-    lines.append("draft: true")
+    lines.append("draft: false")
     lines.append("---")
     lines.append("")
 

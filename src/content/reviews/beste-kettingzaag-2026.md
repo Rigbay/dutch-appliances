@@ -54,7 +54,6 @@ related:
   - "beste-grasmaaier-2026"
   - "beste-bosmaaier-2026"
   - "beste-heggenschaar-2026"
-draft: true
 ---
 
 # De Beste Kettingzagen in 2026: Je Gids voor Tuinonderhoud

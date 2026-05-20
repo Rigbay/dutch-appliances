@@ -61,7 +61,6 @@ related:
   - "robotgrasmaaier-installatie"
   - "tuinonderhoud-tips"
   - "duurzame-tuin"
-draft: true
 ---
 
 # De Beste Robotgrasmaaier 2026: Zonder Moeite een Perfect Gazon

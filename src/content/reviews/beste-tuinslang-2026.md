@@ -61,7 +61,6 @@ related:
   - "beste-tuingereedschap-2026"
   - "waterbesparing-in-de-tuin"
   - "smart-home-voor-de-tuin"
-draft: true
 ---
 
 # De Beste Tuinslangen, Haspels & Sproeisystemen 2026: Efficiënt Water Geven in Elke Tuin
