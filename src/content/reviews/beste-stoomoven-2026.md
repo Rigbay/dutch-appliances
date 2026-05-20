@@ -71,7 +71,7 @@ Het grote voordeel van stoom koken is tweeledig. Ten eerste behoudt voedsel meer
 
 Voor de meeste kopers die serieus met stoom willen koken, is de **Bosch Serie 8 CSG656BS7** de beste allround keuze. Hij combineert stoom met hetelucht, heeft een ingebouwde PerfectBake-sensor en automatische programma's die het giswerk wegnemen. Voor wie het allerbeste wil en het budget heeft, staat de **Miele DG 2740** bovenaan — Duitse bouwkwaliteit met een levensduur van twintig jaar is niet overdreven bij dit merk. En voor wie simpelweg wil ontdekken of stoom koken iets voor hen is, bieden de **Tefal Steam Oven VC5008** en **Steba DG 40** een betaalbare instap zonder gedoe met inbouw.
 
-Deze gids is gebaseerd op productspecificaties, prijzen op Amazon.nl en Bol.com, en praktijkervaringen van gebruikers. Het is een eerlijke vergelijking die kijkt naar wat écht telt: stoomkwaliteit, gebruiksgemak, onderhoud en prijs-kwaliteit.
+Deze gids is gebaseerd op productspecificaties, prijzen op Amazon.nl, en praktijkervaringen van gebruikers. Het is een eerlijke vergelijking die kijkt naar wat écht telt: stoomkwaliteit, gebruiksgemak, onderhoud en prijs-kwaliteit.
 
 ## Snel advies
 

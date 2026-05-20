@@ -3,7 +3,7 @@ title: 'De Ultieme Koopgids: Verse Sappen Thuis met de Beste Sapcentrifuges en S
   (2026 Editie)'
 slug: beste-sapcentrifuge-2026
 description: Koopgids voor de beste sapcentrifuges en slowjuicers voor verse sappen
-  thuis. Vergelijk de beste modellen en prijzen op Bol.com.
+  thuis. Vergelijk de beste modellen en prijzen op Amazon.nl.
 category: keuken
 rating: 4.3
 priceRange: EUR 30-600
