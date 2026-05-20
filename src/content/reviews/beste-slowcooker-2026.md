@@ -153,7 +153,7 @@ De markt voor slowcookers biedt opties voor elk budget en elke behoefte. We hebb
 **Voordelen:**
 *   **Geleide recepten:** De app biedt honderden recepten met stap-voor-stap instructies en past de kookinstellingen automatisch aan.
 *   **Veelzijdigheid:** Kan naast slowcooken ook druk koken, stomen, bakken en meer.
-*   **Compacte vormgeving:** Ondanks de vele functies is het apparaat redelijk compact ontworpen. onze [compacte airfryer gids](/reviews/beste-compacte-airfryer-2026/).
+*   **Compacte vormgeving:** Ondanks de vele functies is het apparaat redelijk compact ontworpen. onze [compacte airfryer gids](/reviews/beste-compacte-airfryer-2026/). onze [compacte airfryer gids](/reviews/beste-compacte-airfryer-2026/). onze [airfryer friteuse gids](/reviews/airfryer-vs-friteuse-2026/). onze [airfryer gids](/reviews/beste-airfryer-2026/).
 *   **Moderne technologie:** Connectiviteit via Bluetooth en een intuïtieve interface.
 
 **Nadelen:**

@@ -75,7 +75,7 @@ Voordat je je keuze maakt, is het belangrijk om jezelf een paar vragen te stelle
 
 *   **Kies de Philips Viva Collection als je** een betrouwbare, gebruiksvriendelijke elektrische citruspers zoekt voor dagelijks gebruik en een goede prijs-kwaliteitverhouding belangrijk vindt.
 *   **Kies de Princess Citrus Pro als je** een krachtige, degelijke elektrische citruspers wilt die ook grotere vruchten zoals grapefruits moeiteloos aankan en je bereid bent iets meer te betalen voor extra functionaliteit.
-*   **Kies de KitchenAid Citruspers (accessoire) als je** al een KitchenAid keukenmachine bezit en op zoek bent naar een compacte, efficiënte oplossing voor het persen van citrusvruchten zonder extra apparaten. onze [keukenmachine gids](/reviews/beste-keukenmachine-2026/). onze [compacte airfryer gids](/reviews/beste-compacte-airfryer-2026/).
+*   **Kies de KitchenAid Citruspers (accessoire) als je** al een KitchenAid keukenmachine bezit en op zoek bent naar een compacte, efficiënte oplossing voor het persen van citrusvruchten zonder extra apparaten. onze [keukenmachine gids](/reviews/beste-keukenmachine-2026/). onze [compacte airfryer gids](/reviews/beste-compacte-airfryer-2026/). onze [keukenmachine gids](/reviews/beste-keukenmachine-2026/). onze [compacte airfryer gids](/reviews/beste-compacte-airfryer-2026/). onze [airfryer friteuse gids](/reviews/airfryer-vs-friteuse-2026/).
 
 ## Beste Keuze per Budget
 

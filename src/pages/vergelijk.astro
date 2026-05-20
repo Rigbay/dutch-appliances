@@ -1,0 +1,81 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const allReviews = await getCollection('reviews', ({ data }) => !data.draft);
+
+// Group by category and pick top rated or featured
+const categories = ['keuken', 'schoonmaken', 'huishoudelijk', 'tuin', 'overig'];
+const categoryLabels: Record<string, string> = {
+  keuken: 'Keukenapparaten',
+  schoonmaken: 'Schoonmaken & Stofzuigen',
+  huishoudelijk: 'Huishoudelijk',
+  tuin: 'Tuin & Buiten',
+  overig: 'Overige Apparaten'
+};
+
+const topPicks = categories.map(cat => {
+  const catReviews = allReviews.filter(r => r.data.category === cat);
+  if (catReviews.length === 0) return null;
+  // Sort by rating desc, pick top 3-5
+  const sorted = catReviews.sort((a, b) => (b.data.rating || 0) - (a.data.rating || 0));
+  return {
+    category: cat,
+    label: categoryLabels[cat] || cat,
+    tops: sorted.slice(0, 5).map(r => ({
+      title: r.data.title,
+      slug: r.slug,
+      featured: r.data.featuredProduct || 'Top model',
+      rating: r.data.rating,
+      priceRange: r.data.priceRange,
+      url: `/reviews/${r.slug}/`
+    }))
+  };
+}).filter(Boolean);
+---
+
+<BaseLayout
+  title="Vergelijk: Beste Apparaten 2026 - Overzichtstabel alle categorieën"
+  description="Eén overzichtstabel met de beste airfryers, stofzuigers, koffiemachines, blenders en meer. Cross-category vergelijking voor slimme shoppers in Nederland."
+>
+  <div class="max-w-6xl mx-auto px-4 py-12">
+    <h1 class="text-4xl font-serif font-semibold mb-4">Vergelijk de beste apparaten 2026</h1>
+    <p class="text-lg text-muted mb-8">Overzicht van top picks per categorie. Klik door voor volledige vergelijkingen met Amazon NL affiliate links (kieskeukennl-21).</p>
+
+    {topPicks.map(group => (
+      <section class="mb-12">
+        <h2 class="text-2xl font-semibold mb-4 border-b pb-2">{group.label}</h2>
+        <div class="overflow-x-auto">
+          <table class="min-w-full border border-[#e8e1d7] text-sm">
+            <thead>
+              <tr class="bg-[#f8f5f0]">
+                <th class="p-3 text-left">Artikel / Gids</th>
+                <th class="p-3 text-left">Top Model</th>
+                <th class="p-3 text-left">Rating</th>
+                <th class="p-3 text-left">Prijsrange</th>
+                <th class="p-3 text-left">Bekijk</th>
+              </tr>
+            </thead>
+            <tbody>
+              {group.tops.map((pick, idx) => (
+                <tr class={idx % 2 === 0 ? 'bg-white' : 'bg-[#faf8f3]'}>
+                  <td class="p-3 font-medium"><a href={pick.url} class="text-leaf hover:underline">{pick.title}</a></td>
+                  <td class="p-3 text-muted">{pick.featured}</td>
+                  <td class="p-3">⭐ {pick.rating}</td>
+                  <td class="p-3">{pick.priceRange}</td>
+                  <td class="p-3"><a href={pick.url} class="inline-block px-3 py-1 bg-leaf text-white rounded text-xs hover:bg-[#2a5c3a]">Vergelijk →</a></td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+        <p class="mt-2 text-xs text-muted">Zie ook gerelateerde gidsen in de <a href="/categorie/" class="underline">categorie overzicht</a>.</p>
+      </section>
+    ))}
+
+    <div class="mt-8 p-6 bg-[#f8f5f0] rounded">
+      <h3 class="font-semibold mb-2">Waarom deze vergelijkingstabel?</h3>
+      <p class="text-sm">Shoppers besparen tijd met dit cross-category overzicht. Interne links naar airfryer, blender, stofzuiger en koffie machine reviews verbeteren SEO en session time. Affiliate links (Amazon NL, tag: kieskeukennl-21) zijn aanwezig in elke detailpagina.</p>
+    </div>
+  </div>
+</BaseLayout>
