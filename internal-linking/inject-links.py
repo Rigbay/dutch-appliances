@@ -5,8 +5,8 @@ import re, yaml
 from pathlib import Path
 from collections import defaultdict
 
-REVIEWS_DIR = Path("/workspace/agent-workspace/scripts/missions/passive-income/dutch-appliances-site/src/content/reviews")
-OUTPUT_FILE = Path("/workspace/agent-workspace/scripts/missions/passive-income/dutch-appliances-site/internal-linking/links-added.md")
+REVIEWS_DIR = Path("/tmp/dutch-appliances/src/content/reviews")
+OUTPUT_FILE = Path("/tmp/dutch-appliances/internal-linking/links-added.md")
 
 def build_keyword_map(existing_slugs):
     overrides = {
