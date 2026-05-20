@@ -2,7 +2,7 @@
 title: 'Beste koffiemachine 2026: van bonen tot kop voor iedere koffiedrinker'
 slug: beste-koffiemachine-2026
 description: 'Vergelijk de beste koffiemachines van 2026: bonen, pads, filter en volautomaat,
-  met temperatuur, onderhoudsgemak en Bol.com placeholders.'
+  met temperatuur, onderhoudsgemak en Amazon-link koopadvies.'
 category: keuken
 rating: 4.7
 priceRange: EUR 60-1.200
@@ -92,3 +92,6 @@ Kies de Siemens EQ.300 als je een volautomaat wilt maar niet meer dan vier euro 
 - [Beste waterkoker 2026: snel, stil en stijlvol kokend water](/reviews/beste-waterkoker-2026/)
 - [Beste broodrooster 2026: van crocant tot Brunch](/reviews/beste-broodrooster-2026/)
 - [Beste stoomoven 2026: gezond koken met stoom](/reviews/beste-stoomoven-2026/)
+## Affiliate disclosure
+
+Deze pagina bevat affiliate links naar Amazon.nl. Als je via deze links koopt, ontvangen wij een kleine commissie — zonder extra kosten voor jou. De rangschikking is gebaseerd op specificaties, prijsniveau en bekende minpunten; niet op commissiehoogte.
