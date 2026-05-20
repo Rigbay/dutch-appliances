@@ -2,7 +2,7 @@
 title: 'Beste airfryer 2026: welke heteluchtfriteuse past bij jouw keuken?'
 slug: beste-airfryer-2026
 description: Vergelijk de beste airfryers van 2026 voor gezinnen, kleine keukens en
-  budgetkopers, met eerlijke minpunten en Bol.com placeholders.
+  budgetkopers, met eerlijke minpunten en Amazon-link koopadvies.
 category: keuken
 rating: 4.6
 priceRange: EUR 70-230

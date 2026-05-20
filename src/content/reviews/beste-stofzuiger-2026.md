@@ -2,7 +2,7 @@
 title: 'Beste stofzuiger 2026: welke zuiger past bij jouw huis?'
 slug: beste-stofzuiger-2026
 description: Vergelijk de beste stofzuigers van 2026 voor allergie, huisdieren en
-  budget, met stofzuigerzak versus zakloos, geluidsniveau en Bol.com placeholders.
+  budget, met stofzuigerzak versus zakloos, geluidsniveau en Amazon-link koopadvies.
 category: schoonmaken
 rating: 4.5
 priceRange: EUR 80-350
@@ -91,3 +91,6 @@ Kies de Bosch Serie 4 BGLS4X201 als je een eenvoudige, betrouwbare stofzuiger zo
 - [Beste robotstofzuiger 2026: welke robot maakt echt zelfstandig schoon?](/reviews/beste-robotstofzuiger-2026/)
 - [Beste draadloze stofzuiger 2026: steel en stick vergeleken](/reviews/beste-draadloze-stofzuiger-2026/)
 - [Beste handmixer 2026: van kloppen tot kneden](/reviews/beste-handmixer-2026/)
+## Affiliate disclosure
+
+Deze pagina bevat affiliate links naar Amazon.nl. Als je via deze links koopt, ontvangen wij een kleine commissie — zonder extra kosten voor jou. De rangschikking is gebaseerd op specificaties, prijsniveau en bekende minpunten; niet op commissiehoogte.
