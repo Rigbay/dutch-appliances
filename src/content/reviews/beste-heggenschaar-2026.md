@@ -13,7 +13,7 @@ cons:
   - "Sommige modellen prijzig"
   - "Onderhoud nodig"
 affiliateLinks:
-  - "https://partner.bol.com/click/click?p=1&t=url&s=placeholder&f=ban&name=beste-heggenschaar-2026"
+  - "https://www.amazon.nl/dp/B0CH7WGF9S?tag=kieskeukennl-21"
 date: 2026-05-14
 modelYear: 2026
 featuredProduct: ""
@@ -28,37 +28,37 @@ products:
     priceRange: "€129,99"
     bestFor: "Middelgrote tot grote tuinen, diverse heggen"
     rating: 4.2
-    affiliateLink: "https://partner.bol.com/click/click?p=1&t=url&s=placeholder&f=ban&name=beste-heggenschaar-2026-bosch-universalhedgecut-60"
+    affiliateLink: "https://www.amazon.nl/dp/B0CH7WGF9S?tag=kieskeukennl-21"
   - name: "STIHL HLA 65 (steelheggenschaar)"
     verdict: "Hoge heggen, bereik, comfort"
     priceRange: "€399,00*"
     bestFor: "Hoge heggen, bereik, comfort"
     rating: 4.8
-    affiliateLink: "https://partner.bol.com/click/click?p=1&t=url&s=placeholder&f=ban&name=beste-heggenschaar-2026-stihl-hla-65-(steelheggenschaa"
+    affiliateLink: "https://www.amazon.nl/dp/B0CH7WGF9S?tag=kieskeukennl-21"
   - name: "Ryobi RHT5355RG"
     verdict: "Kleine tuinen, budgetbewust"
     priceRange: "€79,99"
     bestFor: "Kleine tuinen, budgetbewust"
     rating: 3.8
-    affiliateLink: "https://partner.bol.com/click/click?p=1&t=url&s=placeholder&f=ban&name=beste-heggenschaar-2026-ryobi-rht5355rg"
+    affiliateLink: "https://www.amazon.nl/dp/B0CH7WGF9S?tag=kieskeukennl-21"
   - name: "Gardena EasyCut 450/50"
     verdict: "Precisiewerk, kleine/fijne heggen"
     priceRange: "€89,95"
     bestFor: "Precisiewerk, kleine/fijne heggen"
     rating: 4.0
-    affiliateLink: "https://partner.bol.com/click/click?p=1&t=url&s=placeholder&f=ban&name=beste-heggenschaar-2026-gardena-easycut-450/50"
+    affiliateLink: "https://www.amazon.nl/dp/B0CH7WGF9S?tag=kieskeukennl-21"
   - name: "Makita DUH602Z (solo)"
     verdict: "Accuvrijheid, middelgrote tuinen"
     priceRange: "€199,00*"
     bestFor: "Accuvrijheid, middelgrote tuinen"
     rating: 4.4
-    affiliateLink: "https://partner.bol.com/click/click?p=1&t=url&s=placeholder&f=ban&name=beste-heggenschaar-2026-makita-duh602z-(solo)"
+    affiliateLink: "https://www.amazon.nl/dp/B0CH7WGF9S?tag=kieskeukennl-21"
   - name: "Black+Decker GT5000-QS"
     verdict: "Zeer kleine tuinen, instapmodel"
     priceRange: "€64,99"
     bestFor: "Zeer kleine tuinen, instapmodel"
     rating: 3.5
-    affiliateLink: "https://partner.bol.com/click/click?p=1&t=url&s=placeholder&f=ban&name=beste-heggenschaar-2026-black+decker-gt5000-qs"
+    affiliateLink: "https://www.amazon.nl/dp/B0CH7WGF9S?tag=kieskeukennl-21"
 ---
 
 # De Beste Heggescharen van 2026: Uw Gids voor een Perfecte Heg met Minimaal Onderhoud

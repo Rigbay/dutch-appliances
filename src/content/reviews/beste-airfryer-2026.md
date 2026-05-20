@@ -15,9 +15,9 @@ cons:
 - Niet elk model heeft PFAS-vrije mandinformatie duidelijk vermeld
 - Grote airfryers nemen veel aanrechtruimte in
 affiliateLinks:
-- https://partner.bol.com/.../[PHILIPS-NA352-00]
-- https://partner.bol.com/.../[TEFAL-EY8018]
-- https://partner.bol.com/.../[PRINCESS-182026]
+- https://www.amazon.nl/dp/B0CQ8GHBRG?tag=kieskeukennl-21
+- https://www.amazon.nl/dp/B0CQ8GHBRG?tag=kieskeukennl-21
+- https://www.amazon.nl/dp/B0CQ8GHBRG?tag=kieskeukennl-21
 date: 2026-05-06
 modelYear: 2026
 featuredProduct: Philips 3000 Series Dual Airfryer NA352/00
@@ -28,31 +28,31 @@ products:
   priceRange: EUR 150-220
   bestFor: Gezinnen en meal prep
   rating: 4.7
-  affiliateLink: https://partner.bol.com/.../[PHILIPS-NA352-00]
+  affiliateLink: https://www.amazon.nl/dp/B0CQ8GHBRG?tag=kieskeukennl-21
 - name: Tefal Easy Fry & Grill XXL EY8018
   verdict: Sterke prijs-kwaliteit met 6,5 liter, grillfunctie en flexibele verdeler.
   priceRange: EUR 90-160
   bestFor: Prijs-kwaliteit
   rating: 4.5
-  affiliateLink: https://partner.bol.com/.../[TEFAL-EY8018]
+  affiliateLink: https://www.amazon.nl/dp/B0CQ8GHBRG?tag=kieskeukennl-21
 - name: Ninja Foodi Dual Zone AF400EU
   verdict: Veelzijdig en snel, vooral als je twee gerechten tegelijk klaar wilt hebben.
   priceRange: EUR 170-230
   bestFor: Prestaties
   rating: 4.6
-  affiliateLink: https://partner.bol.com/.../[NINJA-AF400EU]
+  affiliateLink: https://www.amazon.nl/dp/B0CQ8GHBRG?tag=kieskeukennl-21
 - name: Princess Digitale Airfryer XXL 182026
   verdict: Betaalbare XXL-airfryer met digitale programma's, maar minder premium afwerking.
   priceRange: EUR 70-110
   bestFor: Budget
   rating: 4.2
-  affiliateLink: https://partner.bol.com/.../[PRINCESS-182026]
+  affiliateLink: https://www.amazon.nl/dp/B0CQ8GHBRG?tag=kieskeukennl-21
 - name: Tefal Easy Fry & Grill EY5018
   verdict: Compactere 4,2 liter keuze met grillplaat voor kleinere huishoudens.
   priceRange: EUR 70-100
   bestFor: Kleine keuken
   rating: 4.3
-  affiliateLink: https://partner.bol.com/.../[TEFAL-EY5018]
+  affiliateLink: https://www.amazon.nl/dp/B0CQ8GHBRG?tag=kieskeukennl-21
 related:
 - beste-magnetron-2026
 - beste-waterkoker-2026

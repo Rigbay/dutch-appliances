@@ -14,7 +14,7 @@ cons:
   - "Niet altijd een volwaardige vervanging voor centrale verwarming"
   - "Sommige modellen kunnen geluid produceren"
 affiliateLinks:
-  - "https://partner.bol.com/nl/..."
+  - "https://www.amazon.nl/dp/B0FQNQYJ94?tag=kieskeukennl-21"
   - "https://www.coolblue.nl/..."
 date: 2026-05-13
 modelYear: 2026

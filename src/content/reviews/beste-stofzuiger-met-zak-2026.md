@@ -15,7 +15,7 @@ cons:
 - Iets minder wendbaar dan sommige zakloze modellen
 - Kan onhandig zijn om zak te vervangen bij volle zak
 affiliateLinks:
-- https://partner.bol.com/nl/product/miele-complete-c3-powerline-complete-c3-powerline-stofzuiger-rood/9300000071123456
+- https://www.amazon.nl/dp/B0BGZTM918?tag=kieskeukennl-21
 - https://partner.bol.com/nl/product/bosch-serie-8-propower-bgl8sil3-stofzuiger-zilver/9300000071123457
 - https://partner.bol.com/nl/product/siemens-vs08g2711-q-series-power-edition-stofzuiger/9300000071123458
 - https://partner.bol.com/nl/product/philips-powerpro-compact-fc9332-09-stofzuiger-blauw/9300000071123459
@@ -32,7 +32,7 @@ products:
   bestFor: Grote huishoudens met huisdieren en/of allergieën die de allerbeste reinigingsprestaties
     eisen.
   rating: 4.9
-  affiliateLink: https://partner.bol.com/nl/product/miele-complete-c3-powerline-complete-c3-powerline-stofzuiger-rood/9300000071123456
+  affiliateLink: https://www.amazon.nl/dp/B0BGZTM918?tag=kieskeukennl-21
 - name: Bosch Serie 8 ProPower BGL8SIL3
   verdict: De Bosch Serie 8 ProPower levert indrukwekkende zuigkracht en is een uitstekende
     allrounder voor diverse vloertypen.

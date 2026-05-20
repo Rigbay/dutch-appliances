@@ -15,7 +15,7 @@ cons:
 - Geluidsniveau kan storend zijn
 - Onderhoud filters
 affiliateLinks:
-- https://partner.bol.com/.../placeholder
+- https://www.amazon.nl/dp/B079SPVQFN?tag=kieskeukennl-21
 modelYear: 2026
 featuredProduct: Philips SpeedPro Max Aqua
 readingTime: 10 min
@@ -26,37 +26,37 @@ products:
   priceRange: EUR 50-400
   bestFor: Allergieën, dierenharen, grote huizen
   rating: 3.0
-  affiliateLink: https://partner.bol.com/.../placeholder
+  affiliateLink: https://www.amazon.nl/dp/B079SPVQFN?tag=kieskeukennl-21
 - name: '**Philips SpeedPro Max Aqua**'
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Snelle schoonmaak, dweilen, middelgrote huizen
   rating: 4.5
-  affiliateLink: https://partner.bol.com/.../placeholder
+  affiliateLink: https://www.amazon.nl/dp/B079SPVQFN?tag=kieskeukennl-21
 - name: '**Rowenta Compact Power Cyclonic 3**'
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Kleine ruimtes, budgetbewust, harde vloeren
   rating: 3.0
-  affiliateLink: https://partner.bol.com/.../placeholder
+  affiliateLink: https://www.amazon.nl/dp/B079SPVQFN?tag=kieskeukennl-21
 - name: '**Dyson V15 Detect Absolute**'
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Geavanceerde technologie, alle vloertypes
   rating: 4.7
-  affiliateLink: https://partner.bol.com/.../placeholder
+  affiliateLink: https://www.amazon.nl/dp/B079SPVQFN?tag=kieskeukennl-21
 - name: '**Bosch Serie 6 ProAnimal**'
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Dierenharen, middelgrote tot grote huizen
   rating: 4.0
-  affiliateLink: https://partner.bol.com/.../placeholder
+  affiliateLink: https://www.amazon.nl/dp/B079SPVQFN?tag=kieskeukennl-21
 - name: '**Hoover H-FREE 500**'
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Compacte opslag, lichte huishoudens, appartement
   rating: 4.2
-  affiliateLink: https://partner.bol.com/.../placeholder
+  affiliateLink: https://www.amazon.nl/dp/B079SPVQFN?tag=kieskeukennl-21
 related:
 - beste-stofzuiger-2026
 - beste-draadloze-stofzuiger-2026

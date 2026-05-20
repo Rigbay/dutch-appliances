@@ -13,7 +13,7 @@ cons:
   - "Sommige modellen prijzig"
   - "Onderhoud nodig"
 affiliateLinks:
-  - "https://partner.bol.com/click/click?p=1&t=url&s=placeholder&f=ban&name=beste-hogedrukreiniger-2026"
+  - "https://www.amazon.nl/dp/B0G133H7Y8?tag=kieskeukennl-21"
 date: 2026-05-14
 modelYear: 2026
 featuredProduct: ""
@@ -28,43 +28,43 @@ products:
     priceRange: "€650"
     bestFor: "Grote projecten, veelzijdigheid, slimme functies"
     rating: 4.8
-    affiliateLink: "https://partner.bol.com/click/click?p=1&t=url&s=placeholder&f=ban&name=beste-hogedrukreiniger-2026-kärcher-k-7-premium-power-cont"
+    affiliateLink: "https://www.amazon.nl/dp/B0G133H7Y8?tag=kieskeukennl-21"
   - name: "Nilfisk Core 140-10 EU"
     verdict: "Allround gebruik, goede prijs-kwaliteit"
     priceRange: "€250"
     bestFor: "Allround gebruik, goede prijs-kwaliteit"
     rating: 4.5
-    affiliateLink: "https://partner.bol.com/click/click?p=1&t=url&s=placeholder&f=ban&name=beste-hogedrukreiniger-2026-nilfisk-core-140-10-eu"
+    affiliateLink: "https://www.amazon.nl/dp/B0G133H7Y8?tag=kieskeukennl-21"
   - name: "Bosch UniversalAquatak 135"
     verdict: "Budgetvriendelijk, compact, auto's, fietsen"
     priceRange: "€150"
     bestFor: "Budgetvriendelijk, compact, auto's, fietsen"
     rating: 4.2
-    affiliateLink: "https://partner.bol.com/click/click?p=1&t=url&s=placeholder&f=ban&name=beste-hogedrukreiniger-2026-bosch-universalaquatak-135"
+    affiliateLink: "https://www.amazon.nl/dp/B0G133H7Y8?tag=kieskeukennl-21"
   - name: "Kärcher K 5 Power Control Home"
     verdict: "Middelgrote terrassen, huis en tuin"
     priceRange: "€400"
     bestFor: "Middelgrote terrassen, huis en tuin"
     rating: 4.6
-    affiliateLink: "https://partner.bol.com/click/click?p=1&t=url&s=placeholder&f=ban&name=beste-hogedrukreiniger-2026-kärcher-k-5-power-control-home"
+    affiliateLink: "https://www.amazon.nl/dp/B0G133H7Y8?tag=kieskeukennl-21"
   - name: "Stihl RE 100 Plus"
     verdict: "Duurzaamheid, comfort, diverse taken"
     priceRange: "€320"
     bestFor: "Duurzaamheid, comfort, diverse taken"
     rating: 4.4
-    affiliateLink: "https://partner.bol.com/click/click?p=1&t=url&s=placeholder&f=ban&name=beste-hogedrukreiniger-2026-stihl-re-100-plus"
+    affiliateLink: "https://www.amazon.nl/dp/B0G133H7Y8?tag=kieskeukennl-21"
   - name: "Kränzle K 1050 TST"
     verdict: "Professionele kwaliteit, lange levensduur"
     priceRange: "€550"
     bestFor: "Professionele kwaliteit, lange levensduur"
     rating: 4.7
-    affiliateLink: "https://partner.bol.com/click/click?p=1&t=url&s=placeholder&f=ban&name=beste-hogedrukreiniger-2026-kränzle-k-1050-tst"
+    affiliateLink: "https://www.amazon.nl/dp/B0G133H7Y8?tag=kieskeukennl-21"
   - name: "Parkside PHD 170 B5 (Lidl)"
     verdict: "Krachtig voor de prijs, veel accessoires"
     priceRange: "€180"
     bestFor: "Krachtig voor de prijs, veel accessoires"
     rating: 4.0
-    affiliateLink: "https://partner.bol.com/click/click?p=1&t=url&s=placeholder&f=ban&name=beste-hogedrukreiniger-2026-parkside-phd-170-b5-(lidl)"
+    affiliateLink: "https://www.amazon.nl/dp/B0G133H7Y8?tag=kieskeukennl-21"
 ---
 
 # De Beste Hogedrukreinigers van 2026: Reinig Je Huis en Tuin als een Pro

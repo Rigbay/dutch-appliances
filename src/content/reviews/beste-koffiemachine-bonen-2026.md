@@ -16,7 +16,7 @@ cons:
 - Vereist meer onderhoud
 - Groter formaat
 affiliateLinks:
-- https://partner.bol.com/.../placeholder
+- https://www.amazon.nl/dp/B0CQ8GHBRG?tag=kieskeukennl-21
 modelYear: 2026
 featuredProduct: Sage Barista Express
 readingTime: 7 min
@@ -27,37 +27,37 @@ products:
   priceRange: EUR 50-400
   bestFor: Allround thuisbarista, espresso & melkdranken
   rating: 1.8
-  affiliateLink: https://partner.bol.com/.../placeholder
+  affiliateLink: https://www.amazon.nl/dp/B0CNG5XSWD?tag=kieskeukennl-21
 - name: De'Longhi Dedica Arte
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Compacte keuken, instapmodel espresso
   rating: 1.1
-  affiliateLink: https://partner.bol.com/.../placeholder
+  affiliateLink: https://www.amazon.nl/dp/B0CNG5XSWD?tag=kieskeukennl-21
 - name: Moccamaster KBG Select
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Filterkoffie purist (met losse maler)
   rating: 1.25
-  affiliateLink: https://partner.bol.com/.../placeholder
+  affiliateLink: https://www.amazon.nl/dp/B0CNG5XSWD?tag=kieskeukennl-21
 - name: Sage Precision Brewer
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Filterkoffie controle, diverse zetmethodes
   rating: 1.8
-  affiliateLink: https://partner.bol.com/.../placeholder
+  affiliateLink: https://www.amazon.nl/dp/B0CNG5XSWD?tag=kieskeukennl-21
 - name: Solis Scala (Bonenmaler)
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Compacte, degelijke maler voor elke machine
   rating: 4.0
-  affiliateLink: https://partner.bol.com/.../placeholder
+  affiliateLink: https://www.amazon.nl/dp/B0CNG5XSWD?tag=kieskeukennl-21
 - name: Sage Smart Grinder Pro
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Precisie malen, veel instelmogelijkheden
   rating: 4.2
-  affiliateLink: https://partner.bol.com/.../placeholder
+  affiliateLink: https://www.amazon.nl/dp/B0CNG5XSWD?tag=kieskeukennl-21
 related:
 - beste-stofzuiger-2026
 - beste-dweilrobot-2026

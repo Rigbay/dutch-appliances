@@ -15,7 +15,7 @@ cons:
 - Sommige modellen prijzig
 - Onderhoud nodig
 affiliateLinks:
-- https://partner.bol.com/click/click?p=1&t=url&s=placeholder&f=ban&name=beste-filterkoffiemachine-2026
+- https://www.amazon.nl/dp/B07FPZBKQ4?tag=kieskeukennl-21
 date: 2026-05-14
 modelYear: 2026
 featuredProduct: ''
@@ -26,37 +26,37 @@ products:
   priceRange: €250
   bestFor: huishoudens die topkwaliteit en lange levensduur zoeken
   rating: 4.8
-  affiliateLink: https://partner.bol.com/click/click?p=1&t=url&s=placeholder&f=ban&name=beste-filterkoffiemachine-2026-moccamaster-kbgv
+  affiliateLink: https://www.amazon.nl/dp/B07FPZBKQ4?tag=kieskeukennl-21
 - name: Moccamaster Cup-One
   verdict: Beste voor éénpersoonshuishouden
   priceRange: €209
   bestFor: singles die één perfecte kop per keer willen zetten
   rating: 4.5
-  affiliateLink: https://partner.bol.com/click/click?p=1&t=url&s=placeholder&f=ban&name=beste-filterkoffiemachine-2026-cup-one
+  affiliateLink: https://www.amazon.nl/dp/B07FPZBKQ4?tag=kieskeukennl-21
 - name: Philips Grind & Brew 5000
   verdict: Beste met ingebouwde molen
   priceRange: €180
   bestFor: gezinnen die gemak en versgemalen koffie waarderen
   rating: 4.3
-  affiliateLink: https://partner.bol.com/click/click?p=1&t=url&s=placeholder&f=ban&name=beste-filterkoffiemachine-2026-philips-grind
+  affiliateLink: https://www.amazon.nl/dp/B07FPZBKQ4?tag=kieskeukennl-21
 - name: Wilfa Svart Presisjon WSP-1B
   verdict: Beste budget voor specialty koffie
   priceRange: €130
   bestFor: budgetbewuste specialty koffieliefhebbers
   rating: 4.2
-  affiliateLink: https://partner.bol.com/click/click?p=1&t=url&s=placeholder&f=ban&name=beste-filterkoffiemachine-2026-wilfa-svart
+  affiliateLink: https://www.amazon.nl/dp/B07FPZBKQ4?tag=kieskeukennl-21
 - name: Melitta AromaFresh II
   verdict: Beste veelzijdigheid met ingebouwde molen
   priceRange: €120
   bestFor: huishoudens die betaalbare kwaliteit met molen willen
   rating: 4.1
-  affiliateLink: https://partner.bol.com/click/click?p=1&t=url&s=placeholder&f=ban&name=beste-filterkoffiemachine-2026-melitta-aroma
+  affiliateLink: https://www.amazon.nl/dp/B07FPZBKQ4?tag=kieskeukennl-21
 - name: Sage Precision Brewer
   verdict: Beste voor aanpasbare zetparameters
   priceRange: €299
   bestFor: koffie-enthousiastelingen die volledige controle willen
   rating: 4.4
-  affiliateLink: https://partner.bol.com/click/click?p=1&t=url&s=placeholder&f=ban&name=beste-filterkoffiemachine-2026-sage-precision
+  affiliateLink: https://www.amazon.nl/dp/B07FPZBKQ4?tag=kieskeukennl-21
 related:
 - beste-koffiemachine-2026
 - beste-koffiemachine-onder-200-euro-2026
