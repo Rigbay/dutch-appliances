@@ -64,7 +64,7 @@ Een goede airfryer in 2026 is niet meer alleen een apparaat voor friet en bitter
 
 Voor de meeste huishoudens is de **Philips 3000 Series Dual Airfryer NA352/00** de veiligste allround keuze. De twee manden maken hem handiger dan een klassieke enkele lade, vooral als je friet en groente of snacks en kip tegelijk wilt klaarmaken. De Philips is niet de goedkoopste, maar de bediening is logisch, de capaciteit is ruim en het merk heeft een breed ecosysteem aan recepten en accessoires. Wie scherper op prijs let, komt snel uit bij de **Tefal Easy Fry & Grill XXL EY8018**. Die biedt veel inhoud, een grillfunctie en een slimme verdeler voor minder geld.
 
-Deze gids is gebaseerd op productspecificaties, actuele Bol.com-vermeldingen, prijsniveau en bekende gebruikerservaringen. Het is geen claim dat elk model door ons in een testkeuken is gemeten. Juist daarom benoemen we ook de praktische minpunten: grote apparaten passen niet altijd onder keukenkastjes, manden kunnen onhandig zijn in kleine vaatwassers en goedkope antiaanbaklagen vragen voorzichtig onderhoud.
+Deze gids is gebaseerd op productspecificaties, actuele Amazon.nl-productpagina's, prijsniveau en bekende gebruikerservaringen. Het is geen claim dat elk model door ons in een testkeuken is gemeten. Juist daarom benoemen we ook de praktische minpunten: grote apparaten passen niet altijd onder keukenkastjes, manden kunnen onhandig zijn in kleine vaatwassers en goedkope antiaanbaklagen vragen voorzichtig onderhoud.
 
 ## Snel advies
 
@@ -118,7 +118,7 @@ Als je vooral complete maaltijden wilt maken, kijk dan ook naar onze gids voor d
 
 ## Affiliate disclosure
 
-Deze pagina bevat Bol.com affiliate placeholders. Na toelating tot het partnerprogramma kunnen deze links worden vervangen door echte deep links. De rangschikking is gebaseerd op geschiktheid, specificaties, prijsniveau en bekende minpunten; niet op commissiehoogte.
+Deze pagina bevat affiliate links naar Amazon.nl. Als je via deze links koopt, ontvangen wij een kleine commissie — zonder extra kosten voor jou. De rangschikking is gebaseerd op specificaties, prijsniveau en bekende minpunten; niet op commissiehoogte.
 
 ## Gerelateerde artikelen
 
