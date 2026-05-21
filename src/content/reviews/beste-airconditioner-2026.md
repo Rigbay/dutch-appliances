@@ -55,11 +55,12 @@ products:
     rating: 4.4
     affiliateLink: "https://partner.bol.com/nl/product/trotec-pac-3500-mobiele-airconditioner/9300000055667788"
 related:
-  - "beste-elektrische-kachel-2026"
-  - "beste-luchtreiniger-2026"
-  - "beste-luchtbevochtiger-2026"
+  - beste-wasdroger-2026
+  - beste-robotgrasmaaier-2026
+  - beste-ontvochtiger-2026
 draft: false
 ---
+
 
 # De Beste Mobiele en Vaste Airconditioners voor Verkoeling in Huis (2026)
 

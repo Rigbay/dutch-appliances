@@ -52,10 +52,11 @@ products:
   rating: 2.5
   affiliateLink: https://www.amazon.nl/dp/B0CQ8GHBRG?tag=kieskeukennl-21
 related:
-- beste-stofzuiger-2026
-- beste-dweilrobot-2026
-- beste-strijkijzer-2026
+  - beste-airfryer-2026
+  - beste-luxe-airfryer-2026
+  - airfryer-vs-friteuse-2026
 ---
+
 
 # Compacte Airfryers 2026: Heerlijk Gefrituurd, Zonder Keukenstress!
 

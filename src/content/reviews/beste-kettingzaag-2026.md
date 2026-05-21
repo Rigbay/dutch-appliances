@@ -51,10 +51,11 @@ products:
     rating: 4.0
     affiliateLink: "https://partner.bol.com/placeholder"
 related:
-  - "beste-grasmaaier-2026"
-  - "beste-bosmaaier-2026"
-  - "beste-heggenschaar-2026"
+  - beste-elektrische-kachel-2026
+  - beste-strijkijzer-2026
+  - beste-wasmachine-2026
 ---
+
 
 # De Beste Kettingzagen in 2026: Je Gids voor Tuinonderhoud
 

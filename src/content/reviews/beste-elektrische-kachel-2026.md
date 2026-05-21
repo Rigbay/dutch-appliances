@@ -52,11 +52,12 @@ products:
     rating: 4.2
     affiliateLink: "https://partner.bol.com/nl/product/delonghi-radiatore-trd41025-2500w-olieradiator/9200000071000000"
 related:
-  - "beste-airconditioner-2026"
-  - "beste-luchtbevochtiger-2026"
-  - "beste-wasdroger-2026"
+  - beste-luchtreiniger-2026
+  - beste-kettingzaag-2026
+  - beste-grasmaaier-2026
 draft: false
 ---
+
 
 # Beste Elektrische Kachels 2026: Gerichte Bijverwarming Zonder CV-Ketel
 

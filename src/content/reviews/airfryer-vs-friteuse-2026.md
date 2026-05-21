@@ -64,9 +64,11 @@ products:
   rating: 2.0
   affiliateLink: https://www.amazon.nl/dp/B0CQ8GHBRG?tag=kieskeukennl-21
 related:
-- beste-airfryer-2026
-- beste-keukenmachine-2026
+  - beste-airfryer-2026
+  - beste-airfryer-met-twee-manden-2026
+  - beste-airfryer-onder-100-euro-2026
 ---
+
 
 # Airfryer vs. onze [airfryer gids](/reviews/beste-airfryer-2026/). onze [airfryer met twee manden gids](/reviews/beste-airfryer-met-twee-manden-2026/). onze [airfryer onder 100 euro gids](/reviews/beste-airfryer-onder-100-euro-2026/). onze [airfryer gids](/reviews/beste-airfryer-2026/). onze [airfryer met twee manden gids](/reviews/beste-airfryer-met-twee-manden-2026/). onze [airfryer onder 100 euro gids](/reviews/beste-airfryer-onder-100-euro-2026/). Frituurpan: De Ultieme Keuze voor Friet en Snacks in 2026
 

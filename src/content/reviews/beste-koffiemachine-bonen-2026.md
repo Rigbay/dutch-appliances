@@ -59,10 +59,11 @@ products:
   rating: 4.2
   affiliateLink: https://www.amazon.nl/dp/B0CNG5XSWD?tag=kieskeukennl-21
 related:
-- beste-stofzuiger-2026
-- beste-dweilrobot-2026
-- beste-strijkijzer-2026
+  - beste-koffiemachine-2026
+  - beste-volautomatische-koffiemachine-2026
+  - beste-koffiemachine-onder-200-euro-2026
 ---
+
 
 # De Beste Koffiemachines met Bonenmaler: Jouw Gids voor Perfecte Koffie in 2026
 

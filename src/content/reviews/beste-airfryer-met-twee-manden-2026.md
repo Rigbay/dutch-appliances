@@ -58,10 +58,11 @@ products:
   rating: 1.712
   affiliateLink: https://www.amazon.nl/dp/B0FPVT6L4X?tag=kieskeukennl-21
 related:
-- beste-stofzuiger-2026
-- beste-dweilrobot-2026
-- beste-strijkijzer-2026
+  - airfryer-vs-friteuse-2026
+  - beste-airfryer-2026
+  - beste-airfryer-onder-100-euro-2026
 ---
+
 
 ## De Beste Airfryers met Twee Manden: Dubbel Koken, Dubbel Genieten in 2026
 

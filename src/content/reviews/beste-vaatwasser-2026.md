@@ -73,11 +73,12 @@ products:
   rating: 4.3
   affiliateLink: https://partner.bol.com/nl/nl/etna-vm460zin-vaatwasser-energieklasse-d/9200000123456794.html
 related:
-- airfryer-vs-friteuse-2026
-- beste-afzuigkap-2026
-- beste-airfryer-2026
+  - beste-airfryer-oven-combi-2026
+  - beste-friteuse-2026
+  - beste-koelkast-vriezer-combinatie-2026
 draft: false
 ---
+
 
 # De Beste Vaatwassers voor Gezinnen in 2026: Een Complete Koopgids
 

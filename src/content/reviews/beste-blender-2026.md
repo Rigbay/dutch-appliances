@@ -55,11 +55,12 @@ products:
     rating: 4.1
     affiliateLink: "https://partner.bol.com/succeed/product?id=9200000169234451"
 related:
-  - "beste-staafmixer-2026"
-  - "beste-keukenmachine-2026"
-  - "beste-slowcooker-2026"
+  - beste-koelkast-2026
+  - beste-koelkast-vriezer-combinatie-2026
+  - beste-keukenmachine-2026
 draft: false
 ---
+
 
 # De Beste Blenders 2026: Smoothies, Soep & Notenpasta Maken Als een Pro
 

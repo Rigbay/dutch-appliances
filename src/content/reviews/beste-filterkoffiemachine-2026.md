@@ -58,10 +58,11 @@ products:
   rating: 4.4
   affiliateLink: https://www.amazon.nl/dp/B07FPZBKQ4?tag=kieskeukennl-21
 related:
-- beste-koffiemachine-2026
-- beste-koffiemachine-onder-200-euro-2026
-- beste-nespresso-apparaat-2026
+  - beste-afzuigkap-2026
+  - beste-staafmixer-2026
+  - beste-broodrooster-2026
 ---
+
 
 # De Beste Filterkoffiemachines van 2026: Jouw Gids voor de Perfecte Kop
 

@@ -69,11 +69,12 @@ products:
   rating: 4.2
   affiliateLink: https://www.coolblue.nl/product/799609/aeg-sce71800ns.html
 related:
-- airfryer-vs-friteuse-2026
-- beste-afzuigkap-2026
-- beste-airfryer-2026
+  - beste-koelkast-vriezer-combinatie-2026
+  - beste-broodrooster-2026
+  - beste-slowjuicer-2026
 draft: false
 ---
+
 
 # De Beste Koelkasten van 2026: Uw Gids naar Energiezuinigheid, Ruimte en Betrouwbaarheid
 
