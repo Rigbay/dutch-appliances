@@ -28,7 +28,7 @@ const topPicks = categories.map(cat => {
       featured: r.data.featuredProduct || 'Top model',
       rating: r.data.rating,
       priceRange: r.data.priceRange,
-      url: `/reviews/${r.slug}/`
+      url: `/${r.slug}/`
     }))
   };
 }).filter(Boolean);
