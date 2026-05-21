@@ -9,7 +9,8 @@ const reviews = (await getCollection('reviews', ({ data }) => !data.draft))
 const categories = [
   { href: '/categorie/keuken/', label: 'Keuken', text: 'Airfryers, koffiemachines, waterkokers, broodroosters, magnetrons en stoomovens.' },
   { href: '/categorie/schoonmaken/', label: 'Schoonmaken', text: 'Stofzuigers, robotstofzuigers en draadloze steelstofzuigers voor drukke huishoudens.' },
-  { href: '/categorie/huishoudelijk/', label: 'Huishoudelijk', text: 'Praktische apparaten die dagelijks werk in huis sneller en lichter maken.' }
+  { href: '/categorie/huishoudelijk/', label: 'Huishoudelijk', text: 'Praktische apparaten die dagelijks werk in huis sneller en lichter maken.' },
+  { href: '/categorie/tuin/', label: 'Tuin', text: 'Grasmaaiers, barbecues, heggenscharen, tuinverwarming en gereedschap voor buiten.' }
 ];
 ---
 
@@ -30,6 +31,7 @@ const categories = [
         <div class="mt-7 flex flex-wrap gap-3">
           <a class="rounded bg-leaf px-5 py-3 text-sm font-bold text-white hover:bg-[#1f514b]" href="#laatste-reviews">Bekijk reviews</a>
           <a class="rounded border border-[#cbbda9] px-5 py-3 text-sm font-bold text-ink hover:bg-paper" href="/over/">Hoe we vergelijken</a>
+          <a class="rounded border border-leaf bg-white px-5 py-3 text-sm font-bold text-leaf hover:bg-[#edf4f2]" href="/vergelijking/">Alle {reviews.length} apparaten →</a>
         </div>
       </div>
       <div class="rounded border border-[#e1d8ca] bg-paper p-5">
@@ -54,7 +56,7 @@ const categories = [
 
   <section class="mx-auto max-w-6xl px-4 py-10 sm:px-6 lg:px-8">
     <h2 class="font-serif text-3xl font-semibold text-ink">Categorieen</h2>
-    <div class="mt-6 grid gap-5 md:grid-cols-3">
+    <div class="mt-6 grid gap-5 md:grid-cols-2 lg:grid-cols-4">
       {categories.map((category) => (
         <a class="rounded border border-[#e6ded2] bg-paper p-5 shadow-sm transition hover:-translate-y-0.5 hover:shadow-soft" href={category.href}>
           <span class="text-sm font-bold uppercase tracking-[0.14em] text-leaf">{category.label}</span>

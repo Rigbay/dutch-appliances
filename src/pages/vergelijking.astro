@@ -1,0 +1,163 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const reviews = (await getCollection('reviews', ({ data }) => !data.draft))
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+
+const categoryMeta = {
+  keuken: { label: 'Keukenapparaten', emoji: '🍳', desc: 'Airfryers, koffiemachines, waterkokers, mixers en alles wat je aanrecht kracht geeft.' },
+  schoonmaken: { label: 'Schoonmaken', emoji: '🧹', desc: 'Stofzuigers, robotstofzuigers, steelstofzuigers en alles wat je vloer schoon houdt.' },
+  huishoudelijk: { label: 'Huishoudelijk', emoji: '🏠', desc: 'Wasapparaten, airconditioners, strijkijzers en praktische dagelijkse helpers.' },
+  tuin: { label: 'Tuin', emoji: '🌿', desc: 'Grasmaaiers, heggenscharen, barbecues, tuinverwarming en gereedschap.' },
+};
+
+const grouped: Record<string, any[]> = {};
+for (const r of reviews) {
+  const cat = r.data.category;
+  if (!grouped[cat]) grouped[cat] = [];
+  grouped[cat].push(r);
+}
+
+// Comparison clusters: similar product types linked together
+const comparisonClusters = [
+  {
+    title: 'Airfryers — welke past bij jou?',
+    slugs: ['beste-airfryer-2026', 'beste-compacte-airfryer-2026', 'beste-luxe-airfryer-2026', 'beste-airfryer-onder-100-euro-2026', 'beste-airfryer-met-twee-manden-2026', 'beste-airfryer-oven-combi-2026', 'airfryer-vs-friteuse-2026'],
+  },
+  {
+    title: 'Koffiemachines — van bonen tot Senseo',
+    slugs: ['beste-koffiemachine-2026', 'beste-koffiemachine-bonen-2026', 'beste-koffiemachine-onder-200-euro-2026', 'beste-volautomatische-koffiemachine-2026', 'beste-filterkoffiemachine-2026', 'beste-nespresso-apparaat-2026', 'beste-senseo-koffiezetapparaat-2026', 'beste-koffiemolen-2026'],
+  },
+  {
+    title: 'Stofzuigers — draadloos, met zak of robot',
+    slugs: ['beste-stofzuiger-2026', 'beste-draadloze-stofzuiger-2026', 'beste-steelstofzuiger-2026', 'beste-stofzuiger-met-zak-2026', 'beste-stofzuiger-tegen-dierenharen-2026', 'beste-stofzuiger-voor-allergie-2026', 'beste-kruimeldief-2026', 'stofzuiger-kopen-waar-op-letten-2026'],
+  },
+  {
+    title: 'Robotreinigers — de vloer poetsen zonder moeite',
+    slugs: ['beste-robotstofzuiger-2026', 'beste-dweilrobot-2026'],
+  },
+  {
+    title: 'Mixers, blenders & keukenhulpjes',
+    slugs: ['beste-blender-2026', 'beste-staafmixer-2026', 'beste-handmixer-2026', 'beste-keukenmachine-2026', 'beste-sapcentrifuge-2026', 'beste-slowjuicer-2026', 'beste-citruspers-2026'],
+  },
+  {
+    title: 'Grasmaaiers & tuingereedschap',
+    slugs: ['beste-grasmaaier-2026', 'beste-robotgrasmaaier-2026', 'beste-bosmaaier-2026', 'beste-verticuteermachine-2026', 'beste-tuingereedschap-set-2026', 'beste-snoeischaar-2026', 'beste-kruiwagen-2026'],
+  },
+  {
+    title: 'Koken & bakken',
+    slugs: ['beste-friteuse-2026', 'beste-slowcooker-2026', 'beste-stoomoven-2026', 'beste-afzuigkap-2026', 'beste-inductiekookplaat-2026', 'beste-magnetron-2026', 'beste-tosti-ijzer-2026', 'beste-elektrische-grill-2026', 'beste-broodrooster-2026', 'beste-waterkoker-2026'],
+  },
+  {
+    title: 'Koelen & vriezen',
+    slugs: ['beste-koelkast-2026', 'beste-koelkast-vriezer-combinatie-2026', 'beste-vriezer-2026'],
+  },
+];
+
+const slugMap = new Map(reviews.map(r => [r.data.slug, r]));
+---
+
+<BaseLayout
+  title="Alle apparaten vergeleken: keuken, schoonmaken, huishoudelijk & tuin | Beste Apparaten"
+  description="Vergelijk alle apparaten in één overzicht: airfryers, stofzuigers, koffiemachines, grasmaaiers, wasmachines en meer. Eerlijke koopgidsen met prijzen, minpunten en Amazon-link advies."
+>
+  <section class="mx-auto max-w-6xl px-4 py-10 sm:px-6 lg:px-8">
+    <p class="text-sm font-bold uppercase tracking-[0.16em] text-leaf">Volledig overzicht</p>
+    <h1 class="mt-3 font-serif text-4xl font-semibold text-ink sm:text-5xl">
+      Alle {reviews.length} apparaten in één vergelijking
+    </h1>
+    <p class="mt-4 max-w-3xl text-lg leading-8 text-muted">
+      Van airfryer tot wasdroger en van robotgrasmaaier tot koffiemachine — hier vind je onze koopgidsen gerangschikt per categorie en per productgroep. Iedere gids bevat een productvergelijking, budgetopties en eerlijke minpunten.
+    </p>
+
+    <!-- Skip to category -->
+    <nav class="mt-8 flex flex-wrap gap-2" aria-label="Categorie navigatie">
+      {Object.entries(categoryMeta).map(([key, meta]) => (
+        <a href={`#${key}`} class="rounded border border-[#dfe8e5] px-4 py-2 text-sm font-semibold text-leaf hover:bg-[#edf4f2] transition">
+          {meta.emoji} {meta.label}
+        </a>
+      ))}
+    </nav>
+  </section>
+
+  <!-- Comparison Clusters -->
+  <section class="mx-auto max-w-6xl px-4 pb-8 sm:px-6 lg:px-8">
+    <h2 class="font-serif text-2xl font-semibold text-ink">Productgroep vergelijkingen</h2>
+    <p class="mt-2 text-muted">Navigeer snel naar verwante koopgidsen binnen dezelfde productcategorie.</p>
+    <div class="mt-6 grid gap-4 md:grid-cols-2">
+      {comparisonClusters.map((cluster) => {
+        const articles = cluster.slugs.map(s => slugMap.get(s)).filter(Boolean);
+        if (articles.length === 0) return null;
+        return (
+          <div class="rounded border border-[#e6ded2] bg-paper p-5">
+            <h3 class="font-serif text-lg font-semibold text-ink">{cluster.title}</h3>
+            <ul class="mt-3 space-y-1.5">
+              {articles.map((a: any) => (
+                <li>
+                  <a href={`/${a.data.slug}/`} class="text-sm text-leaf hover:text-[#1f514b] hover:underline">
+                    → {a.data.title.split(':')[0]}
+                  </a>
+                  <span class="ml-2 text-xs text-muted">{a.data.priceRange}</span>
+                </li>
+              ))}
+            </ul>
+          </div>
+        );
+      })}
+    </div>
+  </section>
+
+  <!-- Per-category full listing -->
+  {Object.entries(categoryMeta).map(([key, meta]) => {
+    const items = grouped[key] || [];
+    if (items.length === 0) return null;
+    return (
+      <section id={key} class="mx-auto max-w-6xl px-4 py-8 sm:px-6 lg:px-8 border-t border-[#e8e1d7]">
+        <div class="mb-6">
+          <p class="text-sm font-bold uppercase tracking-[0.16em] text-leaf">{meta.emoji} {meta.label}</p>
+          <h2 class="mt-2 font-serif text-3xl font-semibold text-ink">
+            {meta.label} ({items.length} gidsen)
+          </h2>
+          <p class="mt-2 text-muted">{meta.desc}</p>
+        </div>
+        <div class="grid gap-3 md:grid-cols-2 lg:grid-cols-3">
+          {items.map((article: any) => {
+            const d = article.data;
+            return (
+              <a href={`/${d.slug}/`} class="group rounded border border-[#e6ded2] bg-paper p-4 shadow-sm transition hover:-translate-y-0.5 hover:shadow-soft">
+                <div class="flex items-start justify-between gap-2">
+                  <h3 class="font-serif text-base font-semibold text-ink group-hover:text-leaf transition leading-snug">
+                    {d.title.split(':')[0]}
+                  </h3>
+                  <span class="shrink-0 rounded bg-[#edf4f2] px-2 py-0.5 text-xs font-bold text-leaf">
+                    {d.rating.toFixed(1)}
+                  </span>
+                </div>
+                <p class="mt-1.5 text-xs text-muted line-clamp-2">{d.description}</p>
+                <div class="mt-3 flex flex-wrap items-center gap-2 text-xs text-muted">
+                  <span>{d.priceRange}</span>
+                  <span>·</span>
+                  <span>{d.readingTime}</span>
+                </div>
+              </a>
+            );
+          })}
+        </div>
+      </section>
+    );
+  })}
+
+  <!-- SEO footer CTA -->
+  <section class="mx-auto max-w-6xl px-4 py-10 sm:px-6 lg:px-8 border-t border-[#e8e1d7]">
+    <div class="max-w-3xl rounded bg-linen p-6">
+      <h2 class="font-serif text-2xl font-semibold text-ink">Hoe we vergelijken</h2>
+      <p class="mt-3 text-muted leading-relaxed">
+        Onze koopgidsen zijn gebaseerd op productspecificaties, prijsniveaus bij Nederlandse retailers, beschikbare gebruikerservaringen en bekende minpunten. We streven naar eerlijkheid — ieder apparaat heeft voor- en nadelen, en we benoemen beide. De links in onze artikelen zijn affiliate links naar Amazon.nl. Dat betekent dat we een kleine commissie ontvangen als je via onze link koopt, zonder extra kosten voor jou.
+      </p>
+      <p class="mt-3 text-muted">
+        <a href="/over/" class="font-semibold text-leaf hover:text-[#1f514b]">Lees meer over onze werkwijze →</a>
+      </p>
+    </div>
+  </section>
+</BaseLayout>
