@@ -1,5 +1,5 @@
 ---
-title: "Beste [product] 2026 — Tapijtreiniger"
+title: "Beste Tapijtreiniger 2026: Dieptereiniging tegen Vlekken, Huisstofmijt en Allergenen"
 slug: "beste-tapijtreiniger-2026"
 description: "Hardnekkige vlekken en huisstofmijt verdwijnen met de juiste tapijtreiniger. Ontdek de beste tapijtreinigers van 2026 voor dieptereiniging."
 category: "schoonmaken"

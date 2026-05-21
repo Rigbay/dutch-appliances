@@ -1,5 +1,5 @@
 ---
-title: "Beste [product] 2026 — Bosmaaier"
+title: "Beste Bosmaaier 2026: Krachtige Trimmer voor Hoog Gras en Zwaar Struikgewas"
 slug: "beste-bosmaaier-2026"
 description: "Op zoek naar de beste bosmaaier van 2026 voor hoog gras en zwaar struikgewas? Wij vergeleken de top 5 modellen op vermogen, gebruiksgemak en prijs."
 category: "tuin"
