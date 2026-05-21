@@ -1,5 +1,5 @@
 ---
-title: Beste [product] 2026 — Tosti Ijzer
+title: "Beste Tosti-ijzer 2026: Perfect Knapperige Tosti's Iedere Ochtend"
 slug: beste-tosti-ijzer-2026
 description: Perfect knapperige tosti's elke ochtend? Bekijk de beste tosti-ijzers
   van 2026 voor gouden, gelijkmatig geroosterde sandwiches.

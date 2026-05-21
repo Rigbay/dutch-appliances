@@ -1,5 +1,5 @@
 ---
-title: "Beste [product] 2026 — Bladblazer"
+title: "Beste Bladblazer 2026: Krachtig en Stil Bladeren Opruimen — Accu, Benzine of Elektrisch"
 slug: "beste-bladblazer-2026"
 description: "Welke bladblazer blaast het hardst en is het stilste in gebruik? Vergelijk de beste bladblazers van 2026 — op accu, benzine en elektrisch."
 category: "tuin"

@@ -1,5 +1,5 @@
 ---
-title: Beste [product] 2026 — Slowjuicer
+title: "Beste Slowjuicer 2026: Maximale Sapopbrengst met Behoud van Vitaminen en Stil in Gebruik"
 slug: beste-slowjuicer-2026
 description: Maximale sapopbrengst met behoud van vitaminen? Vergelijk de beste slowjuicers
   van 2026 op sapkwaliteit, geluidsniveau en reinigingsgemak.

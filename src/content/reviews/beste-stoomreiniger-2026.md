@@ -1,5 +1,5 @@
 ---
-title: "Beste [product] 2026 — Stoomreiniger"
+title: "Beste Stoomreiniger 2026: Hygiënisch Schoon Zonder Chemicaliën voor Vloeren en Tegels"
 slug: "beste-stoomreiniger-2026"
 description: "Hygiënisch schoon zonder chemicaliën — dat kan met een stoomreiniger. Vergelijk de beste stoomreinigers van 2026 voor vloeren, meubels en tegels."
 category: "schoonmaken"

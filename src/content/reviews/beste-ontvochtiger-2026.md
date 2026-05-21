@@ -1,5 +1,5 @@
 ---
-title: "Beste [product] 2026 — Ontvochtiger"
+title: "Beste Ontvochtiger 2026: Stop Vocht, Schimmel en Muffe Lucht — Vergelijk Topmodellen"
 slug: "beste-ontvochtiger-2026"
 description: "Last van vocht, schimmel of muffe lucht in huis? Wij vergeleken de beste ontvochtigers van 2026 op capaciteit, geluidsniveau en energieverbruik."
 category: "huishoudelijk"

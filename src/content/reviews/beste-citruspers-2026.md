@@ -1,5 +1,5 @@
 ---
-title: Beste [product] 2026 — Citruspers
+title: "Beste Citruspers 2026: Vers Geperst Sinaasappelsap in Seconden"
 slug: beste-citruspers-2026
 description: Vers sinaasappelsap in seconden? Wij testten de beste citruspersen van
   2026 — elektrisch en handmatig, voor elke portemonnee.
