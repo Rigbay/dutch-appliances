@@ -1,0 +1,274 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const allReviews = await getCollection('reviews', ({ data }) => !data.draft);
+const keukenReviews = allReviews.filter(r => r.data.category === 'keuken');
+
+// Build slug set for fast lookup
+const keukenSlugs = keukenReviews.map(r => r.slug);
+const has = (slug, ...keywords) => keywords.some(kw => slug && slug.includes(kw));
+
+// Sub-categories for better organization
+const subCategories = {
+  airfryers: keukenReviews.filter(r => has(r.slug, 'airfryer', 'friteuse')),
+  koffie: keukenReviews.filter(r => has(r.slug, 'koffie', 'nespresso', 'senseo')),
+  koeling: keukenReviews.filter(r => has(r.slug, 'koelkast', 'vriezer')),
+  koken: keukenReviews.filter(r => has(r.slug, 'kookplaat', 'magnetron', 'stoomoven', 'afzuigkap')),
+  klein: keukenReviews.filter(r => has(r.slug, 'mixer', 'waterkoker', 'broodrooster', 'tosti', 'slowcooker', 'keukenmachine', 'sapcentrifuge', 'slowjuicer', 'citruspers')),
+  vaat: keukenReviews.filter(r => has(r.slug, 'vaatwasser')),
+};
+---
+
+<BaseLayout
+  title="Ultieme Keukenapparaten Koopgids 2026 — Alles voor Jouw Droomkeuken"
+  description="Complete koopgids voor keukenapparaten in Nederland 2026. Vergelijk airfryers, koffiemachines, koelkasten, inductiekookplaten, vaatwassers en meer. Met Amazon NL affiliate links (kieskeukennl-21)."
+  canonicalUrl="https://rigbay.github.io/dutch-appliances/keukenapparaten-koopgids/"
+>
+  <div class="max-w-4xl mx-auto px-4 py-12">
+
+    <!-- HERO -->
+    <h1 class="text-4xl md:text-5xl font-serif font-semibold mb-6 leading-tight">
+      Ultieme Keukenapparaten Koopgids 2026
+    </h1>
+    <p class="text-lg md:text-xl text-muted mb-4 leading-relaxed">
+      Een complete keuken begint bij de juiste apparatuur. Of je nu een nieuwe keuken inricht, je oude apparaten vervangt, of gewoon wilt weten welke airfryer, koffiemachine of koelkast écht de beste is — deze gids wijst je de weg. We hebben <strong>{keukenReviews.length} keukenapparaten</strong> vergeleken op prijs, kwaliteit, energieverbruik en gebruikerservaringen.
+    </p>
+    <p class="text-muted mb-8">
+      Alle links in deze gids verwijzen naar <strong>Amazon NL</strong>. Als je via onze links iets koopt, ontvangen wij een kleine commissie — zonder extra kosten voor jou. Dit helpt ons om onafhankelijke reviews te blijven schrijven. <em>Tag: kieskeukennl-21</em>.
+    </p>
+
+    <!-- QUICK NAV -->
+    <nav class="bg-[#f8f5f0] p-6 rounded mb-12" aria-label="Inhoudsopgave">
+      <h2 class="text-lg font-semibold mb-3">📋 Inhoudsopgave</h2>
+      <ul class="grid grid-cols-1 md:grid-cols-2 gap-2 text-sm">
+        <li><a href="#airfryers" class="text-leaf hover:underline">→ Airfryers &amp; Friteuses ({subCategories.airfryers.length} gidsen)</a></li>
+        <li><a href="#koffie" class="text-leaf hover:underline">→ Koffiemachines &amp; Espresso ({subCategories.koffie.length} gidsen)</a></li>
+        <li><a href="#koeling" class="text-leaf hover:underline">→ Koelkasten &amp; Vriezers ({subCategories.koeling.length} gidsen)</a></li>
+        <li><a href="#koken" class="text-leaf hover:underline">→ Kookplaten, Ovens &amp; Afzuigkappen ({subCategories.koken.length} gidsen)</a></li>
+        <li><a href="#klein" class="text-leaf hover:underline">→ Kleine Keukenapparaten ({subCategories.klein.length} gidsen)</a></li>
+        <li><a href="#vaat" class="text-leaf hover:underline">→ Vaatwassers ({subCategories.vaat.length} gidsen)</a></li>
+        <li><a href="#tips" class="text-leaf hover:underline">→ 7 Kooptips voor Keukenapparaten</a></li>
+        <li><a href="#faq" class="text-leaf hover:underline">→ Veelgestelde Vragen (FAQ)</a></li>
+      </ul>
+    </nav>
+
+    <!-- AIRFRYERS -->
+    <section id="airfryers" class="mb-12">
+      <h2 class="text-3xl font-serif font-semibold mb-4 border-b pb-2">🍟 Airfryers &amp; Friteuses</h2>
+      <p class="text-muted mb-6">
+        De airfryer is niet meer weg te denken uit de Nederlandse keuken. Minder olie, snellere bereidingstijd, en knapperige resultaten — geen wonder dat 6 op de 10 huishoudens er inmiddels één heeft. Maar welke past bij jou? Een compact model voor 1-2 personen, een dual-zone voor gezinnen, of een luxe combi-oven?
+      </p>
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-3">
+        {subCategories.airfryers.map(r => (
+          <a href={`/reviews/${r.slug}/`} class="block p-4 border border-[#e8e1d7] rounded hover:border-leaf hover:shadow-sm transition-all bg-white group">
+            <span class="text-sm font-medium text-leaf group-hover:underline">{r.data.title}</span>
+            <div class="flex items-center gap-3 mt-2 text-xs text-muted">
+              <span>⭐ {r.data.rating}</span>
+              <span>{r.data.priceRange}</span>
+              <span class="ml-auto text-leaf font-medium">Bekijk →</span>
+            </div>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <!-- KOFFIE -->
+    <section id="koffie" class="mb-12">
+      <h2 class="text-3xl font-serif font-semibold mb-4 border-b pb-2">☕ Koffiemachines &amp; Espresso</h2>
+      <p class="text-muted mb-6">
+        Nederland is een koffieland. Of je nu zweert bij een snelle Senseo voor 's ochtends, een volautomatische machine voor de perfecte espresso, of een klassiek filterapparaat voor het weekend — wij hebben elke categorie voor je uitgezocht.
+      </p>
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-3">
+        {subCategories.koffie.map(r => (
+          <a href={`/reviews/${r.slug}/`} class="block p-4 border border-[#e8e1d7] rounded hover:border-leaf hover:shadow-sm transition-all bg-white group">
+            <span class="text-sm font-medium text-leaf group-hover:underline">{r.data.title}</span>
+            <div class="flex items-center gap-3 mt-2 text-xs text-muted">
+              <span>⭐ {r.data.rating}</span>
+              <span>{r.data.priceRange}</span>
+              <span class="ml-auto text-leaf font-medium">Bekijk →</span>
+            </div>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <!-- KOELING -->
+    <section id="koeling" class="mb-12">
+      <h2 class="text-3xl font-serif font-semibold mb-4 border-b pb-2">🧊 Koelkasten &amp; Vriezers</h2>
+      <p class="text-muted mb-6">
+        Een koelkast koop je niet elk jaar. Het is een investering voor 10-15 jaar — energiezuinigheid, formaat, en indeling zijn cruciaal. We vergeleken vrijstaande modellen, Amerikaanse koelkasten, en losse vriezers.
+      </p>
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-3">
+        {subCategories.koeling.map(r => (
+          <a href={`/reviews/${r.slug}/`} class="block p-4 border border-[#e8e1d7] rounded hover:border-leaf hover:shadow-sm transition-all bg-white group">
+            <span class="text-sm font-medium text-leaf group-hover:underline">{r.data.title}</span>
+            <div class="flex items-center gap-3 mt-2 text-xs text-muted">
+              <span>⭐ {r.data.rating}</span>
+              <span>{r.data.priceRange}</span>
+              <span class="ml-auto text-leaf font-medium">Bekijk →</span>
+            </div>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <!-- KOKEN -->
+    <section id="koken" class="mb-12">
+      <h2 class="text-3xl font-serif font-semibold mb-4 border-b pb-2">🔥 Kookplaten, Ovens &amp; Afzuigkappen</h2>
+      <p class="text-muted mb-6">
+        De kookplaat is het hart van je keuken. Inductie is de standaard in 2026 — snel, veilig, en energiezuinig. Maar ook je oven, magnetron, stoomoven en afzuigkap verdienen aandacht. Wij zetten de besten op een rij.
+      </p>
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-3">
+        {subCategories.koken.map(r => (
+          <a href={`/reviews/${r.slug}/`} class="block p-4 border border-[#e8e1d7] rounded hover:border-leaf hover:shadow-sm transition-all bg-white group">
+            <span class="text-sm font-medium text-leaf group-hover:underline">{r.data.title}</span>
+            <div class="flex items-center gap-3 mt-2 text-xs text-muted">
+              <span>⭐ {r.data.rating}</span>
+              <span>{r.data.priceRange}</span>
+              <span class="ml-auto text-leaf font-medium">Bekijk →</span>
+            </div>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <!-- KLEIN -->
+    <section id="klein" class="mb-12">
+      <h2 class="text-3xl font-serif font-semibold mb-4 border-b pb-2">🥄 Kleine Keukenapparaten</h2>
+      <p class="text-muted mb-6">
+        Van de dagelijkse waterkoker tot de weekend-keukenmachine: kleine apparaten maken het koken makkelijker, sneller en leuker. We testten staafmixers, broodroosters, slowcookers, sapcentrifuges en alles daartussenin.
+      </p>
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-3">
+        {subCategories.klein.map(r => (
+          <a href={`/reviews/${r.slug}/`} class="block p-4 border border-[#e8e1d7] rounded hover:border-leaf hover:shadow-sm transition-all bg-white group">
+            <span class="text-sm font-medium text-leaf group-hover:underline">{r.data.title}</span>
+            <div class="flex items-center gap-3 mt-2 text-xs text-muted">
+              <span>⭐ {r.data.rating}</span>
+              <span>{r.data.priceRange}</span>
+              <span class="ml-auto text-leaf font-medium">Bekijk →</span>
+            </div>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <!-- VAAT -->
+    <section id="vaat" class="mb-12">
+      <h2 class="text-3xl font-serif font-semibold mb-4 border-b pb-2">🍽️ Vaatwassers</h2>
+      <p class="text-muted mb-6">
+        Een vaatwasser bespaart tijd, water en energie — mits je de juiste kiest. Inbouw, vrijstaand, of compact? Stil, zuinig, of juist supersnel? Onze vaatwasser-review wijst de weg.
+      </p>
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-3">
+        {subCategories.vaat.map(r => (
+          <a href={`/reviews/${r.slug}/`} class="block p-4 border border-[#e8e1d7] rounded hover:border-leaf hover:shadow-sm transition-all bg-white group">
+            <span class="text-sm font-medium text-leaf group-hover:underline">{r.data.title}</span>
+            <div class="flex items-center gap-3 mt-2 text-xs text-muted">
+              <span>⭐ {r.data.rating}</span>
+              <span>{r.data.priceRange}</span>
+              <span class="ml-auto text-leaf font-medium">Bekijk →</span>
+            </div>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <!-- BUYING TIPS -->
+    <section id="tips" class="mb-12 bg-[#f8f5f0] p-8 rounded">
+      <h2 class="text-2xl font-serif font-semibold mb-6">💡 7 Kooptips voor Keukenapparaten in 2026</h2>
+      <ol class="space-y-5 text-muted leading-relaxed">
+        <li>
+          <strong class="text-leaf">1. Meet eerst, koop dan.</strong> Klinkt logisch, maar wordt vaak vergeten. Meet de nis, de deuropening (past het apparaat erdoor?) en de loopruimte. Een Amerikaanse koelkast past niet in elke keuken.
+        </li>
+        <li>
+          <strong class="text-leaf">2. Kijk naar het energielabel.</strong> Een apparaat met label A of B verdient zichzelf terug in energiekosten. Zeker bij koelkasten, vriezers en vaatwassers die 24/7 aanstaan telt elk watt. Het nieuwe EU-label (2021+) is strenger — een oude A+++ is nu vaak een D of E.
+        </li>
+        <li>
+          <strong class="text-leaf">3. Kies inbouw vs. vrijstaand bewust.</strong> Inbouw oogt strakker, maar is duurder in aanschaf én vervanging. Vrijstaand geeft meer flexibiliteit en is vaak goedkoper. Voor huurders is vrijstaand meestal de enige optie.
+        </li>
+        <li>
+          <strong class="text-leaf">4. Check de garantie en service.</strong> Merken als Bosch, Siemens en Miele bieden vaak 5 jaar garantie op bepaalde onderdelen. Budgetmerken vaak maar 2 jaar. Kijk ook naar de beschikbaarheid van onderdelen en service-monteurs in jouw regio.
+        </li>
+        <li>
+          <strong class="text-leaf">5. Lees gebruikersreviews, niet alleen specificaties.</strong> Een koffiemachine kan op papier perfect zijn, maar als 50 gebruikers klagen over lekkende lekbakjes weet je genoeg. Wij lezen honderden reviews zodat jij dat niet hoeft.
+        </li>
+        <li>
+          <strong class="text-leaf">6. Wacht op aanbiedingen.</strong> Keukenapparaten zijn vaak flink afgeprijsd tijdens Black Friday, Amazon Prime Day, en de januari-uitverkoop. Als je kunt wachten, bespaar je vaak 15-30%. Gebruik een prijs-tracker zoals Keepa.
+        </li>
+        <li>
+          <strong class="text-leaf">7. Koop bij een betrouwbare partij.</strong> Amazon NL biedt snelle levering, goede retouren en vaak scherpe prijzen. Wij linken uitsluitend naar producten die op voorraad zijn met minimaal 4 sterren uit tientallen reviews. <em>Affiliate tag: kieskeukennl-21.</em>
+        </li>
+      </ol>
+    </section>
+
+    <!-- FAQ -->
+    <section id="faq" class="mb-12">
+      <h2 class="text-2xl font-serif font-semibold mb-6">❓ Veelgestelde Vragen (FAQ)</h2>
+
+      <div class="space-y-4">
+        <details class="border border-[#e8e1d7] rounded p-4 bg-white">
+          <summary class="font-medium cursor-pointer text-leaf">Wat is het beste keukenapparaat om als eerste te kopen?</summary>
+          <p class="mt-3 text-sm text-muted leading-relaxed">
+            Begin met wat je het meest gebruikt. Voor de meeste mensen is dat een <strong>koffiemachine</strong> (ochtendritueel), een <strong>airfryer</strong> (snel en gezond koken), of een <strong>waterkoker</strong> (thee, soep, snel kokend water). Een koelkast en kookplaat zijn meestal al aanwezig in een woning — die vervang je pas als ze stuk zijn. Zie onze <a href="/reviews/beste-koffiemachine-2026/" class="underline">beste koffiemachine gids</a> en <a href="/reviews/beste-airfryer-2026/" class="underline">beste airfryer gids</a> voor onze toppicks.
+          </p>
+        </details>
+
+        <details class="border border-[#e8e1d7] rounded p-4 bg-white">
+          <summary class="font-medium cursor-pointer text-leaf">Zijn dure keukenapparaten de meerprijs waard?</summary>
+          <p class="mt-3 text-sm text-muted leading-relaxed">
+            Dat hangt af van het apparaat. Bij <strong>koffiemachines</strong> en <strong>keukenmachines</strong> merk je het verschil dagelijks — betere materialen, stiller, langer mee. Bij <strong>waterkokers</strong> en <strong>broodroosters</strong> is het verschil kleiner. Een middenklasse model (€100-300) is vaak de sweet spot voor de meeste apparaten. Check onze specifieke reviews: <a href="/reviews/beste-airfryer-onder-100-euro-2026/" class="underline">airfryers onder €100</a>, <a href="/reviews/beste-koffiemachine-onder-200-euro-2026/" class="underline">koffiemachines onder €200</a>.
+          </p>
+        </details>
+
+        <details class="border border-[#e8e1d7] rounded p-4 bg-white">
+          <summary class="font-medium cursor-pointer text-leaf">Wat is het verschil tussen een airfryer en een heteluchtoven?</summary>
+          <p class="mt-3 text-sm text-muted leading-relaxed">
+            Een airfryer is in principe een compacte heteluchtoven. Hij circuleert hete lucht rond het eten, waardoor het krokant wordt met weinig tot geen olie. Het verschil: een airfryer is <strong>sneller op temperatuur</strong>, <strong>energiezuiniger</strong> voor kleine porties, en geeft vaak een krokanter resultaat door de compacte ruimte. Een heteluchtoven is beter voor grotere maaltijden en bakken. Lees onze <a href="/reviews/airfryer-vs-friteuse-2026/" class="underline">airfryer vs friteuse vergelijking</a> en <a href="/reviews/beste-airfryer-oven-combi-2026/" class="underline">airfryer-oven combi gids</a>.
+          </p>
+        </details>
+
+        <details class="border border-[#e8e1d7] rounded p-4 bg-white">
+          <summary class="font-medium cursor-pointer text-leaf">Welke koffiemachine past bij mij?</summary>
+          <p class="mt-3 text-sm text-muted leading-relaxed">
+            <strong>Volautomaat:</strong> voor liefhebbers van verse bonenkoffie met één druk op de knop (Jura, Philips, De'Longhi). <strong>Nespresso:</strong> voor gemak en consistente kwaliteit in 30 seconden. <strong>Filter:</strong> voor wie 's ochtends een hele pot wil zetten (Moccamaster). <strong>Senseo/pads:</strong> voor snelle, voordelige koffie per kopje. Zie onze <a href="/reviews/beste-koffiemachine-2026/" class="underline">hoofdgids</a> voor een complete vergelijking.
+          </p>
+        </details>
+
+        <details class="border border-[#e8e1d7] rounded p-4 bg-white">
+          <summary class="font-medium cursor-pointer text-leaf">Hoeveel kost een complete keuken aan apparatuur?</summary>
+          <p class="mt-3 text-sm text-muted leading-relaxed">
+            Voor een complete set (koelkast, kookplaat, oven/magnetron, afzuigkap, vaatwasser, plus kleine apparaten) reken je <strong>€2.500 tot €8.000</strong> voor middenklasse merken, en <strong>€8.000 tot €20.000+</strong> voor premium (Miele, Gaggenau, Quooker). De grootste kostenposten zijn de koelkast (€500-2.500), kookplaat (€200-1.500), en oven (€300-2.000). Met Amazon NL en onze affiliate links (kieskeukennl-21) vind je vaak scherpe deals.
+          </p>
+        </details>
+
+        <details class="border border-[#e8e1d7] rounded p-4 bg-white">
+          <summary class="font-medium cursor-pointer text-leaf">Is inductie echt beter dan gas of keramisch?</summary>
+          <p class="mt-3 text-sm text-muted leading-relaxed">
+            Ja — in vrijwel elk opzicht. Inductie is <strong>sneller</strong> (water kookt in 2-3 minuten), <strong>veiliger</strong> (de plaat zelf wordt niet heet), <strong>energiezuiniger</strong> (90% rendement vs. 40% bij gas), en <strong>makkelijker schoon te maken</strong> (glad oppervlak). Het enige nadeel: je hebt geschikte pannen nodig (magnetisch). Gas is fijn voor wokken, maar verder verliest het op alle fronten. Zie onze <a href="/reviews/beste-inductiekookplaat-2026/" class="underline">inductiekookplaat gids</a>.
+          </p>
+        </details>
+      </div>
+    </section>
+
+    <!-- CTA -->
+    <div class="mt-8 p-6 bg-leaf text-white rounded text-center">
+      <p class="text-lg font-semibold mb-2">Klaar om te shoppen?</p>
+      <p class="text-sm opacity-90 mb-4">Blader door onze {keukenReviews.length} keukenapparaat reviews en vind jouw perfecte match. Alle links leiden naar Amazon NL — zelfde prijs voor jou, kleine commissie voor ons. Tag: kieskeukennl-21.</p>
+      <a href="/vergelijk/" class="inline-block px-6 py-2 bg-white text-leaf rounded font-medium hover:bg-[#f0ead6] transition-colors">Bekijk het complete vergelijkingsoverzicht →</a>
+    </div>
+
+    <!-- SCHEMA -->
+    <script type="application/ld+json" set:html={JSON.stringify({
+      '@context': 'https://schema.org',
+      '@type': 'Article',
+      'headline': 'Ultieme Keukenapparaten Koopgids 2026 — Alles voor Jouw Droomkeuken',
+      'description': 'Complete koopgids voor keukenapparaten in Nederland 2026. Vergelijk airfryers, koffiemachines, koelkasten, inductiekookplaten en meer.',
+      'author': { '@type': 'Organization', 'name': 'Beste Apparaten' },
+      'publisher': { '@type': 'Organization', 'name': 'Beste Apparaten', 'url': 'https://rigbay.github.io/dutch-appliances/' },
+      'datePublished': '2026-05-21',
+      'dateModified': '2026-05-21',
+      'mainEntityOfPage': { '@type': 'WebPage', '@id': 'https://rigbay.github.io/dutch-appliances/keukenapparaten-koopgids/' }
+    })} />
+
+  </div>
+</BaseLayout>

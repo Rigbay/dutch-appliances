@@ -52,11 +52,11 @@ products:
     rating: 3.5
     affiliateLink: "https://www.amazon.nl/dp/B00XP5CKHI?tag=kieskeukennl-21"
 related:
-  - "beste-grasmaaier-2026"
-  - "beste-heggenschaar-2026"
-  - "beste-hogedrukreiniger-2026"
+  - beste-verticuteermachine-2026
+  - beste-bosmaaier-2026
 draft: false
 ---
+
 
 ## De Beste Bladblazers voor een Schone Tuin: Vaarwel Bladeltaart, Hallo Gemaaid Gazon!
 

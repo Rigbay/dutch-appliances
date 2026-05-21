@@ -20,10 +20,6 @@ date: 2026-05-14
 modelYear: 2026
 featuredProduct: ''
 readingTime: 10 min
-related:
-- beste-airfryer-2026
-- beste-airfryer-oven-combi-2026
-- airfryer-vs-friteuse-2026
 products:
 - name: '**Philips Airfryer XXL Connected (HD9867/90)**'
   verdict: Topkwaliteit kookresultaten, slimme integratie, grote gezinnen
@@ -61,7 +57,13 @@ products:
   bestFor: Goede allrounder voor gezinnen, makkelijk in gebruik en onderhoud
   rating: 4.2
   affiliateLink: https://www.amazon.nl/dp/B01DR6IT06?tag=kieskeukennl-21
+
+related:
+  - beste-airfryer-2026
+  - beste-compacte-airfryer-2026
+  - airfryer-vs-friteuse-2026
 ---
+
 
 # De Beste Luxe Airfryers Boven €200 van 2026: Een Complete Koopgids voor de Nederlandse Kookliefhebber
 

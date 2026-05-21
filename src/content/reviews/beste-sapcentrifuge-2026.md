@@ -54,10 +54,12 @@ products:
   rating: 4.3
   affiliateLink: https://partner.bol.com/
 related:
-- beste-keukenmachine-2026
-- beste-blender-2026
+  - beste-koffiemachine-2026
+  - beste-filterkoffiemachine-2026
+  - beste-airfryer-2026
 draft: false
 ---
+
 
 # De Ultieme Koopgids: Verse Sappen Thuis met de Beste Sapcentrifuges en Slowjuicers (2026 Editie)
 

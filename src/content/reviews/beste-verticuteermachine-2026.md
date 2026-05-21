@@ -52,11 +52,11 @@ products:
     rating: 4.8
     affiliateLink: "https://www.amazon.nl/dp/B07KT96ZLC?tag=kieskeukennl-21"
 related:
-  - "beste-grasmaaier-2026"
-  - "beste-heggenschaar-2026"
-  - "beste-hogedrukreiniger-2026"
+  - beste-bladblazer-2026
+  - beste-bosmaaier-2026
 draft: false
 ---
+
 
 # De Beste Verticuteermachines voor een Gezond en Mosvrij Gazon in 2026
 

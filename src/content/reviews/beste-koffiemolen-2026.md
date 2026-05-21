@@ -52,10 +52,12 @@ products:
   rating: 4.7
   affiliateLink: https://partner.bol.com/
 related:
-- beste-keukenmachine-2026
-- beste-blender-2026
+  - beste-airfryer-onder-100-euro-2026
+  - beste-airfryer-met-twee-manden-2026
+  - beste-stoomoven-2026
 draft: false
 ---
+
 
 # De Ultieme Koopgids: Jouw Weg naar de Perfecte Koffiemolen in 2026
 

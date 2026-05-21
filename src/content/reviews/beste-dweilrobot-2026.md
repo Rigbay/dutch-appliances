@@ -67,11 +67,12 @@ products:
   rating: 4.4
   affiliateLink: https://partner.bol.com/nl/product/9300000157358401/
 related:
-- beste-robotstofzuiger-2026
-- beste-stofzuiger-2026
-- beste-stofzuiger-met-zak-2026
+  - beste-stofzuiger-met-zak-2026
+  - beste-robotstofzuiger-2026
+  - beste-stofzuiger-2026
 draft: false
 ---
+
 
 # De Beste Dweilrobots en Vloerreinigers van 2026: Automatiseer het Dweilen van Harde Vloeren
 

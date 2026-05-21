@@ -52,11 +52,11 @@ products:
     rating: 4.2
     affiliateLink: "https://www.amazon.nl/dp/B01AI2PJQY?tag=kieskeukennl-21"
 related:
-  - "beste-grasmaaier-2026"
-  - "beste-heggenschaar-2026"
-  - "beste-hogedrukreiniger-2026"
+  - beste-verticuteermachine-2026
+  - beste-bladblazer-2026
 draft: false
 ---
+
 
 ## De Krachtpatser voor Uw Wilde Tuin: De Beste Bosmaaiers voor Zwaar Werk in 2026
 

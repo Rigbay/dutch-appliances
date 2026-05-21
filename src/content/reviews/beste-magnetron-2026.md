@@ -59,11 +59,12 @@ products:
   rating: 4.4
   affiliateLink: https://www.amazon.nl/s?k=Sharp+R843INW&tag=kieskeukennl-21
 related:
-- beste-stoomoven-2026
-- beste-airfryer-2026
-- beste-waterkoker-2026
+  - beste-airfryer-met-twee-manden-2026
+  - beste-koelkast-vriezer-combinatie-2026
+  - beste-koelkast-2026
 draft: false
 ---
+
 
 De magnetron is misschien wel het meest onderschatte apparaat in de Nederlandse keuken. Veel mensen gebruiken hem alleen om restjes op te warmen of een kop melk voor de chocolademelk te verwarmen. Maar in 2026 is een goede magnetron veel meer dan dat. Moderne combi-magnetrons zoals de Panasonic NN-CS89L combineren magnetron, grill, hetelucht én stoom in één apparaat. Ze kunnen dienst doen als een volwaardige tweede oven — perfect voor wie ruimte of tijd tekort komt, of gewoon efficiënter wil koken.
 

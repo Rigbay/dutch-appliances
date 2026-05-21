@@ -65,11 +65,12 @@ products:
   rating: 4.2
   affiliateLink: https://www.amazon.nl/dp/B0D14ZHFS8?tag=kieskeukennl-21
 related:
-- beste-magnetron-2026
-- beste-stoomoven-2026
-- beste-friteuse-2026
+  - airfryer-vs-friteuse-2026
+  - beste-keukenmachine-2026
+  - beste-koffiemachine-bonen-2026
 draft: false
 ---
+
 
 # De Beste Inductiekookplaten 2026: Uw Complete Gids voor Efficiënt Koken
 

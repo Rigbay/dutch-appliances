@@ -64,11 +64,12 @@ products:
   rating: 4.1
   affiliateLink: https://partner.bol.com/product/Domo-DO507FR-Heteluchtfriteuse
 related:
-- beste-airfryer-2026
-- beste-stoomoven-2026
-- beste-magnetron-2026
+  - airfryer-vs-friteuse-2026
+  - beste-inductiekookplaat-2026
+  - beste-tosti-ijzer-2026
 draft: false
 ---
+
 
 # De Beste Friteuses van 2026: Friet en Snacks Zonder Gedoe
 

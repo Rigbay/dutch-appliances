@@ -52,11 +52,12 @@ products:
     rating: 4.1
     affiliateLink: "https://www.amazon.nl/dp/B0CQ8GHBRG?tag=kieskeukennl-21"
 related:
-  - "beste-luchtreiniger-2026"
-  - "beste-airconditioner-2026"
-  - "beste-elektrische-kachel-2026"
+  - beste-wasmachine-2026
+  - beste-elektrische-kachel-2026
+  - beste-kettingzaag-2026
 draft: false
 ---
+
 
 # Koopgids: De Beste Luchtbevochtigers voor een Gezond Binnenklimaat in 2026
 

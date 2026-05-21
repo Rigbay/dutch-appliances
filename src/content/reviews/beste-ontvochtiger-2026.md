@@ -52,11 +52,12 @@ products:
     rating: 3.5
     affiliateLink: "https://www.amazon.nl/dp/B0DF8191SW?tag=kieskeukennl-21"
 related:
-  - "beste-wasdroger-2026"
-  - "beste-elektrische-kachel-2026"
-  - "beste-luchtbevochtiger-2026"
+  - beste-airconditioner-2026
+  - beste-elektrische-kachel-2026
+  - beste-grasmaaier-2026
 draft: false
 ---
+
 
 ## De Beste Ontvochtigers: Vaarwel Vocht, Schimmel en Muffe Lucht in 2026
 

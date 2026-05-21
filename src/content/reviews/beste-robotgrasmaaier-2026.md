@@ -58,10 +58,11 @@ products:
     rating: 4.4
     affiliateLink: "https://www.bosch-home.be/nl/productlijst/tuin-buitenleven/grasmaaiers/robotgrasmaaiers/indego-s-400"
 related:
-  - "robotgrasmaaier-installatie"
-  - "tuinonderhoud-tips"
-  - "duurzame-tuin"
+  - beste-tuinslang-2026
+  - beste-kettingzaag-2026
+  - beste-ontvochtiger-2026
 ---
+
 
 # De Beste Robotgrasmaaier 2026: Zonder Moeite een Perfect Gazon
 

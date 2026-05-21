@@ -20,10 +20,6 @@ date: 2026-05-14
 modelYear: 2026
 featuredProduct: ''
 readingTime: 9 min
-related:
-- beste-koffiemachine-2026
-- beste-koffiemachine-onder-200-euro-2026
-- beste-volautomatische-koffiemachine-2026
 products:
 - name: Nespresso Essenza Mini
   verdict: Compactheid, budget, eenvoud
@@ -67,7 +63,13 @@ products:
   bestFor: Veelzijdigheid, veel melkopties
   rating: 4.4
   affiliateLink: https://www.amazon.nl/dp/B0GKNPLF2T?tag=kieskeukennl-21
+
+related:
+  - beste-citruspers-2026
+  - beste-compacte-airfryer-2026
+  - beste-airfryer-oven-combi-2026
 ---
+
 
 # De Beste Nespresso-apparaten van 2026: Een Complete Koopgids voor de Nederlandse Koffieliefhebber
 

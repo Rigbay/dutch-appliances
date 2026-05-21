@@ -20,10 +20,6 @@ date: 2026-05-14
 modelYear: 2026
 featuredProduct: ''
 readingTime: 10 min
-related:
-- beste-stofzuiger-2026
-- beste-draadloze-stofzuiger-2026
-- stofzuiger-kopen-waar-op-letten-2026
 products:
 - name: Dyson V15s Detect Submarine
   verdict: '999'
@@ -67,7 +63,13 @@ products:
   bestFor: '449'
   rating: 4.3
   affiliateLink: https://www.amazon.nl/dp/B0CH7WGF9S?tag=kieskeukennl-21
+
+related:
+  - beste-robotstofzuiger-2026
+  - beste-stofzuiger-met-zak-2026
+  - beste-stofzuiger-2026
 ---
+
 
 # De Beste Steelstofzuigers van 2026: Wendbaar en Krachtig voor Elk Huishouden
 

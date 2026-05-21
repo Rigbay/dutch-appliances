@@ -68,11 +68,12 @@ products:
   rating: 4.6
   affiliateLink: https://partner.bol.com/click/product?p=12345&t=1&id=99001
 related:
-- beste-friteuse-2026
-- beste-stoomoven-2026
-- beste-magnetron-2026
+  - beste-vaatwasser-2026
+  - beste-koffiemachine-2026
+  - beste-airfryer-2026
 draft: false
 ---
+
 
 # De Beste Slowcookers van 2026: Gemak en Smaak voor het Moderne Huishouden
 

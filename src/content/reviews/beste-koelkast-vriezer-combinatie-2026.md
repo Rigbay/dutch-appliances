@@ -64,11 +64,12 @@ products:
   rating: 4.5
   affiliateLink: https://www.amazon.nl/dp/B0CH7WGF9S?tag=kieskeukennl-21
 related:
-- airfryer-vs-friteuse-2026
-- beste-afzuigkap-2026
-- beste-airfryer-2026
+  - beste-koelkast-2026
+  - beste-vriezer-2026
+  - beste-koffiemachine-bonen-2026
 draft: false
 ---
+
 
 # De Beste Koelkast-Vriezer Combinaties 2026: Slimme Keuzes voor Elk Huishouden onze [vriezer gids](/reviews/beste-vriezer-2026/). onze [koelkast gids](/reviews/beste-koelkast-2026/). onze [vriezer gids](/reviews/beste-vriezer-2026/). onze [koelkast gids](/reviews/beste-koelkast-2026/).
 

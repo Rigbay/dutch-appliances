@@ -71,11 +71,12 @@ products:
   rating: 3.9
   affiliateLink: https://www.amazon.nl/dp/B07KT96ZLC?tag=kieskeukennl-21
 related:
-- beste-wasmachine-2026
-- beste-stofzuiger-2026
-- beste-robotstofzuiger-2026
+  - beste-airconditioner-2026
+  - beste-robotgrasmaaier-2026
+  - beste-hogedrukreiniger-2026
 draft: false
 ---
+
 
 # De Beste Wasdrogers 2026: Warmtepomp, Condens & Energiezuinig voor Elk Huishouden
 

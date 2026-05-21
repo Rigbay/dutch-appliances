@@ -53,11 +53,12 @@ products:
   rating: 4.0
   affiliateLink: https://www.amazon.nl/dp/B0BWY9BY2S?tag=kieskeukennl-21
 related:
-- beste-koelkast-vriezer-combinatie-2026
-- beste-senseo-koffiezetapparaat-2026
-- beste-airfryer-onder-100-euro-2026
+  - beste-friteuse-2026
+  - beste-citruspers-2026
+  - beste-sapcentrifuge-2026
 draft: false
 ---
+
 
 ## De Perfecte Tosti: Jouw Gids voor Gouden Tosti-ijzers en Panini-grills in 2026
 
