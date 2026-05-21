@@ -6,17 +6,16 @@ const allReviews = await getCollection('reviews', ({ data }) => !data.draft);
 const keukenReviews = allReviews.filter(r => r.data.category === 'keuken');
 
 // Build slug set for fast lookup
-const keukenSlugs = keukenReviews.map(r => r.slug);
-const has = (slug, ...keywords) => keywords.some(kw => slug && slug.includes(kw));
+const has = (d, ...keywords) => keywords.some(kw => d.slug && d.slug.includes(kw));
 
 // Sub-categories for better organization
 const subCategories = {
-  airfryers: keukenReviews.filter(r => has(r.slug, 'airfryer', 'friteuse')),
-  koffie: keukenReviews.filter(r => has(r.slug, 'koffie', 'nespresso', 'senseo')),
-  koeling: keukenReviews.filter(r => has(r.slug, 'koelkast', 'vriezer')),
-  koken: keukenReviews.filter(r => has(r.slug, 'kookplaat', 'magnetron', 'stoomoven', 'afzuigkap')),
-  klein: keukenReviews.filter(r => has(r.slug, 'mixer', 'waterkoker', 'broodrooster', 'tosti', 'slowcooker', 'keukenmachine', 'sapcentrifuge', 'slowjuicer', 'citruspers')),
-  vaat: keukenReviews.filter(r => has(r.slug, 'vaatwasser')),
+  airfryers: keukenReviews.filter(r => has(r.data, 'airfryer', 'friteuse')),
+  koffie: keukenReviews.filter(r => has(r.data, 'koffie', 'nespresso', 'senseo')),
+  koeling: keukenReviews.filter(r => has(r.data, 'koelkast', 'vriezer')),
+  koken: keukenReviews.filter(r => has(r.data, 'kookplaat', 'magnetron', 'stoomoven', 'afzuigkap')),
+  klein: keukenReviews.filter(r => has(r.data, 'mixer', 'waterkoker', 'broodrooster', 'tosti', 'slowcooker', 'keukenmachine', 'sapcentrifuge', 'slowjuicer', 'citruspers')),
+  vaat: keukenReviews.filter(r => has(r.data, 'vaatwasser')),
 };
 ---
 
@@ -61,7 +60,7 @@ const subCategories = {
       </p>
       <div class="grid grid-cols-1 md:grid-cols-2 gap-3">
         {subCategories.airfryers.map(r => (
-          <a href={`/reviews/${r.slug}/`} class="block p-4 border border-[#e8e1d7] rounded hover:border-leaf hover:shadow-sm transition-all bg-white group">
+          <a href={`/reviews/${r.data.slug}/`} class="block p-4 border border-[#e8e1d7] rounded hover:border-leaf hover:shadow-sm transition-all bg-white group">
             <span class="text-sm font-medium text-leaf group-hover:underline">{r.data.title}</span>
             <div class="flex items-center gap-3 mt-2 text-xs text-muted">
               <span>⭐ {r.data.rating}</span>
@@ -81,7 +80,7 @@ const subCategories = {
       </p>
       <div class="grid grid-cols-1 md:grid-cols-2 gap-3">
         {subCategories.koffie.map(r => (
-          <a href={`/reviews/${r.slug}/`} class="block p-4 border border-[#e8e1d7] rounded hover:border-leaf hover:shadow-sm transition-all bg-white group">
+          <a href={`/reviews/${r.data.slug}/`} class="block p-4 border border-[#e8e1d7] rounded hover:border-leaf hover:shadow-sm transition-all bg-white group">
             <span class="text-sm font-medium text-leaf group-hover:underline">{r.data.title}</span>
             <div class="flex items-center gap-3 mt-2 text-xs text-muted">
               <span>⭐ {r.data.rating}</span>
@@ -101,7 +100,7 @@ const subCategories = {
       </p>
       <div class="grid grid-cols-1 md:grid-cols-2 gap-3">
         {subCategories.koeling.map(r => (
-          <a href={`/reviews/${r.slug}/`} class="block p-4 border border-[#e8e1d7] rounded hover:border-leaf hover:shadow-sm transition-all bg-white group">
+          <a href={`/reviews/${r.data.slug}/`} class="block p-4 border border-[#e8e1d7] rounded hover:border-leaf hover:shadow-sm transition-all bg-white group">
             <span class="text-sm font-medium text-leaf group-hover:underline">{r.data.title}</span>
             <div class="flex items-center gap-3 mt-2 text-xs text-muted">
               <span>⭐ {r.data.rating}</span>
@@ -121,7 +120,7 @@ const subCategories = {
       </p>
       <div class="grid grid-cols-1 md:grid-cols-2 gap-3">
         {subCategories.koken.map(r => (
-          <a href={`/reviews/${r.slug}/`} class="block p-4 border border-[#e8e1d7] rounded hover:border-leaf hover:shadow-sm transition-all bg-white group">
+          <a href={`/reviews/${r.data.slug}/`} class="block p-4 border border-[#e8e1d7] rounded hover:border-leaf hover:shadow-sm transition-all bg-white group">
             <span class="text-sm font-medium text-leaf group-hover:underline">{r.data.title}</span>
             <div class="flex items-center gap-3 mt-2 text-xs text-muted">
               <span>⭐ {r.data.rating}</span>
@@ -141,7 +140,7 @@ const subCategories = {
       </p>
       <div class="grid grid-cols-1 md:grid-cols-2 gap-3">
         {subCategories.klein.map(r => (
-          <a href={`/reviews/${r.slug}/`} class="block p-4 border border-[#e8e1d7] rounded hover:border-leaf hover:shadow-sm transition-all bg-white group">
+          <a href={`/reviews/${r.data.slug}/`} class="block p-4 border border-[#e8e1d7] rounded hover:border-leaf hover:shadow-sm transition-all bg-white group">
             <span class="text-sm font-medium text-leaf group-hover:underline">{r.data.title}</span>
             <div class="flex items-center gap-3 mt-2 text-xs text-muted">
               <span>⭐ {r.data.rating}</span>
@@ -161,7 +160,7 @@ const subCategories = {
       </p>
       <div class="grid grid-cols-1 md:grid-cols-2 gap-3">
         {subCategories.vaat.map(r => (
-          <a href={`/reviews/${r.slug}/`} class="block p-4 border border-[#e8e1d7] rounded hover:border-leaf hover:shadow-sm transition-all bg-white group">
+          <a href={`/reviews/${r.data.slug}/`} class="block p-4 border border-[#e8e1d7] rounded hover:border-leaf hover:shadow-sm transition-all bg-white group">
             <span class="text-sm font-medium text-leaf group-hover:underline">{r.data.title}</span>
             <div class="flex items-center gap-3 mt-2 text-xs text-muted">
               <span>⭐ {r.data.rating}</span>

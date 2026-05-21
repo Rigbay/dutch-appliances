@@ -24,11 +24,11 @@ const topPicks = categories.map(cat => {
     label: categoryLabels[cat] || cat,
     tops: sorted.slice(0, 5).map(r => ({
       title: r.data.title,
-      slug: r.slug,
+      slug: r.data.slug,
       featured: r.data.featuredProduct || 'Top model',
       rating: r.data.rating,
       priceRange: r.data.priceRange,
-      url: `/${r.slug}/`
+      url: `/${r.data.slug}/`
     }))
   };
 }).filter(Boolean);
