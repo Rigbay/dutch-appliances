@@ -2,7 +2,7 @@
 title: "beste hogedrukreinigers van 2026"
 slug: "beste-hogedrukreiniger-2026"
 description: "# De Beste Hogedrukreinigers van 2026: Reinig Je Huis en Tuin als een Pro  De lente is in volle gang, de zomer lonkt, en dat betekent dat het weer tijd is om je buiten..."
-category: "huishoudelijk"
+category: "tuin"
 rating: 4.0
 priceRange: "€30 - €500+"
 pros:

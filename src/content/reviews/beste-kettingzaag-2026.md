@@ -2,7 +2,7 @@
 title: "Beste kettingzagen 2026"
 slug: "beste-kettingzaag-2026"
 description: "Ontdek de beste kettingzagen voor tuinonderhoud, snoeien en brandhout. Onze koopgids helpt je kiezen."
-category: "huishoudelijk"
+category: "tuin"
 rating: 4.7
 priceRange: "EUR 75-260"
 pros:

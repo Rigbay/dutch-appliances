@@ -2,7 +2,7 @@
 title: "beste heggenscharen van 2026"
 slug: "beste-heggenschaar-2026"
 description: "# De Beste Heggescharen van 2026: Uw Gids voor een Perfecte Heg met Minimaal Onderhoud  Een strakke, gezonde heg is het visitekaartje van menige Nederlandse tuin. Het ..."
-category: "huishoudelijk"
+category: "tuin"
 rating: 4.0
 priceRange: "€30 - €500+"
 pros:

@@ -2,7 +2,7 @@
 title: "Beste Robotgrasmaaier 2026: Zonder Moeite een Perfect Gazon"
 slug: "beste-robotgrasmaaier-2026"
 description: "Ontdek de beste robotgrasmaaier voor 2026. Van kleine tuinen tot grote gazons, vind de ideale maaier voor moeiteloos onderhoud."
-category: "huishoudelijk"
+category: "tuin"
 rating: 4.8
 priceRange: "EUR 500-2500"
 pros:

@@ -2,7 +2,7 @@
 title: "beste grasmaaiers van 2026"
 slug: "beste-grasmaaier-2026"
 description: "# De Beste Grasmaaiers van 2026: Een Complete Koopgids voor de Nederlandse Huiseigenaar  Een perfect gemaaid gazon is het visitekaartje van menig Nederlandse woning. M..."
-category: "huishoudelijk"
+category: "tuin"
 rating: 4.0
 priceRange: "€30 - €500+"
 pros:
@@ -58,8 +58,8 @@ products:
 
 related:
   - beste-robotgrasmaaier-2026
-  - beste-airconditioner-2026
-  - beste-ontvochtiger-2026
+  - beste-bosmaaier-2026
+  - beste-verticuteermachine-2026
 ---
 
 
