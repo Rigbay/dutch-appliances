@@ -92,7 +92,7 @@ Kies de **KitchenAid Artisan 5KEK1522** als stilte en design allebei belangrijk 
 
 **Beste design:** Smeg kettle KLF03. De KLF03 is de blikvanger onder de waterkokers. Het poedergecoate staal, de chromen handgreep en de bolle vormen verwijzen naar de Italiaanse jaren vijftig. Hij kookt water snel en doet niet moeilijk, maar verwacht geen geavanceerde functies. Een interieurkeuze, geen techniekkeuze.
 
-**Beste premium:** KitchenAid Artisan 5KEK1522. De KitchenAid is stiller dan stil — je hoort het water borrelen maar nauwelijks de koker zelf. De dubbelwandige constructie isoleert uitstekend, de aluminium behuizing met kleuraccenten oogt luxe en de temperatuurselectie is intuïtief met een draaiknop. onze [luxe airfryer gids](/reviews/beste-luxe-airfryer-2026/). onze [luxe airfryer gids](/reviews/beste-luxe-airfryer-2026/). onze [airfryer friteuse gids](/reviews/airfryer-vs-friteuse-2026/). onze [airfryer gids](/reviews/beste-airfryer-2026/). Het gewicht is aanzienlijk, dus haal hem niet van stal als je kracht in je polsen beperkt is.
+**Beste premium:** KitchenAid Artisan 5KEK1522. De KitchenAid is stiller dan stil — je hoort het water borrelen maar nauwelijks de koker zelf. De dubbelwandige constructie isoleert uitstekend, de aluminium behuizing met kleuraccenten oogt luxe en de temperatuurselectie is intuïtief met een draaiknop. onze [luxe airfryer gids](/reviews/beste-luxe-airfryer-2026/). onze [airfryer friteuse gids](/reviews/airfryer-vs-friteuse-2026/). onze [airfryer gids](/reviews/beste-airfryer-2026/). Het gewicht is aanzienlijk, dus haal hem niet van stal als je kracht in je polsen beperkt is.
 
 ## Detailvergelijking per product
 
