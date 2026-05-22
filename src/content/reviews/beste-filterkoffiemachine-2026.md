@@ -1,19 +1,18 @@
 ---
 title: beste filterkoffiemachines van 2026
 slug: beste-filterkoffiemachine-2026
-description: '# De Beste Filterkoffiemachines van 2026: Jouw Gids voor de Perfecte
-  Kop  De geur van vers gezette filterkoffie, een onmisbaar ochtendritueel voor velen.
-  Of je nu een ...'
+description: "Vergelijk de beste filterkoffiemachines van 2026 voor Nederlands huishoudens. Moccamaster, Philips, Wilfa en meer getest op zettemperatuur, capaciteit en prijs."
 category: keuken
 rating: 4.0
 priceRange: €30 - €500+
 pros:
-- Hoge kwaliteit
-- Gebruiksvriendelijk
-- Duurzaam
+- "Optimale zettemperatuur van 92-96°C voor volle smaakextractie"
+- "Geïntegreerde bonenmaler bij middenklasse modellen voor maximale versheid"
+- "Duurzame metalen behuizing bij premium merken (Moccamaster, Wilfa)"
 cons:
-- Sommige modellen prijzig
-- Onderhoud nodig
+- "Sommige kwaliteitsmodellen vragen een investering van €200+"
+- "Regelmatig ontkalken nodig bij hard Nederlands kraanwater"
+- "Filterpapiertjes blijven een terugkerende aankoop"
 affiliateLinks:
 - https://www.amazon.nl/dp/B07FPZBKQ4?tag=kieskeukennl-21
 date: 2026-05-14
