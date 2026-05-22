@@ -74,9 +74,9 @@ Voordat je je keuze maakt, is het belangrijk om jezelf een paar vragen te stelle
 
 ## Snel Advies
 
-*   **Kies de Philips Viva Collection als je** een betrouwbare, gebruiksvriendelijke elektrische citruspers zoekt voor dagelijks gebruik en een goede prijs-kwaliteitverhouding belangrijk vindt.
-*   **Kies de Princess Citrus Pro als je** een krachtige, degelijke elektrische citruspers wilt die ook grotere vruchten zoals grapefruits moeiteloos aankan en je bereid bent iets meer te betalen voor extra functionaliteit.
-*   **Kies de KitchenAid Citruspers (accessoire) als je** al een KitchenAid keukenmachine bezit en op zoek bent naar een compacte, efficiënte oplossing voor het persen van citrusvruchten zonder extra apparaten. onze [keukenmachine gids](/reviews/beste-keukenmachine-2026/). onze [compacte airfryer gids](/reviews/beste-compacte-airfryer-2026/). onze [keukenmachine gids](/reviews/beste-keukenmachine-2026/). onze [compacte airfryer gids](/reviews/beste-compacte-airfryer-2026/). onze [airfryer friteuse gids](/reviews/airfryer-vs-friteuse-2026/).
+* **Kies de Philips Viva Collection als je** een betrouwbare, gebruiksvriendelijke elektrische citruspers zoekt voor dagelijks gebruik en een goede prijs-kwaliteitverhouding belangrijk vindt.
+* **Kies de Princess Citrus Pro als je** een krachtige, degelijke elektrische citruspers wilt die ook grotere vruchten zoals grapefruits moeiteloos aankan en je bereid bent iets meer te betalen voor extra functionaliteit.
+* **Kies de KitchenAid Citruspers (accessoire) als je** al een KitchenAid keukenmachine bezit en op zoek bent naar een compacte, efficiënte oplossing voor het persen van citrusvruchten zonder extra apparaten. onze [keukenmachine gids](/reviews/beste-keukenmachine-2026/). onze [compacte airfryer gids](/reviews/beste-compacte-airfryer-2026/). onze [airfryer friteuse gids](/reviews/airfryer-vs-friteuse-2026/).
 
 ## Beste Keuze per Budget
 
@@ -87,14 +87,14 @@ De Philips Viva Collection Citruspers is al jaren een favoriet onder consumenten
 **Voor wie:** Ideaal voor huishoudens die dagelijks een glas vers sap willen, maar geen behoefte hebben aan geavanceerde functies. Ook perfect voor beginners die voor het eerst een elektrische citruspers aanschaffen.
 
 **Voordelen:**
-*   Uitstekende prijs-kwaliteitverhouding.
-*   Gemakkelijk in gebruik en schoon te maken.
-*   Compact en neemt weinig ruimte in beslag.
-*   Krachtig genoeg voor dagelijks gebruik.
+* Uitstekende prijs-kwaliteitverhouding.
+* Gemakkelijk in gebruik en schoon te maken.
+* Compact en neemt weinig ruimte in beslag.
+* Krachtig genoeg voor dagelijks gebruik.
 
 **Nadelen:**
-*   Kan relatief veel geluid produceren.
-*   Perskegel is niet verstelbaar voor verschillende vruchtformaten.
+* Kan relatief veel geluid produceren.
+* Perskegel is niet verstelbaar voor verschillende vruchtformaten.
 
 ### Beste Prestaties: Sage The Citrus Press (800CJ)
 
@@ -103,14 +103,14 @@ De Sage The Citrus Press, vaak te vinden rond de €120 tot €150, is een inves
 **Voor wie:** Voor de echte sap-liefhebber die bereid is te investeren in topkwaliteit, maximale sapopbrengst en een luxe uitstraling. onze [luxe airfryer gids](/reviews/beste-luxe-airfryer-2026/). Geschikt voor dagelijks intensief gebruik.
 
 **Voordelen:**
-*   Uitzonderlijke sapopbrengst dankzij het dubbele draaiende perssysteem.
-*   Zeer gebruiksvriendelijk met een lange hendel voor minimale inspanning.
-*   Stille werking en luxe, duurzame afwerking.
-*   Geschikt voor alle soorten en maten citrusvruchten.
+* Uitzonderlijke sapopbrengst dankzij het dubbele draaiende perssysteem.
+* Zeer gebruiksvriendelijk met een lange hendel voor minimale inspanning.
+* Stille werking en luxe, duurzame afwerking.
+* Geschikt voor alle soorten en maten citrusvruchten.
 
 **Nadelen:**
-*   Hogere aanschafprijs.
-*   Neemt iets meer ruimte in beslag dan compactere modellen.
+* Hogere aanschafprijs.
+* Neemt iets meer ruimte in beslag dan compactere modellen.
 
 ### Beste Budget: Princess Citruspers (212100)
 
@@ -119,15 +119,15 @@ Als je op zoek bent naar een simpele, betaalbare elektrische citruspers, dan is 
 **Voor wie:** Ideaal voor studenten, starters of huishoudens die af en toe een glas vers sap willen en een beperkt budget hebben.
 
 **Voordelen:**
-*   Zeer scherpe prijs.
-*   Eenvoudig in gebruik en onderhoud.
-*   Compact en lichtgewicht.
-*   Doet wat het belooft voor basisgebruik.
+* Zeer scherpe prijs.
+* Eenvoudig in gebruik en onderhoud.
+* Compact en lichtgewicht.
+* Doet wat het belooft voor basisgebruik.
 
 **Nadelen:**
-*   Minder krachtig dan duurdere modellen, kan moeite hebben met hardere vruchten.
-*   Minder duurzame materialen.
-*   Perskegel is niet verstelbaar.
+* Minder krachtig dan duurdere modellen, kan moeite hebben met hardere vruchten.
+* Minder duurzame materialen.
+* Perskegel is niet verstelbaar.
 
 ## Waar op Letten?
 
@@ -141,14 +141,14 @@ Tot slot is het belangrijk om de **garantie en beschikbaarheid van onderdelen** 
 
 ## Vergelijkingstabel
 
-| Product                     | Specificatie/Vermogen | Prijs Range (€) | Beste voor                                                                         | Score (uit 5) |
+| Product | Specificatie/Vermogen | Prijs Range (€) | Beste voor | Score (uit 5) |
 | :-------------------------- | :-------------------- | :-------------- | :--------------------------------------------------------------------------------- | :------------ |
-| Philips Viva Collection     | 100 Watt              | 40 - 60         | Dagelijks sap, goede prijs-kwaliteit                                                | 4.0           |
-| Princess Citrus Pro         | 100 Watt              | 50 - 70         | Krachtig sap persen, ook grotere vruchten                                          | 3.8           |
-| KitchenAid Citruspers (Acc.) | N.v.t. (Acc.)         | 60 - 80         | Bestaande KitchenAid bezitters, compact                                            | 4.2           |
-| Sage The Citrus Press       | 110 Watt              | 120 - 150       | Maximale sapopbrengst, luxe, stil, duurzaam                                        | 4.8           |
-| WMF Citruspers (Handmatig)  | N.v.t. (Handmatig)    | 40 - 60         | Geruisloos, geen stroom nodig, controle, duurzaam metaal                          | 4.0           |
-| Princess Citruspers (212100)| 85 Watt               | 25 - 35         | Budgetbewuste gebruiker, incidenteel sap                                           | 3.5           |
+| Philips Viva Collection | 100 Watt | 40 - 60 | Dagelijks sap, goede prijs-kwaliteit | 4.0 |
+| Princess Citrus Pro | 100 Watt | 50 - 70 | Krachtig sap persen, ook grotere vruchten | 3.8 |
+| KitchenAid Citruspers (Acc.) | N.v.t. (Acc.) | 60 - 80 | Bestaande KitchenAid bezitters, compact | 4.2 |
+| Sage The Citrus Press | 110 Watt | 120 - 150 | Maximale sapopbrengst, luxe, stil, duurzaam | 4.8 |
+| WMF Citruspers (Handmatig) | N.v.t. (Handmatig) | 40 - 60 | Geruisloos, geen stroom nodig, controle, duurzaam metaal | 4.0 |
+| Princess Citruspers (212100)| 85 Watt | 25 - 35 | Budgetbewuste gebruiker, incidenteel sap | 3.5 |
 
 *Let op: Prijzen zijn indicatief en kunnen variëren afhankelijk van de winkel en acties.*
 

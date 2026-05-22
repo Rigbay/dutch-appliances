@@ -69,13 +69,13 @@ related:
 
 De geur van versgemalen koffiebonen, die langzaam de keuken vult in de vroege ochtend. Het geluid van de maler die zijn werk doet, gevolgd door het zachte pruttelen van de machine. Voor veel koffieliefhebbers is dit de ultieme start van de dag. En gelijk hebben ze. Want niets verslaat de smaak van koffie die je zelf maalt, vlak voordat deze wordt gezet. De oliën en aroma's zijn dan op hun piek, wat resulteert in een kop koffie die simpelweg niet te evenaren is met voorgemalen bonen.
 
-Maar de wereld van koffiemachines met ingebouwde bonenmaler kan overweldigend zijn. Van volautomatische espressomachines die met een druk op de knop een cappuccino toveren tot geavanceerde filterapparaten die elke nuance van je boon naar boven halen – waar begin je? Deze gids is speciaal samengesteld voor de purist, de enthousiasteling, de fijnproever die de controle wil hebben over elke stap van het zetproces. We duiken dieper in de mogelijkheden, bespreken de voor- en nadelen, en helpen je de machine te vinden die perfect aansluit bij jouw koffiewensen en budget. Of je nu droomt van een perfecte espresso, een volle filterkoffie, of alles daartussenin, hier vind je de informatie die je nodig hebt. onze [filterkoffiemachine gids](/reviews/beste-filterkoffiemachine-2026/). onze [filterkoffiemachine gids](/reviews/beste-filterkoffiemachine-2026/).
+Maar de wereld van koffiemachines met ingebouwde bonenmaler kan overweldigend zijn. Van volautomatische espressomachines die met een druk op de knop een cappuccino toveren tot geavanceerde filterapparaten die elke nuance van je boon naar boven halen – waar begin je? Deze gids is speciaal samengesteld voor de purist, de enthousiasteling, de fijnproever die de controle wil hebben over elke stap van het zetproces. We duiken dieper in de mogelijkheden, bespreken de voor- en nadelen, en helpen je de machine te vinden die perfect aansluit bij jouw koffiewensen en budget. Of je nu droomt van een perfecte espresso, een volle filterkoffie, of alles daartussenin, hier vind je de informatie die je nodig hebt. onze [filterkoffiemachine gids](/reviews/beste-filterkoffiemachine-2026/). 
 
 ## Snel Advies: Welke Koffiemachine met Bonenmaler past bij jou?
 
-*   **Voor de Snelheid en Gemak:** **Sage Barista Express**. onze [koffiemachine gids](/reviews/beste-koffiemachine-2026/). onze [koffiemachine gids](/reviews/beste-koffiemachine-2026/). Ideaal als je een volautomatische machine zoekt die toch de controle biedt over het malen en zetten van espresso, cappuccino en latte macchiato. Perfect voor drukke ochtenden zonder concessies te doen aan smaak. Te vinden bij de grotere elektronicawinkels zoals Coolblue en MediaMarkt.
-*   **Voor de Filterkoffie Purist:** **Moccamaster KBG Select**. Hoewel geen ingebouwde maler, is dit apparaat de gouden standaard voor filterkoffie. Combineer deze met een losse, goede bonenmaler (zoals de Solis Scala) voor de ultieme filterervaring. De Moccamaster staat bekend om zijn consistente temperatuur en snelle zetproces.
-*   **Voor de Compacte Koffiehoek:** **De'Longhi Dedica Arte (met losse maler)**. De Dedica zelf is een compacte espressomachine. Combineer deze met een kleine, maar krachtige bonenmaler zoals de Sage Smart Grinder Pro voor een stijlvolle en ruimtebesparende opstelling die toch uitstekende espresso levert.
+* **Voor de Snelheid en Gemak:** **Sage Barista Express**. onze [koffiemachine gids](/reviews/beste-koffiemachine-2026/). Ideaal als je een volautomatische machine zoekt die toch de controle biedt over het malen en zetten van espresso, cappuccino en latte macchiato. Perfect voor drukke ochtenden zonder concessies te doen aan smaak. Te vinden bij de grotere elektronicawinkels zoals Coolblue en MediaMarkt.
+* **Voor de Filterkoffie Purist:** **Moccamaster KBG Select**. Hoewel geen ingebouwde maler, is dit apparaat de gouden standaard voor filterkoffie. Combineer deze met een losse, goede bonenmaler (zoals de Solis Scala) voor de ultieme filterervaring. De Moccamaster staat bekend om zijn consistente temperatuur en snelle zetproces.
+* **Voor de Compacte Koffiehoek:** **De'Longhi Dedica Arte (met losse maler)**. De Dedica zelf is een compacte espressomachine. Combineer deze met een kleine, maar krachtige bonenmaler zoals de Sage Smart Grinder Pro voor een stijlvolle en ruimtebesparende opstelling die toch uitstekende espresso levert.
 
 ## Beste Keuze per Budget
 
@@ -109,14 +109,14 @@ Bij de keuze voor een koffiemachine met ingebouwde bonenmaler, of een combinatie
 
 ## Vergelijkingstabel: De Beste Koffiemachines met Bonenmaler
 
-| Product                     | Inhoud (Waterreservoir) | Vermogen (Watt) | Prijsindicatie (EUR) | Beste voor                                     | Score (uit 5) |
+| Product | Inhoud (Waterreservoir) | Vermogen (Watt) | Prijsindicatie (EUR) | Beste voor | Score (uit 5) |
 | :-------------------------- | :---------------------- | :-------------- | :------------------- | :--------------------------------------------- | :------------ |
-| Sage Barista Express        | 1.8 L                   | 1450            | 650-750              | Allround thuisbarista, espresso & melkdranken | 4.5           |
-| De'Longhi Dedica Arte       | 1.1 L                   | 1100            | 170-220 (excl. maler)| Compacte keuken, instapmodel espresso          | 3.5           |
-| Moccamaster KBG Select      | 1.25 L                  | 1520            | 230-280              | Filterkoffie purist (met losse maler)          | 4.8           |
-| Sage Precision Brewer       | 1.8 L                   | 1600            | 250-350 (excl. maler)| Filterkoffie controle, diverse zetmethodes     | 4.7           |
-| Solis Scala (Bonenmaler)    | N.v.t.                  | 150             | 100-130              | Compacte, degelijke maler voor elke machine   | 4.0           |
-| Sage Smart Grinder Pro      | N.v.t.                  | 160             | 150-180              | Precisie malen, veel instelmogelijkheden       | 4.2           |
+| Sage Barista Express | 1.8 L | 1450 | 650-750 | Allround thuisbarista, espresso & melkdranken | 4.5 |
+| De'Longhi Dedica Arte | 1.1 L | 1100 | 170-220 (excl. maler)| Compacte keuken, instapmodel espresso | 3.5 |
+| Moccamaster KBG Select | 1.25 L | 1520 | 230-280 | Filterkoffie purist (met losse maler) | 4.8 |
+| Sage Precision Brewer | 1.8 L | 1600 | 250-350 (excl. maler)| Filterkoffie controle, diverse zetmethodes | 4.7 |
+| Solis Scala (Bonenmaler) | N.v.t. | 150 | 100-130 | Compacte, degelijke maler voor elke machine | 4.0 |
+| Sage Smart Grinder Pro | N.v.t. | 160 | 150-180 | Precisie malen, veel instelmogelijkheden | 4.2 |
 
 *Let op: Prijzen zijn indicaties en kunnen variëren per winkel en periode. De De'Longhi Dedica Arte en de Moccamaster KBG Select hebben geen ingebouwde maler, maar zijn opgenomen als uitstekende opties in combinatie met een losse maler voor de purist.*
 

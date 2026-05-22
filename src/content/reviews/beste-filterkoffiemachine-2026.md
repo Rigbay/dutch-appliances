@@ -74,60 +74,60 @@ Of je nu een drukke ouder bent die snel een kan koffie nodig heeft, een enthousi
 
 ## Snel Advies
 
-*   **Kies de Moccamaster KBGV Select** als je een **onverwoestbare klassieker zoekt die consistent uitstekende koffie zet voor een gemiddeld huishouden**: **onovertroffen duurzaamheid en een perfect gecontroleerde zetmethode**.
-*   **Kies de Technivorm Moccamaster Cup-One** als je **vooral één kop koffie per keer zet en de hoogste kwaliteit wilt zonder verspilling**: **ultieme controle over de zetmethode voor één persoon en een compact design**.
-*   **Kies de Philips Grind & Brew 5000 Series HD5120/00** als je **gemak en versgemalen koffie waardeert zonder veel moeite, voor gezinnen of kantoren die grote hoeveelheden zetten**: **geïntegreerde molen voor maximale versheid en een ruime capaciteit**.
-*   **Kies de Wilfa Svart Presisjon WSP-1B** als je **een budgetbewuste keuze wilt met indrukwekkende prestaties voor specialty koffie, en bereid bent tot handmatige controle**: **uitstekende prijs-kwaliteitverhouding voor beginnende specialty koffiedrinkers met een focus op controle**.
+* **Kies de Moccamaster KBGV Select** als je een **onverwoestbare klassieker zoekt die consistent uitstekende koffie zet voor een gemiddeld huishouden**: **onovertroffen duurzaamheid en een perfect gecontroleerde zetmethode**.
+* **Kies de Technivorm Moccamaster Cup-One** als je **vooral één kop koffie per keer zet en de hoogste kwaliteit wilt zonder verspilling**: **ultieme controle over de zetmethode voor één persoon en een compact design**.
+* **Kies de Philips Grind & Brew 5000 Series HD5120/00** als je **gemak en versgemalen koffie waardeert zonder veel moeite, voor gezinnen of kantoren die grote hoeveelheden zetten**: **geïntegreerde molen voor maximale versheid en een ruime capaciteit**.
+* **Kies de Wilfa Svart Presisjon WSP-1B** als je **een budgetbewuste keuze wilt met indrukwekkende prestaties voor specialty koffie, en bereid bent tot handmatige controle**: **uitstekende prijs-kwaliteitverhouding voor beginnende specialty koffiedrinkers met een focus op controle**.
 
 ## Beste Keuze per Budget
 
 ### Beste Koop: Technivorm Moccamaster KBGV Select
 
-*   **Prijs:** € 249,99
-*   **Voor wie:** Huishoudens die op zoek zijn naar een duurzame, betrouwbare en uitzonderlijk goed presterende filterkoffiemachine die grote hoeveelheden koffie zet met een constante kwaliteit. Ideaal voor liefhebbers van zowel klassieke als specialty koffie die waarde hechten aan een machine die jarenlang meegaat.
-*   **2-3 concrete voordelen:**
-    *   **Ongeëvenaarde bouwkwaliteit en duurzaamheid:** De Moccamaster staat bekend om zijn handgemaakte constructie uit hoogwaardige materialen (aluminium, koper). Dit resulteert in een machine die praktisch onverwoestbaar is en een levenslange garantie biedt op de meeste onderdelen. Je koopt hiermee een machine voor het leven.
-    *   **Optimale zetmethode voor smaakbehoud:** De machine is gecertificeerd door de European Coffee Centre (ECC) en de Specialty Coffee Association (SCA). Dit betekent dat de watertemperatuur (92-96°C), de doorlooptijd en de waterdistributie perfect zijn afgestemd om de optimale extractie van koffie te garanderen, wat resulteert in een rijke, gebalanceerde en smaakvolle kop koffie. De automatische druppelstop en de twee standen voor een volle of halve kan zorgen voor extra flexibiliteit.
-    *   **Eenvoudige bediening en onderhoud:** Ondanks de geavanceerde technologie is de bediening uiterst simpel: vul water, voeg koffie toe en druk op de knop. Het onderhoud is eveneens minimaal; de meeste onderdelen zijn gemakkelijk te reinigen, en het apparaat is ontworpen voor eenvoudige ontkalking.
-*   **2 eerlijke nadelen:**
-    *   **Prijs:** Hoewel het een "beste koop" is vanwege de levensduur en prestaties, is de initiële aanschafprijs hoger dan die van veel concurrenten. Dit kan een drempel zijn voor consumenten met een kleiner budget.
-    *   **Geen programmeerbare functies:** De Moccamaster is ontworpen voor pure functionaliteit en biedt geen digitale displays, timerfuncties of instellingen voor maalgraden. Koffiezetten gebeurt hier nog op de authentieke, handmatige manier.
+* **Prijs:** € 249,99
+* **Voor wie:** Huishoudens die op zoek zijn naar een duurzame, betrouwbare en uitzonderlijk goed presterende filterkoffiemachine die grote hoeveelheden koffie zet met een constante kwaliteit. Ideaal voor liefhebbers van zowel klassieke als specialty koffie die waarde hechten aan een machine die jarenlang meegaat.
+* **2-3 concrete voordelen:**
+ * **Ongeëvenaarde bouwkwaliteit en duurzaamheid:** De Moccamaster staat bekend om zijn handgemaakte constructie uit hoogwaardige materialen (aluminium, koper). Dit resulteert in een machine die praktisch onverwoestbaar is en een levenslange garantie biedt op de meeste onderdelen. Je koopt hiermee een machine voor het leven.
+ * **Optimale zetmethode voor smaakbehoud:** De machine is gecertificeerd door de European Coffee Centre (ECC) en de Specialty Coffee Association (SCA). Dit betekent dat de watertemperatuur (92-96°C), de doorlooptijd en de waterdistributie perfect zijn afgestemd om de optimale extractie van koffie te garanderen, wat resulteert in een rijke, gebalanceerde en smaakvolle kop koffie. De automatische druppelstop en de twee standen voor een volle of halve kan zorgen voor extra flexibiliteit.
+ * **Eenvoudige bediening en onderhoud:** Ondanks de geavanceerde technologie is de bediening uiterst simpel: vul water, voeg koffie toe en druk op de knop. Het onderhoud is eveneens minimaal; de meeste onderdelen zijn gemakkelijk te reinigen, en het apparaat is ontworpen voor eenvoudige ontkalking.
+* **2 eerlijke nadelen:**
+ * **Prijs:** Hoewel het een "beste koop" is vanwege de levensduur en prestaties, is de initiële aanschafprijs hoger dan die van veel concurrenten. Dit kan een drempel zijn voor consumenten met een kleiner budget.
+ * **Geen programmeerbare functies:** De Moccamaster is ontworpen voor pure functionaliteit en biedt geen digitale displays, timerfuncties of instellingen voor maalgraden. Koffiezetten gebeurt hier nog op de authentieke, handmatige manier.
 
 ### Beste Prestaties: Technivorm Moccamaster KBGV Select
 
-*   **Prijs:** € 249,99
-*   **Voor wie:** De veeleisende koffieliefhebber die het allerbeste wil op het gebied van smaakconsistentie, duurzaamheid en efficiëntie. Dit is de machine die de nuances van specialty koffie volledig tot hun recht laat komen, terwijl hij ook moeiteloos grote hoeveelheden kan zetten voor gezinnen of gasten.
-*   **2-3 concrete voordelen:**
-    *   **Gecertificeerde Smaakkwaliteit:** De Moccamaster KBGV Select is een van de weinige filterkoffiemachines die voldoet aan de strenge eisen van de Specialty Coffee Association (SCA) en de European Coffee Centre (ECC). Dit garandeert een optimale watertemperatuur (92-96°C) en een perfecte doorlooptijd, wat cruciaal is voor de extractie van de complexe aroma's en smaken van hoogwaardige koffiebonen.
-    *   **Ongeëvenaarde Duurzaamheid en Bouwkwaliteit:** Handgemaakt in Nederland met hoogwaardige materialen zoals aluminium en koper, is deze machine gebouwd om een leven lang mee te gaan. De garantie van 5 jaar, met de mogelijkheid tot verlenging, spreekt boekdelen over het vertrouwen van de fabrikant in hun product. Dit is een investering die zichzelf terugbetaalt in jarenlang plezier.
-    *   **Efficiënt en Gebruiksvriendelijk:** Ondanks zijn geavanceerde technologie is de Moccamaster KBGV Select verrassend eenvoudig in gebruik. De machine zet snel een volle kan koffie en beschikt over een automatische druppelstop. De dubbele instelling voor het verwarmingselement zorgt ervoor dat de koffie op de ideale temperatuur blijft zonder te verbranden, of je nu een volle of halve kan zet.
-*   **2 eerlijke nadelen:**
-    *   **Prijs:** De Moccamaster KBGV Select is een investering en behoort tot het hogere segment qua prijs. Dit kan een aanzienlijke drempel zijn voor consumenten met een beperkter budget.
-    *   **Geen Programmeerbare Functies:** Voor degenen die gewend zijn aan moderne gemakken zoals programmeerbare starttijden of instelbare maalgraden, kan het ontbreken van deze functies een nadeel zijn. De focus ligt hier puur op de kwaliteit van het zetproces zelf.
+* **Prijs:** € 249,99
+* **Voor wie:** De veeleisende koffieliefhebber die het allerbeste wil op het gebied van smaakconsistentie, duurzaamheid en efficiëntie. Dit is de machine die de nuances van specialty koffie volledig tot hun recht laat komen, terwijl hij ook moeiteloos grote hoeveelheden kan zetten voor gezinnen of gasten.
+* **2-3 concrete voordelen:**
+ * **Gecertificeerde Smaakkwaliteit:** De Moccamaster KBGV Select is een van de weinige filterkoffiemachines die voldoet aan de strenge eisen van de Specialty Coffee Association (SCA) en de European Coffee Centre (ECC). Dit garandeert een optimale watertemperatuur (92-96°C) en een perfecte doorlooptijd, wat cruciaal is voor de extractie van de complexe aroma's en smaken van hoogwaardige koffiebonen.
+ * **Ongeëvenaarde Duurzaamheid en Bouwkwaliteit:** Handgemaakt in Nederland met hoogwaardige materialen zoals aluminium en koper, is deze machine gebouwd om een leven lang mee te gaan. De garantie van 5 jaar, met de mogelijkheid tot verlenging, spreekt boekdelen over het vertrouwen van de fabrikant in hun product. Dit is een investering die zichzelf terugbetaalt in jarenlang plezier.
+ * **Efficiënt en Gebruiksvriendelijk:** Ondanks zijn geavanceerde technologie is de Moccamaster KBGV Select verrassend eenvoudig in gebruik. De machine zet snel een volle kan koffie en beschikt over een automatische druppelstop. De dubbele instelling voor het verwarmingselement zorgt ervoor dat de koffie op de ideale temperatuur blijft zonder te verbranden, of je nu een volle of halve kan zet.
+* **2 eerlijke nadelen:**
+ * **Prijs:** De Moccamaster KBGV Select is een investering en behoort tot het hogere segment qua prijs. Dit kan een aanzienlijke drempel zijn voor consumenten met een beperkter budget.
+ * **Geen Programmeerbare Functies:** Voor degenen die gewend zijn aan moderne gemakken zoals programmeerbare starttijden of instelbare maalgraden, kan het ontbreken van deze functies een nadeel zijn. De focus ligt hier puur op de kwaliteit van het zetproces zelf.
 
 ### Beste Budget: Wilfa Svart Presisjon WSP-1B
 
-*   **Prijs:** € 129,99
-*   **Voor wie:** Koffieliefhebbers die een beperkt budget hebben, maar toch de stap willen maken naar kwalitatief hoogwaardige filterkoffie, met name specialty koffie. Ideaal voor singles, stellen of kleine huishoudens die waarde hechten aan smaak en controle.
-*   **2-3 concrete voordelen:**
-    *   **Uitstekende Prijs-Kwaliteitverhouding:** De Wilfa Svart Presisjon biedt prestaties die je normaal gesproken in veel duurdere machines vindt. De machine is ontworpen met aandacht voor de essentiële aspecten van koffiezetten, zoals de juiste watertemperatuur en een goede waterverdeling over het koffiebed. Dit resulteert in een verrassend smaakvolle kop koffie voor deze prijsklasse.
-    *   **SCA-gecertificeerd (potentieel):** Hoewel niet altijd expliciet vermeld op de verpakking van alle varianten, is de Svart Presisjon ontworpen met de principes van de Specialty Coffee Association in gedachten. Dit betekent dat de machine streven naar de ideale zetparameters voor een optimale extractie. Het resultaat is een koffie die de subtiele smaken van specialty bonen goed naar voren brengt.
-    *   **Eenvoudige en Intuïtieve Bediening:** De machine is zeer eenvoudig in gebruik. Vul het waterreservoir, voeg gemalen koffie toe aan de filterhouder en zet de machine aan. Er zijn geen ingewikkelde instellingen, wat het een toegankelijk apparaat maakt voor zowel beginners als ervaren koffiedrinkers die geen behoefte hebben aan extra functionaliteit.
-*   **2 eerlijke nadelen:**
-    *   **Bouwkwaliteit minder robuust dan duurdere opties:** Hoewel de machine degelijk is voor zijn prijs, is de gebruikte kunststof minder premium dan het metaal van duurdere Moccamaster-modellen. Dit kan resulteren in een minder luxe gevoel en mogelijk een kortere levensduur bij intensief dagelijks gebruik. onze [luxe airfryer gids](/reviews/beste-luxe-airfryer-2026/). onze [luxe airfryer gids](/reviews/beste-luxe-airfryer-2026/). onze [airfryer friteuse gids](/reviews/airfryer-vs-friteuse-2026/). onze [airfryer gids](/reviews/beste-airfryer-2026/).
-    *   **Capaciteit beperkter:** De machine heeft een maximale capaciteit van 1,25 liter (ongeveer 10 kopjes), wat voor grotere huishoudens of gasten mogelijk aan de krappe kant is.
+* **Prijs:** € 129,99
+* **Voor wie:** Koffieliefhebbers die een beperkt budget hebben, maar toch de stap willen maken naar kwalitatief hoogwaardige filterkoffie, met name specialty koffie. Ideaal voor singles, stellen of kleine huishoudens die waarde hechten aan smaak en controle.
+* **2-3 concrete voordelen:**
+ * **Uitstekende Prijs-Kwaliteitverhouding:** De Wilfa Svart Presisjon biedt prestaties die je normaal gesproken in veel duurdere machines vindt. De machine is ontworpen met aandacht voor de essentiële aspecten van koffiezetten, zoals de juiste watertemperatuur en een goede waterverdeling over het koffiebed. Dit resulteert in een verrassend smaakvolle kop koffie voor deze prijsklasse.
+ * **SCA-gecertificeerd (potentieel):** Hoewel niet altijd expliciet vermeld op de verpakking van alle varianten, is de Svart Presisjon ontworpen met de principes van de Specialty Coffee Association in gedachten. Dit betekent dat de machine streven naar de ideale zetparameters voor een optimale extractie. Het resultaat is een koffie die de subtiele smaken van specialty bonen goed naar voren brengt.
+ * **Eenvoudige en Intuïtieve Bediening:** De machine is zeer eenvoudig in gebruik. Vul het waterreservoir, voeg gemalen koffie toe aan de filterhouder en zet de machine aan. Er zijn geen ingewikkelde instellingen, wat het een toegankelijk apparaat maakt voor zowel beginners als ervaren koffiedrinkers die geen behoefte hebben aan extra functionaliteit.
+* **2 eerlijke nadelen:**
+ * **Bouwkwaliteit minder robuust dan duurdere opties:** Hoewel de machine degelijk is voor zijn prijs, is de gebruikte kunststof minder premium dan het metaal van duurdere Moccamaster-modellen. Dit kan resulteren in een minder luxe gevoel en mogelijk een kortere levensduur bij intensief dagelijks gebruik. onze [luxe airfryer gids](/reviews/beste-luxe-airfryer-2026/). onze [airfryer friteuse gids](/reviews/airfryer-vs-friteuse-2026/). onze [airfryer gids](/reviews/beste-airfryer-2026/).
+ * **Capaciteit beperkter:** De machine heeft een maximale capaciteit van 1,25 liter (ongeveer 10 kopjes), wat voor grotere huishoudens of gasten mogelijk aan de krappe kant is.
 
 ### Beste voor Specialty Koffie: Technivorm Moccamaster KBGV Select
 
-*   **Prijs:** € 249,99
-*   **Voor wie:** De echte koffie-enthousiasteling die de subtiele nuances van specialty koffiebonen wil ontdekken en waarderen. Deze machine is ontworpen met de hoogste standaarden voor koffie-extractie in gedachten, en biedt de meest consistente en optimale resultaten voor het zetten van een perfecte filterkoffie.
-*   **2-3 concrete voordelen:**
-    *   **Optimale Zetparameters:** De Moccamaster KBGV Select is gecertificeerd door de Specialty Coffee Association (SCA) en de European Coffee Centre (ECC). Dit betekent dat de machine voldoet aan strikte normen voor watertemperatuur (92-96°C), doorlooptijd en waterverdeling. Deze parameters zijn cruciaal voor het correct extraheren van de complexe aroma's en smaken van specialty koffie, waardoor je het volledige potentieel van je bonen benut.
-    *   **Consistente Kwaliteit:** Dankzij de nauwkeurig gecontroleerde zetmethode levert de Moccamaster keer op keer een uitzonderlijk consistente kop koffie. Dit is essentieel voor specialty koffie, waar zelfs kleine variaties in extractie een groot verschil kunnen maken in de smaakbeleving.
-    *   **Duurzaamheid en Design:** Naast de prestaties blinkt de Moccamaster uit in duurzaamheid. Gebouwd met hoogwaardige materialen en handgemaakt in Nederland, is dit een investering die jarenlang meegaat. Het iconische design is niet alleen esthetisch aantrekkelijk, maar ook functioneel.
-*   **2 eerlijke nadelen:**
-    *   **Prijs:** De Moccamaster KBGV Select is een premium product met een bijbehorend prijskaartje. Dit kan een aanzienlijke investering zijn, vooral voor beginnende specialty koffiedrinkers.
-    *   **Geen aanpasbare instellingen:** De machine biedt geen mogelijkheid om de zetparameters aan te passen, zoals de maalgraad of de doorlooptijd. Dit is een bewuste keuze van de fabrikant om de optimale, vaste parameters te garanderen. Voor puristen die graag experimenteren met deze variabelen, kan dit een beperking zijn.
+* **Prijs:** € 249,99
+* **Voor wie:** De echte koffie-enthousiasteling die de subtiele nuances van specialty koffiebonen wil ontdekken en waarderen. Deze machine is ontworpen met de hoogste standaarden voor koffie-extractie in gedachten, en biedt de meest consistente en optimale resultaten voor het zetten van een perfecte filterkoffie.
+* **2-3 concrete voordelen:**
+ * **Optimale Zetparameters:** De Moccamaster KBGV Select is gecertificeerd door de Specialty Coffee Association (SCA) en de European Coffee Centre (ECC). Dit betekent dat de machine voldoet aan strikte normen voor watertemperatuur (92-96°C), doorlooptijd en waterverdeling. Deze parameters zijn cruciaal voor het correct extraheren van de complexe aroma's en smaken van specialty koffie, waardoor je het volledige potentieel van je bonen benut.
+ * **Consistente Kwaliteit:** Dankzij de nauwkeurig gecontroleerde zetmethode levert de Moccamaster keer op keer een uitzonderlijk consistente kop koffie. Dit is essentieel voor specialty koffie, waar zelfs kleine variaties in extractie een groot verschil kunnen maken in de smaakbeleving.
+ * **Duurzaamheid en Design:** Naast de prestaties blinkt de Moccamaster uit in duurzaamheid. Gebouwd met hoogwaardige materialen en handgemaakt in Nederland, is dit een investering die jarenlang meegaat. Het iconische design is niet alleen esthetisch aantrekkelijk, maar ook functioneel.
+* **2 eerlijke nadelen:**
+ * **Prijs:** De Moccamaster KBGV Select is een premium product met een bijbehorend prijskaartje. Dit kan een aanzienlijke investering zijn, vooral voor beginnende specialty koffiedrinkers.
+ * **Geen aanpasbare instellingen:** De machine biedt geen mogelijkheid om de zetparameters aan te passen, zoals de maalgraad of de doorlooptijd. Dit is een bewuste keuze van de fabrikant om de optimale, vaste parameters te garanderen. Voor puristen die graag experimenteren met deze variabelen, kan dit een beperking zijn.
 
 ## Waar op te letten bij het kopen?
 
@@ -143,10 +143,10 @@ Bij de aanschaf van een filterkoffiemachine zijn er naast de prijs en de merknaa
 
 ## Vergelijkingstabel
 
-| Product                                   | Watertemperatuur (ºC) | Capaciteit (liter) | Snelheid (kan) | Geïntegreerde Molen | Programmeerbaar | Prijs (€) | Beste voor
-| Moccamaster KBGV Select                   | 92-96                 | 1.25               | ~6 min          | Nee                  | Nee             | €250      | Beste allround kwaliteit en duurzaamheid
-| Moccamaster Cup-One                       | 92-96                 | 0.3                | ~4 min          | Nee                  | Nee             | €209      | Eén perfecte kop per keer
-| Philips Grind & Brew 5000                 | 92-99                 | 1.2                | ~8 min          | Ja                   | Ja              | €180      | Gemak met ingebouwde bonenmolen
-| Wilfa Svart Presisjon WSP-1B              | 90-96                 | 1.25               | ~7 min          | Nee                  | Nee             | €130      | Beste budget voor specialty koffie
-| Melitta AromaFresh II                     | 92-96                 | 1.25               | ~8 min          | Ja                   | Ja              | €120      | Betaalbare veelzijdigheid met molen
-| Sage Precision Brewer                     | 90-98                 | 1.5                | ~7 min          | Nee                  | Ja              | €299      | Volledige controle over zetparameters
+| Product | Watertemperatuur (ºC) | Capaciteit (liter) | Snelheid (kan) | Geïntegreerde Molen | Programmeerbaar | Prijs (€) | Beste voor
+| Moccamaster KBGV Select | 92-96 | 1.25 | ~6 min | Nee | Nee | €250 | Beste allround kwaliteit en duurzaamheid
+| Moccamaster Cup-One | 92-96 | 0.3 | ~4 min | Nee | Nee | €209 | Eén perfecte kop per keer
+| Philips Grind & Brew 5000 | 92-99 | 1.2 | ~8 min | Ja | Ja | €180 | Gemak met ingebouwde bonenmolen
+| Wilfa Svart Presisjon WSP-1B | 90-96 | 1.25 | ~7 min | Nee | Nee | €130 | Beste budget voor specialty koffie
+| Melitta AromaFresh II | 92-96 | 1.25 | ~8 min | Ja | Ja | €120 | Betaalbare veelzijdigheid met molen
+| Sage Precision Brewer | 90-98 | 1.5 | ~7 min | Nee | Ja | €299 | Volledige controle over zetparameters

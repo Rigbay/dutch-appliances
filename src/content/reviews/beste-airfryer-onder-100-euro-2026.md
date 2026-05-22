@@ -60,7 +60,7 @@ related:
 
 # De Beste Airfryers Onder €100 in 2026: Lekker en Betaalbaar Bakken!
 
-De airfryer is niet meer weg te denken uit de moderne keuken. onze [airfryer friteuse gids](/reviews/airfryer-vs-friteuse-2026/). onze [airfryer gids](/reviews/beste-airfryer-2026/). onze [airfryer met twee manden gids](/reviews/beste-airfryer-met-twee-manden-2026/). onze [airfryer friteuse gids](/reviews/airfryer-vs-friteuse-2026/). onze [airfryer gids](/reviews/beste-airfryer-2026/). onze [airfryer met twee manden gids](/reviews/beste-airfryer-met-twee-manden-2026/). Het apparaat belooft knapperige frietjes, sappige kip en heerlijke snacks, allemaal met een fractie van het vet dat je in een traditionele friteuse gebruikt. Maar de aanschaf van zo'n keukenwonder kan best een investering zijn. Gelukkig is dat niet altijd nodig! Ook met een kleiner budget kun je genieten van de voordelen van airfryer-koken. In deze koopgids duiken we in de wereld van de betaalbare airfryers en helpen we je de beste keuze te maken voor minder dan €100.
+De airfryer is niet meer weg te denken uit de moderne keuken. onze [airfryer friteuse gids](/reviews/airfryer-vs-friteuse-2026/). onze [airfryer gids](/reviews/beste-airfryer-2026/). onze [airfryer met twee manden gids](/reviews/beste-airfryer-met-twee-manden-2026/). Het apparaat belooft knapperige frietjes, sappige kip en heerlijke snacks, allemaal met een fractie van het vet dat je in een traditionele friteuse gebruikt. Maar de aanschaf van zo'n keukenwonder kan best een investering zijn. Gelukkig is dat niet altijd nodig! Ook met een kleiner budget kun je genieten van de voordelen van airfryer-koken. In deze koopgids duiken we in de wereld van de betaalbare airfryers en helpen we je de beste keuze te maken voor minder dan €100.
 
 We begrijpen dat je niet per se een fortuin wilt uitgeven om kennis te maken met de airfryer. Misschien ben je nieuwsgierig naar de hype, heb je een kleine keuken, of ben je gewoon een prijsbewuste consument. Goed nieuws: er zijn uitstekende opties beschikbaar die niet misstaan in je keuken en die je portemonnee sparen. Deze modellen bieden vaak de basisfuncties die je nodig hebt om de meest populaire gerechten te bereiden, zonder de toeters en bellen die de prijs opdrijven. Van snelle snacks tot het opwarmen van restjes, een budgetvriendelijke airfryer kan een echte aanwinst zijn.
 
@@ -68,9 +68,9 @@ In deze gids bespreken we een aantal populaire modellen die je voor minder dan h
 
 ## Snel Advies: De Beste Airfryer Onder €100 voor Jouw Situatie
 
-*   **Voor de student of starter:** **Princess Digital Airfryer**. Compact, eenvoudig te bedienen met digitale instellingen en een goede prijs-kwaliteitverhouding voor dagelijks gebruik. Ideaal voor snelle maaltijden voor één of twee personen.
-*   **Voor de kleine keuken:** **Tefal Easy Fry Compact**. Zoals de naam al aangeeft, is dit model ontworpen met ruimtebesparing in gedachten. Hij is klein van stuk maar verrassend efficiënt in het bereiden van knapperige snacks en maaltijden.
-*   **Voor het gezin dat wil proberen:** **Inventum GF500**. Met een iets grotere inhoud en een krachtig vermogen biedt deze airfryer genoeg ruimte voor porties voor 3-4 personen, waardoor hij een uitstekende instapmodel is voor gezinnen die de airfryer willen uitproberen.
+* **Voor de student of starter:** **Princess Digital Airfryer**. Compact, eenvoudig te bedienen met digitale instellingen en een goede prijs-kwaliteitverhouding voor dagelijks gebruik. Ideaal voor snelle maaltijden voor één of twee personen.
+* **Voor de kleine keuken:** **Tefal Easy Fry Compact**. Zoals de naam al aangeeft, is dit model ontworpen met ruimtebesparing in gedachten. Hij is klein van stuk maar verrassend efficiënt in het bereiden van knapperige snacks en maaltijden.
+* **Voor het gezin dat wil proberen:** **Inventum GF500**. Met een iets grotere inhoud en een krachtig vermogen biedt deze airfryer genoeg ruimte voor porties voor 3-4 personen, waardoor hij een uitstekende instapmodel is voor gezinnen die de airfryer willen uitproberen.
 
 ## Beste Keuze per Budget
 
@@ -106,13 +106,13 @@ Bij het kiezen van een airfryer onder de €100 is het belangrijk om realistisch
 
 ## Vergelijkingstabel: De Beste Airfryers Onder €100 in 2026
 
-| Product                 | Inhoud (L) | Vermogen (W) | Indicatie Prijs (€) | Beste voor                     | Score (1-5) |
+| Product | Inhoud (L) | Vermogen (W) | Indicatie Prijs (€) | Beste voor | Score (1-5) |
 | :---------------------- | :--------- | :----------- | :------------------ | :----------------------------- | :---------- |
-| Tefal Easy Fry Compact  | 1.6        | 1400         | 80-100              | Kleine keuken, efficiëntie     | 4.5         |
-| Princess Digital Airfryer | 2.5        | 1400         | 60-80               | Beginners, prijs-kwaliteit     | 4.2         |
-| Domo Airfryer           | 2.0        | 1300         | 50-70               | Ultiem budget, experimenteren  | 3.8         |
-| Inventum GF500          | 3.0        | 1500         | 70-90               | Gezin (klein), degelijke prestaties | 4.1         |
-| Tristar Airfryer        | 2.2        | 1200         | 55-75               | Zeer prijsbewust, basisgebruik | 3.7         |
+| Tefal Easy Fry Compact | 1.6 | 1400 | 80-100 | Kleine keuken, efficiëntie | 4.5 |
+| Princess Digital Airfryer | 2.5 | 1400 | 60-80 | Beginners, prijs-kwaliteit | 4.2 |
+| Domo Airfryer | 2.0 | 1300 | 50-70 | Ultiem budget, experimenteren | 3.8 |
+| Inventum GF500 | 3.0 | 1500 | 70-90 | Gezin (klein), degelijke prestaties | 4.1 |
+| Tristar Airfryer | 2.2 | 1200 | 55-75 | Zeer prijsbewust, basisgebruik | 3.7 |
 
 *Prijzen zijn indicatief en kunnen variëren per winkel en periode.*
 
