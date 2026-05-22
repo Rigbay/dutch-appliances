@@ -1,0 +1,320 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const reviews = (await getCollection('reviews', ({ data }) => !data.draft))
+  .sort((a, b) => b.data.rating - a.data.rating);
+
+// Select top-rated articles with good spread across categories
+const categoryOrder = ['keuken', 'schoonmaken', 'huishoudelijk', 'tuin'];
+const categoryLabels: Record<string, string> = {
+  keuken: 'Keuken',
+  schoonmaken: 'Schoonmaken',
+  huishoudelijk: 'Huishoudelijk',
+  tuin: 'Tuin',
+};
+
+// Build top 15: pick 5-6 keuken, 3-4 schoonmaken, 3 huishoudelijk/tuin
+// weighted by rating and category diversity
+const topByCategory: Record<string, any[]> = {};
+for (const cat of categoryOrder) {
+  topByCategory[cat] = reviews
+    .filter(r => r.data.category === cat)
+    .slice(0, 8);
+}
+
+// Interleave for diversity, then take top 15 by rating
+const top15: any[] = [];
+const seen = new Set<string>();
+const maxPerCat = { keuken: 7, schoonmaken: 4, huishoudelijk: 2, tuin: 2 };
+let catIdx = 0;
+
+// Round-robin pick until we have 15
+while (top15.length < 15) {
+  const cat = categoryOrder[catIdx % categoryOrder.length];
+  const candidates = topByCategory[cat] || [];
+  for (const r of candidates) {
+    if (top15.length >= 15) break;
+    if (!seen.has(r.data.slug) && top15.filter(t => t.data.category === cat).length < maxPerCat[cat]) {
+      top15.push(r);
+      seen.add(r.data.slug);
+      break;
+    }
+  }
+  catIdx++;
+  if (catIdx > 100) break; // safety
+}
+
+// Final sort by rating
+top15.sort((a, b) => b.data.rating - a.data.rating);
+
+const formatPrice = (range: string) => {
+  const match = range.match(/EUR\s*(\d+)-(\d+)/);
+  if (match) return `€${match[1]}–€${match[2]}`;
+  return range;
+};
+
+// FAQ structured data
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: [
+    {
+      '@type': 'Question',
+      name: 'Welke huishoudelijke apparaten zijn de beste koop in 2026?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'In 2026 zijn airfryers, robotstofzuigers, volautomatische koffiemachines en energiezuinige wasmachines de best scorende apparaten in Nederlandse huishoudens. De Philips Airfryer XXL, Dyson V15 Detect, en Bosch Serie 8 vaatwasser krijgen consistent de hoogste beoordelingen in onze vergelijkingen.',
+      },
+    },
+    {
+      '@type': 'Question',
+      name: 'Waar moet ik op letten bij het kopen van een nieuw apparaat?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'Let op energieklasse (A is zuinigst), garantietermijn, beschikbare onderdelen, en praktische bruikbaarheid na maanden gebruik — niet alleen op glimmende specificaties. Onze koopgidsen benoemen eerlijk de bekende minpunten van elk apparaat.',
+      },
+    },
+    {
+      '@type': 'Question',
+      name: 'Zijn dure apparaten altijd beter?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'Nee, voor veel apparaten geldt dat modellen in het middensegment (€100-€500) de beste prijs-kwaliteitverhouding bieden. Duurdere modellen bieden vaak extra functies die niet voor iedereen noodzakelijk zijn. Onze gidsen tonen de beste keuze per budget.',
+      },
+    },
+    {
+      '@type': 'Question',
+      name: 'Hoe verdient Beste Apparaten geld?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'Beste Apparaten gebruikt affiliate links naar Amazon.nl (tag: kieskeukennl-21). Als je via onze link koopt, ontvangen wij een kleine commissie — zonder extra kosten voor jou. Dit heeft geen invloed op onze aanbevelingen; we benoemen eerlijk voor- én nadelen.',
+      },
+    },
+    {
+      '@type': 'Question',
+      name: 'Hoe vaak worden de koopgidsen bijgewerkt?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'Onze gidsen worden minimaal elk kwartaal bijgewerkt met de nieuwste modellen, prijzen en gebruikerservaringen. De huidige collectie richt zich op het 2026 modeljaar.',
+      },
+    },
+  ],
+};
+---
+
+<BaseLayout
+  title="Top 15 Beste Apparaten van 2026 — Dé Nederlandse Koopgids"
+  description="Ontdek de 15 beste huishoudelijke apparaten van 2026: airfryers, stofzuigers, koffiemachines, wasmachines en meer. Eerlijke vergelijkingen met prijzen, scores en minpunten."
+  structuredData={faqSchema}
+>
+  <!-- HERO -->
+  <section class="border-b border-[#e8e1d7] bg-linen">
+    <div class="mx-auto max-w-6xl px-4 py-12 sm:px-6 lg:px-8">
+      <p class="text-sm font-bold uppercase tracking-[0.16em] text-leaf">Koopgids 2026</p>
+      <h1 class="mt-3 font-serif text-4xl font-semibold leading-tight text-ink sm:text-5xl">
+        Top 15 Beste Apparaten van 2026
+      </h1>
+      <p class="mt-4 max-w-3xl text-lg leading-8 text-muted">
+        Welke huishoudelijke apparaten zijn écht de moeite waard? We hebben tientallen koopgidsen vergeleken en presenteren de 15 beste apparaten van 2026 — van airfryers en koffiemachines tot robotstofzuigers en wasmachines. Met prijzen, scores en eerlijke minpunten.
+      </p>
+      <p class="mt-3 text-sm text-muted">
+        Laatst bijgewerkt: <time datetime="2026-05-22">22 mei 2026</time> · {reviews.length} apparaten vergeleken · <a href="/over/" class="text-leaf underline hover:text-[#1f514b]">Hoe we vergelijken</a>
+      </p>
+    </div>
+  </section>
+
+  <!-- QUICK NAV -->
+  <section class="mx-auto max-w-6xl px-4 py-6 sm:px-6 lg:px-8">
+    <nav class="flex flex-wrap gap-2" aria-label="Snelle navigatie">
+      {categoryOrder.map(cat => (
+        <a href={`#${cat}`} class="rounded border border-[#dfe8e5] px-4 py-2 text-sm font-semibold text-leaf hover:bg-[#edf4f2] transition">
+          {categoryLabels[cat]}
+        </a>
+      ))}
+    </nav>
+  </section>
+
+  <!-- TOP 15 LIST -->
+  <section class="mx-auto max-w-6xl px-4 pb-12 sm:px-6 lg:px-8">
+    <h2 class="font-serif text-3xl font-semibold text-ink mb-8">De 15 beste apparaten — onze selectie</h2>
+    
+    <div class="space-y-6">
+      {top15.map((article, index) => {
+        const d = article.data;
+        const category = categoryLabels[d.category] || d.category;
+        return (
+          <div class="group rounded-lg border border-[#e6ded2] bg-white p-5 shadow-sm transition hover:-translate-y-0.5 hover:shadow-md">
+            <div class="flex flex-col gap-4 sm:flex-row sm:items-start">
+              <!-- Rank Badge -->
+              <div class="flex-shrink-0">
+                <div class={`flex h-10 w-10 items-center justify-center rounded-full font-bold text-white text-sm ${
+                  index === 0 ? 'bg-amber-500' : 
+                  index === 1 ? 'bg-gray-400' : 
+                  index === 2 ? 'bg-amber-700' : 
+                  'bg-leaf'
+                }`}>
+                  {index + 1}
+                </div>
+              </div>
+              
+              <!-- Content -->
+              <div class="flex-1 min-w-0">
+                <div class="flex flex-wrap items-center gap-2 mb-1">
+                  <span class="text-xs font-bold uppercase tracking-wider text-leaf bg-[#edf4f2] px-2 py-0.5 rounded">{category}</span>
+                  <span class="text-xs text-muted">{d.readingTime} leestijd</span>
+                </div>
+                
+                <a href={`/${d.slug}/`} class="block">
+                  <h3 class="font-serif text-xl font-semibold text-ink group-hover:text-leaf transition leading-snug">
+                    {d.title}
+                  </h3>
+                </a>
+                
+                <p class="mt-1.5 text-sm text-muted line-clamp-2">{d.description}</p>
+                
+                {/* Featured product quick-card */}
+                <div class="mt-3 flex flex-wrap items-center gap-3 text-sm">
+                  <span class="inline-flex items-center gap-1 rounded bg-[#fdf8f0] px-2.5 py-1 font-medium text-ink">
+                    <span class="text-amber-500">★</span> {d.rating.toFixed(1)}/5
+                  </span>
+                  <span class="text-muted">{formatPrice(d.priceRange)}</span>
+                  {d.products[0] && (
+                    <span class="text-muted hidden sm:inline">· Topkeuze: <strong>{d.products[0].name}</strong></span>
+                  )}
+                </div>
+                
+                {/* Quick pros/cons */}
+                <div class="mt-3 grid gap-2 sm:grid-cols-2">
+                  <div>
+                    <p class="text-xs font-bold uppercase tracking-wider text-green-700 mb-1">Voordelen</p>
+                    <ul class="space-y-0.5">
+                      {d.pros.slice(0, 2).map((pro: string) => (
+                        <li class="text-xs text-muted flex items-start gap-1">
+                          <span class="text-green-600 shrink-0">✓</span> {pro}
+                        </li>
+                      ))}
+                    </ul>
+                  </div>
+                  <div>
+                    <p class="text-xs font-bold uppercase tracking-wider text-red-700 mb-1">Minpunten</p>
+                    <ul class="space-y-0.5">
+                      {d.cons.slice(0, 2).map((con: string) => (
+                        <li class="text-xs text-muted flex items-start gap-1">
+                          <span class="text-red-500 shrink-0">✗</span> {con}
+                        </li>
+                      ))}
+                    </ul>
+                  </div>
+                </div>
+                
+                {/* CTA */}
+                <div class="mt-3 flex flex-wrap gap-2">
+                  <a href={`/${d.slug}/`} class="rounded bg-leaf px-4 py-1.5 text-sm font-bold text-white hover:bg-[#1f514b] transition">
+                    Bekijk volledige gids →
+                  </a>
+                  {d.products[0]?.affiliateLink && (
+                    <a href={d.products[0].affiliateLink} rel="nofollow sponsored" target="_blank" class="rounded border border-leaf px-4 py-1.5 text-sm font-semibold text-leaf hover:bg-[#edf4f2] transition">
+                      Bekijk op Amazon
+                    </a>
+                  )}
+                </div>
+              </div>
+            </div>
+          </div>
+        );
+      })}
+    </div>
+  </section>
+
+  <!-- PER-CATEGORY EXPANSION -->
+  {categoryOrder.map(cat => {
+    const catArticles = reviews.filter(r => r.data.category === cat).slice(0, 12);
+    if (catArticles.length === 0) return null;
+    return (
+      <section id={cat} class="mx-auto max-w-6xl px-4 py-8 sm:px-6 lg:px-8 border-t border-[#e8e1d7]">
+        <h2 class="font-serif text-2xl font-semibold text-ink mb-2">
+          Meer {categoryLabels[cat].toLowerCase()} in onze vergelijking
+        </h2>
+        <p class="text-sm text-muted mb-6">Nog {catArticles.length} andere {categoryLabels[cat].toLowerCase()} vergeleken — van budget tot premium.</p>
+        <div class="grid gap-3 md:grid-cols-2 lg:grid-cols-3">
+          {catArticles.map((article: any) => {
+            const d = article.data;
+            return (
+              <a href={`/${d.slug}/`} class="group rounded border border-[#e6ded2] bg-paper p-4 shadow-sm transition hover:-translate-y-0.5 hover:shadow-soft">
+                <div class="flex items-start justify-between gap-2">
+                  <h3 class="font-serif text-sm font-semibold text-ink group-hover:text-leaf transition leading-snug line-clamp-2">
+                    {d.title.split(':')[0]}
+                  </h3>
+                  <span class="shrink-0 rounded bg-[#edf4f2] px-2 py-0.5 text-xs font-bold text-leaf">
+                    {d.rating.toFixed(1)}
+                  </span>
+                </div>
+                <div class="mt-2 flex items-center gap-2 text-xs text-muted">
+                  <span>{formatPrice(d.priceRange)}</span>
+                  <span>·</span>
+                  <span>{d.readingTime}</span>
+                </div>
+              </a>
+            );
+          })}
+        </div>
+      </section>
+    );
+  })}
+
+  <!-- FAQ SECTION -->
+  <section class="mx-auto max-w-6xl px-4 py-10 sm:px-6 lg:px-8 border-t border-[#e8e1d7]">
+    <h2 class="font-serif text-3xl font-semibold text-ink mb-8">Veelgestelde vragen over apparaten kopen in 2026</h2>
+    <div class="max-w-3xl space-y-6">
+      <div>
+        <h3 class="font-serif text-lg font-semibold text-ink">Welke huishoudelijke apparaten zijn de beste koop in 2026?</h3>
+        <p class="mt-2 text-muted">
+          In 2026 zijn airfryers, robotstofzuigers, volautomatische koffiemachines en energiezuinige wasmachines de best scorende apparaten in Nederlandse huishoudens. De <a href="/beste-airfryer-2026/" class="text-leaf underline hover:text-[#1f514b]">Philips Airfryer XXL</a>, <a href="/beste-stofzuiger-2026/" class="text-leaf underline hover:text-[#1f514b]">Dyson V15 Detect</a>, en <a href="/beste-vaatwasser-2026/" class="text-leaf underline hover:text-[#1f514b]">Bosch Serie 8 vaatwasser</a> krijgen consistent de hoogste beoordelingen in onze vergelijkingen.
+        </p>
+      </div>
+      <div>
+        <h3 class="font-serif text-lg font-semibold text-ink">Waar moet ik op letten bij het kopen van een nieuw apparaat?</h3>
+        <p class="mt-2 text-muted">
+          Let op energieklasse (A is zuinigst), garantietermijn, beschikbare onderdelen, en — belangrijker dan specificaties — praktische bruikbaarheid na maanden gebruik. Onze koopgidsen benoemen eerlijk de bekende minpunten van elk apparaat, niet alleen de pluspunten.
+        </p>
+      </div>
+      <div>
+        <h3 class="font-serif text-lg font-semibold text-ink">Zijn dure apparaten altijd beter?</h3>
+        <p class="mt-2 text-muted">
+          Nee, voor de meeste apparaten bieden modellen in het middensegment (€100–€500) de beste prijs-kwaliteitverhouding. Een airfryer van €150 bakt net zo knapperig als een van €300. Dure modellen voegen vaak extra functies toe die niet voor iedereen noodzakelijk zijn. Onze gidsen tonen de <em>beste keuze per budget</em>.
+        </p>
+      </div>
+      <div>
+        <h3 class="font-serif text-lg font-semibold text-ink">Hoe verdient Beste Apparaten geld?</h3>
+        <p class="mt-2 text-muted">
+          Beste Apparaten gebruikt affiliate links naar Amazon.nl (tag: kieskeukennl-21). Als je via onze link koopt, ontvangen wij een kleine commissie — zonder extra kosten voor jou. Dit heeft geen invloed op onze aanbevelingen; we benoemen eerlijk voor- én nadelen. <a href="/over/" class="text-leaf underline hover:text-[#1f514b]">Lees meer over onze werkwijze</a>.
+        </p>
+      </div>
+      <div>
+        <h3 class="font-serif text-lg font-semibold text-ink">Hoe vaak worden de koopgidsen bijgewerkt?</h3>
+        <p class="mt-2 text-muted">
+          Onze gidsen worden minimaal elk kwartaal bijgewerkt met de nieuwste modellen, prijzen en gebruikerservaringen. De huidige collectie richt zich op het 2026 modeljaar. We monitoren prijswijzigingen en nieuwe productlanceringen continu.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA -->
+  <section class="mx-auto max-w-6xl px-4 py-10 sm:px-6 lg:px-8 border-t border-[#e8e1d7]">
+    <div class="rounded-lg bg-linen p-6 text-center">
+      <h2 class="font-serif text-2xl font-semibold text-ink">Klaar om te kiezen?</h2>
+      <p class="mt-2 text-muted max-w-xl mx-auto">
+        Bekijk onze volledige collectie van {reviews.length} koopgidsen — van airfryers tot wasmachines, met eerlijke vergelijkingen en budgetopties.
+      </p>
+      <div class="mt-4 flex flex-wrap justify-center gap-3">
+        <a href="/vergelijking/" class="rounded bg-leaf px-5 py-2.5 text-sm font-bold text-white hover:bg-[#1f514b] transition">
+          Alle {reviews.length} apparaten vergelijken →
+        </a>
+        <a href="/keukenapparaten-koopgids/" class="rounded border border-leaf px-5 py-2.5 text-sm font-bold text-leaf hover:bg-[#edf4f2] transition">
+          Keukenapparaten koopgids
+        </a>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
