@@ -12,6 +12,13 @@ const categories = [
   { href: '/categorie/huishoudelijk/', label: 'Huishoudelijk', text: 'Praktische apparaten die dagelijks werk in huis sneller en lichter maken.' },
   { href: '/categorie/tuin/', label: 'Tuin', text: 'Grasmaaiers, barbecues, heggenscharen, tuinverwarming en gereedschap voor buiten.' }
 ];
+
+const keuzehulpen = [
+  { href: '/vergelijking/', label: 'Alle apparaten vergelijken', text: 'Het centrale overzicht met alle koopgidsen per categorie en productgroep.' },
+  { href: '/top-15/', label: 'Top 15 apparaten van 2026', text: 'Snelle shortlist voor bezoekers die meteen de populairste keuzes willen zien.' },
+  { href: '/airfryer-vs-friteuse-2026/', label: 'Airfryer vs friteuse', text: 'Traffic-pagina voor twijfelaars die eerst het type apparaat willen kiezen.' },
+  { href: '/airfryer-vs-oven-2026/', label: 'Airfryer vs oven', text: 'Interne link naar een sterke vergelijkingsintentie rond energie, gemak en capaciteit.' }
+];
 ---
 
 <BaseLayout
@@ -63,6 +70,27 @@ const categories = [
           <p class="mt-3 text-sm leading-6 text-muted">{category.text}</p>
         </a>
       ))}
+    </div>
+  </section>
+
+  <section class="mx-auto max-w-6xl px-4 py-8 sm:px-6 lg:px-8">
+    <div class="rounded border border-[#dfe8e5] bg-[#f3faf7] p-6">
+      <div class="flex flex-col gap-2 sm:flex-row sm:items-end sm:justify-between">
+        <div>
+          <p class="text-sm font-bold uppercase tracking-[0.16em] text-leaf">Keuzehulp</p>
+          <h2 class="mt-2 font-serif text-3xl font-semibold text-ink">Begin met vergelijken</h2>
+          <p class="mt-2 max-w-3xl text-muted">Deze pagina's vangen zoekers met hoge koopintentie: vergelijken, shortlist maken en daarna doorklikken naar de productgids met affiliate links.</p>
+        </div>
+        <a class="text-sm font-bold text-leaf hover:text-[#1f514b]" href="/vergelijking/">Open alle vergelijkingen →</a>
+      </div>
+      <div class="mt-6 grid gap-4 md:grid-cols-2 lg:grid-cols-4">
+        {keuzehulpen.map((item) => (
+          <a class="rounded bg-paper p-4 shadow-sm transition hover:-translate-y-0.5 hover:shadow-soft" href={item.href}>
+            <span class="font-serif text-lg font-semibold text-ink">{item.label}</span>
+            <p class="mt-2 text-sm leading-6 text-muted">{item.text}</p>
+          </a>
+        ))}
+      </div>
     </div>
   </section>
 

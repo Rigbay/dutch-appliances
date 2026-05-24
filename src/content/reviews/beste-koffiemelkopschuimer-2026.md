@@ -1,9 +1,7 @@
 ---
 title: beste koffiemelkopschuimers van 2026
 slug: beste-koffiemelkopschuimer-2026
-description: Vergelijk de beste melkopschuimers van 2026 voor perfecte cappuccino
-  en latte. Philips, Severin, SIMPLETASTE en handheld modellen getest op schuimkwaliteit,
-  capaciteit en gebruiksgemak.
+description: "Vergelijk de beste melkopschuimers van 2026 voor cappuccino en latte: Philips, Severin, SIMPLETASTE en handheld modellen op schuim, capaciteit en gemak."
 category: keuken
 rating: 4.3
 priceRange: €10 - €110
@@ -24,7 +22,7 @@ affiliateLinks:
 - https://www.amazon.nl/s?k=Krups+XL1008+Frotter+Control&tag=kieskeukennl-21
 date: 2026-05-22
 modelYear: 2026
-featuredProduct: ''
+featuredProduct: Philips Senseo Milk Frother CA6500/60
 readingTime: 7 min
 products:
 - name: Philips Senseo Milk Frother CA6500/60
