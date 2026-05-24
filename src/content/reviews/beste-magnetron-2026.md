@@ -59,9 +59,9 @@ products:
   rating: 4.4
   affiliateLink: https://www.amazon.nl/s?k=Sharp+R843INW&tag=kieskeukennl-21
 related:
-  - beste-airfryer-met-twee-manden-2026
-  - beste-koelkast-vriezer-combinatie-2026
-  - beste-koelkast-2026
+- beste-airfryer-met-twee-manden-2026
+- beste-koelkast-vriezer-combinatie-2026
+- beste-koelkast-2026
 draft: false
 ---
 
@@ -114,7 +114,7 @@ Bij de Bosch Serie 6 CFA634GS1 is de installatie niet DIY-vriendelijk; je hebt e
 
 ## Combineren met andere keukenapparaten
 
-Veel mensen vragen zich af of ze naast een magnetron nog een airfryer of stoomoven nodig hebben. onze [airfryer friteuse gids](/reviews/airfryer-vs-friteuse-2026/). onze [airfryer gids](/reviews/beste-airfryer-2026/). onze [airfryer met twee manden gids](/reviews/beste-airfryer-met-twee-manden-2026/). Het antwoord hangt af van wat je kookt. Een airfryer is sneller en energiezuiniger voor snacks, friet en kipstukjes — zie onze [beste airfryer 2026](/reviews/beste-airfryer-2026/) gids. Een stoomoven is superieur voor wie gezond wil stomen zonder magnetronstraling — lees de [beste stoomoven 2026](/reviews/beste-stoomoven-2026/). En voor wie snel kokend water nodig heeft, biedt de [beste waterkoker 2026](/reviews/beste-waterkoker-2026/) de meest efficiënte optie.
+Veel mensen vragen zich af of ze naast een magnetron nog een airfryer of stoomoven nodig hebben. onze [airfryer friteuse gids](/reviews/airfryer-vs-friteuse-2026/). onze [airfryer oven gids](/reviews/airfryer-vs-oven-2026/). onze [airfryer gids](/reviews/beste-airfryer-2026/). onze [airfryer friteuse gids](/reviews/airfryer-vs-friteuse-2026/). onze [airfryer gids](/reviews/beste-airfryer-2026/). onze [airfryer met twee manden gids](/reviews/beste-airfryer-met-twee-manden-2026/). Het antwoord hangt af van wat je kookt. Een airfryer is sneller en energiezuiniger voor snacks, friet en kipstukjes — zie onze [beste airfryer 2026](/reviews/beste-airfryer-2026/) gids. Een stoomoven is superieur voor wie gezond wil stomen zonder magnetronstraling — lees de [beste stoomoven 2026](/reviews/beste-stoomoven-2026/). En voor wie snel kokend water nodig heeft, biedt de [beste waterkoker 2026](/reviews/beste-waterkoker-2026/) de meest efficiënte optie.
 
 De Panasonic NN-CS89L combineert overigens al drie functies — magnetron, hetelucht én stoom — waardoor je in veel gevallen geen losse stoomoven of extra heteluchtapparaat nodig hebt. Dat maakt hem ondanks de hogere prijs juist een ruimtebesparende keuze.
 

@@ -1,8 +1,9 @@
 ---
 title: 'Beste Tuingereedschap Sets 2026: Complete Startersets voor Elke Tuin'
 slug: beste-tuingereedschap-set-2026
-description: Vind de beste complete tuingereedschap sets in 2026. Vergelijk startersets, professionele sets en alles-in-één
-  tuinkits voor uw tuin. Inclusief prijsvergelijking en koopadvies.
+description: Vind de beste complete tuingereedschap sets in 2026. Vergelijk startersets,
+  professionele sets en alles-in-één tuinkits voor uw tuin. Inclusief prijsvergelijking
+  en koopadvies.
 category: tuin
 rating: 4.4
 priceRange: EUR 20-250
@@ -29,13 +30,15 @@ products:
   rating: 4.6
   affiliateLink: https://partner.bol.com/nl/nl/gardena-combisystem-startset/9200000000000001/
 - name: Wolf-Garten Multistar Set
-  verdict: Premium Duits systeem met unieke klikkoppeling, werkt met alle Multistar opzetstukken
+  verdict: Premium Duits systeem met unieke klikkoppeling, werkt met alle Multistar
+    opzetstukken
   priceRange: EUR 60-150
   bestFor: Serieuze hobbytuinier
   rating: 4.5
   affiliateLink: https://partner.bol.com/nl/nl/wolf-garten-multistar-set/9200000000000002/
 - name: Fiskars Essential Set
-  verdict: Finse kwaliteit met FiberComp-handvatten, lichtgewicht en ergonomisch voor langdurig gebruik
+  verdict: Finse kwaliteit met FiberComp-handvatten, lichtgewicht en ergonomisch voor
+    langdurig gebruik
   priceRange: EUR 30-90
   bestFor: Ergonomisch tuinieren
   rating: 4.4
@@ -47,7 +50,8 @@ products:
   rating: 4.2
   affiliateLink: https://partner.bol.com/nl/nl/talex-tuingereedschap-set/9200000000000004/
 - name: DeWit Professional Set
-  verdict: Hollands ambacht — handgesmeed gereedschap dat generaties meegaat, voor de purist
+  verdict: Hollands ambacht — handgesmeed gereedschap dat generaties meegaat, voor
+    de purist
   priceRange: EUR 80-250
   bestFor: Traditionele kwaliteit
   rating: 4.7
@@ -59,14 +63,15 @@ related:
 draft: false
 faq:
 - q: Wat is de beste tuin in 2026?
-  a: Dat hangt af van uw budget en wensen. Gardena Combisystem Startset is onze topkeuze vanwege de algehele prijs-kwaliteitverhouding.
-    Lees de volledige vergelijking hierboven.
+  a: Dat hangt af van uw budget en wensen. Gardena Combisystem Startset is onze topkeuze
+    vanwege de algehele prijs-kwaliteitverhouding. Lees de volledige vergelijking
+    hierboven.
 - q: Waar moet ik op letten bij het kopen?
-  a: Let op formaat, vermogen/functionaliteit, onderhoudsgemak en garantievoorwaarden. Bekijk de vergelijkingstabel voor de
-    belangrijkste verschillen.
+  a: Let op formaat, vermogen/functionaliteit, onderhoudsgemak en garantievoorwaarden.
+    Bekijk de vergelijkingstabel voor de belangrijkste verschillen.
 - q: Zijn de genoemde prijzen inclusief BTW?
-  a: Ja, alle prijzen in dit artikel zijn inclusief BTW en gebaseerd op de Nederlandse markt. Prijzen kunnen variëren per
-    aanbieder.
+  a: Ja, alle prijzen in dit artikel zijn inclusief BTW en gebaseerd op de Nederlandse
+    markt. Prijzen kunnen variëren per aanbieder.
 ---
 ## De Groene Vingers Gids: De Beste Tuingereedschap Sets van 2026
 
@@ -87,7 +92,7 @@ Deze koopgids is speciaal samengesteld voor de nieuwe tuinbezitter, de starter d
 
 **2. GardenMaster Pro-Lite Set**
 *   **Prijsrange:** €60 - €75
-*   **Specificaties:** De Pro-Lite set is een stap omhoog in kwaliteit en functionaliteit. Hij bevat een roestvrijstalen handtroffel, een vork, een cultivator, een onkruidsteker en een bypass snoeischaar. De handgrepen zijn van duurzaam PP-kunststof met een TPR-rubberen coating voor extra grip en comfort. De set wordt geleverd in een stevige canvas gereedschapsrol.
+*   **Specificaties:** De Pro-Lite set is een stap omhoog in kwaliteit en functionaliteit. Hij bevat een roestvrijstalen handtroffel, een vork, een cultivator, een onkruidsteker en een bypass snoeischaar. onze [snoeischaar gids](/reviews/beste-snoeischaar-2026/). De handgrepen zijn van duurzaam PP-kunststof met een TPR-rubberen coating voor extra grip en comfort. De set wordt geleverd in een stevige canvas gereedschapsrol.
 *   **Pluspunten:** De roestvrijstalen koppen voelen solide aan en zijn bestand tegen roest, wat de levensduur ten goede komt. De ergonomische handgrepen liggen écht lekker in de hand en verminderen vermoeidheid, zelfs na langer gebruik. De snoeischaar is verrassend scherp en knipt takken tot 2 cm moeiteloos door. De canvas rol is praktisch voor opbergen en meenemen.
 *   **Minpunten:** Hoewel de snoeischaar goed is, is het geen professioneel model voor dikke takken. De onkruidsteker werkt prima, maar voor hardnekkig onkruid in zware grond is een langer model soms prettiger.
 *   **Verdict:** Een fantastische allrounder voor de enthousiaste hobbytuinier die een goede balans zoekt tussen prijs, kwaliteit en functionaliteit.

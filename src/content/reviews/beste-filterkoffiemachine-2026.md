@@ -1,18 +1,19 @@
 ---
 title: beste filterkoffiemachines van 2026
 slug: beste-filterkoffiemachine-2026
-description: "Vergelijk de beste filterkoffiemachines van 2026 voor Nederlands huishoudens. Moccamaster, Philips, Wilfa en meer getest op zettemperatuur, capaciteit en prijs."
+description: Vergelijk de beste filterkoffiemachines van 2026 voor Nederlands huishoudens.
+  Moccamaster, Philips, Wilfa en meer getest op zettemperatuur, capaciteit en prijs.
 category: keuken
 rating: 4.0
 priceRange: €30 - €500+
 pros:
-- "Optimale zettemperatuur van 92-96°C voor volle smaakextractie"
-- "Geïntegreerde bonenmaler bij middenklasse modellen voor maximale versheid"
-- "Duurzame metalen behuizing bij premium merken (Moccamaster, Wilfa)"
+- Optimale zettemperatuur van 92-96°C voor volle smaakextractie
+- Geïntegreerde bonenmaler bij middenklasse modellen voor maximale versheid
+- Duurzame metalen behuizing bij premium merken (Moccamaster, Wilfa)
 cons:
-- "Sommige kwaliteitsmodellen vragen een investering van €200+"
-- "Regelmatig ontkalken nodig bij hard Nederlands kraanwater"
-- "Filterpapiertjes blijven een terugkerende aankoop"
+- Sommige kwaliteitsmodellen vragen een investering van €200+
+- Regelmatig ontkalken nodig bij hard Nederlands kraanwater
+- Filterpapiertjes blijven een terugkerende aankoop
 affiliateLinks:
 - https://www.amazon.nl/dp/B07FPZBKQ4?tag=kieskeukennl-21
 date: 2026-05-14
@@ -57,9 +58,9 @@ products:
   rating: 4.4
   affiliateLink: https://www.amazon.nl/dp/B07FPZBKQ4?tag=kieskeukennl-21
 related:
-  - beste-afzuigkap-2026
-  - beste-staafmixer-2026
-  - beste-broodrooster-2026
+- beste-afzuigkap-2026
+- beste-staafmixer-2026
+- beste-broodrooster-2026
 ---
 
 
@@ -113,7 +114,7 @@ Of je nu een drukke ouder bent die snel een kan koffie nodig heeft, een enthousi
  * **SCA-gecertificeerd (potentieel):** Hoewel niet altijd expliciet vermeld op de verpakking van alle varianten, is de Svart Presisjon ontworpen met de principes van de Specialty Coffee Association in gedachten. Dit betekent dat de machine streven naar de ideale zetparameters voor een optimale extractie. Het resultaat is een koffie die de subtiele smaken van specialty bonen goed naar voren brengt.
  * **Eenvoudige en Intuïtieve Bediening:** De machine is zeer eenvoudig in gebruik. Vul het waterreservoir, voeg gemalen koffie toe aan de filterhouder en zet de machine aan. Er zijn geen ingewikkelde instellingen, wat het een toegankelijk apparaat maakt voor zowel beginners als ervaren koffiedrinkers die geen behoefte hebben aan extra functionaliteit.
 * **2 eerlijke nadelen:**
- * **Bouwkwaliteit minder robuust dan duurdere opties:** Hoewel de machine degelijk is voor zijn prijs, is de gebruikte kunststof minder premium dan het metaal van duurdere Moccamaster-modellen. Dit kan resulteren in een minder luxe gevoel en mogelijk een kortere levensduur bij intensief dagelijks gebruik. onze [luxe airfryer gids](/reviews/beste-luxe-airfryer-2026/). onze [airfryer friteuse gids](/reviews/airfryer-vs-friteuse-2026/). onze [airfryer gids](/reviews/beste-airfryer-2026/).
+ * **Bouwkwaliteit minder robuust dan duurdere opties:** Hoewel de machine degelijk is voor zijn prijs, is de gebruikte kunststof minder premium dan het metaal van duurdere Moccamaster-modellen. Dit kan resulteren in een minder luxe gevoel en mogelijk een kortere levensduur bij intensief dagelijks gebruik. onze [luxe airfryer gids](/reviews/beste-luxe-airfryer-2026/). onze [luxe airfryer gids](/reviews/beste-luxe-airfryer-2026/). onze [airfryer friteuse gids](/reviews/airfryer-vs-friteuse-2026/). onze [airfryer oven gids](/reviews/airfryer-vs-oven-2026/). onze [airfryer friteuse gids](/reviews/airfryer-vs-friteuse-2026/). onze [airfryer gids](/reviews/beste-airfryer-2026/).
  * **Capaciteit beperkter:** De machine heeft een maximale capaciteit van 1,25 liter (ongeveer 10 kopjes), wat voor grotere huishoudens of gasten mogelijk aan de krappe kant is.
 
 ### Beste voor Specialty Koffie: Technivorm Moccamaster KBGV Select
