@@ -8,13 +8,15 @@ interface Props {
   description: string;
   canonicalUrl?: string;
   ogType?: string;
+  structuredData?: unknown;
 }
 
 const {
   title,
   description,
   canonicalUrl,
-  ogType = 'website'
+  ogType = 'website',
+  structuredData
 } = Astro.props;
 
 const site = Astro.site ?? new URL('https://rigbay.github.io/dutch-appliances');
@@ -75,6 +77,7 @@ const webSiteSchema = {
     <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
     <script type="application/ld+json" set:html={JSON.stringify(orgSchema)} />
     <script type="application/ld+json" set:html={JSON.stringify(webSiteSchema)} />
+    {structuredData && <script type="application/ld+json" set:html={JSON.stringify(structuredData)} />}
   </head>
   <body>
     <Header />
