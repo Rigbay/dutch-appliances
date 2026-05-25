@@ -1,0 +1,245 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const reviews = (await getCollection('reviews', ({ data }) => !data.draft));
+
+// Extract budget items: any product where minimum price is under €100
+// Parse priceRange strings: "EUR 30-180", "€30 - €500+", "EUR 50-EUR 500", etc.
+function extractMinPrice(priceRange: string): number {
+  const nums = priceRange.match(/\d+/g);
+  if (!nums || nums.length === 0) return 999;
+  return parseInt(nums[0], 10);
+}
+
+interface BudgetItem {
+  title: string;
+  slug: string;
+  rating: number;
+  category: string;
+  minPrice: number;
+  priceRange: string;
+  featuredProduct: string;
+  imageUrl?: string;
+}
+
+const categoryLabels: Record<string, { label: string; emoji: string }> = {
+  keuken: { label: 'Keuken', emoji: '🍳' },
+  schoonmaken: { label: 'Schoonmaken', emoji: '🧹' },
+  huishoudelijk: { label: 'Huishoudelijk', emoji: '🏠' },
+  tuin: { label: 'Tuin', emoji: '🌿' },
+  overig: { label: 'Overig', emoji: '📦' },
+};
+
+const budgetItems: BudgetItem[] = reviews
+  .map(r => {
+    const minPrice = extractMinPrice(r.data.priceRange);
+    return {
+      title: r.data.title,
+      slug: r.data.slug,
+      rating: r.data.rating || 0,
+      category: r.data.category || 'overig',
+      minPrice,
+      priceRange: r.data.priceRange,
+      featuredProduct: r.data.featuredProduct || 'Beste keuze',
+    };
+  })
+  .filter(item => item.minPrice < 100)
+  .sort((a, b) => a.minPrice - b.minPrice);
+
+// Group by price bracket for display
+const priceBrackets = [
+  { label: 'Onder €25', max: 25, emoji: '🪙' },
+  { label: '€25 – €50', min: 25, max: 50, emoji: '💰' },
+  { label: '€50 – €75', min: 50, max: 75, emoji: '💵' },
+  { label: '€75 – €100', min: 75, max: 100, emoji: '🏷️' },
+];
+
+const groupedByBracket = priceBrackets.map(bracket => {
+  const items = budgetItems.filter(i => {
+    if (bracket.min !== undefined) {
+      return i.minPrice >= bracket.min && i.minPrice < bracket.max;
+    }
+    return i.minPrice < bracket.max;
+  });
+  return { ...bracket, items };
+}).filter(g => g.items.length > 0);
+
+// Category counts
+const catCounts: Record<string, number> = {};
+for (const item of budgetItems) {
+  catCounts[item.category] = (catCounts[item.category] || 0) + 1;
+}
+
+// FAQ structured data
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: [
+    {
+      '@type': 'Question',
+      name: 'Welke huishoudelijke apparaten zijn de beste koop onder €100 in 2026?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'In 2026 zijn de beste budgetapparaten onder €100: waterkokers (vanaf €15), airfryers (vanaf €50), staafmixers (vanaf €25), kruimeldieven (vanaf €30) en keukenweegschalen (vanaf €8). Onze top 60+ budgetkeuzes beslaan keuken, schoonmaken, huishoudelijk en tuin — allemaal met eerlijke reviews en actuele Amazon NL-prijzen.',
+      },
+    },
+    {
+      '@type': 'Question',
+      name: 'Zijn goedkope apparaten de moeite waard of kan ik beter meer uitgeven?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'Veel budgetapparaten onder €100 bieden uitstekende prijs-kwaliteitverhouding voor lichte tot gemiddelde gebruiksintensiteit. Voor dagelijks intensief gebruik adviseren we vaak modellen in de €100-250 range. Onze koopgidsen vermelden eerlijk de bekende minpunten, zodat u kunt afwegen of een budgetmodel voor uw situatie volstaat.',
+      },
+    },
+    {
+      '@type': 'Question',
+      name: 'Waar kan ik deze budgetapparaten kopen?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'Alle budgetapparaten op deze pagina zijn verkrijgbaar via Amazon.nl. Onze links bevatten de tag kieskeukennl-21, wat betekent dat wij een kleine commissie ontvangen als u via onze link koopt — zonder extra kosten voor u. Dit ondersteunt onze onafhankelijke reviews.',
+      },
+    },
+    {
+      '@type': 'Question',
+      name: 'Hoe selecteren jullie de beste budgetapparaten?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'We vergelijken budgetmodellen op basis van gebruikersreviews, specificaties, energieverbruik, garantie en prijs-kwaliteitverhouding. Elk apparaat in onze selectie scoort minimaal 4.0/5 in onze beoordeling. We benoemen eerlijk de minpunten — geen enkel budgetapparaat is perfect.',
+      },
+    },
+  ],
+};
+
+const fullItemListSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'ItemList',
+  name: 'Beste Budget Apparaten onder €100 — 2026',
+  description: '60+ beste huishoudelijke apparaten onder €100 in 2026. Budget airfryers, stofzuigers, koffiemachines, grasmaaiers en meer met Amazon NL affiliate links.',
+  numberOfItems: budgetItems.length,
+  itemListElement: budgetItems.slice(0, 30).map((item, idx) => ({
+    '@type': 'ListItem',
+    position: idx + 1,
+    item: {
+      '@type': 'Product',
+      name: item.title,
+      url: `https://rigbay.github.io/dutch-appliances/${item.slug}/`,
+    },
+  })),
+};
+---
+
+<BaseLayout
+  title="Beste Budget Apparaten 2026: Top 60+ apparaten onder €100 | Beste Apparaten"
+  description="60+ beste huishoudelijke apparaten onder €100 in 2026. Budget airfryers, stofzuigers, koffiemachines, grasmaaiers en meer met Amazon NL affiliate links (kieskeukennl-21)."
+  structuredData={[faqSchema, fullItemListSchema]}
+>
+  <!-- Hero -->
+  <section class="border-b border-[#e8e1d7] bg-gradient-to-b from-linen to-paper">
+    <div class="mx-auto max-w-6xl px-4 py-12 sm:px-6 lg:px-8">
+      <p class="text-sm font-bold uppercase tracking-[0.16em] text-leaf">Budget koopgidsen</p>
+      <h1 class="mt-3 font-serif text-4xl font-semibold text-ink sm:text-5xl">
+        Beste apparaten onder €100 in 2026
+      </h1>
+      <p class="mt-4 max-w-3xl text-lg leading-8 text-muted">
+        {budgetItems.length} eerlijke budgetkeuzes voor keuken, schoonmaken, huishoudelijk en tuin. 
+        Van airfryer tot waterkoker — elk apparaat met Amazon NL affiliate link, rating en prijs in één oogopslag.
+      </p>
+      
+      <!-- Quick stats -->
+      <div class="mt-6 flex flex-wrap gap-3">
+        {Object.entries(catCounts).map(([cat, count]) => (
+          <a href={`#${cat}`} class="inline-flex items-center gap-1.5 rounded border border-[#dfe8e5] px-3 py-1.5 text-sm font-semibold text-leaf hover:bg-[#edf4f2] transition">
+            {categoryLabels[cat]?.emoji || '📦'} {categoryLabels[cat]?.label || cat} ({count})
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Budget items by price bracket -->
+  {
+    groupedByBracket.map(bracket => (
+      <section class="mx-auto max-w-6xl px-4 py-8 sm:px-6 lg:px-8">
+        <h2 class="font-serif text-3xl font-semibold text-ink">
+          {bracket.emoji} {bracket.label} <span class="text-lg font-normal text-muted">({bracket.items.length} apparaten)</span>
+        </h2>
+        <div class="mt-5 overflow-x-auto rounded border border-[#e8e1d7]">
+          <table class="min-w-full text-sm">
+            <thead>
+              <tr class="bg-[#f8f5f0] text-left">
+                <th class="p-3 font-semibold">Product</th>
+                <th class="p-3 font-semibold">Categorie</th>
+                <th class="p-3 font-semibold">Prijs v.a.</th>
+                <th class="p-3 font-semibold">Rating</th>
+                <th class="p-3 font-semibold">Beste keuze</th>
+                <th class="p-3 font-semibold">Gids</th>
+              </tr>
+            </thead>
+            <tbody>
+              {bracket.items.map((item, idx) => (
+                <tr class={idx % 2 === 0 ? 'bg-white' : 'bg-[#faf8f3]'}>
+                  <td class="p-3 font-medium max-w-xs">
+                    <a href={`/${item.slug}/`} class="text-ink hover:text-leaf transition">
+                      {item.title}
+                    </a>
+                  </td>
+                  <td class="p-3 text-muted">{categoryLabels[item.category]?.emoji} {categoryLabels[item.category]?.label || item.category}</td>
+                  <td class="p-3 font-semibold text-leaf">€{item.minPrice}</td>
+                  <td class="p-3">
+                    <span class="inline-flex items-center gap-1">
+                      <span class="text-amber-500">★</span> {item.rating}
+                    </span>
+                  </td>
+                  <td class="p-3 text-muted text-xs max-w-[160px]">{item.featuredProduct}</td>
+                  <td class="p-3">
+                    <a href={`/${item.slug}/`} class="inline-block rounded bg-leaf px-3 py-1 text-xs font-bold text-white hover:bg-[#1f514b] transition">
+                      Vergelijk →
+                    </a>
+                  </td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      </section>
+    ))
+  }
+
+  <!-- Cross-links -->
+  <section class="mx-auto max-w-6xl px-4 py-10 sm:px-6 lg:px-8">
+    <div class="rounded border border-[#dfe8e5] bg-[#f3faf7] p-6">
+      <h3 class="font-serif text-2xl font-semibold text-ink">Meer koopgidsen</h3>
+      <p class="mt-2 text-muted">Budget past niet bij elk apparaat. Bekijk ook onze andere overzichten:</p>
+      <div class="mt-4 flex flex-wrap gap-3">
+        <a href="/top-15/" class="rounded bg-leaf px-4 py-2 text-sm font-bold text-white hover:bg-[#1f514b] transition">Top 15 van 2026 →</a>
+        <a href="/vergelijking/" class="rounded border border-leaf bg-white px-4 py-2 text-sm font-bold text-leaf hover:bg-[#edf4f2] transition">Alle 76 apparaten vergelijken →</a>
+        <a href="/vergelijk/" class="rounded border border-[#cbbda9] px-4 py-2 text-sm font-bold text-ink hover:bg-paper transition">Overzichtstabel per categorie →</a>
+        <a href="/" class="rounded border border-[#cbbda9] px-4 py-2 text-sm font-bold text-ink hover:bg-paper transition">Home →</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQ -->
+  <section class="mx-auto max-w-6xl px-4 py-8 sm:px-6 lg:px-8">
+    <h2 class="font-serif text-3xl font-semibold text-ink">Veelgestelde vragen over budgetapparaten</h2>
+    <div class="mt-6 grid gap-4 md:grid-cols-2">
+      <div class="rounded border border-[#e8e1d7] bg-paper p-5">
+        <h3 class="font-semibold text-ink">Welke apparaten zijn de beste koop onder €100?</h3>
+        <p class="mt-2 text-sm text-muted">Waterkokers (vanaf €15), airfryers (vanaf €50), staafmixers (vanaf €25) en keukenweegschalen (vanaf €8) bieden de beste prijs-kwaliteit. Voor schoonmaken scoren kruimeldieven (vanaf €30) goed in deze prijsklasse.</p>
+      </div>
+      <div class="rounded border border-[#e8e1d7] bg-paper p-5">
+        <h3 class="font-semibold text-ink">Zijn goedkope apparaten de moeite waard?</h3>
+        <p class="mt-2 text-sm text-muted">Voor lichte tot gemiddelde gebruiksintensiteit absoluut. Bij dagelijks zwaar gebruik adviseren we modellen in de €100-250 range. Onze gidsen benoemen eerlijk de minpunten zodat u kunt afwegen.</p>
+      </div>
+      <div class="rounded border border-[#e8e1d7] bg-paper p-5">
+        <h3 class="font-semibold text-ink">Waar kan ik deze apparaten kopen?</h3>
+        <p class="mt-2 text-sm text-muted">Alle budgetapparaten zijn verkrijgbaar via Amazon.nl. Onze links bevatten tag kieskeukennl-21 — u betaalt niets extra, wij ontvangen een kleine commissie die onze reviews ondersteunt.</p>
+      </div>
+      <div class="rounded border border-[#e8e1d7] bg-paper p-5">
+        <h3 class="font-semibold text-ink">Hoe selecteren jullie budgetapparaten?</h3>
+        <p class="mt-2 text-sm text-muted">We vergelijken op gebruikersreviews, specificaties, energieverbruik, garantie en prijs-kwaliteit. Elk apparaat scoort minimaal 4.0/5. We benoemen eerlijk de minpunten — geen budgetapparaat is perfect.</p>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
