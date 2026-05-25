@@ -67,9 +67,12 @@ products:
   rating: 4.4
   affiliateLink: https://partner.bol.com/nl/product/9300000157358401/
 related:
-- beste-stofzuiger-met-zak-2026
-- beste-robotstofzuiger-2026
-- beste-stofzuiger-2026
+  - beste-stoomreiniger-2026
+  - beste-stofzuiger-tegen-dierenharen-2026
+  - beste-stofzuiger-voor-allergie-2026
+  - beste-stofzuiger-met-zak-2026
+  - beste-robotstofzuiger-2026
+  - beste-stofzuiger-2026
 draft: false
 ---
 

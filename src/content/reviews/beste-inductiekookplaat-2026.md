@@ -65,9 +65,12 @@ products:
   rating: 4.2
   affiliateLink: https://www.amazon.nl/dp/B0D14ZHFS8?tag=kieskeukennl-21
 related:
-- airfryer-vs-friteuse-2026
-- beste-keukenmachine-2026
-- beste-koffiemachine-bonen-2026
+  - beste-airfryer-met-twee-manden-2026
+  - beste-airfryer-2026
+  - beste-compacte-airfryer-2026
+  - airfryer-vs-friteuse-2026
+  - beste-keukenmachine-2026
+  - beste-koffiemachine-bonen-2026
 draft: false
 ---
 

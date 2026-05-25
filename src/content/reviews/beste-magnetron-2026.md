@@ -59,9 +59,12 @@ products:
   rating: 4.4
   affiliateLink: https://www.amazon.nl/s?k=Sharp+R843INW&tag=kieskeukennl-21
 related:
-- beste-airfryer-met-twee-manden-2026
-- beste-koelkast-vriezer-combinatie-2026
-- beste-koelkast-2026
+  - beste-inductiekookplaat-2026
+  - beste-airfryer-2026
+  - airfryer-vs-friteuse-2026
+  - beste-airfryer-met-twee-manden-2026
+  - beste-koelkast-vriezer-combinatie-2026
+  - beste-koelkast-2026
 draft: false
 ---
 

@@ -55,9 +55,12 @@ products:
   rating: 4.1
   affiliateLink: https://partner.bol.com/nl/nl/tristar-mini-grill/9200000000000010/
 related:
-- beste-barbecue-2026
-- beste-airfryer-2026
-- beste-friteuse-2026
+  - beste-airfryer-met-twee-manden-2026
+  - beste-inductiekookplaat-2026
+  - airfryer-vs-friteuse-2026
+  - beste-barbecue-2026
+  - beste-airfryer-2026
+  - beste-friteuse-2026
 draft: false
 faq:
 - q: Wat is de beste keuken in 2026?
@@ -192,3 +195,14 @@ Ben je alleenstaand of woon je samen? Dan heb je geen gigantisch grilloppervlak 
 
 ### Voor een Gezin (3-5 Personen)
 Hier zoek je een groter oppervlak en voldoende vermogen om meerdere porties tegelijk te bereiden. De **Princess Table Chef Premium XXL 103020** blinkt hierin uit met zijn enorme open
+
+## 📚 Lees ook
+
+Meer keuzehulpen in deze categorie:
+
+- [Dubbel Koken, Dubbel Genieten in](/beste-airfryer-met-twee-manden-2026/)
+- [Uw Complete Gids voor Efficiënt Koken](/beste-inductiekookplaat-2026/)
+- [De Ultieme Keuze voor Friet en Snacks in](/airfryer-vs-friteuse-2026/)
+- [beste-barbecue-2026](/beste-barbecue-2026/)
+- [welke heteluchtfriteuse past bij jouw keuken?](/beste-airfryer-2026/)
+- [De Ultieme Gids voor Friet en Snacks](/beste-friteuse-2026/)

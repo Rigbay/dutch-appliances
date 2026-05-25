@@ -52,9 +52,12 @@ products:
   rating: 2.5
   affiliateLink: https://www.amazon.nl/dp/B0CQ8GHBRG?tag=kieskeukennl-21
 related:
-- beste-airfryer-2026
-- beste-luxe-airfryer-2026
-- airfryer-vs-friteuse-2026
+  - beste-airfryer-met-twee-manden-2026
+  - beste-inductiekookplaat-2026
+  - beste-tosti-ijzer-2026
+  - beste-airfryer-2026
+  - beste-luxe-airfryer-2026
+  - airfryer-vs-friteuse-2026
 ---
 
 

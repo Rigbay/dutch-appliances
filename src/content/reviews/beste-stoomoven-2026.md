@@ -59,9 +59,12 @@ products:
   rating: 4.4
   affiliateLink: https://www.amazon.nl/s?k=Steba+DG+40&tag=kieskeukennl-21
 related:
-- beste-slowjuicer-2026
-- beste-handmixer-2026
-- airfryer-vs-friteuse-2026
+  - beste-airfryer-met-twee-manden-2026
+  - beste-inductiekookplaat-2026
+  - beste-airfryer-2026
+  - beste-slowjuicer-2026
+  - beste-handmixer-2026
+  - airfryer-vs-friteuse-2026
 draft: false
 ---
 

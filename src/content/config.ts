@@ -27,7 +27,7 @@ const reviews = defineCollection({
     featuredProduct: z.string(),
     readingTime: z.string(),
     products: z.array(productSchema).min(5),
-    related: z.array(z.string()).min(2).max(3),
+    related: z.array(z.string()).min(2).max(6),
     draft: z.boolean().default(false)
   })
 });

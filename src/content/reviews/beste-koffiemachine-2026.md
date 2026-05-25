@@ -59,9 +59,12 @@ products:
   rating: 4.2
   affiliateLink: https://www.amazon.nl/dp/B08CBJ8W9W?tag=kieskeukennl-21
 related:
-- beste-koffiemachine-bonen-2026
-- beste-volautomatische-koffiemachine-2026
-- beste-koffiemachine-onder-200-euro-2026
+  - beste-airfryer-met-twee-manden-2026
+  - beste-inductiekookplaat-2026
+  - beste-airfryer-2026
+  - beste-koffiemachine-bonen-2026
+  - beste-volautomatische-koffiemachine-2026
+  - beste-koffiemachine-onder-200-euro-2026
 draft: false
 ---
 

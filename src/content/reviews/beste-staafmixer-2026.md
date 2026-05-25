@@ -57,9 +57,12 @@ products:
   rating: 4.3
   affiliateLink: https://partner.bol.com/click/click?p=2&t=url&s=1520310&f=TXL&url=https%3A%2F%2Fpartner.bol.com%2Fnl%2Fnl%2Fp%2Fkitchenaid-5khbs1206-staafmixer-zwart%2F9200000125134537%2F
 related:
-- beste-volautomatische-koffiemachine-2026
-- beste-vriezer-2026
-- beste-airfryer-2026
+  - beste-airfryer-met-twee-manden-2026
+  - beste-inductiekookplaat-2026
+  - airfryer-vs-friteuse-2026
+  - beste-volautomatische-koffiemachine-2026
+  - beste-vriezer-2026
+  - beste-airfryer-2026
 draft: false
 ---
 
