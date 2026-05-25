@@ -160,6 +160,6 @@ Voor wie echter een grotere ruimte moet koelen of snelle, krachtige verkoeling n
 
 ## Gerelateerde artikelen
 
-- [Beste Elektrische Kachels 2026: Bijverwarming Zonder CV](/reviews/beste-elektrische-kachel-2026/)
-- [Beste Luchtreinigers 2026: Verkoeling en Zuivere Lucht tegen Fijnstof, Pollen en Allergieën](/reviews/beste-luchtreiniger-2026/)
-- [Beste Luchtbevochtiger 2026: voor een gezond binnenklimaat en minder droge lucht klachten](/reviews/beste-luchtbevochtiger-2026/)
+- [Beste Elektrische Kachels 2026: Bijverwarming Zonder CV](/beste-elektrische-kachel-2026/)
+- [Beste Luchtreinigers 2026: Verkoeling en Zuivere Lucht tegen Fijnstof, Pollen en Allergieën](/beste-luchtreiniger-2026/)
+- [Beste Luchtbevochtiger 2026: voor een gezond binnenklimaat en minder droge lucht klachten](/beste-luchtbevochtiger-2026/)

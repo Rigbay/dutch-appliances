@@ -153,6 +153,6 @@ Wie echter een beperkter budget heeft, maar toch een degelijk en betrouwbaar app
 
 ## Gerelateerde artikelen
 
-- [Beste Wasautomaten 2026: Energiezuinig en Betrouwbaar voor Elk Gezin](/reviews/beste-wasmachine-2026/)
-- [Beste Wasdrogers 2026: Warmtepomp, Condens & Energiezuinig voor Elk Huishouden](/reviews/beste-wasdroger-2026/)
-- [Beste stofzuiger 2026: welke zuiger past bij jouw huis?](/reviews/beste-stofzuiger-2026/)
+- [Beste Wasautomaten 2026: Energiezuinig en Betrouwbaar voor Elk Gezin](/beste-wasmachine-2026/)
+- [Beste Wasdrogers 2026: Warmtepomp, Condens & Energiezuinig voor Elk Huishouden](/beste-wasdroger-2026/)
+- [Beste stofzuiger 2026: welke zuiger past bij jouw huis?](/beste-stofzuiger-2026/)

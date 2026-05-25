@@ -134,6 +134,6 @@ Uiteindelijk hangt de beste keuze af van jouw specifieke situatie: de grootte va
 
 ## Gerelateerde artikelen
 
-- [Beste bosmaaier 2026: krachtig snoeien en maaien](/reviews/beste-bosmaaier-2026/)
-- [Beste grasmaaier 2026: complete koopgids voor Nederlandse tuinen](/reviews/beste-grasmaaier-2026/)
-- [Beste verticuteermachine 2026: gezond gazon met minder mos](/reviews/beste-verticuteermachine-2026/)
+- [Beste bosmaaier 2026: krachtig snoeien en maaien](/beste-bosmaaier-2026/)
+- [Beste grasmaaier 2026: complete koopgids voor Nederlandse tuinen](/beste-grasmaaier-2026/)
+- [Beste verticuteermachine 2026: gezond gazon met minder mos](/beste-verticuteermachine-2026/)

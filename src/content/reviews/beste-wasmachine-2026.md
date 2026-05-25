@@ -148,6 +148,6 @@ Uiteindelijk is de 'beste' wasmachine diegene die het beste past bij jouw specif
 
 ## Gerelateerde artikelen
 
-- [Beste Wasdrogers 2026: Warmtepomp, Condens & Energiezuinig voor Elk Huishouden](/reviews/beste-wasdroger-2026/)
-- [Beste stofzuiger 2026: welke zuiger past bij jouw huis?](/reviews/beste-stofzuiger-2026/)
-- [Beste draadloze stofzuiger 2026: steel en stick vergeleken](/reviews/beste-draadloze-stofzuiger-2026/)
+- [Beste Wasdrogers 2026: Warmtepomp, Condens & Energiezuinig voor Elk Huishouden](/beste-wasdroger-2026/)
+- [Beste stofzuiger 2026: welke zuiger past bij jouw huis?](/beste-stofzuiger-2026/)
+- [Beste draadloze stofzuiger 2026: steel en stick vergeleken](/beste-draadloze-stofzuiger-2026/)

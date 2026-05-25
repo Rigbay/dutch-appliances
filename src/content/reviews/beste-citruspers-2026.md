@@ -77,9 +77,9 @@ Voordat je je keuze maakt, is het belangrijk om jezelf een paar vragen te stelle
 
 ## Snel Advies
 
-* **Kies de Philips Viva Collection als je** een betrouwbare, gebruiksvriendelijke elektrische citruspers zoekt voor dagelijks gebruik en een goede prijs-kwaliteitverhouding belangrijk vindt. onze [elektrische grill gids](/reviews/beste-elektrische-grill-2026/).
+* **Kies de Philips Viva Collection als je** een betrouwbare, gebruiksvriendelijke elektrische citruspers zoekt voor dagelijks gebruik en een goede prijs-kwaliteitverhouding belangrijk vindt. onze [elektrische grill gids](/beste-elektrische-grill-2026/).
 * **Kies de Princess Citrus Pro als je** een krachtige, degelijke elektrische citruspers wilt die ook grotere vruchten zoals grapefruits moeiteloos aankan en je bereid bent iets meer te betalen voor extra functionaliteit.
-* **Kies de KitchenAid Citruspers (accessoire) als je** al een KitchenAid keukenmachine bezit en op zoek bent naar een compacte, efficiënte oplossing voor het persen van citrusvruchten zonder extra apparaten. onze [keukenmachine gids](/reviews/beste-keukenmachine-2026/). onze [compacte airfryer gids](/reviews/beste-compacte-airfryer-2026/). onze [keukenmachine gids](/reviews/beste-keukenmachine-2026/). onze [compacte airfryer gids](/reviews/beste-compacte-airfryer-2026/). onze [airfryer friteuse gids](/reviews/airfryer-vs-friteuse-2026/).
+* **Kies de KitchenAid Citruspers (accessoire) als je** al een KitchenAid keukenmachine bezit en op zoek bent naar een compacte, efficiënte oplossing voor het persen van citrusvruchten zonder extra apparaten. onze [keukenmachine gids](/beste-keukenmachine-2026/). onze [compacte airfryer gids](/beste-compacte-airfryer-2026/). onze [keukenmachine gids](/beste-keukenmachine-2026/). onze [compacte airfryer gids](/beste-compacte-airfryer-2026/). onze [airfryer friteuse gids](/airfryer-vs-friteuse-2026/).
 
 ## Beste Keuze per Budget
 
@@ -103,7 +103,7 @@ De Philips Viva Collection Citruspers is al jaren een favoriet onder consumenten
 
 De Sage The Citrus Press, vaak te vinden rond de €120 tot €150, is een investering die zich terugbetaalt in prestaties en duurzaamheid. Met een indrukwekkend vermogen van 110 Watt en een uniek dubbel draaiend perssysteem, haalt deze machine maximale sapopbrengst uit elke citrusvrucht. De extra lange arm zorgt voor minimale inspanning, zelfs bij het persen van stevige grapefruits. Wat deze pers echt onderscheidt, is de combinatie van een krachtige motor met een elegant, roestvrijstalen design dat in elke keuken past. De perskegels zijn zo ontworpen dat ze zowel kleine limoenen als grote grapefruits efficiënt bewerken. Gebruikers loven de stille werking en de eenvoudige reiniging, dankzij de vaatwasmachinebestendige onderdelen. De Sage Citrus Press is een topkeuze voor sap-enthousiastelingen die de allerbeste kwaliteit en het grootste gemak wensen. Verkrijgbaar bij gespecialiseerde keukenwinkels en online via Coolblue en MediaMarkt.
 
-**Voor wie:** Voor de echte sap-liefhebber die bereid is te investeren in topkwaliteit, maximale sapopbrengst en een luxe uitstraling. onze [luxe airfryer gids](/reviews/beste-luxe-airfryer-2026/). Geschikt voor dagelijks intensief gebruik.
+**Voor wie:** Voor de echte sap-liefhebber die bereid is te investeren in topkwaliteit, maximale sapopbrengst en een luxe uitstraling. onze [luxe airfryer gids](/beste-luxe-airfryer-2026/). Geschikt voor dagelijks intensief gebruik.
 
 **Voordelen:**
 * Uitzonderlijke sapopbrengst dankzij het dubbele draaiende perssysteem.
