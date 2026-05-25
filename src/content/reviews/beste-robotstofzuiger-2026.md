@@ -82,9 +82,9 @@ Kies de Xiaomi Robot Vacuum X20+ als je wilt proberen of een robotstofzuiger bij
 
 ## Gerelateerde artikelen
 
-- [Beste stofzuiger 2026: welke zuiger past bij jouw huis?](/reviews/beste-stofzuiger-2026/)
-- [Beste draadloze stofzuiger 2026: steel en stick vergeleken](/reviews/beste-draadloze-stofzuiger-2026/)
-- [Beste waterkoker 2026: snel, stil en stijlvol kokend water](/reviews/beste-waterkoker-2026/)
+- [Beste stofzuiger 2026: welke zuiger past bij jouw huis?](/beste-stofzuiger-2026/)
+- [Beste draadloze stofzuiger 2026: steel en stick vergeleken](/beste-draadloze-stofzuiger-2026/)
+- [Beste waterkoker 2026: snel, stil en stijlvol kokend water](/beste-waterkoker-2026/)
 ## Affiliate disclosure
 
 Deze pagina bevat affiliate links naar Amazon.nl. Als je via deze links koopt, ontvangen wij een kleine commissie — zonder extra kosten voor jou. De rangschikking is gebaseerd op specificaties, prijsniveau en bekende minpunten; niet op commissiehoogte.

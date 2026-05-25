@@ -162,6 +162,6 @@ Voor wie bereid is te investeren in een apparaat dat meer kan dan alleen verwarm
 
 ## Gerelateerde artikelen
 
-- [Beste Airco 2026: Verkoeling in Huis Zonder Dure Installatie](/reviews/beste-airconditioner-2026/)
-- [Beste Luchtbevochtiger 2026: voor een gezond binnenklimaat en minder droge lucht klachten](/reviews/beste-luchtbevochtiger-2026/)
-- [Beste Wasdrogers 2026: Warmtepomp, Condens & Energiezuinig voor Elk Huishouden](/reviews/beste-wasdroger-2026/)
+- [Beste Airco 2026: Verkoeling in Huis Zonder Dure Installatie](/beste-airconditioner-2026/)
+- [Beste Luchtbevochtiger 2026: voor een gezond binnenklimaat en minder droge lucht klachten](/beste-luchtbevochtiger-2026/)
+- [Beste Wasdrogers 2026: Warmtepomp, Condens & Energiezuinig voor Elk Huishouden](/beste-wasdroger-2026/)

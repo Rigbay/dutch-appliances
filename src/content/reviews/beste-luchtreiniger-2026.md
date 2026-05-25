@@ -185,6 +185,6 @@ Echter, als je waarde hecht aan een combinatie van luchtzuivering en verkoeling,
 
 ## Gerelateerde artikelen
 
-- [Beste Luchtbevochtiger 2026: voor een gezond binnenklimaat en minder droge lucht klachten](/reviews/beste-luchtbevochtiger-2026/)
-- [Beste stofzuiger 2026: welke zuiger past bij jouw huis?](/reviews/beste-stofzuiger-2026/)
-- [Beste Airco 2026: Verkoeling in Huis Zonder Dure Installatie](/reviews/beste-airconditioner-2026/)
+- [Beste Luchtbevochtiger 2026: voor een gezond binnenklimaat en minder droge lucht klachten](/beste-luchtbevochtiger-2026/)
+- [Beste stofzuiger 2026: welke zuiger past bij jouw huis?](/beste-stofzuiger-2026/)
+- [Beste Airco 2026: Verkoeling in Huis Zonder Dure Installatie](/beste-airconditioner-2026/)

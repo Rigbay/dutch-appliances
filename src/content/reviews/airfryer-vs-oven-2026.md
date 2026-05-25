@@ -65,7 +65,7 @@ related:
   - airfryer-vs-friteuse-2026
 ---
 
-# Airfryer vs. onze [airfryer friteuse gids](/reviews/airfryer-vs-friteuse-2026/). onze [airfryer gids](/reviews/beste-airfryer-2026/). onze [airfryer met twee manden gids](/reviews/beste-airfryer-met-twee-manden-2026/). Oven in 2026: Heb je die losse heteluchtfriteuse nog wel nodig?
+# Airfryer vs. onze [airfryer friteuse gids](/airfryer-vs-friteuse-2026/). onze [airfryer gids](/beste-airfryer-2026/). onze [airfryer met twee manden gids](/beste-airfryer-met-twee-manden-2026/). Oven in 2026: Heb je die losse heteluchtfriteuse nog wel nodig?
 
 De keuken van 2026 is slimmer, efficiënter en compacter dan ooit tevoren. Waar de airfryer een decennium geleden nog werd gezien als een hippe 'gadget' voor het vetvrij bakken van friet, is het apparaat inmiddels niet meer weg te denken uit het Nederlandse huishouden. Tegelijkertijd hebben fabrikanten van traditionele inbouwovens niet stilgezeten. Moderne heteluchtovens zijn tegenwoordig uitgerust met geavanceerde AI-sensoren, supersnelle voorverwarmfuncties en speciale 'Airfry-modi'. 
 

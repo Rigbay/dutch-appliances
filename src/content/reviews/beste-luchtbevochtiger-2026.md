@@ -210,6 +210,6 @@ Uiteindelijk is de "beste" luchtbevochtiger degene die het beste aansluit bij uw
 
 ## Gerelateerde artikelen
 
-- [Beste Luchtreinigers 2026: Verkoeling en Zuivere Lucht tegen Fijnstof, Pollen en Allergieën](/reviews/beste-luchtreiniger-2026/)
-- [Beste Airco 2026: Verkoeling in Huis Zonder Dure Installatie](/reviews/beste-airconditioner-2026/)
-- [Beste Elektrische Kachels 2026: Bijverwarming Zonder CV](/reviews/beste-elektrische-kachel-2026/)
+- [Beste Luchtreinigers 2026: Verkoeling en Zuivere Lucht tegen Fijnstof, Pollen en Allergieën](/beste-luchtreiniger-2026/)
+- [Beste Airco 2026: Verkoeling in Huis Zonder Dure Installatie](/beste-airconditioner-2026/)
+- [Beste Elektrische Kachels 2026: Bijverwarming Zonder CV](/beste-elektrische-kachel-2026/)

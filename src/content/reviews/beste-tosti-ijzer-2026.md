@@ -102,7 +102,7 @@ Zoals eerder genoemd, is de Tefal Snack Collection een ware kampioen als het gaa
 * **Voordelen:**
  * Uiterst veelzijdig dankzij de verwisselbare platen.
  * Krachtig vermogen zorgt voor snelle bereiding en een mooie, egale bruining.
- * Makkelijk schoon te maken, de meeste platen mogen in de vaatwasser. onze [vaatwasser gids](/reviews/beste-vaatwasser-2026/). onze [vaatwasser gids](/reviews/beste-vaatwasser-2026/). 
+ * Makkelijk schoon te maken, de meeste platen mogen in de vaatwasser. onze [vaatwasser gids](/beste-vaatwasser-2026/). onze [vaatwasser gids](/beste-vaatwasser-2026/). 
  * Compact op te bergen, de platen kunnen apart bewaard worden.
  * Stijlvol design.
 * **Nadelen:**

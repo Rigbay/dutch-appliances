@@ -95,7 +95,7 @@ Deze koopgids is speciaal samengesteld voor de nieuwe tuinbezitter, de starter d
 
 **2. GardenMaster Pro-Lite Set**
 *   **Prijsrange:** €60 - €75
-*   **Specificaties:** De Pro-Lite set is een stap omhoog in kwaliteit en functionaliteit. Hij bevat een roestvrijstalen handtroffel, een vork, een cultivator, een onkruidsteker en een bypass snoeischaar. onze [snoeischaar gids](/reviews/beste-snoeischaar-2026/). De handgrepen zijn van duurzaam PP-kunststof met een TPR-rubberen coating voor extra grip en comfort. De set wordt geleverd in een stevige canvas gereedschapsrol.
+*   **Specificaties:** De Pro-Lite set is een stap omhoog in kwaliteit en functionaliteit. Hij bevat een roestvrijstalen handtroffel, een vork, een cultivator, een onkruidsteker en een bypass snoeischaar. onze [snoeischaar gids](/beste-snoeischaar-2026/). De handgrepen zijn van duurzaam PP-kunststof met een TPR-rubberen coating voor extra grip en comfort. De set wordt geleverd in een stevige canvas gereedschapsrol.
 *   **Pluspunten:** De roestvrijstalen koppen voelen solide aan en zijn bestand tegen roest, wat de levensduur ten goede komt. De ergonomische handgrepen liggen écht lekker in de hand en verminderen vermoeidheid, zelfs na langer gebruik. De snoeischaar is verrassend scherp en knipt takken tot 2 cm moeiteloos door. De canvas rol is praktisch voor opbergen en meenemen.
 *   **Minpunten:** Hoewel de snoeischaar goed is, is het geen professioneel model voor dikke takken. De onkruidsteker werkt prima, maar voor hardnekkig onkruid in zware grond is een langer model soms prettiger.
 *   **Verdict:** Een fantastische allrounder voor de enthousiaste hobbytuinier die een goede balans zoekt tussen prijs, kwaliteit en functionaliteit.
