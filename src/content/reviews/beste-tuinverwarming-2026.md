@@ -50,9 +50,9 @@ products:
     rating: 4.3
     affiliateLink: 'https://www.amazon.nl/s?k=Sunred+Artix+Compact+Wandheater+1800W&tag=kieskeukennl-21'
 related:
-  - beste-grasmaaier-2026
-  - beste-bosmaaier-2026
-  - beste-robotgrasmaaier-2026
+  - beste-heggenschaar-2026
+  - beste-hogedrukreiniger-2026
+  - beste-tuingereedschap-set-2026
 draft: false
 ---
 

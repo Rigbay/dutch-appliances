@@ -68,9 +68,12 @@ products:
   rating: 4.6
   affiliateLink: https://partner.bol.com/click/product?p=12345&t=1&id=99001
 related:
-- beste-vaatwasser-2026
-- beste-koffiemachine-2026
-- beste-airfryer-2026
+  - beste-airfryer-met-twee-manden-2026
+  - beste-inductiekookplaat-2026
+  - airfryer-vs-friteuse-2026
+  - beste-vaatwasser-2026
+  - beste-koffiemachine-2026
+  - beste-airfryer-2026
 draft: false
 ---
 

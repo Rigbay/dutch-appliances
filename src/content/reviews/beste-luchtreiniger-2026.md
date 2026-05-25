@@ -55,9 +55,9 @@ products:
     rating: 4.4
     affiliateLink: "https://partner.bol.com/nl/nl/xiaomi-mi-air-purifier-4-pro-wit/9300000161435293/"
 related:
-  - beste-strijkijzer-2026
-  - beste-kettingzaag-2026
-  - beste-airconditioner-2026
+  - beste-wasmachine-2026
+  - beste-ontvochtiger-2026
+  - beste-luchtbevochtiger-2026
 draft: false
 ---
 

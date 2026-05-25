@@ -52,8 +52,9 @@ products:
     rating: 3.5
     affiliateLink: "https://www.amazon.nl/dp/B00XP5CKHI?tag=kieskeukennl-21"
 related:
-  - beste-verticuteermachine-2026
-  - beste-bosmaaier-2026
+  - beste-heggenschaar-2026
+  - beste-tuinverwarming-2026
+  - beste-hogedrukreiniger-2026
 draft: false
 ---
 

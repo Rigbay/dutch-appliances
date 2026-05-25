@@ -59,9 +59,12 @@ products:
   rating: 4.5
   affiliateLink: https://www.amazon.nl/s?k=Shark+Stratos+IZ420EUT&tag=kieskeukennl-21
 related:
-- beste-stofzuiger-2026
-- beste-stofzuiger-met-zak-2026
-- beste-stofzuiger-voor-allergie-2026
+  - beste-robotstofzuiger-2026
+  - beste-stoomreiniger-2026
+  - beste-stofzuiger-tegen-dierenharen-2026
+  - beste-stofzuiger-2026
+  - beste-stofzuiger-met-zak-2026
+  - beste-stofzuiger-voor-allergie-2026
 draft: false
 ---
 

@@ -57,9 +57,12 @@ products:
   rating: 4.6
   affiliateLink: https://www.amazon.nl/s?k=KitchenAid+Artisan+5KEK1522&tag=kieskeukennl-21
 related:
-- beste-staafmixer-2026
-- beste-airfryer-oven-combi-2026
-- beste-luxe-airfryer-2026
+  - beste-airfryer-met-twee-manden-2026
+  - beste-inductiekookplaat-2026
+  - beste-airfryer-2026
+  - beste-staafmixer-2026
+  - beste-airfryer-oven-combi-2026
+  - beste-luxe-airfryer-2026
 draft: false
 ---
 

@@ -52,9 +52,9 @@ products:
     rating: 4.1
     affiliateLink: "https://www.amazon.nl/dp/B0CQ8GHBRG?tag=kieskeukennl-21"
 related:
-  - beste-wasmachine-2026
-  - beste-elektrische-kachel-2026
-  - beste-kettingzaag-2026
+  - beste-ontvochtiger-2026
+  - beste-airconditioner-2026
+  - beste-wasdroger-2026
 draft: false
 ---
 

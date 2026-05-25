@@ -52,9 +52,12 @@ products:
   rating: 4.7
   affiliateLink: https://partner.bol.com/
 related:
-- beste-airfryer-onder-100-euro-2026
-- beste-airfryer-met-twee-manden-2026
-- beste-stoomoven-2026
+  - beste-inductiekookplaat-2026
+  - beste-airfryer-2026
+  - airfryer-vs-friteuse-2026
+  - beste-airfryer-onder-100-euro-2026
+  - beste-airfryer-met-twee-manden-2026
+  - beste-stoomoven-2026
 draft: false
 ---
 

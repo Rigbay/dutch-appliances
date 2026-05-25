@@ -64,9 +64,12 @@ products:
   rating: 4.5
   affiliateLink: https://partner.bol.com/nl/product/aeg-vx9-2-og-eco-stofzuiger-grijs/9300000071123460
 related:
-- beste-draadloze-stofzuiger-2026
-- beste-stofzuiger-2026
-- beste-stofzuiger-voor-allergie-2026
+  - beste-stofzuiger-tegen-dierenharen-2026
+  - beste-robotstofzuiger-2026
+  - beste-stoomreiniger-2026
+  - beste-draadloze-stofzuiger-2026
+  - beste-stofzuiger-2026
+  - beste-stofzuiger-voor-allergie-2026
 draft: false
 ---
 

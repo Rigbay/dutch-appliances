@@ -58,9 +58,9 @@ products:
     rating: 4.3
     affiliateLink: "https://www.amazon.nl/dp/B07WFQQVVK?tag=kieskeukennl-21"
 related:
-  - beste-tuinslang-2026
-  - beste-hogedrukreiniger-2026
-  - beste-robotgrasmaaier-2026
+  - beste-ontvochtiger-2026
+  - beste-airconditioner-2026
+  - beste-luchtbevochtiger-2026
 draft: false
 ---
 

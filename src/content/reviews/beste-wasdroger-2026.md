@@ -71,9 +71,12 @@ products:
   rating: 3.9
   affiliateLink: https://www.amazon.nl/dp/B07KT96ZLC?tag=kieskeukennl-21
 related:
-- beste-airconditioner-2026
-- beste-robotgrasmaaier-2026
-- beste-hogedrukreiniger-2026
+  - beste-wasmachine-2026
+  - beste-ontvochtiger-2026
+  - beste-luchtbevochtiger-2026
+  - beste-airconditioner-2026
+  - beste-robotgrasmaaier-2026
+  - beste-hogedrukreiniger-2026
 draft: false
 ---
 

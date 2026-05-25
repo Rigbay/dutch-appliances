@@ -72,9 +72,12 @@ products:
   rating: 4.6
   affiliateLink: https://partner.bol.com/click/click?p=2&t=url&s=1520310&f=TXL&url=https%3A%2F%2Fpartner.bol.com%2Fnl%2Fnl%2Fp%2Ffaber-faber-galileo-smart-afzuigkap-wit%2F9300000159987659%2F
 related:
-- beste-blender-2026
-- beste-koffiemolen-2026
-- beste-luxe-airfryer-2026
+  - beste-airfryer-met-twee-manden-2026
+  - beste-inductiekookplaat-2026
+  - beste-airfryer-2026
+  - beste-blender-2026
+  - beste-koffiemolen-2026
+  - beste-luxe-airfryer-2026
 draft: false
 ---
 

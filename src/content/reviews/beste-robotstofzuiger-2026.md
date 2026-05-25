@@ -53,9 +53,9 @@ products:
     rating: 4.7
     affiliateLink: "https://www.amazon.nl/dp/B0GMH56TRH?tag=kieskeukennl-21"
 related:
-  - beste-steelstofzuiger-2026
-  - beste-draadloze-stofzuiger-2026
-  - beste-stofzuiger-tegen-dierenharen-2026
+  - beste-stoomreiniger-2026
+  - beste-stofzuiger-voor-allergie-2026
+  - beste-dweilrobot-2026
 draft: false
 ---
 

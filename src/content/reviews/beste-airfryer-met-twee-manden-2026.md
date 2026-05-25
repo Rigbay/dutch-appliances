@@ -58,9 +58,12 @@ products:
   rating: 1.712
   affiliateLink: https://www.amazon.nl/dp/B0FPVT6L4X?tag=kieskeukennl-21
 related:
-- airfryer-vs-friteuse-2026
-- beste-airfryer-2026
-- beste-airfryer-onder-100-euro-2026
+  - beste-airfryer-oven-combi-2026
+  - beste-inductiekookplaat-2026
+  - beste-compacte-airfryer-2026
+  - airfryer-vs-friteuse-2026
+  - beste-airfryer-2026
+  - beste-airfryer-onder-100-euro-2026
 ---
 
 

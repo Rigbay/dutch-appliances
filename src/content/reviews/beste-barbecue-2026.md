@@ -50,9 +50,9 @@ products:
     rating: 4.2
     affiliateLink: 'https://www.amazon.nl/s?k=Barbecook+Loewy+40+houtskoolbarbecue&tag=kieskeukennl-21'
 related:
-  - beste-grasmaaier-2026
-  - beste-bosmaaier-2026
-  - beste-robotgrasmaaier-2026
+  - beste-heggenschaar-2026
+  - beste-tuinverwarming-2026
+  - beste-hogedrukreiniger-2026
 draft: false
 ---
 

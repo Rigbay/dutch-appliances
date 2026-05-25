@@ -55,9 +55,9 @@ products:
     rating: 4.9
     affiliateLink: "https://partner.bol.com/nl/product/laurastar-smart-u-stoomgenerator/9300000150878874"
 related:
-  - beste-kettingzaag-2026
-  - beste-heggenschaar-2026
-  - beste-wasdroger-2026
+  - beste-wasmachine-2026
+  - beste-ontvochtiger-2026
+  - beste-airconditioner-2026
 draft: false
 ---
 

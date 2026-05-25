@@ -124,7 +124,7 @@
             "type": "string"
           },
           "minItems": 2,
-          "maxItems": 3
+          "maxItems": 6
         },
         "draft": {
           "type": "boolean",

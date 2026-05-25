@@ -59,9 +59,12 @@ products:
   rating: 4.5
   affiliateLink: https://www.amazon.nl/s?k=Sage+Control+Grip+BSB510&tag=kieskeukennl-21
 related:
-- beste-vaatwasser-2026
-- beste-airfryer-2026
-- beste-luxe-airfryer-2026
+  - beste-airfryer-met-twee-manden-2026
+  - beste-inductiekookplaat-2026
+  - airfryer-vs-friteuse-2026
+  - beste-vaatwasser-2026
+  - beste-airfryer-2026
+  - beste-luxe-airfryer-2026
 draft: false
 ---
 

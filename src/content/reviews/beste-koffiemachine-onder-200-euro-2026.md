@@ -58,9 +58,12 @@ products:
   rating: 1.21015
   affiliateLink: https://www.amazon.nl/dp/B085J8LBXF?tag=kieskeukennl-21
 related:
-- beste-airfryer-onder-100-euro-2026
-- beste-koffiemachine-2026
-- beste-koffiemachine-bonen-2026
+  - beste-airfryer-met-twee-manden-2026
+  - beste-inductiekookplaat-2026
+  - beste-airfryer-2026
+  - beste-airfryer-onder-100-euro-2026
+  - beste-koffiemachine-2026
+  - beste-koffiemachine-bonen-2026
 ---
 
 

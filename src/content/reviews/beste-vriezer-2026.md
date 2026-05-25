@@ -72,9 +72,12 @@ products:
   rating: 4.6
   affiliateLink: https://partner.bol.com/nl/product/siemens-gs-iQ500-vrieskast/9300000134567890
 related:
-- beste-koelkast-vriezer-combinatie-2026
-- beste-blender-2026
-- beste-compacte-airfryer-2026
+  - beste-airfryer-met-twee-manden-2026
+  - beste-inductiekookplaat-2026
+  - beste-airfryer-2026
+  - beste-koelkast-vriezer-combinatie-2026
+  - beste-blender-2026
+  - beste-compacte-airfryer-2026
 draft: false
 ---
 

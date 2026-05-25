@@ -66,9 +66,12 @@ products:
   rating: 4.4
   affiliateLink: https://partner.bol.com/click/MPf25222e-3787-472a-8794-c4b92631d295/Smeg-SMF03-Kleur-Keukenmachine-SKU998877665
 related:
-- beste-koelkast-vriezer-combinatie-2026
-- beste-sapcentrifuge-2026
-- beste-magnetron-2026
+  - beste-airfryer-met-twee-manden-2026
+  - beste-inductiekookplaat-2026
+  - beste-airfryer-2026
+  - beste-koelkast-vriezer-combinatie-2026
+  - beste-sapcentrifuge-2026
+  - beste-magnetron-2026
 draft: false
 ---
 

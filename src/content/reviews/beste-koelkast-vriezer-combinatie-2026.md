@@ -64,9 +64,12 @@ products:
   rating: 4.5
   affiliateLink: https://www.amazon.nl/dp/B0CH7WGF9S?tag=kieskeukennl-21
 related:
-- beste-koelkast-2026
-- beste-vriezer-2026
-- beste-koffiemachine-bonen-2026
+  - beste-airfryer-met-twee-manden-2026
+  - beste-inductiekookplaat-2026
+  - beste-airfryer-2026
+  - beste-koelkast-2026
+  - beste-vriezer-2026
+  - beste-koffiemachine-bonen-2026
 draft: false
 ---
 

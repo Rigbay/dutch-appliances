@@ -55,9 +55,9 @@ products:
     rating: 4.1
     affiliateLink: "https://partner.bol.com/succeed/product?id=9200000169234451"
 related:
-  - beste-koelkast-2026
-  - beste-koelkast-vriezer-combinatie-2026
-  - beste-keukenmachine-2026
+  - beste-airfryer-met-twee-manden-2026
+  - beste-inductiekookplaat-2026
+  - beste-airfryer-2026
 draft: false
 ---
 
