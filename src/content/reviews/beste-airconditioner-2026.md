@@ -1,63 +1,67 @@
 ---
-title: "Beste Airco 2026: Verkoeling in Huis Zonder Dure Installatie"
-slug: "beste-airconditioner-2026"
-description: "Beste mobiele & vaste airco 2026: Vind de perfecte verkoeling voor uw huis zonder dure installatie. Praktische koopgids."
-category: "huishoudelijk"
+title: 'Beste Airco 2026: Verkoeling in Huis Zonder Dure Installatie'
+slug: beste-airconditioner-2026
+description: 'Beste mobiele & vaste airco 2026: Vind de perfecte verkoeling voor uw huis zonder dure installatie. Praktische
+  koopgids.'
+category: huishoudelijk
 rating: 4.0
-priceRange: "EUR 300-900"
+priceRange: EUR 300-900
 pros:
-  - "Snelle en eenvoudige installatie"
-  - "Flexibel inzetbaar in verschillende ruimtes"
-  - "Betaalbaarder dan vaste airconditioningsystemen"
+- Snelle en eenvoudige installatie
+- Flexibel inzetbaar in verschillende ruimtes
+- Betaalbaarder dan vaste airconditioningsystemen
 cons:
-  - "Mobiele units kunnen luidruchtig zijn"
-  - "Vereisen een afvoerslang voor warme lucht"
-  - "Minder efficiënt dan vaste systemen bij grote ruimtes"
+- Mobiele units kunnen luidruchtig zijn
+- Vereisen een afvoerslang voor warme lucht
+- Minder efficiënt dan vaste systemen bij grote ruimtes
 affiliateLinks:
-  - "https://partner.bol.com/nl/product/eurom-ac2401-mobiele-airconditioner-2350w/9300000012345678"
-  - "https://partner.bol.com/nl/product/delonghi-pinguino-pac-ex100-mobiele-airconditioner/9300000087654321"
-  - "https://partner.bol.com/nl/product/aeg-chillflex-pro-mobiele-airconditioner-ax3000/9300000098765432"
-  - "https://partner.bol.com/nl/product/inventum-ac200-mobiele-airconditioner/9300000011223344"
-  - "https://partner.bol.com/nl/product/trotec-pac-3500-mobiele-airconditioner/9300000055667788"
+- https://partner.bol.com/nl/product/eurom-ac2401-mobiele-airconditioner-2350w/9300000012345678
+- https://partner.bol.com/nl/product/delonghi-pinguino-pac-ex100-mobiele-airconditioner/9300000087654321
+- https://partner.bol.com/nl/product/aeg-chillflex-pro-mobiele-airconditioner-ax3000/9300000098765432
+- https://partner.bol.com/nl/product/inventum-ac200-mobiele-airconditioner/9300000011223344
+- https://partner.bol.com/nl/product/trotec-pac-3500-mobiele-airconditioner/9300000055667788
 date: 2026-05-13
 modelYear: 2026
-featuredProduct: "De'Longhi Pinguino PAC EX100"
-readingTime: "15 min"
+featuredProduct: De'Longhi Pinguino PAC EX100
+readingTime: 15 min
 products:
-  - name: "Eurom AC2401 Mobiele Airconditioner"
-    verdict: "Een solide en betaalbare optie voor wie snel verkoeling zoekt zonder poespas."
-    priceRange: "EUR 300-400"
-    bestFor: "Kleine tot middelgrote kamers, beperkt budget."
-    rating: 4.0
-    affiliateLink: "https://partner.bol.com/nl/product/eurom-ac2401-mobiele-airconditioner-2350w/9300000012345678"
-  - name: "De'Longhi Pinguino PAC EX100"
-    verdict: "Uitstekende balans tussen prestaties, gebruiksgemak en geluidsniveau, ideaal voor de veeleisende consument."
-    priceRange: "EUR 450-600"
-    bestFor: "Middelgrote tot grotere kamers, focus op comfort en stilte."
-    rating: 4.5
-    affiliateLink: "https://partner.bol.com/nl/product/delonghi-pinguino-pac-ex100-mobiele-airconditioner/9300000087654321"
-  - name: "AEG ChillFlex Pro AX3000"
-    verdict: "Een krachtige en efficiënte keuze voor wie serieuze verkoeling nodig heeft, met handige extra functies."
-    priceRange: "EUR 550-700"
-    bestFor: "Grotere ruimtes, maximale koelcapaciteit gewenst."
-    rating: 4.3
-    affiliateLink: "https://partner.bol.com/nl/product/aeg-chillflex-pro-mobiele-airconditioner-ax3000/9300000098765432"
-  - name: "Inventum AC200 Mobiele Airconditioner"
-    verdict: "Een no-nonsense apparaat dat doet wat het belooft: betaalbare verkoeling voor kleinere ruimtes."
-    priceRange: "EUR 300-380"
-    bestFor: "Zeer beperkt budget, kleine slaapkamer of studeerkamer."
-    rating: 3.8
-    affiliateLink: "https://partner.bol.com/nl/product/inventum-ac200-mobiele-airconditioner/9300000011223344"
-  - name: "Trotec PAC 3500 Mobiele Airconditioner"
-    verdict: "Professionele koelkracht in een mobiel jasje, geschikt voor veeleisende gebruikers en grotere oppervlakken."
-    priceRange: "EUR 600-800"
-    bestFor: "Grote leefruimtes, kantoren, of ruimtes die snel gekoeld moeten worden."
-    rating: 4.4
-    affiliateLink: "https://partner.bol.com/nl/product/trotec-pac-3500-mobiele-airconditioner/9300000055667788"
+- name: Eurom AC2401 Mobiele Airconditioner
+  verdict: Een solide en betaalbare optie voor wie snel verkoeling zoekt zonder poespas.
+  priceRange: EUR 300-400
+  bestFor: Kleine tot middelgrote kamers, beperkt budget.
+  rating: 4.0
+  affiliateLink: https://partner.bol.com/nl/product/eurom-ac2401-mobiele-airconditioner-2350w/9300000012345678
+- name: De'Longhi Pinguino PAC EX100
+  verdict: Uitstekende balans tussen prestaties, gebruiksgemak en geluidsniveau, ideaal voor de veeleisende consument.
+  priceRange: EUR 450-600
+  bestFor: Middelgrote tot grotere kamers, focus op comfort en stilte.
+  rating: 4.5
+  affiliateLink: https://partner.bol.com/nl/product/delonghi-pinguino-pac-ex100-mobiele-airconditioner/9300000087654321
+- name: AEG ChillFlex Pro AX3000
+  verdict: Een krachtige en efficiënte keuze voor wie serieuze verkoeling nodig heeft, met handige extra functies.
+  priceRange: EUR 550-700
+  bestFor: Grotere ruimtes, maximale koelcapaciteit gewenst.
+  rating: 4.3
+  affiliateLink: https://partner.bol.com/nl/product/aeg-chillflex-pro-mobiele-airconditioner-ax3000/9300000098765432
+- name: Inventum AC200 Mobiele Airconditioner
+  verdict: 'Een no-nonsense apparaat dat doet wat het belooft: betaalbare verkoeling voor kleinere ruimtes.'
+  priceRange: EUR 300-380
+  bestFor: Zeer beperkt budget, kleine slaapkamer of studeerkamer.
+  rating: 3.8
+  affiliateLink: https://partner.bol.com/nl/product/inventum-ac200-mobiele-airconditioner/9300000011223344
+- name: Trotec PAC 3500 Mobiele Airconditioner
+  verdict: Professionele koelkracht in een mobiel jasje, geschikt voor veeleisende gebruikers en grotere oppervlakken.
+  priceRange: EUR 600-800
+  bestFor: Grote leefruimtes, kantoren, of ruimtes die snel gekoeld moeten worden.
+  rating: 4.4
+  affiliateLink: https://partner.bol.com/nl/product/trotec-pac-3500-mobiele-airconditioner/9300000055667788
 related:
-  - beste-wasmachine-2026
-  - beste-luchtbevochtiger-2026
-  - beste-luchtreiniger-2026
+- beste-wasmachine-2026
+- beste-luchtbevochtiger-2026
+- beste-luchtreiniger-2026
+- beste-ontvochtiger-2026
+- beste-elektrische-kachel-2026
+- beste-tuinverwarming-2026
 draft: false
 ---
 

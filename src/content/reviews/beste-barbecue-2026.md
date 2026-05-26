@@ -1,58 +1,63 @@
 ---
 title: 'Beste Barbecues 2026: Vuur aan voor perfecte maaltijden buiten'
-slug: 'beste-barbecue-2026'
-description: 'Vind de beste barbecue voor 2026! Gas, houtskool, elektrisch: complete koopgids voor Nederlandse huiseigenaren met tuin/balkon. Topmodellen, budgetopties en tips.'
-category: 'tuin'
+slug: beste-barbecue-2026
+description: 'Vind de beste barbecue voor 2026! Gas, houtskool, elektrisch: complete koopgids voor Nederlandse huiseigenaren
+  met tuin/balkon. Topmodellen, budgetopties en tips.'
+category: tuin
 rating: 4.5
-priceRange: 'EUR 89-1299'
+priceRange: EUR 89-1299
 pros:
-  - Ruime keuze in type (gas, houtskool, elektrisch)
-  - Modellen voor elk budget en elke ruimte (tuin, balkon)
-  - Technologische verbeteringen voor meer gebruiksgemak en betere resultaten
+- Ruime keuze in type (gas, houtskool, elektrisch)
+- Modellen voor elk budget en elke ruimte (tuin, balkon)
+- Technologische verbeteringen voor meer gebruiksgemak en betere resultaten
 cons:
-  - Grote prijsverschillen tussen instap- en premiummodellen
-  - Onderhoud en opslag variëren sterk per type barbecue
+- Grote prijsverschillen tussen instap- en premiummodellen
+- Onderhoud en opslag variëren sterk per type barbecue
 affiliateLinks:
-  - 'https://www.amazon.nl/s?k=beste+barbecues&tag=kieskeukennl-21'
+- https://www.amazon.nl/s?k=beste+barbecues&tag=kieskeukennl-21
 date: 2026-05-21
 modelYear: 2026
-featuredProduct: 'Kamado Joe Classic II'
-readingTime: '12 min'
+featuredProduct: Kamado Joe Classic II
+readingTime: 12 min
 products:
-  - name: 'Kamado Joe Classic II'
-    verdict: 'De ultieme kamado voor de serieuze barbecueliefhebber, met ongeëvenaarde temperatuurbeheersing en veelzijdigheid.'
-    priceRange: 'EUR 1299'
-    bestFor: 'Culinaire avonturiers, slow-cooking experts, liefhebbers van topkwaliteit.'
-    rating: 4.8
-    affiliateLink: 'https://www.amazon.nl/s?k=Kamado+Joe+Classic+II&tag=kieskeukennl-21'
-  - name: 'Weber Spirit II E-320 GBS Zwart'
-    verdict: 'Een robuuste gasbarbecue met drie branders, GBS-rooster en zijbrander voor de veeleisende buitenkok.'
-    priceRange: 'EUR 799'
-    bestFor: 'Liefhebbers van gasgemak, grote gezinnen, frequente barbecuers.'
-    rating: 4.7
-    affiliateLink: 'https://www.amazon.nl/s?k=Weber+Spirit+II+E-320+GBS+Zwart&tag=kieskeukennl-21'
-  - name: 'Cadac Citi Chef 40'
-    verdict: 'Compact, veelzijdig en gemakkelijk te gebruiken, ideaal voor balkons of kleinere tuinen.'
-    priceRange: 'EUR 249'
-    bestFor: 'Balkonbezitters, kleine gezinnen, kampeerders.'
-    rating: 4.5
-    affiliateLink: 'https://www.amazon.nl/s?k=Cadac+Citi+Chef+40&tag=kieskeukennl-21'
-  - name: 'Weber Q1400 Elektrische Barbecue Zwart'
-    verdict: 'Krachtige elektrische barbecue voor overal waar open vuur niet is toegestaan, met snelle opwarmtijd en uitstekende grillresultaten.'
-    priceRange: 'EUR 319'
-    bestFor: 'Balkonbewoners, campinggasten, appartementseigenaren zonder gas/houtskool opties.'
-    rating: 4.4
-    affiliateLink: 'https://www.amazon.nl/s?k=Weber+Q1400+elektrische+barbecue+zwart&tag=kieskeukennl-21'
-  - name: 'Barbecook Loewy 40 Houtskoolbarbecue'
-    verdict: 'Een klassieke, betaalbare houtskoolbarbecue die doet wat hij moet doen: heerlijk grillen voor een zachte prijs.'
-    priceRange: 'EUR 89'
-    bestFor: 'Occasionele gebruikers, budgetbewuste kopers, liefhebbers van authentieke rooksmaak.'
-    rating: 4.2
-    affiliateLink: 'https://www.amazon.nl/s?k=Barbecook+Loewy+40+houtskoolbarbecue&tag=kieskeukennl-21'
+- name: Kamado Joe Classic II
+  verdict: De ultieme kamado voor de serieuze barbecueliefhebber, met ongeëvenaarde temperatuurbeheersing en veelzijdigheid.
+  priceRange: EUR 1299
+  bestFor: Culinaire avonturiers, slow-cooking experts, liefhebbers van topkwaliteit.
+  rating: 4.8
+  affiliateLink: https://www.amazon.nl/s?k=Kamado+Joe+Classic+II&tag=kieskeukennl-21
+- name: Weber Spirit II E-320 GBS Zwart
+  verdict: Een robuuste gasbarbecue met drie branders, GBS-rooster en zijbrander voor de veeleisende buitenkok.
+  priceRange: EUR 799
+  bestFor: Liefhebbers van gasgemak, grote gezinnen, frequente barbecuers.
+  rating: 4.7
+  affiliateLink: https://www.amazon.nl/s?k=Weber+Spirit+II+E-320+GBS+Zwart&tag=kieskeukennl-21
+- name: Cadac Citi Chef 40
+  verdict: Compact, veelzijdig en gemakkelijk te gebruiken, ideaal voor balkons of kleinere tuinen.
+  priceRange: EUR 249
+  bestFor: Balkonbezitters, kleine gezinnen, kampeerders.
+  rating: 4.5
+  affiliateLink: https://www.amazon.nl/s?k=Cadac+Citi+Chef+40&tag=kieskeukennl-21
+- name: Weber Q1400 Elektrische Barbecue Zwart
+  verdict: Krachtige elektrische barbecue voor overal waar open vuur niet is toegestaan, met snelle opwarmtijd en uitstekende
+    grillresultaten.
+  priceRange: EUR 319
+  bestFor: Balkonbewoners, campinggasten, appartementseigenaren zonder gas/houtskool opties.
+  rating: 4.4
+  affiliateLink: https://www.amazon.nl/s?k=Weber+Q1400+elektrische+barbecue+zwart&tag=kieskeukennl-21
+- name: Barbecook Loewy 40 Houtskoolbarbecue
+  verdict: 'Een klassieke, betaalbare houtskoolbarbecue die doet wat hij moet doen: heerlijk grillen voor een zachte prijs.'
+  priceRange: EUR 89
+  bestFor: Occasionele gebruikers, budgetbewuste kopers, liefhebbers van authentieke rooksmaak.
+  rating: 4.2
+  affiliateLink: https://www.amazon.nl/s?k=Barbecook+Loewy+40+houtskoolbarbecue&tag=kieskeukennl-21
 related:
-  - beste-heggenschaar-2026
-  - beste-tuinverwarming-2026
-  - beste-hogedrukreiniger-2026
+- beste-heggenschaar-2026
+- beste-tuinverwarming-2026
+- beste-hogedrukreiniger-2026
+- beste-elektrische-grill-2026
+- beste-tuinverlichting-2026
+- beste-broodrooster-2026
 draft: false
 ---
 

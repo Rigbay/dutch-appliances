@@ -1,8 +1,8 @@
 ---
 title: De Beste Verticuteermachines voor een Gezond en Mosvrij Gazon in 2026
 slug: beste-verticuteermachine-2026
-description: Een gezond gazon begint met verticuteren. Ontdek de beste verticuteermachines
-  van 2026 om mos en vilt te verwijderen voor een strakke grasmat.
+description: Een gezond gazon begint met verticuteren. Ontdek de beste verticuteermachines van 2026 om mos en vilt te verwijderen
+  voor een strakke grasmat.
 category: tuin
 rating: 4.5
 priceRange: EUR 50-EUR 500
@@ -24,8 +24,7 @@ readingTime: 11 minuten
 products:
 - name: Bosch AVR 1100
   verdict: '9.0'
-  priceRange: EUR Middelgrote tot grote gazons, effectieve mos- en viltverwijdering,
-    duurzaam
+  priceRange: EUR Middelgrote tot grote gazons, effectieve mos- en viltverwijdering, duurzaam
   bestFor: €250-€350
   rating: 4.5
   affiliateLink: https://www.amazon.nl/dp/B07KT96ZLC?tag=kieskeukennl-21
@@ -54,11 +53,12 @@ products:
   rating: 4.8
   affiliateLink: https://www.amazon.nl/dp/B07KT96ZLC?tag=kieskeukennl-21
 related:
-  - beste-heggenschaar-2026
-  - beste-tuinverwarming-2026
-  - beste-hogedrukreiniger-2026
-  - beste-bladblazer-2026
-  - beste-bosmaaier-2026
+- beste-heggenschaar-2026
+- beste-tuinverwarming-2026
+- beste-hogedrukreiniger-2026
+- beste-bladblazer-2026
+- beste-bosmaaier-2026
+- beste-grasmaaier-2026
 draft: false
 ---
 

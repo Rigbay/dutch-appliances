@@ -1,72 +1,75 @@
 ---
-title: "beste hogedrukreinigers van 2026"
-slug: "beste-hogedrukreiniger-2026"
-description: "Vergelijk de beste hogedrukreinigers van 2026 voor Nederlandse tuinen en woningen. Reviews met focus op druk, debiet, accessoires en reinigingskracht."
-category: "tuin"
+title: beste hogedrukreinigers van 2026
+slug: beste-hogedrukreiniger-2026
+description: Vergelijk de beste hogedrukreinigers van 2026 voor Nederlandse tuinen en woningen. Reviews met focus op druk,
+  debiet, accessoires en reinigingskracht.
+category: tuin
 rating: 4.0
-priceRange: "€30 - €500+"
+priceRange: €30 - €500+
 pros:
-  - "Hoge druk (tot 150 bar) verwijdert hardnekkig vuil snel"
-  - "Meerdere accessoires voor auto, terras, gevel en tuin"
-  - "Compacte modellen met ingebouwde slangoproller"
+- Hoge druk (tot 150 bar) verwijdert hardnekkig vuil snel
+- Meerdere accessoires voor auto, terras, gevel en tuin
+- Compacte modellen met ingebouwde slangoproller
 cons:
-  - "Hogedrukreinigers verbruiken veel water bij intensief gebruik"
-  - "Elektrische modellen hebben beperkte mobiliteit door snoer"
-  - "Goedkopere modellen missen duurzaamheid op langere termijn"
+- Hogedrukreinigers verbruiken veel water bij intensief gebruik
+- Elektrische modellen hebben beperkte mobiliteit door snoer
+- Goedkopere modellen missen duurzaamheid op langere termijn
 affiliateLinks:
-  - "https://www.amazon.nl/dp/B0G133H7Y8?tag=kieskeukennl-21"
+- https://www.amazon.nl/dp/B0G133H7Y8?tag=kieskeukennl-21
 date: 2026-05-14
 modelYear: 2026
-featuredProduct: ""
-readingTime: "10 min"
+featuredProduct: ''
+readingTime: 10 min
 products:
-  - name: "Kärcher K 7 Premium Power Control Home"
-    verdict: "Grote projecten, veelzijdigheid, slimme functies"
-    priceRange: "€650"
-    bestFor: "Grote projecten, veelzijdigheid, slimme functies"
-    rating: 4.8
-    affiliateLink: "https://www.amazon.nl/dp/B0G133H7Y8?tag=kieskeukennl-21"
-  - name: "Nilfisk Core 140-10 EU"
-    verdict: "Allround gebruik, goede prijs-kwaliteit"
-    priceRange: "€250"
-    bestFor: "Allround gebruik, goede prijs-kwaliteit"
-    rating: 4.5
-    affiliateLink: "https://www.amazon.nl/dp/B0G133H7Y8?tag=kieskeukennl-21"
-  - name: "Bosch UniversalAquatak 135"
-    verdict: "Budgetvriendelijk, compact, auto's, fietsen"
-    priceRange: "€150"
-    bestFor: "Budgetvriendelijk, compact, auto's, fietsen"
-    rating: 4.2
-    affiliateLink: "https://www.amazon.nl/dp/B0G133H7Y8?tag=kieskeukennl-21"
-  - name: "Kärcher K 5 Power Control Home"
-    verdict: "Middelgrote terrassen, huis en tuin"
-    priceRange: "€400"
-    bestFor: "Middelgrote terrassen, huis en tuin"
-    rating: 4.6
-    affiliateLink: "https://www.amazon.nl/dp/B0G133H7Y8?tag=kieskeukennl-21"
-  - name: "Stihl RE 100 Plus"
-    verdict: "Duurzaamheid, comfort, diverse taken"
-    priceRange: "€320"
-    bestFor: "Duurzaamheid, comfort, diverse taken"
-    rating: 4.4
-    affiliateLink: "https://www.amazon.nl/dp/B0G133H7Y8?tag=kieskeukennl-21"
-  - name: "Kränzle K 1050 TST"
-    verdict: "Professionele kwaliteit, lange levensduur"
-    priceRange: "€550"
-    bestFor: "Professionele kwaliteit, lange levensduur"
-    rating: 4.7
-    affiliateLink: "https://www.amazon.nl/dp/B0G133H7Y8?tag=kieskeukennl-21"
-  - name: "Parkside PHD 170 B5 (Lidl)"
-    verdict: "Krachtig voor de prijs, veel accessoires"
-    priceRange: "€180"
-    bestFor: "Krachtig voor de prijs, veel accessoires"
-    rating: 4.0
-    affiliateLink: "https://www.amazon.nl/dp/B0G133H7Y8?tag=kieskeukennl-21"
-
+- name: Kärcher K 7 Premium Power Control Home
+  verdict: Grote projecten, veelzijdigheid, slimme functies
+  priceRange: €650
+  bestFor: Grote projecten, veelzijdigheid, slimme functies
+  rating: 4.8
+  affiliateLink: https://www.amazon.nl/dp/B0G133H7Y8?tag=kieskeukennl-21
+- name: Nilfisk Core 140-10 EU
+  verdict: Allround gebruik, goede prijs-kwaliteit
+  priceRange: €250
+  bestFor: Allround gebruik, goede prijs-kwaliteit
+  rating: 4.5
+  affiliateLink: https://www.amazon.nl/dp/B0G133H7Y8?tag=kieskeukennl-21
+- name: Bosch UniversalAquatak 135
+  verdict: Budgetvriendelijk, compact, auto's, fietsen
+  priceRange: €150
+  bestFor: Budgetvriendelijk, compact, auto's, fietsen
+  rating: 4.2
+  affiliateLink: https://www.amazon.nl/dp/B0G133H7Y8?tag=kieskeukennl-21
+- name: Kärcher K 5 Power Control Home
+  verdict: Middelgrote terrassen, huis en tuin
+  priceRange: €400
+  bestFor: Middelgrote terrassen, huis en tuin
+  rating: 4.6
+  affiliateLink: https://www.amazon.nl/dp/B0G133H7Y8?tag=kieskeukennl-21
+- name: Stihl RE 100 Plus
+  verdict: Duurzaamheid, comfort, diverse taken
+  priceRange: €320
+  bestFor: Duurzaamheid, comfort, diverse taken
+  rating: 4.4
+  affiliateLink: https://www.amazon.nl/dp/B0G133H7Y8?tag=kieskeukennl-21
+- name: Kränzle K 1050 TST
+  verdict: Professionele kwaliteit, lange levensduur
+  priceRange: €550
+  bestFor: Professionele kwaliteit, lange levensduur
+  rating: 4.7
+  affiliateLink: https://www.amazon.nl/dp/B0G133H7Y8?tag=kieskeukennl-21
+- name: Parkside PHD 170 B5 (Lidl)
+  verdict: Krachtig voor de prijs, veel accessoires
+  priceRange: €180
+  bestFor: Krachtig voor de prijs, veel accessoires
+  rating: 4.0
+  affiliateLink: https://www.amazon.nl/dp/B0G133H7Y8?tag=kieskeukennl-21
 related:
-  - beste-heggenschaar-2026
-  - beste-tuinverwarming-2026
-  - beste-bosmaaier-2026
+- beste-heggenschaar-2026
+- beste-tuinverwarming-2026
+- beste-bosmaaier-2026
+- beste-tuinslang-2026
+- beste-raamreiniger-2026
+- beste-bladblazer-2026
 ---
 
 

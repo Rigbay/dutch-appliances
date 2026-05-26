@@ -1,63 +1,67 @@
 ---
-title: "Beste Keukenweegschalen 2026: Nauwkeurig Wegen voor Bakken en Koken"
-slug: "beste-keukenweegschaal-2026"
-description: "De beste keukenweegschalen van 2026 voor precisie bij bakken, koken en porties. Vergelijking van Soehnle, Vitafit, Tefal en meer met actuele prijzen."
-category: "keuken"
+title: 'Beste Keukenweegschalen 2026: Nauwkeurig Wegen voor Bakken en Koken'
+slug: beste-keukenweegschaal-2026
+description: De beste keukenweegschalen van 2026 voor precisie bij bakken, koken en porties. Vergelijking van Soehnle, Vitafit,
+  Tefal en meer met actuele prijzen.
+category: keuken
 rating: 4.6
-priceRange: "EUR 8-60"
+priceRange: EUR 8-60
 pros:
-  - "Hoge precisie van 0.1g tot 1g voor nauwkeurige recepten en dieet."
-  - "Duurzame materialen zoals roestvrij staal en temperglas voor dagelijks gebruik."
-  - "Handige extra's zoals tarrafunctie, LED-display en meerdere maateenheden."
+- Hoge precisie van 0.1g tot 1g voor nauwkeurige recepten en dieet.
+- Duurzame materialen zoals roestvrij staal en temperglas voor dagelijks gebruik.
+- Handige extra's zoals tarrafunctie, LED-display en meerdere maateenheden.
 cons:
-  - "Goedkope modellen kunnen minder nauwkeurig zijn bij herhaald gebruik."
-  - "Sommige weegschalen zijn gevoelig voor vocht of vereisen regelmatige batterijvervanging."
-  - "Premium modellen met extra functies zoals app-connectiviteit zijn duurder."
+- Goedkope modellen kunnen minder nauwkeurig zijn bij herhaald gebruik.
+- Sommige weegschalen zijn gevoelig voor vocht of vereisen regelmatige batterijvervanging.
+- Premium modellen met extra functies zoals app-connectiviteit zijn duurder.
 affiliateLinks:
-  - "https://www.amazon.nl/s?k=Vitafit+15kg+Keukenweegschaal&tag=kieskeukennl-21"
-  - "https://www.amazon.nl/s?k=Soehnle+Page+Profi&tag=kieskeukennl-21"
-  - "https://www.amazon.nl/s?k=Tefal+Optiss+BC50D2V0&tag=kieskeukennl-21"
-  - "https://www.amazon.nl/s?k=Amazon+Basics+Digital+Kitchen+Scale&tag=kieskeukennl-21"
-  - "https://www.amazon.nl/s?k=KitchenAid+Digital+Kitchen+Scale&tag=kieskeukennl-21"
+- https://www.amazon.nl/s?k=Vitafit+15kg+Keukenweegschaal&tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=Soehnle+Page+Profi&tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=Tefal+Optiss+BC50D2V0&tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=Amazon+Basics+Digital+Kitchen+Scale&tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=KitchenAid+Digital+Kitchen+Scale&tag=kieskeukennl-21
 date: 2026-05-22
 modelYear: 2026
-featuredProduct: "Soehnle Page Profi"
-readingTime: "7 min"
+featuredProduct: Soehnle Page Profi
+readingTime: 7 min
 products:
-  - name: "Soehnle Page Profi"
-    verdict: "De beste overall keukenweegschaal voor precisie en duurzaamheid in 2026."
-    priceRange: "EUR 27-35"
-    bestFor: "Serieuze bakkers en koks die dagelijkse precisie en een groot weegoppervlak nodig hebben."
-    rating: 4.7
-    affiliateLink: "https://www.amazon.nl/s?k=Soehnle+Page+Profi&tag=kieskeukennl-21"
-  - name: "Vitafit 15kg Keukenweegschaal"
-    verdict: "Uitstekende prijs-kwaliteitverhouding met hoge nauwkeurigheid en groot display."
-    priceRange: "EUR 10-13"
-    bestFor: "Budgetbewuste gebruikers die een betrouwbare weegschaal willen voor dagelijks gebruik."
-    rating: 4.6
-    affiliateLink: "https://www.amazon.nl/s?k=Vitafit+15kg+Keukenweegschaal&tag=kieskeukennl-21"
-  - name: "Tefal Optiss BC50D2V0"
-    verdict: "Stijlvol en praktisch model met verlichte display en krasbestendig oppervlak."
-    priceRange: "EUR 24-28"
-    bestFor: "Gebruikers die waarde hechten aan design en gebruiksgemak in de keuken."
-    rating: 4.5
-    affiliateLink: "https://www.amazon.nl/s?k=Tefal+Optiss+BC50D2V0&tag=kieskeukennl-21"
-  - name: "Amazon Basics Digital Kitchen Scale"
-    verdict: "Solide basisweegschaal met roestvrijstalen platform en betrouwbare prestaties."
-    priceRange: "EUR 12-15"
-    bestFor: "Beginners en huishoudens die een eenvoudige, betaalbare weegschaal zoeken."
-    rating: 4.4
-    affiliateLink: "https://www.amazon.nl/s?k=Amazon+Basics+Digital+Kitchen+Scale&tag=kieskeukennl-21"
-  - name: "KitchenAid Digital Kitchen Scale"
-    verdict: "Premium model met glasoppervlak en dubbele weegcapaciteit voor droog en vloeibaar."
-    priceRange: "EUR 32-52"
-    bestFor: "Designliefhebbers en bakkers die een stijlvolle en veelzijdige weegschaal willen."
-    rating: 4.6
-    affiliateLink: "https://www.amazon.nl/s?k=KitchenAid+Digital+Kitchen+Scale&tag=kieskeukennl-21"
+- name: Soehnle Page Profi
+  verdict: De beste overall keukenweegschaal voor precisie en duurzaamheid in 2026.
+  priceRange: EUR 27-35
+  bestFor: Serieuze bakkers en koks die dagelijkse precisie en een groot weegoppervlak nodig hebben.
+  rating: 4.7
+  affiliateLink: https://www.amazon.nl/s?k=Soehnle+Page+Profi&tag=kieskeukennl-21
+- name: Vitafit 15kg Keukenweegschaal
+  verdict: Uitstekende prijs-kwaliteitverhouding met hoge nauwkeurigheid en groot display.
+  priceRange: EUR 10-13
+  bestFor: Budgetbewuste gebruikers die een betrouwbare weegschaal willen voor dagelijks gebruik.
+  rating: 4.6
+  affiliateLink: https://www.amazon.nl/s?k=Vitafit+15kg+Keukenweegschaal&tag=kieskeukennl-21
+- name: Tefal Optiss BC50D2V0
+  verdict: Stijlvol en praktisch model met verlichte display en krasbestendig oppervlak.
+  priceRange: EUR 24-28
+  bestFor: Gebruikers die waarde hechten aan design en gebruiksgemak in de keuken.
+  rating: 4.5
+  affiliateLink: https://www.amazon.nl/s?k=Tefal+Optiss+BC50D2V0&tag=kieskeukennl-21
+- name: Amazon Basics Digital Kitchen Scale
+  verdict: Solide basisweegschaal met roestvrijstalen platform en betrouwbare prestaties.
+  priceRange: EUR 12-15
+  bestFor: Beginners en huishoudens die een eenvoudige, betaalbare weegschaal zoeken.
+  rating: 4.4
+  affiliateLink: https://www.amazon.nl/s?k=Amazon+Basics+Digital+Kitchen+Scale&tag=kieskeukennl-21
+- name: KitchenAid Digital Kitchen Scale
+  verdict: Premium model met glasoppervlak en dubbele weegcapaciteit voor droog en vloeibaar.
+  priceRange: EUR 32-52
+  bestFor: Designliefhebbers en bakkers die een stijlvolle en veelzijdige weegschaal willen.
+  rating: 4.6
+  affiliateLink: https://www.amazon.nl/s?k=KitchenAid+Digital+Kitchen+Scale&tag=kieskeukennl-21
 related:
-  - beste-airfryer-met-twee-manden-2026
-  - beste-inductiekookplaat-2026
-  - beste-airfryer-2026
+- beste-airfryer-met-twee-manden-2026
+- beste-inductiekookplaat-2026
+- beste-airfryer-2026
+- beste-keukenmachine-2026
+- beste-staafmixer-2026
+- beste-citruspers-2026
 draft: false
 ---
 

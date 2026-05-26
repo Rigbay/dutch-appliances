@@ -1,66 +1,69 @@
 ---
-title: "beste heggenscharen van 2026"
-slug: "beste-heggenschaar-2026"
-description: "Vergelijk de beste heggenscharen van 2026 voor Nederlandse tuinen. Reviews van Bosch, STIHL en Ryobi met focus op snijcapaciteit, ergonomie, accu en steelmodellen."
-category: "tuin"
+title: beste heggenscharen van 2026
+slug: beste-heggenschaar-2026
+description: Vergelijk de beste heggenscharen van 2026 voor Nederlandse tuinen. Reviews van Bosch, STIHL en Ryobi met focus
+  op snijcapaciteit, ergonomie, accu en steelmodellen.
+category: tuin
 rating: 4.0
-priceRange: "€30 - €500+"
+priceRange: €30 - €500+
 pros:
-  - "Krachtige 600W motor snijdt takken tot 30mm moeiteloos"
-  - "Ergonomisch ontwerp met goede balans voor langdurig gebruik"
-  - "Anti-blokkeersysteem en trillingsdemping voor comfort"
+- Krachtige 600W motor snijdt takken tot 30mm moeiteloos
+- Ergonomisch ontwerp met goede balans voor langdurig gebruik
+- Anti-blokkeersysteem en trillingsdemping voor comfort
 cons:
-  - "Elektrische modellen beperkt door kabellengte of verlengsnoer"
-  - "Accu-modellen hebben beperkte looptijd voor grote tuinen"
-  - "Premium steel- en accu-modellen zijn prijziger"
+- Elektrische modellen beperkt door kabellengte of verlengsnoer
+- Accu-modellen hebben beperkte looptijd voor grote tuinen
+- Premium steel- en accu-modellen zijn prijziger
 affiliateLinks:
-  - "https://www.amazon.nl/dp/B0CH7WGF9S?tag=kieskeukennl-21"
+- https://www.amazon.nl/dp/B0CH7WGF9S?tag=kieskeukennl-21
 date: 2026-05-14
 modelYear: 2026
-featuredProduct: ""
-readingTime: "10 min"
+featuredProduct: ''
+readingTime: 10 min
 products:
-  - name: "Bosch UniversalHedgeCut 60"
-    verdict: "Middelgrote tot grote tuinen, diverse heggen"
-    priceRange: "€129,99"
-    bestFor: "Middelgrote tot grote tuinen, diverse heggen"
-    rating: 4.2
-    affiliateLink: "https://www.amazon.nl/dp/B0CH7WGF9S?tag=kieskeukennl-21"
-  - name: "STIHL HLA 65 (steelheggenschaar)"
-    verdict: "Hoge heggen, bereik, comfort"
-    priceRange: "€399,00*"
-    bestFor: "Hoge heggen, bereik, comfort"
-    rating: 4.8
-    affiliateLink: "https://www.amazon.nl/dp/B0CH7WGF9S?tag=kieskeukennl-21"
-  - name: "Ryobi RHT5355RG"
-    verdict: "Kleine tuinen, budgetbewust"
-    priceRange: "€79,99"
-    bestFor: "Kleine tuinen, budgetbewust"
-    rating: 3.8
-    affiliateLink: "https://www.amazon.nl/dp/B0CH7WGF9S?tag=kieskeukennl-21"
-  - name: "Gardena EasyCut 450/50"
-    verdict: "Precisiewerk, kleine/fijne heggen"
-    priceRange: "€89,95"
-    bestFor: "Precisiewerk, kleine/fijne heggen"
-    rating: 4.0
-    affiliateLink: "https://www.amazon.nl/dp/B0CH7WGF9S?tag=kieskeukennl-21"
-  - name: "Makita DUH602Z (solo)"
-    verdict: "Accuvrijheid, middelgrote tuinen"
-    priceRange: "€199,00*"
-    bestFor: "Accuvrijheid, middelgrote tuinen"
-    rating: 4.4
-    affiliateLink: "https://www.amazon.nl/dp/B0CH7WGF9S?tag=kieskeukennl-21"
-  - name: "Black+Decker GT5000-QS"
-    verdict: "Zeer kleine tuinen, instapmodel"
-    priceRange: "€64,99"
-    bestFor: "Zeer kleine tuinen, instapmodel"
-    rating: 3.5
-    affiliateLink: "https://www.amazon.nl/dp/B0CH7WGF9S?tag=kieskeukennl-21"
-
+- name: Bosch UniversalHedgeCut 60
+  verdict: Middelgrote tot grote tuinen, diverse heggen
+  priceRange: €129,99
+  bestFor: Middelgrote tot grote tuinen, diverse heggen
+  rating: 4.2
+  affiliateLink: https://www.amazon.nl/dp/B0CH7WGF9S?tag=kieskeukennl-21
+- name: STIHL HLA 65 (steelheggenschaar)
+  verdict: Hoge heggen, bereik, comfort
+  priceRange: €399,00*
+  bestFor: Hoge heggen, bereik, comfort
+  rating: 4.8
+  affiliateLink: https://www.amazon.nl/dp/B0CH7WGF9S?tag=kieskeukennl-21
+- name: Ryobi RHT5355RG
+  verdict: Kleine tuinen, budgetbewust
+  priceRange: €79,99
+  bestFor: Kleine tuinen, budgetbewust
+  rating: 3.8
+  affiliateLink: https://www.amazon.nl/dp/B0CH7WGF9S?tag=kieskeukennl-21
+- name: Gardena EasyCut 450/50
+  verdict: Precisiewerk, kleine/fijne heggen
+  priceRange: €89,95
+  bestFor: Precisiewerk, kleine/fijne heggen
+  rating: 4.0
+  affiliateLink: https://www.amazon.nl/dp/B0CH7WGF9S?tag=kieskeukennl-21
+- name: Makita DUH602Z (solo)
+  verdict: Accuvrijheid, middelgrote tuinen
+  priceRange: €199,00*
+  bestFor: Accuvrijheid, middelgrote tuinen
+  rating: 4.4
+  affiliateLink: https://www.amazon.nl/dp/B0CH7WGF9S?tag=kieskeukennl-21
+- name: Black+Decker GT5000-QS
+  verdict: Zeer kleine tuinen, instapmodel
+  priceRange: €64,99
+  bestFor: Zeer kleine tuinen, instapmodel
+  rating: 3.5
+  affiliateLink: https://www.amazon.nl/dp/B0CH7WGF9S?tag=kieskeukennl-21
 related:
-  - beste-tuinverwarming-2026
-  - beste-hogedrukreiniger-2026
-  - beste-bosmaaier-2026
+- beste-tuinverwarming-2026
+- beste-hogedrukreiniger-2026
+- beste-bosmaaier-2026
+- beste-kettingzaag-2026
+- beste-snoeischaar-2026
+- beste-tuingereedschap-set-2026
 ---
 
 
