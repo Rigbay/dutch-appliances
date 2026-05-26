@@ -26,31 +26,31 @@ products:
   priceRange: EUR 150-180
   bestFor: Thuisgebruik, veelzijdigheid
   rating: 4.5
-  affiliateLink: https://partner.bol.com/
+  affiliateLink: https://www.amazon.nl/dp/B0020P15BQ?tag=kieskeukennl-21
 - name: Sage/Breville Dose Control Pro
   verdict: Beste prijs-kwaliteit met digitale timer
   priceRange: EUR 120-150
   bestFor: Espresso-fijnslijpers
   rating: 4.3
-  affiliateLink: https://partner.bol.com/
+  affiliateLink: https://www.amazon.nl/dp/B0020P15BQ?tag=kieskeukennl-21
 - name: Solis Scala Plus
   verdict: Beste instapmodel met maalschijven
   priceRange: EUR 80-110
   bestFor: Beginners die vers gemalen bonen willen
   rating: 4.1
-  affiliateLink: https://partner.bol.com/
+  affiliateLink: https://www.amazon.nl/dp/B0020P15BQ?tag=kieskeukennl-21
 - name: Hario Skerton Pro
   verdict: Beste handmatige koffiemolen
   priceRange: EUR 45-60
   bestFor: Langzaam genieten en precisie
   rating: 4.0
-  affiliateLink: https://partner.bol.com/
+  affiliateLink: https://www.amazon.nl/dp/B0020P15BQ?tag=kieskeukennl-21
 - name: Eureka Mignon Specialita
   verdict: Beste high-end voor thuis-espresso
   priceRange: EUR 400-500
   bestFor: Echte espresso-liefhebbers
   rating: 4.7
-  affiliateLink: https://partner.bol.com/
+  affiliateLink: https://www.amazon.nl/dp/B0020P15BQ?tag=kieskeukennl-21
 related:
   - beste-inductiekookplaat-2026
   - beste-airfryer-2026

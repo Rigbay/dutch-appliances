@@ -35,7 +35,7 @@ products:
   priceRange: EUR 80-120
   bestFor: Dagelijks gebruik en soep/smoothies
   rating: 4.5
-  affiliateLink: https://partner.bol.com/click/click?p=2&t=url&s=1520310&f=TXL&url=https%3A%2F%2Fpartner.bol.com%2Fnl%2Fnl%2Fp%2Fphilips-promix-hr2652-90-staafmixer-met-turbo-knop%2F9200000090789883%2F
+  affiliateLink: https://www.amazon.nl/dp/B07VV4NZW5?tag=kieskeukennl-21
 - name: Bosch ErgoMixx MSM67170
   verdict: Solide performer met een comfortabele grip en goede prijs-kwaliteitverhouding.
   priceRange: EUR 60-90
@@ -55,7 +55,7 @@ products:
   priceRange: EUR 100-150
   bestFor: Designbewuste thuiskoks en fruitige smoothies
   rating: 4.3
-  affiliateLink: https://partner.bol.com/click/click?p=2&t=url&s=1520310&f=TXL&url=https%3A%2F%2Fpartner.bol.com%2Fnl%2Fnl%2Fp%2Fkitchenaid-5khbs1206-staafmixer-zwart%2F9200000125134537%2F
+  affiliateLink: https://www.amazon.nl/dp/B06XDPNQ1R?tag=kieskeukennl-21
 related:
   - beste-airfryer-met-twee-manden-2026
   - beste-inductiekookplaat-2026

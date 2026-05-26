@@ -29,7 +29,7 @@ products:
   priceRange: EUR 250-350
   bestFor: Huishoudens die frequent en efficiënt willen strijken met een hoge mate van gebruiksgemak.
   rating: 4.8
-  affiliateLink: https://partner.bol.com/nl/product/philips-perfectcare-7000-series-psg7150-80-stoomgenerator/9300000150878874
+  affiliateLink: https://www.amazon.nl/dp/B07VV4NZW5?tag=kieskeukennl-21
 - name: Tefal Pro Express Protect GV9220
   verdict: De Tefal Pro Express Protect GV9220 blinkt uit in duurzaamheid en bescherming van delicate stoffen.
   priceRange: EUR 180-280

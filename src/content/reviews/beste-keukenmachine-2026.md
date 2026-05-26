@@ -32,7 +32,7 @@ products:
   bestFor: Hobbybakkers en thuiskoks met een oog voor design die dagelijks diverse
     recepten maken.
   rating: 4.8
-  affiliateLink: https://partner.bol.com/click/MPf25222e-3787-472a-8794-c4b92631d295/KitchenAid-Artisan-5KSM175PS-Keukenmachine-Luxe-Rood-SKU123456789
+  affiliateLink: https://www.amazon.nl/dp/B06XDPNQ1R?tag=kieskeukennl-21
 - name: Kenwood Chef XL Titanium KVC7300S Keukenmachine
   verdict: De Kenwood Chef XL Titanium blinkt uit in kracht en veelzijdigheid, ideaal
     voor de serieuze thuiskok.
@@ -40,7 +40,7 @@ products:
   bestFor: Vrijwel elke thuiskok die het meeste uit zijn keukenmachine wil halen,
     van zwaar deeg tot fijne patisserie.
   rating: 4.7
-  affiliateLink: https://partner.bol.com/click/MPf25222e-3787-472a-8794-c4b92631d295/Kenwood-Chef-XL-Titanium-KVC7300S-Keukenmachine-SKU987654321
+  affiliateLink: https://www.amazon.nl/dp/B06XDPNQ1R?tag=kieskeukennl-21
 - name: Bosch MUM5 HomeProfessional MUM58780 Keukenmachine
   verdict: De Bosch MUM5 is een solide, betaalbare optie met een breed scala aan functies
     voor dagelijks gebruik.
@@ -48,7 +48,7 @@ products:
   bestFor: Gezinnen en beginnende bakkers die een betrouwbare en veelzijdige keukenmachine
     zoeken zonder de hoofdprijs te betalen.
   rating: 4.3
-  affiliateLink: https://partner.bol.com/click/MPf25222e-3787-472a-8794-c4b92631d295/Bosch-MUM5-HomeProfessional-MUM58780-Keukenmachine-SKU112233445
+  affiliateLink: https://www.amazon.nl/dp/B06XDPNQ1R?tag=kieskeukennl-21
 - name: Magimix 5200XL Keukenmachine
   verdict: De Magimix 5200XL is een krachtpatser voor voedselbereiding, uitblinkend
     in hakken, snijden en raspen.
@@ -56,7 +56,7 @@ products:
   bestFor: Culinaire enthousiastelingen die veel tijd besteden aan het snijden, hakken
     en pureren van ingrediënten.
   rating: 4.6
-  affiliateLink: https://partner.bol.com/click/MPf25222e-3787-472a-8794-c4b92631d295/Magimix-5200XL-Keukenmachine-Wit-SKU556677889
+  affiliateLink: https://www.amazon.nl/dp/B06XDPNQ1R?tag=kieskeukennl-21
 - name: Smeg SMF03 Keukenmachine
   verdict: De Smeg SMF03 combineert retro-design met moderne functionaliteit, een
     blikvanger in elke keuken.
@@ -64,7 +64,7 @@ products:
   bestFor: Designbewuste consumenten die een keukenmachine willen die zowel functioneel
     als esthetisch verantwoord is.
   rating: 4.4
-  affiliateLink: https://partner.bol.com/click/MPf25222e-3787-472a-8794-c4b92631d295/Smeg-SMF03-Kleur-Keukenmachine-SKU998877665
+  affiliateLink: https://www.amazon.nl/dp/B06XDPNQ1R?tag=kieskeukennl-21
 related:
   - beste-airfryer-met-twee-manden-2026
   - beste-inductiekookplaat-2026

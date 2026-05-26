@@ -31,28 +31,28 @@ products:
   priceRange: EUR 1200-1600
   bestFor: Huishoudens die investeren in kwaliteit en lange levensduur.
   rating: 4.8
-  affiliateLink: https://www.koelkasten.nl/liebherr-cbn-es-3913-plus.html
+  affiliateLink: https://www.amazon.nl/dp/B0020P15BQ?tag=kieskeukennl-21
 - name: Samsung RB38T775DB1 Koelvriescombinatie
   verdict: Deze Samsung koelvriescombinatie biedt een uitstekende prijs-kwaliteitverhouding
     met slimme functies en een stijlvol design.
   priceRange: EUR 800-1100
   bestFor: Moderne huishoudens die waarde hechten aan technologie en design.
   rating: 4.5
-  affiliateLink: https://partner.bol.com/click/click?p=2&t=url&s=1520310&f=TXL&url=https%3A%2F%2Fpartner.bol.com%2Fnl%2Fnl%2Fp%2Fsamsung-rb38t775db1-koelvriescombinatie%2F9300000016402800%2F
+  affiliateLink: https://www.amazon.nl/dp/B08CKZFR8N?tag=kieskeukennl-21
 - name: Bosch Serie 6 KGN39VXEP Koelvriescombinatie
   verdict: De Bosch Serie 6 staat bekend om zijn efficiëntie en stille werking, een
     solide keuze voor praktisch elk huishouden.
   priceRange: EUR 700-950
   bestFor: Consumenten die een betrouwbare, energiezuinige en stille koelkast zoeken.
   rating: 4.6
-  affiliateLink: https://www.coolblue.nl/product/854782/bosch-serie-6-kgn39vxep.html
+  affiliateLink: https://www.amazon.nl/dp/B08CKZFR8N?tag=kieskeukennl-21
 - name: Siemens iQ500 KG39NLIDP Koelvriescombinatie
   verdict: Siemens iQ500 biedt geavanceerde koeltechnologie en een strak design, perfect
     voor wie op zoek is naar premium functies.
   priceRange: EUR 900-1300
   bestFor: Technologie-liefhebbers en designbewuste consumenten.
   rating: 4.7
-  affiliateLink: https://www.mediamarkt.nl/nl/product/_siemens-iq500-kg39nlidp-1852274.html
+  affiliateLink: https://www.amazon.nl/dp/B08CKZFR8N?tag=kieskeukennl-21
 - name: LG InstaView GC-X257QBSU Amerikaanse Koelkast
   verdict: Voor wie ruimte en innovatie zoekt, is de LG InstaView een opvallende verschijning
     met unieke, gebruiksvriendelijke functies.

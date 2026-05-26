@@ -28,31 +28,31 @@ products:
   priceRange: EUR 60-90
   bestFor: Snelle ochtendsappen zonder gedoe
   rating: 4.2
-  affiliateLink: https://partner.bol.com/
+  affiliateLink: https://www.amazon.nl/dp/B07VV4NZW5?tag=kieskeukennl-21
 - name: Kuvings REVO830 Slowjuicer
   verdict: Beste slowjuicer voor maximale sapopbrengst
   priceRange: EUR 400-500
   bestFor: Gezondheidsliefhebbers die alles uit fruit en groente willen halen
   rating: 4.6
-  affiliateLink: https://partner.bol.com/
+  affiliateLink: https://www.amazon.nl/dp/B07VV4NZW5?tag=kieskeukennl-21
 - name: Sana/Samber 727 Supreme
   verdict: Beste premium slowjuicer met brede vulopening
   priceRange: EUR 500-600
   bestFor: Grote gezinnen en dagelijkse groentesappen
   rating: 4.7
-  affiliateLink: https://partner.bol.com/
+  affiliateLink: https://www.amazon.nl/dp/B07VV4NZW5?tag=kieskeukennl-21
 - name: Tristar JU-100 sapcentrifuge
   verdict: Beste budget sapcentrifuge onder 50 euro
   priceRange: EUR 35-50
   bestFor: Sappengebruikers die willen beginnen zonder hoge investering
   rating: 3.8
-  affiliateLink: https://partner.bol.com/
+  affiliateLink: https://www.amazon.nl/dp/B07VV4NZW5?tag=kieskeukennl-21
 - name: Ninja Cold Press Pro
   verdict: Beste mid-range slowjuicer met goede prijs-kwaliteit
   priceRange: EUR 130-180
   bestFor: Wie slowjuicing wil proberen zonder direct 400+ uit te geven
   rating: 4.3
-  affiliateLink: https://partner.bol.com/
+  affiliateLink: https://www.amazon.nl/dp/B07VV4NZW5?tag=kieskeukennl-21
 related:
   - beste-airfryer-met-twee-manden-2026
   - beste-inductiekookplaat-2026

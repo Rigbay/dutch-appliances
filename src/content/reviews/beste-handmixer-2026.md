@@ -43,14 +43,14 @@ products:
   priceRange: EUR 40-60
   bestFor: Budget
   rating: 4.2
-  affiliateLink: https://www.amazon.nl/s?k=Philips+Daily+Collection+HR2530&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B07VV4NZW5?tag=kieskeukennl-21
 - name: KitchenAid Cordless Hand Mixer 5KHMB732
   verdict: Snoerloze handmixer met lithium-ion accu, iconisch KitchenAid-design en
     volledige bewegingsvrijheid in de keuken.
   priceRange: EUR 150-200
   bestFor: Snoerloos
   rating: 4.5
-  affiliateLink: https://www.amazon.nl/s?k=KitchenAid+Cordless+Hand+Mixer+5KHMB732&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B06XDPNQ1R?tag=kieskeukennl-21
 - name: Sage the Control Grip BSB510
   verdict: Ergonomische staafmixer met variabele snelheidsregeling via gripdruk, ideaal
     voor soepen, sauzen en smoothies.

@@ -42,13 +42,13 @@ products:
   priceRange: EUR 149-199
   bestFor: Budgetbewuste consumenten die een betrouwbare blender zoeken voor smoothies en lichte soepbereidingen.
   rating: 4.2
-  affiliateLink: https://partner.bol.com/succeed/product?id=9200000150115310
+  affiliateLink: https://www.amazon.nl/dp/B07VV4NZW5?tag=kieskeukennl-21
 - name: KitchenAid K400 Blender
   verdict: Een stijlvolle en degelijke blender met een uitstekende blendkwaliteit en een breed scala aan snelheden.
   priceRange: EUR 249-349
   bestFor: Liefhebbers van design en functionaliteit die een blender zoeken die er goed uitziet én presteert.
   rating: 4.4
-  affiliateLink: https://partner.bol.com/succeed/product?id=9200000168850261
+  affiliateLink: https://www.amazon.nl/dp/B06XDPNQ1R?tag=kieskeukennl-21
 - name: Tefal PerfectMix+ BL811D
   verdict: Een gebruiksvriendelijke blender met krachtige messen en handige programma's voor diverse bereidingen.
   priceRange: EUR 99-149

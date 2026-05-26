@@ -26,7 +26,7 @@ products:
   priceRange: EUR 500-700
   bestFor: Maximale zuigkracht draadloos
   rating: 4.9
-  affiliateLink: https://www.amazon.nl/s?k=Dyson+V15+Detect&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B09MJ7QL6H?tag=kieskeukennl-21
 - name: Miele Complete C3
   verdict: De gouden standaard voor traditionele stofzuigers met zak — ongekende duurzaamheid.
   priceRange: EUR 250-400
@@ -38,7 +38,7 @@ products:
   priceRange: EUR 600-800
   bestFor: Smart home & gemak
   rating: 4.7
-  affiliateLink: https://www.amazon.nl/s?k=Samsung+Bespoke+Jet+AI&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B08CKZFR8N?tag=kieskeukennl-21
 - name: Bosch Unlimited 7
   verdict: Uitstekende prijs-kwaliteit met verwisselbare batterij.
   priceRange: EUR 300-450
@@ -50,7 +50,7 @@ products:
   priceRange: EUR 350-500
   bestFor: Wendbaarheid & design
   rating: 4.6
-  affiliateLink: https://www.amazon.nl/s?k=Philips+8000+Series+steelstofzuiger&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B07VV4NZW5?tag=kieskeukennl-21
 - name: Kärcher VC 6
   verdict: Krachtige traditionele stofzuiger voor een scherpe prijs.
   priceRange: EUR 150-250

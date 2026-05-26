@@ -26,7 +26,7 @@ products:
   priceRange: EUR 500-700
   bestFor: Allround perfectie
   rating: 4.9
-  affiliateLink: https://www.amazon.nl/s?k=De%27Longhi+Dinamica+Plus&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B0020P15BQ?tag=kieskeukennl-21
 - name: Jura E8
   verdict: Zwitserse precisie en ongeëvenaarde bouwkwaliteit in een compact formaat.
   priceRange: EUR 800-1100
@@ -44,7 +44,7 @@ products:
   priceRange: EUR 400-600
   bestFor: Melkspecialiteiten
   rating: 4.7
-  affiliateLink: https://www.amazon.nl/s?k=Philips+5400+LatteGo&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B07VV4NZW5?tag=kieskeukennl-21
 - name: Sage Barista Express Impress
   verdict: Semi-automaat voor de echte koffieliefhebber die controle wil.
   priceRange: EUR 600-800

@@ -31,7 +31,7 @@ products:
   priceRange: EUR 450-550
   bestFor: Allergiepatiënten en gezinnen die een stille, efficiënte en slimme luchtreiniger zoeken voor grotere ruimtes.
   rating: 4.7
-  affiliateLink: https://partner.bol.com/nl/nl/luchtreiniger-philips-series-3000i-ac3033-10/9300000124952090/
+  affiliateLink: https://www.amazon.nl/dp/B07VV4NZW5?tag=kieskeukennl-21
 - name: Dyson Purifier Cool Formaldehyde TP09
   verdict: De Dyson TP09 blinkt uit in design en functionaliteit, met een focus op het afvangen van zowel deeltjes als schadelijke
     gassen, en dient tevens als krachtige ventilator.
@@ -39,7 +39,7 @@ products:
   bestFor: Huishoudens die een stijlvol, multifunctioneel apparaat zoeken dat zowel luchtzuivering als verkoeling biedt en
     een oog heeft voor formaldehyde.
   rating: 4.5
-  affiliateLink: https://partner.bol.com/nl/nl/dyson-purifier-cool-formaldehyde-tp09-wit/9300000167369511/
+  affiliateLink: https://www.amazon.nl/dp/B09MJ7QL6H?tag=kieskeukennl-21
 - name: AEG AX9 AX91-621BK
   verdict: De AEG AX9 is een krachtige luchtreiniger met een indrukwekkend filteringsysteem en een stijlvol, minimalistisch
     design dat in elk interieur past.
@@ -62,7 +62,7 @@ products:
   priceRange: EUR 200-275
   bestFor: Technologieliefhebbers en huishoudens die een slimme, betaalbare luchtreiniger zoeken met goede filtercapaciteit.
   rating: 4.4
-  affiliateLink: https://partner.bol.com/nl/nl/xiaomi-mi-air-purifier-4-pro-wit/9300000161435293/
+  affiliateLink: https://www.amazon.nl/dp/B09MJ7QL6H?tag=kieskeukennl-21
 related:
 - beste-wasmachine-2026
 - beste-ontvochtiger-2026
