@@ -164,3 +164,12 @@ Meer keuzehulpen in deze categorie:
 - [Schone keukenlucht voor elk huishouden](/beste-afzuigkap-2026/)
 - [De Ultieme Gids voor Soep, Smoothies en Babyvoeding](/beste-staafmixer-2026/)
 - [van crocant tot Brunch](/beste-broodrooster-2026/)
+
+## Gerelateerde artikelen
+- [De Beste Airfryers met Twee Manden](/beste-airfryer-met-twee-manden-2026/)
+- [Beste Inductiekookplaten 2026](/beste-inductiekookplaat-2026/)
+- [Beste airfryer 2026](/beste-airfryer-2026/)
+- [Beste afzuigkap 2026](/beste-afzuigkap-2026/)
+- [Beste Staafmixer 2026](/beste-staafmixer-2026/)
+- [Beste broodrooster 2026](/beste-broodrooster-2026/)
+

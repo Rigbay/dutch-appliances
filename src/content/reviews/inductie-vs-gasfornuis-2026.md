@@ -192,3 +192,12 @@ Meer keuzehulpen in deze categorie:
 - [gezond koken met stoom](/beste-stoomoven-2026/)
 - [welke heteluchtfriteuse past bij jou?](/beste-airfryer-2026/)
 - [Airfryer of oven: wat is gezonder en zuiniger?](/airfryer-vs-oven-2026/)
+
+## Gerelateerde artikelen
+- [Beste Inductiekookplaten 2026](/beste-inductiekookplaat-2026/)
+- [Beste afzuigkap 2026](/beste-afzuigkap-2026/)
+- [Beste Keukenmachines 2026](/beste-keukenmachine-2026/)
+- [Beste magnetron 2026](/beste-magnetron-2026/)
+- [Beste stoomoven 2026](/beste-stoomoven-2026/)
+- [Airfryer vs. Oven 2026](/airfryer-vs-oven-2026/)
+

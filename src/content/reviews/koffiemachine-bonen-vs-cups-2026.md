@@ -198,3 +198,12 @@ Meer keuzehulpen in deze categorie:
 - [compleet overzicht Nespresso-modellen](/beste-nespresso-apparaat-2026/)
 - [de vertrouwde Nederlandse padmachine](/beste-senseo-koffiezetapparaat-2026/)
 - [zelf malen voor maximale smaak](/beste-koffiemolen-2026/)
+
+## Gerelateerde artikelen
+- [Beste koffiemachine 2026](/beste-koffiemachine-2026/)
+- [De Beste Koffiemachines met Bonenmaler](/beste-koffiemachine-bonen-2026/)
+- [De Beste Volautomatische Koffiemachines](/beste-volautomatische-koffiemachine-2026/)
+- [beste Nespresso-apparaten van 2026](/beste-nespresso-apparaat-2026/)
+- [beste filterkoffiemachines van 2026](/beste-filterkoffiemachine-2026/)
+- [De Ultieme Koopgids](/beste-koffiemolen-2026/)
+
