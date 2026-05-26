@@ -1,59 +1,62 @@
 ---
-title: "Beste kettingzagen 2026"
-slug: "beste-kettingzaag-2026"
-description: "Ontdek de beste kettingzagen voor tuinonderhoud, snoeien en brandhout. Onze koopgids helpt je kiezen."
-category: "tuin"
+title: Beste kettingzagen 2026
+slug: beste-kettingzaag-2026
+description: Ontdek de beste kettingzagen voor tuinonderhoud, snoeien en brandhout. Onze koopgids helpt je kiezen.
+category: tuin
 rating: 4.7
-priceRange: "EUR 75-260"
+priceRange: EUR 75-260
 pros:
-  - "Krachtig en efficiënt snoeien"
-  - "Snel brandhout zagen"
-  - "Diverse modellen voor elk budget"
+- Krachtig en efficiënt snoeien
+- Snel brandhout zagen
+- Diverse modellen voor elk budget
 cons:
-  - "Veiligheid vereist aandacht"
-  - "Onderhoud is noodzakelijk"
-  - "Benzine modellen kunnen luidruchtig zijn"
+- Veiligheid vereist aandacht
+- Onderhoud is noodzakelijk
+- Benzine modellen kunnen luidruchtig zijn
 affiliateLinks:
-  - "https://partner.bol.com/placeholder"
+- https://partner.bol.com/placeholder
 date: 2026-05-20
 modelYear: 2026
-featuredProduct: "Stihl MS 180"
-readingTime: "9 min"
+featuredProduct: Stihl MS 180
+readingTime: 9 min
 products:
-  - name: "Stihl MS 180"
-    verdict: "Beste allround benzine kettingzaag"
-    priceRange: "EUR 220-260"
-    bestFor: "Middelgrote tot grote tuinen"
-    rating: 4.7
-    affiliateLink: "https://partner.bol.com/placeholder"
-  - name: "Husqvarna 120 Mark II"
-    verdict: "Premium kwaliteit voor veeleisend werk"
-    priceRange: "EUR 240-280"
-    bestFor: "Intensief gebruik en brandhout"
-    rating: 4.6
-    affiliateLink: "https://partner.bol.com/placeholder"
-  - name: "Makita UC4051A"
-    verdict: "Beste elektrische kettingzaag"
-    priceRange: "EUR 160-190"
-    bestFor: "Stille buurten en kleinere klussen"
-    rating: 4.5
-    affiliateLink: "https://partner.bol.com/placeholder"
-  - name: "Einhell GC-PC 2040"
-    verdict: "Scherp geprijsde benzine instapper"
-    priceRange: "EUR 130-160"
-    bestFor: "Budget-bewuste tuinier"
-    rating: 4.2
-    affiliateLink: "https://partner.bol.com/placeholder"
-  - name: "Black+Decker GK1000"
-    verdict: "Betaalbare elektrische instapper"
-    priceRange: "EUR 70-90"
-    bestFor: "Kleine tuinen en licht snoeiwerk"
-    rating: 4.0
-    affiliateLink: "https://partner.bol.com/placeholder"
+- name: Stihl MS 180
+  verdict: Beste allround benzine kettingzaag
+  priceRange: EUR 220-260
+  bestFor: Middelgrote tot grote tuinen
+  rating: 4.7
+  affiliateLink: https://partner.bol.com/placeholder
+- name: Husqvarna 120 Mark II
+  verdict: Premium kwaliteit voor veeleisend werk
+  priceRange: EUR 240-280
+  bestFor: Intensief gebruik en brandhout
+  rating: 4.6
+  affiliateLink: https://partner.bol.com/placeholder
+- name: Makita UC4051A
+  verdict: Beste elektrische kettingzaag
+  priceRange: EUR 160-190
+  bestFor: Stille buurten en kleinere klussen
+  rating: 4.5
+  affiliateLink: https://partner.bol.com/placeholder
+- name: Einhell GC-PC 2040
+  verdict: Scherp geprijsde benzine instapper
+  priceRange: EUR 130-160
+  bestFor: Budget-bewuste tuinier
+  rating: 4.2
+  affiliateLink: https://partner.bol.com/placeholder
+- name: Black+Decker GK1000
+  verdict: Betaalbare elektrische instapper
+  priceRange: EUR 70-90
+  bestFor: Kleine tuinen en licht snoeiwerk
+  rating: 4.0
+  affiliateLink: https://partner.bol.com/placeholder
 related:
-  - beste-heggenschaar-2026
-  - beste-tuinverwarming-2026
-  - beste-hogedrukreiniger-2026
+- beste-heggenschaar-2026
+- beste-tuinverwarming-2026
+- beste-hogedrukreiniger-2026
+- beste-bosmaaier-2026
+- beste-snoeischaar-2026
+- beste-tuingereedschap-set-2026
 ---
 
 

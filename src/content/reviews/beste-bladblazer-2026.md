@@ -1,60 +1,64 @@
 ---
-title: "Beste Bladblazer 2026: Krachtig en Stil Bladeren Opruimen — Accu, Benzine of Elektrisch"
-slug: "beste-bladblazer-2026"
-description: "Welke bladblazer blaast het hardst en is het stilste in gebruik? Vergelijk de beste bladblazers van 2026 — op accu, benzine en elektrisch."
-category: "tuin"
+title: 'Beste Bladblazer 2026: Krachtig en Stil Bladeren Opruimen — Accu, Benzine of Elektrisch'
+slug: beste-bladblazer-2026
+description: Welke bladblazer blaast het hardst en is het stilste in gebruik? Vergelijk de beste bladblazers van 2026 — op
+  accu, benzine en elektrisch.
+category: tuin
 rating: 4.5
-priceRange: "EUR 50-EUR 500"
+priceRange: EUR 50-EUR 500
 pros:
-  - "Energiezuinig en efficiënt"
-  - "Gebruiksvriendelijk ontwerp"
-  - "Goede prijs-kwaliteitverhouding"
+- Energiezuinig en efficiënt
+- Gebruiksvriendelijk ontwerp
+- Goede prijs-kwaliteitverhouding
 cons:
-  - "Hogere aanschafprijs dan instapmodellen"
-  - "Kan geluidsproductie hebben bij intensief gebruik"
-  - "Niet alle accessoires standaard meegeleverd"
+- Hogere aanschafprijs dan instapmodellen
+- Kan geluidsproductie hebben bij intensief gebruik
+- Niet alle accessoires standaard meegeleverd
 affiliateLinks:
-  - "https://www.amazon.nl/dp/B0979R365P?tag=kieskeukennl-21"
-  - "https://www.amazon.nl/dp/B0979R365P?tag=kieskeukennl-21"
+- https://www.amazon.nl/dp/B0979R365P?tag=kieskeukennl-21
+- https://www.amazon.nl/dp/B0979R365P?tag=kieskeukennl-21
 date: 2026-05-14
 modelYear: 2026
-featuredProduct: "Makita DUB362Z"
-readingTime: "9 minuten"
+featuredProduct: Makita DUB362Z
+readingTime: 9 minuten
 products:
-  - name: "Makita DUB362Z"
-    verdict: "9.0"
-    priceRange: "EUR Krachtige allrounder voor middelgrote tot grote tuinen, zwaarder werk"
-    bestFor: "€170 - €250 (body)"
-    rating: 4.5
-    affiliateLink: "https://www.amazon.nl/dp/B00XP5CKHI?tag=kieskeukennl-21"
-  - name: "Bosch ALB 36 LI"
-    verdict: "7.5"
-    priceRange: "EUR Kleine tuinen, droge bladeren, beginners, gebruikers die lichtgewicht zoeken"
-    bestFor: "€100 - €150"
-    rating: 3.8
-    affiliateLink: "https://www.amazon.nl/dp/B00XP5CKHI?tag=kieskeukennl-21"
-  - name: "Stihl BGA 86"
-    verdict: "9.5"
-    priceRange: "EUR Grote tuinen, professioneel gebruik, natte bladeren, topkwaliteit"
-    bestFor: "€300 - €450 (body)"
-    rating: 4.8
-    affiliateLink: "https://www.amazon.nl/dp/B00XP5CKHI?tag=kieskeukennl-21"
-  - name: "Husqvarna 536LiB"
-    verdict: "8.8"
-    priceRange: "EUR Middelgrote tot grote tuinen, gebruikers die merkvoorkeur hebben en goede ergonomie wensen"
-    bestFor: "€250 - €350 (body)"
-    rating: 4.4
-    affiliateLink: "https://www.amazon.nl/dp/B00XP5CKHI?tag=kieskeukennl-21"
-  - name: "Ryobi RBL36-0"
-    verdict: "7.0"
-    priceRange: "EUR Budgetbewuste tuiniers met middelgrote tuinen, incidenteel gebruik"
-    bestFor: "€120 - €180 (body)"
-    rating: 3.5
-    affiliateLink: "https://www.amazon.nl/dp/B00XP5CKHI?tag=kieskeukennl-21"
+- name: Makita DUB362Z
+  verdict: '9.0'
+  priceRange: EUR Krachtige allrounder voor middelgrote tot grote tuinen, zwaarder werk
+  bestFor: €170 - €250 (body)
+  rating: 4.5
+  affiliateLink: https://www.amazon.nl/dp/B00XP5CKHI?tag=kieskeukennl-21
+- name: Bosch ALB 36 LI
+  verdict: '7.5'
+  priceRange: EUR Kleine tuinen, droge bladeren, beginners, gebruikers die lichtgewicht zoeken
+  bestFor: €100 - €150
+  rating: 3.8
+  affiliateLink: https://www.amazon.nl/dp/B00XP5CKHI?tag=kieskeukennl-21
+- name: Stihl BGA 86
+  verdict: '9.5'
+  priceRange: EUR Grote tuinen, professioneel gebruik, natte bladeren, topkwaliteit
+  bestFor: €300 - €450 (body)
+  rating: 4.8
+  affiliateLink: https://www.amazon.nl/dp/B00XP5CKHI?tag=kieskeukennl-21
+- name: Husqvarna 536LiB
+  verdict: '8.8'
+  priceRange: EUR Middelgrote tot grote tuinen, gebruikers die merkvoorkeur hebben en goede ergonomie wensen
+  bestFor: €250 - €350 (body)
+  rating: 4.4
+  affiliateLink: https://www.amazon.nl/dp/B00XP5CKHI?tag=kieskeukennl-21
+- name: Ryobi RBL36-0
+  verdict: '7.0'
+  priceRange: EUR Budgetbewuste tuiniers met middelgrote tuinen, incidenteel gebruik
+  bestFor: €120 - €180 (body)
+  rating: 3.5
+  affiliateLink: https://www.amazon.nl/dp/B00XP5CKHI?tag=kieskeukennl-21
 related:
-  - beste-heggenschaar-2026
-  - beste-tuinverwarming-2026
-  - beste-hogedrukreiniger-2026
+- beste-heggenschaar-2026
+- beste-tuinverwarming-2026
+- beste-hogedrukreiniger-2026
+- beste-grasmaaier-2026
+- beste-bosmaaier-2026
+- beste-tuingereedschap-set-2026
 draft: false
 ---
 

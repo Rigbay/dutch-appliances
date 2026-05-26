@@ -1,60 +1,64 @@
 ---
 title: 'Beste Tuinverlichting 2026: Verlicht je Gazon en Terras met Stijl en Efficiëntie'
-slug: 'beste-tuinverlichting-2026'
-description: 'Beste tuinverlichting 2026: vergelijk solar, LED spots en sfeerlampen. Complete gids voor Nederlandse tuinen. Duurzaam en energiezuinig.'
-category: 'tuin'
+slug: beste-tuinverlichting-2026
+description: 'Beste tuinverlichting 2026: vergelijk solar, LED spots en sfeerlampen. Complete gids voor Nederlandse tuinen.
+  Duurzaam en energiezuinig.'
+category: tuin
 rating: 4.7
-priceRange: 'EUR 30-350'
+priceRange: EUR 30-350
 pros:
-  - Energiezuinige en duurzame verlichting
-  - Creëert sfeer en verhoogt veiligheid in de tuin
-  - Diverse stijlen voor elke tuin en elk budget
-  - Eenvoudige installatie, vooral met solar opties
+- Energiezuinige en duurzame verlichting
+- Creëert sfeer en verhoogt veiligheid in de tuin
+- Diverse stijlen voor elke tuin en elk budget
+- Eenvoudige installatie, vooral met solar opties
 cons:
-  - Initiële investering kan hoog zijn voor geavanceerde systemen
-  - Solar verlichting afhankelijk van zonlichtintensiteit
-  - Bedrade systemen vereisen soms professionele installatie
+- Initiële investering kan hoog zijn voor geavanceerde systemen
+- Solar verlichting afhankelijk van zonlichtintensiteit
+- Bedrade systemen vereisen soms professionele installatie
 affiliateLinks:
-  - 'https://www.amazon.nl/s?k=beste+tuinverlichting+2026&tag=kieskeukennl-21'
+- https://www.amazon.nl/s?k=beste+tuinverlichting+2026&tag=kieskeukennl-21
 date: 2026-05-21
 modelYear: 2026
-featuredProduct: 'Philips Hue Outdoor White & Color Ambiance Lily XL Startpakket'
-readingTime: '9 min'
+featuredProduct: Philips Hue Outdoor White & Color Ambiance Lily XL Startpakket
+readingTime: 9 min
 products:
-  - name: 'Philips Hue Outdoor White & Color Ambiance Lily XL Startpakket'
-    verdict: 'Het ultieme slimme verlichtingssysteem voor ongeëvenaarde sfeer en functionaliteit.'
-    priceRange: 'EUR 329'
-    bestFor: 'Technologieliefhebbers die ultieme controle en dynamische sfeer zoeken.'
-    rating: 4.8
-    affiliateLink: 'https://www.amazon.nl/s?k=Philips+Hue+Outdoor+White+Color+Ambiance+Lily+XL+Startpakket+beste+tuinverlichting&tag=kieskeukennl-21'
-  - name: "Luxform Solarlamp 'Riva' Grondspot Set (4 stuks)"
-    verdict: 'Uitstekende prijs-kwaliteitverhouding voor stijlvolle en onderhoudsvrije solar accentverlichting.'
-    priceRange: 'EUR 74'
-    bestFor: 'Huiseigenaren die gemak, esthetiek en energiebesparing willen combineren.'
-    rating: 4.6
-    affiliateLink: 'https://www.amazon.nl/s?k=Luxform+Solarlamp+Riva+Grondspot+Set+beste+tuinverlichting&tag=kieskeukennl-21'
-  - name: 'Ledvance Solar LED Grondspot Set (4 stuks)'
-    verdict: 'Betrouwbare en budgetvriendelijke solar grondspots voor basispadverlichting en accenten.'
-    priceRange: 'EUR 38'
-    bestFor: 'Prijsbewuste kopers die een functionele en eenvoudige solar oplossing zoeken.'
-    rating: 4.3
-    affiliateLink: 'https://www.amazon.nl/s?k=Ledvance+Solar+LED+Grondspot+Set+beste+tuinverlichting&tag=kieskeukennl-21'
-  - name: 'Steinel XSolar L-S LED Buitenlamp met Bewegingssensor'
-    verdict: 'Krachtige, energieonafhankelijke beveiligingsverlichting met precieze bewegingsdetectie.'
-    priceRange: 'EUR 119'
-    bestFor: 'Iedereen die een duurzame, effectieve en onderhoudsvrije beveiligingslamp zoekt.'
-    rating: 4.7
-    affiliateLink: 'https://www.amazon.nl/s?k=Steinel+XSolar+L-S+LED+Buitenlamp+met+Bewegingssensor+beste+tuinverlichting&tag=kieskeukennl-21'
-  - name: 'Smartwares Solar LED Lichtsnoer Vintage (10 lampen)'
-    verdict: 'Creëer moeiteloos een gezellige en sfeervolle ambiance op je terras of balkon.'
-    priceRange: 'EUR 49'
-    bestFor: 'Liefhebbers van een nostalgische en warme sfeer zonder gedoe met kabels.'
-    rating: 4.5
-    affiliateLink: 'https://www.amazon.nl/s?k=Smartwares+Solar+LED+Lichtsnoer+Vintage+beste+tuinverlichting&tag=kieskeukennl-21'
+- name: Philips Hue Outdoor White & Color Ambiance Lily XL Startpakket
+  verdict: Het ultieme slimme verlichtingssysteem voor ongeëvenaarde sfeer en functionaliteit.
+  priceRange: EUR 329
+  bestFor: Technologieliefhebbers die ultieme controle en dynamische sfeer zoeken.
+  rating: 4.8
+  affiliateLink: https://www.amazon.nl/s?k=Philips+Hue+Outdoor+White+Color+Ambiance+Lily+XL+Startpakket+beste+tuinverlichting&tag=kieskeukennl-21
+- name: Luxform Solarlamp 'Riva' Grondspot Set (4 stuks)
+  verdict: Uitstekende prijs-kwaliteitverhouding voor stijlvolle en onderhoudsvrije solar accentverlichting.
+  priceRange: EUR 74
+  bestFor: Huiseigenaren die gemak, esthetiek en energiebesparing willen combineren.
+  rating: 4.6
+  affiliateLink: https://www.amazon.nl/s?k=Luxform+Solarlamp+Riva+Grondspot+Set+beste+tuinverlichting&tag=kieskeukennl-21
+- name: Ledvance Solar LED Grondspot Set (4 stuks)
+  verdict: Betrouwbare en budgetvriendelijke solar grondspots voor basispadverlichting en accenten.
+  priceRange: EUR 38
+  bestFor: Prijsbewuste kopers die een functionele en eenvoudige solar oplossing zoeken.
+  rating: 4.3
+  affiliateLink: https://www.amazon.nl/s?k=Ledvance+Solar+LED+Grondspot+Set+beste+tuinverlichting&tag=kieskeukennl-21
+- name: Steinel XSolar L-S LED Buitenlamp met Bewegingssensor
+  verdict: Krachtige, energieonafhankelijke beveiligingsverlichting met precieze bewegingsdetectie.
+  priceRange: EUR 119
+  bestFor: Iedereen die een duurzame, effectieve en onderhoudsvrije beveiligingslamp zoekt.
+  rating: 4.7
+  affiliateLink: https://www.amazon.nl/s?k=Steinel+XSolar+L-S+LED+Buitenlamp+met+Bewegingssensor+beste+tuinverlichting&tag=kieskeukennl-21
+- name: Smartwares Solar LED Lichtsnoer Vintage (10 lampen)
+  verdict: Creëer moeiteloos een gezellige en sfeervolle ambiance op je terras of balkon.
+  priceRange: EUR 49
+  bestFor: Liefhebbers van een nostalgische en warme sfeer zonder gedoe met kabels.
+  rating: 4.5
+  affiliateLink: https://www.amazon.nl/s?k=Smartwares+Solar+LED+Lichtsnoer+Vintage+beste+tuinverlichting&tag=kieskeukennl-21
 related:
-  - beste-heggenschaar-2026
-  - beste-tuinverwarming-2026
-  - beste-hogedrukreiniger-2026
+- beste-heggenschaar-2026
+- beste-tuinverwarming-2026
+- beste-hogedrukreiniger-2026
+- beste-tuinsproeier-2026
+- beste-tuinslang-2026
+- beste-barbecue-2026
 draft: false
 ---
 

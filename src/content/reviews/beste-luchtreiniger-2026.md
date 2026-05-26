@@ -1,63 +1,75 @@
 ---
-title: "Beste Luchtreinigers 2026: Verkoeling en Zuivere Lucht tegen Fijnstof, Pollen en Allergieën"
-slug: "beste-luchtreiniger-2026"
-description: "Luchtreinigers 2026: Ontdek de beste modellen tegen fijnstof, pollen en allergieën. Ideaal voor hooikoorts en huisdieren."
-category: "huishoudelijk"
+title: 'Beste Luchtreinigers 2026: Verkoeling en Zuivere Lucht tegen Fijnstof, Pollen en Allergieën'
+slug: beste-luchtreiniger-2026
+description: 'Luchtreinigers 2026: Ontdek de beste modellen tegen fijnstof, pollen en allergieën. Ideaal voor hooikoorts en
+  huisdieren.'
+category: huishoudelijk
 rating: 4.7
-priceRange: "EUR 150-700"
+priceRange: EUR 150-700
 pros:
-  - "Verbeterde luchtkwaliteit voor een gezonder binnenklimaat"
-  - "Vermindering van allergieklachten en symptomen van hooikoorts"
-  - "Effectieve verwijdering van huisdierenharen, geurtjes en fijnstof"
+- Verbeterde luchtkwaliteit voor een gezonder binnenklimaat
+- Vermindering van allergieklachten en symptomen van hooikoorts
+- Effectieve verwijdering van huisdierenharen, geurtjes en fijnstof
 cons:
-  - "Regelmatige vervanging van filters noodzakelijk, wat kosten met zich meebrengt"
-  - "Sommige modellen kunnen hoorbaar zijn, zeker op hogere standen"
-  - "De effectiviteit hangt sterk af van de ruimte en de juiste plaatsing"
+- Regelmatige vervanging van filters noodzakelijk, wat kosten met zich meebrengt
+- Sommige modellen kunnen hoorbaar zijn, zeker op hogere standen
+- De effectiviteit hangt sterk af van de ruimte en de juiste plaatsing
 affiliateLinks:
-  - "https://partner.bol.com/nl/nl/luchtreiniger-philips-series-3000i-ac3033-10/9300000124952090/"
-  - "https://partner.bol.com/nl/nl/dyson-purifier-cool-formaldehyde-tp09-wit/9300000167369511/"
-  - "https://partner.bol.com/nl/nl/aeg-luchtreiniger-ax9-ax91-621bk/9300000148511906/"
-  - "https://partner.bol.com/nl/nl/blueair-luchtreiniger-blue-3210-zwart/9300000145997866/"
-  - "https://partner.bol.com/nl/nl/xiaomi-mi-air-purifier-4-pro-wit/9300000161435293/"
+- https://partner.bol.com/nl/nl/luchtreiniger-philips-series-3000i-ac3033-10/9300000124952090/
+- https://partner.bol.com/nl/nl/dyson-purifier-cool-formaldehyde-tp09-wit/9300000167369511/
+- https://partner.bol.com/nl/nl/aeg-luchtreiniger-ax9-ax91-621bk/9300000148511906/
+- https://partner.bol.com/nl/nl/blueair-luchtreiniger-blue-3210-zwart/9300000145997866/
+- https://partner.bol.com/nl/nl/xiaomi-mi-air-purifier-4-pro-wit/9300000161435293/
 date: 2026-05-13
 modelYear: 2026
-featuredProduct: "Philips AC3033/10 Series 3000i"
-readingTime: "15 min"
+featuredProduct: Philips AC3033/10 Series 3000i
+readingTime: 15 min
 products:
-  - name: "Philips AC3033/10 Series 3000i"
-    verdict: "De Philips AC3033/10 Series 3000i is een uitstekende allrounder die krachtige prestaties combineert met slimme functies voor een gezondere leefomgeving."
-    priceRange: "EUR 450-550"
-    bestFor: "Allergiepatiënten en gezinnen die een stille, efficiënte en slimme luchtreiniger zoeken voor grotere ruimtes."
-    rating: 4.7
-    affiliateLink: "https://partner.bol.com/nl/nl/luchtreiniger-philips-series-3000i-ac3033-10/9300000124952090/"
-  - name: "Dyson Purifier Cool Formaldehyde TP09"
-    verdict: "De Dyson TP09 blinkt uit in design en functionaliteit, met een focus op het afvangen van zowel deeltjes als schadelijke gassen, en dient tevens als krachtige ventilator."
-    priceRange: "EUR 600-700"
-    bestFor: "Huishoudens die een stijlvol, multifunctioneel apparaat zoeken dat zowel luchtzuivering als verkoeling biedt en een oog heeft voor formaldehyde."
-    rating: 4.5
-    affiliateLink: "https://partner.bol.com/nl/nl/dyson-purifier-cool-formaldehyde-tp09-wit/9300000167369511/"
-  - name: "AEG AX9 AX91-621BK"
-    verdict: "De AEG AX9 is een krachtige luchtreiniger met een indrukwekkend filteringsysteem en een stijlvol, minimalistisch design dat in elk interieur past."
-    priceRange: "EUR 400-500"
-    bestFor: "Mensen met ernstige allergieën of astma die een robuuste en effectieve oplossing zoeken voor middelgrote tot grote kamers."
-    rating: 4.6
-    affiliateLink: "https://partner.bol.com/nl/nl/aeg-luchtreiniger-ax9-ax91-621bk/9300000148511906/"
-  - name: "Blueair Blue 3210"
-    verdict: "De Blueair Blue 3210 is een compacte, energiezuinige en verrassend stille luchtreiniger die uitstekende prestaties levert voor zijn prijsklasse."
-    priceRange: "EUR 150-200"
-    bestFor: "Studentenkamers, kleine appartementen of als secundaire luchtreiniger waar een beperkt budget en ruimte de prioriteit hebben."
-    rating: 4.3
-    affiliateLink: "https://partner.bol.com/nl/nl/blueair-luchtreiniger-blue-3210-zwart/9300000145997866/"
-  - name: "Xiaomi Mi Air Purifier 4 Pro"
-    verdict: "De Xiaomi Mi Air Purifier 4 Pro biedt een uitstekende prijs-kwaliteitverhouding met slimme connectiviteit en goede filterprestaties voor middelgrote ruimtes."
-    priceRange: "EUR 200-275"
-    bestFor: "Technologieliefhebbers en huishoudens die een slimme, betaalbare luchtreiniger zoeken met goede filtercapaciteit."
-    rating: 4.4
-    affiliateLink: "https://partner.bol.com/nl/nl/xiaomi-mi-air-purifier-4-pro-wit/9300000161435293/"
+- name: Philips AC3033/10 Series 3000i
+  verdict: De Philips AC3033/10 Series 3000i is een uitstekende allrounder die krachtige prestaties combineert met slimme
+    functies voor een gezondere leefomgeving.
+  priceRange: EUR 450-550
+  bestFor: Allergiepatiënten en gezinnen die een stille, efficiënte en slimme luchtreiniger zoeken voor grotere ruimtes.
+  rating: 4.7
+  affiliateLink: https://partner.bol.com/nl/nl/luchtreiniger-philips-series-3000i-ac3033-10/9300000124952090/
+- name: Dyson Purifier Cool Formaldehyde TP09
+  verdict: De Dyson TP09 blinkt uit in design en functionaliteit, met een focus op het afvangen van zowel deeltjes als schadelijke
+    gassen, en dient tevens als krachtige ventilator.
+  priceRange: EUR 600-700
+  bestFor: Huishoudens die een stijlvol, multifunctioneel apparaat zoeken dat zowel luchtzuivering als verkoeling biedt en
+    een oog heeft voor formaldehyde.
+  rating: 4.5
+  affiliateLink: https://partner.bol.com/nl/nl/dyson-purifier-cool-formaldehyde-tp09-wit/9300000167369511/
+- name: AEG AX9 AX91-621BK
+  verdict: De AEG AX9 is een krachtige luchtreiniger met een indrukwekkend filteringsysteem en een stijlvol, minimalistisch
+    design dat in elk interieur past.
+  priceRange: EUR 400-500
+  bestFor: Mensen met ernstige allergieën of astma die een robuuste en effectieve oplossing zoeken voor middelgrote tot grote
+    kamers.
+  rating: 4.6
+  affiliateLink: https://partner.bol.com/nl/nl/aeg-luchtreiniger-ax9-ax91-621bk/9300000148511906/
+- name: Blueair Blue 3210
+  verdict: De Blueair Blue 3210 is een compacte, energiezuinige en verrassend stille luchtreiniger die uitstekende prestaties
+    levert voor zijn prijsklasse.
+  priceRange: EUR 150-200
+  bestFor: Studentenkamers, kleine appartementen of als secundaire luchtreiniger waar een beperkt budget en ruimte de prioriteit
+    hebben.
+  rating: 4.3
+  affiliateLink: https://partner.bol.com/nl/nl/blueair-luchtreiniger-blue-3210-zwart/9300000145997866/
+- name: Xiaomi Mi Air Purifier 4 Pro
+  verdict: De Xiaomi Mi Air Purifier 4 Pro biedt een uitstekende prijs-kwaliteitverhouding met slimme connectiviteit en goede
+    filterprestaties voor middelgrote ruimtes.
+  priceRange: EUR 200-275
+  bestFor: Technologieliefhebbers en huishoudens die een slimme, betaalbare luchtreiniger zoeken met goede filtercapaciteit.
+  rating: 4.4
+  affiliateLink: https://partner.bol.com/nl/nl/xiaomi-mi-air-purifier-4-pro-wit/9300000161435293/
 related:
-  - beste-wasmachine-2026
-  - beste-ontvochtiger-2026
-  - beste-luchtbevochtiger-2026
+- beste-wasmachine-2026
+- beste-ontvochtiger-2026
+- beste-luchtbevochtiger-2026
+- beste-airconditioner-2026
+- beste-stofzuiger-voor-allergie-2026
+- beste-stofzuiger-tegen-dierenharen-2026
 draft: false
 ---
 

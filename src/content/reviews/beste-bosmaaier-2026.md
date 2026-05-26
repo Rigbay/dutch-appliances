@@ -1,8 +1,8 @@
 ---
 title: 'Beste Bosmaaier 2026: Krachtige Trimmer voor Hoog Gras en Zwaar Struikgewas'
 slug: beste-bosmaaier-2026
-description: Op zoek naar de beste bosmaaier van 2026 voor hoog gras en zwaar struikgewas?
-  Wij vergeleken de top 5 modellen op vermogen, gebruiksgemak en prijs.
+description: Op zoek naar de beste bosmaaier van 2026 voor hoog gras en zwaar struikgewas? Wij vergeleken de top 5 modellen
+  op vermogen, gebruiksgemak en prijs.
 category: tuin
 rating: 4.5
 priceRange: EUR 50-EUR 500
@@ -53,11 +53,12 @@ products:
   rating: 4.2
   affiliateLink: https://www.amazon.nl/dp/B01AI2PJQY?tag=kieskeukennl-21
 related:
-  - beste-heggenschaar-2026
-  - beste-tuinverwarming-2026
-  - beste-hogedrukreiniger-2026
-  - beste-verticuteermachine-2026
-  - beste-bladblazer-2026
+- beste-heggenschaar-2026
+- beste-tuinverwarming-2026
+- beste-hogedrukreiniger-2026
+- beste-verticuteermachine-2026
+- beste-bladblazer-2026
+- beste-grasmaaier-2026
 draft: false
 ---
 

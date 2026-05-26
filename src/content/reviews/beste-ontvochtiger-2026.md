@@ -1,60 +1,64 @@
 ---
-title: "Beste Ontvochtiger 2026: Stop Vocht, Schimmel en Muffe Lucht — Vergelijk Topmodellen"
-slug: "beste-ontvochtiger-2026"
-description: "Last van vocht, schimmel of muffe lucht in huis? Wij vergeleken de beste ontvochtigers van 2026 op capaciteit, geluidsniveau en energieverbruik."
-category: "huishoudelijk"
+title: 'Beste Ontvochtiger 2026: Stop Vocht, Schimmel en Muffe Lucht — Vergelijk Topmodellen'
+slug: beste-ontvochtiger-2026
+description: Last van vocht, schimmel of muffe lucht in huis? Wij vergeleken de beste ontvochtigers van 2026 op capaciteit,
+  geluidsniveau en energieverbruik.
+category: huishoudelijk
 rating: 4.2
-priceRange: "EUR 50-EUR 500"
+priceRange: EUR 50-EUR 500
 pros:
-  - "Energiezuinig en efficiënt"
-  - "Gebruiksvriendelijk ontwerp"
-  - "Goede prijs-kwaliteitverhouding"
+- Energiezuinig en efficiënt
+- Gebruiksvriendelijk ontwerp
+- Goede prijs-kwaliteitverhouding
 cons:
-  - "Hogere aanschafprijs dan instapmodellen"
-  - "Kan geluidsproductie hebben bij intensief gebruik"
-  - "Niet alle accessoires standaard meegeleverd"
+- Hogere aanschafprijs dan instapmodellen
+- Kan geluidsproductie hebben bij intensief gebruik
+- Niet alle accessoires standaard meegeleverd
 affiliateLinks:
-  - "https://www.amazon.nl/dp/B01DR6IT06?tag=kieskeukennl-21"
-  - "https://www.amazon.nl/dp/B01DR6IT06?tag=kieskeukennl-21"
+- https://www.amazon.nl/dp/B01DR6IT06?tag=kieskeukennl-21
+- https://www.amazon.nl/dp/B01DR6IT06?tag=kieskeukennl-21
 date: 2026-05-14
 modelYear: 2026
-featuredProduct: "Eurom Drops 20"
-readingTime: "10 minuten"
+featuredProduct: Eurom Drops 20
+readingTime: 10 minuten
 products:
-  - name: "Eurom Drops 20"
-    verdict: "8.5"
-    priceRange: "EUR Grotere ruimtes, kelders, ernstige vochtproblemen"
-    bestFor: "€ 250 - € 350"
-    rating: 4.2
-    affiliateLink: "https://www.amazon.nl/dp/B0DF8191SW?tag=kieskeukennl-21"
-  - name: "MeacoDry Arete One"
-    verdict: "9.5"
-    priceRange: "EUR Gemiddelde ruimtes, slaapkamers, stilte is prioriteit"
-    bestFor: "€ 200 - € 300"
-    rating: 4.8
-    affiliateLink: "https://www.amazon.nl/dp/B0DF8191SW?tag=kieskeukennl-21"
-  - name: "De'Longhi DEX210F"
-    verdict: "8.0"
-    priceRange: "EUR Gemiddelde ruimtes, wasdroogfunctie gewenst"
-    bestFor: "€ 180 - € 250"
-    rating: 4.0
-    affiliateLink: "https://www.amazon.nl/dp/B0DF8191SW?tag=kieskeukennl-21"
-  - name: "Pro Breeze 20L"
-    verdict: "8.8"
-    priceRange: "EUR Grote ruimtes, garages, snelle en krachtige ontvochtiging"
-    bestFor: "€ 220 - € 320"
-    rating: 4.4
-    affiliateLink: "https://www.amazon.nl/dp/B0DF8191SW?tag=kieskeukennl-21"
-  - name: "Inventum AD500"
-    verdict: "7.0"
-    priceRange: "EUR Kleine ruimtes, caravans, budgetbewuste keuze"
-    bestFor: "€ 100 - € 150"
-    rating: 3.5
-    affiliateLink: "https://www.amazon.nl/dp/B0DF8191SW?tag=kieskeukennl-21"
+- name: Eurom Drops 20
+  verdict: '8.5'
+  priceRange: EUR Grotere ruimtes, kelders, ernstige vochtproblemen
+  bestFor: € 250 - € 350
+  rating: 4.2
+  affiliateLink: https://www.amazon.nl/dp/B0DF8191SW?tag=kieskeukennl-21
+- name: MeacoDry Arete One
+  verdict: '9.5'
+  priceRange: EUR Gemiddelde ruimtes, slaapkamers, stilte is prioriteit
+  bestFor: € 200 - € 300
+  rating: 4.8
+  affiliateLink: https://www.amazon.nl/dp/B0DF8191SW?tag=kieskeukennl-21
+- name: De'Longhi DEX210F
+  verdict: '8.0'
+  priceRange: EUR Gemiddelde ruimtes, wasdroogfunctie gewenst
+  bestFor: € 180 - € 250
+  rating: 4.0
+  affiliateLink: https://www.amazon.nl/dp/B0DF8191SW?tag=kieskeukennl-21
+- name: Pro Breeze 20L
+  verdict: '8.8'
+  priceRange: EUR Grote ruimtes, garages, snelle en krachtige ontvochtiging
+  bestFor: € 220 - € 320
+  rating: 4.4
+  affiliateLink: https://www.amazon.nl/dp/B0DF8191SW?tag=kieskeukennl-21
+- name: Inventum AD500
+  verdict: '7.0'
+  priceRange: EUR Kleine ruimtes, caravans, budgetbewuste keuze
+  bestFor: € 100 - € 150
+  rating: 3.5
+  affiliateLink: https://www.amazon.nl/dp/B0DF8191SW?tag=kieskeukennl-21
 related:
-  - beste-wasmachine-2026
-  - beste-luchtbevochtiger-2026
-  - beste-wasdroger-2026
+- beste-wasmachine-2026
+- beste-luchtbevochtiger-2026
+- beste-wasdroger-2026
+- beste-luchtreiniger-2026
+- beste-airconditioner-2026
+- beste-tapijtreiniger-2026
 draft: false
 ---
 
