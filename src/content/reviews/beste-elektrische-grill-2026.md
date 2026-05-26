@@ -206,3 +206,12 @@ Meer keuzehulpen in deze categorie:
 - [beste-barbecue-2026](/beste-barbecue-2026/)
 - [welke heteluchtfriteuse past bij jouw keuken?](/beste-airfryer-2026/)
 - [De Ultieme Gids voor Friet en Snacks](/beste-friteuse-2026/)
+
+## Gerelateerde artikelen
+- [De Beste Airfryers met Twee Manden](/beste-airfryer-met-twee-manden-2026/)
+- [Beste Inductiekookplaten 2026](/beste-inductiekookplaat-2026/)
+- [Airfryer vs. Frituurpan](/airfryer-vs-friteuse-2026/)
+- [Beste Barbecues 2026](/beste-barbecue-2026/)
+- [Beste airfryer 2026](/beste-airfryer-2026/)
+- [Beste Friteuses 2026](/beste-friteuse-2026/)
+

@@ -189,3 +189,12 @@ Meer keuzehulpen in deze categorie:
 - [van bonen tot kop voor iedere koffiedrinker](/beste-koffiemachine-2026/)
 - [beste filterkoffiemachines van](/beste-filterkoffiemachine-2026/)
 - [Bonen tot Kopje met Eén Knop in](/beste-volautomatische-koffiemachine-2026/)
+
+## Gerelateerde artikelen
+- [De Beste Airfryers met Twee Manden](/beste-airfryer-met-twee-manden-2026/)
+- [Beste Inductiekookplaten 2026](/beste-inductiekookplaat-2026/)
+- [Beste airfryer 2026](/beste-airfryer-2026/)
+- [Beste koffiemachine 2026](/beste-koffiemachine-2026/)
+- [beste filterkoffiemachines van 2026](/beste-filterkoffiemachine-2026/)
+- [De Beste Volautomatische Koffiemachines](/beste-volautomatische-koffiemachine-2026/)
+

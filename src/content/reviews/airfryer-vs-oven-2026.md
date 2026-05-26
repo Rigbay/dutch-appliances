@@ -162,3 +162,12 @@ Meer keuzehulpen in deze categorie:
 - [welke heteluchtfriteuse past bij jouw keuken?](/beste-airfryer-2026/)
 - [gezond koken met stoom](/beste-stoomoven-2026/)
 - [De Ultieme Keuze voor Friet en Snacks in](/airfryer-vs-friteuse-2026/)
+
+## Gerelateerde artikelen
+- [De Beste Airfryers met Twee Manden](/beste-airfryer-met-twee-manden-2026/)
+- [Beste Inductiekookplaten 2026](/beste-inductiekookplaat-2026/)
+- [Compacte Airfryers 2026](/beste-compacte-airfryer-2026/)
+- [Beste airfryer 2026](/beste-airfryer-2026/)
+- [Beste stoomoven 2026](/beste-stoomoven-2026/)
+- [Airfryer vs. Frituurpan](/airfryer-vs-friteuse-2026/)
+
