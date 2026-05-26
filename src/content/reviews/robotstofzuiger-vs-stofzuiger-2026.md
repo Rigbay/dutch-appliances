@@ -63,7 +63,6 @@ related:
   - beste-dweilrobot-2026
   - beste-draadloze-stofzuiger-2026
   - beste-steelstofzuiger-2026
-  - beste-robotgrasmaaier-2026
   - stofzuiger-kopen-waar-op-letten-2026
 ---
 

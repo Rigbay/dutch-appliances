@@ -63,7 +63,6 @@ related:
   - beste-keukenmachine-2026
   - beste-magnetron-2026
   - beste-stoomoven-2026
-  - beste-airfryer-2026
   - airfryer-vs-oven-2026
 ---
 
