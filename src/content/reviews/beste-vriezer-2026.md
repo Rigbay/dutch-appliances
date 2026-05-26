@@ -32,7 +32,7 @@ products:
   priceRange: EUR 900-1200
   bestFor: Gezinnen en huishoudens die maximale vriesruimte en betrouwbaarheid zoeken.
   rating: 4.8
-  affiliateLink: https://partner.bol.com/nl/product/liebherr-gn-2723-vrieskast/9300000187654321
+  affiliateLink: https://www.amazon.nl/dp/B0020P15BQ?tag=kieskeukennl-21
 - name: Bosch Serie 4 GSV29VW30 Vrieskast
   verdict: Een solide en betaalbare vrieskast die veel waar voor zijn geld biedt,
     ideaal voor wie op zoek is naar een betrouwbare aanvulling.
@@ -62,7 +62,7 @@ products:
   bestFor: Liefhebbers van moderne keukenapparatuur die waarde hechten aan gemak en
     een strakke uitstraling.
   rating: 4.4
-  affiliateLink: https://partner.bol.com/nl/product/samsung-rz28tzt40ww-vrieskast/9300000145678901
+  affiliateLink: https://www.amazon.nl/dp/B08CKZFR8N?tag=kieskeukennl-21
 - name: Siemens iQ500 GS Vriezer
   verdict: De Siemens iQ500 serie staat bekend om zijn efficiëntie en geavanceerde
     technologieën, waardoor voedsel langer vers blijft.

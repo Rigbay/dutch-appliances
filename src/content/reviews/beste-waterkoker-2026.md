@@ -36,7 +36,7 @@ products:
   priceRange: EUR 60-80
   bestFor: Prijs-kwaliteit
   rating: 4.5
-  affiliateLink: https://www.amazon.nl/s?k=Philips+Viva+Collection+HD9356&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B07VV4NZW5?tag=kieskeukennl-21
 - name: Smeg kettle KLF03
   verdict: Iconisch retro design in vele kleuren, basic functie, maar een statement
     op het aanrecht.
@@ -55,7 +55,7 @@ products:
   priceRange: EUR 130-170
   bestFor: Premium stil
   rating: 4.6
-  affiliateLink: https://www.amazon.nl/s?k=KitchenAid+Artisan+5KEK1522&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B06XDPNQ1R?tag=kieskeukennl-21
 related:
   - beste-airfryer-met-twee-manden-2026
   - beste-inductiekookplaat-2026

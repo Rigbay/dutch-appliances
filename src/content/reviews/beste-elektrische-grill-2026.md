@@ -35,7 +35,7 @@ products:
   priceRange: EUR 90-160
   bestFor: Rookvrij binnen
   rating: 4.6
-  affiliateLink: https://partner.bol.com/nl/nl/philips-smokeless-indoor-grill/9200000000000007/
+  affiliateLink: https://www.amazon.nl/dp/B07VV4NZW5?tag=kieskeukennl-21
 - name: Princess Tafelgrill XL
   verdict: Beste prijs-kwaliteit met groot oppervlak en spatscherm — Nederlandse favoriet
   priceRange: EUR 30-60

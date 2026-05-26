@@ -30,7 +30,7 @@ products:
   priceRange: €45
   bestFor: gezinnen die betrouwbare hot en cold foam willen voor dagelijks gebruik
   rating: 4.4
-  affiliateLink: https://www.amazon.nl/s?k=Philips+Senseo+Milk+Frother+CA6500&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B07VV4NZW5?tag=kieskeukennl-21
 - name: Bonsenkitchen Handheld Milk Frother
   verdict: Beste budget handheld voor snelle schuim
   priceRange: €11
@@ -49,7 +49,7 @@ products:
   bestFor: koffieliefhebbers die professionele schuimkwaliteit en 700ml capaciteit
     willen
   rating: 4.4
-  affiliateLink: https://www.amazon.nl/s?k=Severin+SM+3587+Spuma+700&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B0020P15BQ?tag=kieskeukennl-21
 - name: Krups XL1008 Frotter Control
   verdict: Beste middenklasse met goede schuimcontrole
   priceRange: €40

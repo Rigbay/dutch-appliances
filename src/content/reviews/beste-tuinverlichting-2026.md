@@ -27,7 +27,7 @@ products:
   priceRange: EUR 329
   bestFor: Technologieliefhebbers die ultieme controle en dynamische sfeer zoeken.
   rating: 4.8
-  affiliateLink: https://www.amazon.nl/s?k=Philips+Hue+Outdoor+White+Color+Ambiance+Lily+XL+Startpakket+beste+tuinverlichting&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B07VV4NZW5?tag=kieskeukennl-21
 - name: Luxform Solarlamp 'Riva' Grondspot Set (4 stuks)
   verdict: Uitstekende prijs-kwaliteitverhouding voor stijlvolle en onderhoudsvrije solar accentverlichting.
   priceRange: EUR 74

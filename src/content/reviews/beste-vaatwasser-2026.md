@@ -63,7 +63,7 @@ products:
   bestFor: Budgetbewuste gezinnen die een functionele en redelijk stille vaatwasser
     nodig hebben.
   rating: 4.2
-  affiliateLink: https://partner.bol.com/nl/nl/samsung-dw80n3030us-vaatwasser-energieklasse-e/9200000123456793.html
+  affiliateLink: https://www.amazon.nl/dp/B08CKZFR8N?tag=kieskeukennl-21
 - name: Etna VM460ZIN
   verdict: De Etna VM460ZIN is een solide inbouwvaatwasser die zich richt op basisfunctionaliteit
     en gebruiksgemak voor een scherpe prijs.

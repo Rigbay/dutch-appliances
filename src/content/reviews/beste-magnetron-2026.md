@@ -29,14 +29,14 @@ products:
   priceRange: EUR 350-450
   bestFor: Beste combi
   rating: 4.8
-  affiliateLink: https://www.amazon.nl/s?k=Panasonic+NN-CS89L&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B084XP98NC?tag=kieskeukennl-21
 - name: Samsung MS23K3515AS
   verdict: De beste prijs-kwaliteit solomagnetron met stijlvol keramisch interieur,
     zuinige eco-stand en intuïtieve bediening.
   priceRange: EUR 100-140
   bestFor: Prijs-kwaliteit
   rating: 4.5
-  affiliateLink: https://www.amazon.nl/s?k=Samsung+MS23K3515AS&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B08CKZFR8N?tag=kieskeukennl-21
 - name: Inventum MN255C
   verdict: Gunstig geprijsde basismagnetron met mechanische draaiknoppen, ideaal voor
     senioren en eenvoudig opwarmwerk zonder poespas.

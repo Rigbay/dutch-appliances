@@ -57,7 +57,7 @@ products:
   bestFor: Huishoudens met grote harde vloeren die een krachtige, snoerloze reiniger
     zoeken die ook met grover vuil overweg kan.
   rating: 4.2
-  affiliateLink: https://partner.bol.com/nl/product/9300000153057977/
+  affiliateLink: https://www.amazon.nl/dp/B0020P15BQ?tag=kieskeukennl-21
 - name: Kärcher FC 7 Cordless Premium
   verdict: De Kärcher FC 7 is een uitstekende keuze voor wie een grondige, continue
     reiniging wenst zonder de noodzaak om constant tanks te wisselen.
