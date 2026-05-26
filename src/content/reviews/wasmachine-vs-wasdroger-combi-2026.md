@@ -17,14 +17,14 @@ affiliateLinks:
 - https://www.amazon.nl/s?k=wasmachine&tag=kieskeukennl-21
 - https://www.amazon.nl/s?k=wasdroger&tag=kieskeukennl-21
 modelYear: 2026
-featuredProduct: Miele WED665 WCS + TCF640 WP
+featuredProduct: "Miele WED665 WCS + TCF640 WP"
 readingTime: 10 min
 date: '2026-05-26'
 products:
-- name: Miele WED665 WCS + TCF640 WP
-  verdict: De gouden combi: Duitse kwaliteit die 20 jaar meegaat.
+- name: "Miele WED665 WCS + TCF640 WP"
+  verdict: "De gouden combi: Duitse kwaliteit die 20 jaar meegaat."
   priceRange: EUR 1500-1900
-  bestFor: Lange levensduur & efficiëntie
+  bestFor: Lange levensduur en efficiëntie
   rating: 4.8
   affiliateLink: https://www.amazon.nl/s?k=Miele+WED665+TCF640&tag=kieskeukennl-21
 - name: Samsung Bespoke AI Combo
@@ -33,7 +33,7 @@ products:
   bestFor: Smart home & compact
   rating: 4.6
   affiliateLink: https://www.amazon.nl/s?k=Samsung+Bespoke+AI+Combo&tag=kieskeukennl-21
-- name: Bosch WGG254FSNL + WQG245DNL
+- name: "Bosch WGG254FSNL + WQG245DNL"
   verdict: Prijs-kwaliteit winnaar met uitstekende Duitse techniek.
   priceRange: EUR 1100-1400
   bestFor: Prijs-kwaliteit los

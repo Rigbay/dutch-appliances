@@ -60,11 +60,9 @@ products:
 related:
   - beste-koffiemachine-2026
   - beste-koffiemachine-bonen-2026
-  - beste-koffiemachine-onder-200-euro-2026
   - beste-volautomatische-koffiemachine-2026
-  - beste-filterkoffiemachine-2026
   - beste-nespresso-apparaat-2026
-  - beste-senseo-koffiezetapparaat-2026
+  - beste-filterkoffiemachine-2026
   - beste-koffiemolen-2026
 ---
 
