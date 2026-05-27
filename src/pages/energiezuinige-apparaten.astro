@@ -1,0 +1,342 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const allReviews = await getCollection('reviews', ({ data }) => !data.draft);
+
+// Group by energy relevance
+const groteWitgoed = allReviews.filter(r => {
+  const s = r.data.slug;
+  return s.includes('koelkast') || s.includes('vriezer') || s.includes('wasmachine') ||
+         s.includes('wasdroger') || s.includes('vaatwasser');
+});
+
+const kokenEnKoelen = allReviews.filter(r => {
+  const s = r.data.slug;
+  return s.includes('inductie') || s.includes('airfryer') || s.includes('oven') ||
+         s.includes('stoomoven') || s.includes('magnetron') || s.includes('kookplaat') ||
+         s.includes('airconditioner');
+});
+
+const kleinEnergie = allReviews.filter(r => {
+  const s = r.data.slug;
+  return s.includes('waterkoker') || s.includes('koffie') || s.includes('broodrooster') ||
+         s.includes('luchtreiniger') || s.includes('luchtbevochtiger') || s.includes('ontvochtiger') ||
+         s.includes('kachel') || s.includes('strijkijzer');
+});
+
+const tuinEnBuiten = allReviews.filter(r => {
+  const s = r.data.slug;
+  return s.includes('robotgrasmaaier') || s.includes('grasmaaier') || s.includes('tuinverlichting') ||
+         s.includes('tuinverwarming') || s.includes('hogedrukreiniger');
+});
+
+// Comparison articles that mention energy
+const vergelijkingen = allReviews.filter(r => {
+  const s = r.data.slug;
+  return s.includes('-vs-') && (s.includes('inductie') || s.includes('oven') || s.includes('robot') || s.includes('droger') || s.includes('wasmachine'));
+});
+
+// Energy-saving tips for each category
+const tips = [
+  {
+    category: 'Koelkast',
+    icon: '🧊',
+    tip: 'Stel je koelkast in op 4°C en de vriezer op -18°C. Elke graad lager kost ~5% meer energie. Ontdooi je vriezer minstens 2x per jaar — 3mm ijs verhoogt het verbruik met 30%.',
+    link: '/beste-koelkast-2026/'
+  },
+  {
+    category: 'Wasmachine',
+    icon: '👕',
+    tip: 'Was op 30°C in plaats van 60°C bespaart ~40% energie per wasbeurt. Moderne wasmiddelen werken uitstekend op lage temperaturen. Draai volle trommels — een halfvolle was kost bijna evenveel stroom.',
+    link: '/beste-wasmachine-2026/'
+  },
+  {
+    category: 'Wasdroger',
+    icon: '🌀',
+    tip: 'Een warmtepompdroger gebruikt 50-60% minder energie dan een condensdroger. Centrifugeer wasgoed op minimaal 1400 toeren vóór het drogen — dat halveert de droogtijd.',
+    link: '/condensdroger-vs-warmtepompdroger-2026/'
+  },
+  {
+    category: 'Vaatwasser',
+    icon: '🍽️',
+    tip: 'De eco-stand gebruikt 20-30% minder energie dan het normale programma. Wacht tot de vaatwasser vol is — één volle vaat gebruikt minder water en energie dan 2x afwassen met de hand.',
+    link: '/beste-vaatwasser-2026/'
+  },
+  {
+    category: 'Inductie koken',
+    icon: '🍳',
+    tip: 'Inductie is 30% zuiniger dan keramisch en 50% zuiniger dan gas. Gebruik pannen met een vlakke bodem en de juiste diameter voor je kookzone — dat scheelt tot 20% energieverlies.',
+    link: '/inductie-vs-gasfornuis-2026/'
+  },
+  {
+    category: 'Airfryer',
+    icon: '🍟',
+    tip: 'Een airfryer gebruikt tot 70% minder energie dan een elektrische oven voor dezelfde maaltijd. Voor kleine porties en snacks is de airfryer de absolute energiekampioen.',
+    link: '/airfryer-vs-oven-2026/'
+  },
+  {
+    category: 'Verlichting',
+    icon: '💡',
+    tip: 'Vervang halogeen tuinverlichting door LED of solar. Solar tuinlampen kosten 0 euro aan stroom en moderne LED-versies geven helder, warm licht zonder energierekening.',
+    link: '/beste-tuinverlichting-2026/'
+  },
+  {
+    category: 'Airconditioning',
+    icon: '❄️',
+    tip: 'Kies een airco met energielabel A+++ en gebruik de timer-functie. Zet de airco uit als je niet thuis bent — koelen op afstand vóór thuiskomst is zuiniger dan de hele dag aan laten staan.',
+    link: '/beste-airconditioner-2026/'
+  }
+];
+---
+
+<BaseLayout
+  title="Energiezuinige Apparaten 2026: Bespaar op je Stroomrekening met de Juiste Keuzes"
+  description="Vergelijk de meest energiezuinige huishoudelijke apparaten van 2026. Koelkasten, wasmachines, vaatwassers, airfryers en meer — met energielabel, verbruik per jaar en Amazon NL koopadvies."
+  canonicalUrl="https://rigbay.github.io/dutch-appliances/energiezuinige-apparaten/"
+>
+  <div class="max-w-4xl mx-auto px-4 py-12">
+
+    <!-- HERO -->
+    <h1 class="text-4xl md:text-5xl font-serif font-semibold mb-6 leading-tight">
+      Energiezuinige Apparaten 2026: Zo Bespaar je €300+ per Jaar
+    </h1>
+    <p class="text-lg md:text-xl text-muted mb-4 leading-relaxed">
+      Huishoudelijke apparaten zijn samen goed voor <strong>45% van je stroomrekening</strong>. Met de juiste keuzes — en een paar simpele gewoontes — bespaar je honderden euro's per jaar zonder in te leveren op comfort. In deze gids vergelijken we de zuinigste koelkasten, wasmachines, vaatwassers, airfryers en meer. Allemaal met het nieuwste <strong>energielabel 2026</strong>.
+    </p>
+    <p class="text-muted mb-8">
+      Alle links verwijzen naar <strong>Amazon NL</strong>. Via onze links ontvangen wij een commissie zonder extra kosten voor jou. <em>Tag: kieskeukennl-21</em>.
+    </p>
+
+    <!-- QUICK STATS -->
+    <div class="grid grid-cols-2 md:grid-cols-4 gap-4 mb-12">
+      <div class="bg-[#f0f7f4] rounded p-4 text-center">
+        <p class="text-3xl font-bold text-leaf">€300+</p>
+        <p class="text-xs text-muted mt-1">gemiddelde jaarlijkse besparing</p>
+      </div>
+      <div class="bg-[#f0f7f4] rounded p-4 text-center">
+        <p class="text-3xl font-bold text-leaf">45%</p>
+        <p class="text-xs text-muted mt-1">aandeel in stroomrekening</p>
+      </div>
+      <div class="bg-[#f0f7f4] rounded p-4 text-center">
+        <p class="text-3xl font-bold text-leaf">A+++</p>
+        <p class="text-xs text-muted mt-1">beste energielabel 2026</p>
+      </div>
+      <div class="bg-[#f0f7f4] rounded p-4 text-center">
+        <p class="text-3xl font-bold text-leaf">{groteWitgoed.length + kokenEnKoelen.length}</p>
+        <p class="text-xs text-muted mt-1">energiezuinige koopgidsen</p>
+      </div>
+    </div>
+
+    <!-- INHOUDSOPGAVE -->
+    <nav class="bg-[#f8f5f0] p-6 rounded mb-12" aria-label="Inhoudsopgave">
+      <h2 class="text-lg font-semibold mb-3">📋 Inhoudsopgave</h2>
+      <ul class="grid grid-cols-1 md:grid-cols-2 gap-2 text-sm">
+        <li><a href="#label" class="text-leaf hover:underline">→ Het nieuwe energielabel 2026 uitgelegd</a></li>
+        <li><a href="#groot" class="text-leaf hover:underline">→ Groot witgoed: koelkasten, wasmachines, drogers &amp; vaatwassers ({groteWitgoed.length} gidsen)</a></li>
+        <li><a href="#koken" class="text-leaf hover:underline">→ Koken &amp; koelen: inductie, airfryers, ovens, airco's ({kokenEnKoelen.length} gidsen)</a></li>
+        <li><a href="#klein" class="text-leaf hover:underline">→ Kleine energie-slurpers: koffie, waterkokers, luchtreinigers ({kleinEnergie.length} gidsen)</a></li>
+        <li><a href="#tuin" class="text-leaf hover:underline">→ Tuin &amp; buiten: maaiers, verlichting, verwarming ({tuinEnBuiten.length} gidsen)</a></li>
+        <li><a href="#vergelijkingen" class="text-leaf hover:underline">→ Vergelijkingen: inductie vs gas, airfryer vs oven ({vergelijkingen.length} gidsen)</a></li>
+        <li><a href="#tips" class="text-leaf hover:underline">→ 8 energiebespaartips voor elk apparaat</a></li>
+        <li><a href="#faq" class="text-leaf hover:underline">→ Veelgestelde Vragen (FAQ)</a></li>
+      </ul>
+    </nav>
+
+    <!-- LABEL UITLEG -->
+    <section id="label" class="mb-12">
+      <h2 class="text-3xl font-serif font-semibold mb-4 border-b pb-2">🏷️ Het Nieuwe Energielabel 2026</h2>
+      <div class="bg-white border border-[#e8e1d7] rounded p-6">
+        <p class="text-muted mb-4 leading-relaxed">
+          Sinds maart 2021 is het energielabel vernieuwd. De klassen A+, A++ en A+++ zijn verdwenen — terug naar een eenvoudige schaal van A (zuinigst) tot G (onzuinig). In 2026 is vrijwel alle nieuwe witgoed minimaal <strong>klasse C of beter</strong>. Een A-klasse koelkast verbruikt tot 60% minder dan een 10 jaar oud model.
+        </p>
+        <div class="grid grid-cols-2 md:grid-cols-4 gap-3 mt-4">
+          <div class="bg-[#1a5c2a] text-white rounded p-3 text-center">
+            <p class="text-2xl font-bold">A</p>
+            <p class="text-xs opacity-80">Zeer zuinig</p>
+          </div>
+          <div class="bg-[#4a9c3f] text-white rounded p-3 text-center">
+            <p class="text-2xl font-bold">B</p>
+            <p class="text-xs opacity-80">Zuinig</p>
+          </div>
+          <div class="bg-[#c5d62e] rounded p-3 text-center">
+            <p class="text-2xl font-bold">C</p>
+            <p class="text-xs text-muted">Gemiddeld</p>
+          </div>
+          <div class="bg-[#f5a623] rounded p-3 text-center">
+            <p class="text-2xl font-bold">D</p>
+            <p class="text-xs text-muted">Bovengemiddeld</p>
+          </div>
+        </div>
+        <p class="text-sm text-muted mt-4">
+          💡 <strong>Vuistregel:</strong> Een A- of B-label apparaat is €50-120 per jaar goedkoper in gebruik dan hetzelfde D-label model. Over de levensduur van 10-15 jaar is dat €500-1.800 verschil.
+        </p>
+      </div>
+    </section>
+
+    <!-- GROOT WITGOED -->
+    <section id="groot" class="mb-12">
+      <h2 class="text-3xl font-serif font-semibold mb-4 border-b pb-2">🔌 Groot Witgoed — De Grootste Besparingen</h2>
+      <p class="text-muted mb-6">
+        Koelkasten, wasmachines, drogers en vaatwassers zijn de grootverbruikers in huis. Samen zijn ze goed voor <strong>~60% van je apparaat-stroomverbruik</strong>. Hier zit de grootste besparing — vervang een 12 jaar oude koelkast door een modern A-label model en bespaar tot €120 per jaar.
+      </p>
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-3">
+        {groteWitgoed.sort((a, b) => b.data.rating - a.data.rating).map(r => (
+          <a href={`/${r.data.slug}/`} class="block p-4 border border-[#e8e1d7] rounded hover:border-leaf hover:shadow-sm transition-all bg-white group">
+            <span class="text-sm font-medium text-leaf group-hover:underline">{r.data.title}</span>
+            <p class="text-xs text-muted mt-1 line-clamp-2">{r.data.description}</p>
+            <div class="flex items-center gap-3 mt-2 text-xs text-muted">
+              <span>⭐ {r.data.rating}</span>
+              <span>{r.data.priceRange}</span>
+              <span class="ml-auto text-leaf font-medium">Bekijk →</span>
+            </div>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <!-- KOKEN & KOELEN -->
+    <section id="koken" class="mb-12">
+      <h2 class="text-3xl font-serif font-semibold mb-4 border-b pb-2">🍳 Koken &amp; Koelen — Slim Kiezen Bespaart</h2>
+      <p class="text-muted mb-6">
+        Inductie koken is de nieuwe standaard — 30% zuiniger dan keramisch en 50% zuiniger dan gas. En wist je dat een airfryer tot 70% minder stroom gebruikt dan een oven voor dezelfde maaltijd?
+      </p>
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-3">
+        {kokenEnKoelen.sort((a, b) => b.data.rating - a.data.rating).map(r => (
+          <a href={`/${r.data.slug}/`} class="block p-4 border border-[#e8e1d7] rounded hover:border-leaf hover:shadow-sm transition-all bg-white group">
+            <span class="text-sm font-medium text-leaf group-hover:underline">{r.data.title}</span>
+            <p class="text-xs text-muted mt-1 line-clamp-2">{r.data.description}</p>
+            <div class="flex items-center gap-3 mt-2 text-xs text-muted">
+              <span>⭐ {r.data.rating}</span>
+              <span>{r.data.priceRange}</span>
+              <span class="ml-auto text-leaf font-medium">Bekijk →</span>
+            </div>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <!-- KLEINE ENERGIE -->
+    <section id="klein" class="mb-12">
+      <h2 class="text-3xl font-serif font-semibold mb-4 border-b pb-2">⚡ Kleine Apparaten — Let op de Sluipverbruikers</h2>
+      <p class="text-muted mb-6">
+        Een koffiemachine in stand-by, een waterkoker die te vol wordt aangezet, een luchtreiniger die 24/7 draait — kleine apparaten, grote impact. Kies bewust en stekker eruit als je ze niet gebruikt.
+      </p>
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-3">
+        {kleinEnergie.sort((a, b) => b.data.rating - a.data.rating).map(r => (
+          <a href={`/${r.data.slug}/`} class="block p-4 border border-[#e8e1d7] rounded hover:border-leaf hover:shadow-sm transition-all bg-white group">
+            <span class="text-sm font-medium text-leaf group-hover:underline">{r.data.title}</span>
+            <p class="text-xs text-muted mt-1 line-clamp-2">{r.data.description}</p>
+            <div class="flex items-center gap-3 mt-2 text-xs text-muted">
+              <span>⭐ {r.data.rating}</span>
+              <span>{r.data.priceRange}</span>
+              <span class="ml-auto text-leaf font-medium">Bekijk →</span>
+            </div>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <!-- TUIN & BUITEN -->
+    <section id="tuin" class="mb-12">
+      <h2 class="text-3xl font-serif font-semibold mb-4 border-b pb-2">🌿 Tuin &amp; Buiten — Zuinig in de Zon</h2>
+      <p class="text-muted mb-6">
+        Robotgrasmaaiers op accu, solar tuinverlichting, en zuinige elektrische tuinverwarming — ook buiten kun je flink besparen. Moderne robotmaaiers gebruiken evenveel stroom als een LED-lamp.
+      </p>
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-3">
+        {tuinEnBuiten.sort((a, b) => b.data.rating - a.data.rating).map(r => (
+          <a href={`/${r.data.slug}/`} class="block p-4 border border-[#e8e1d7] rounded hover:border-leaf hover:shadow-sm transition-all bg-white group">
+            <span class="text-sm font-medium text-leaf group-hover:underline">{r.data.title}</span>
+            <p class="text-xs text-muted mt-1 line-clamp-2">{r.data.description}</p>
+            <div class="flex items-center gap-3 mt-2 text-xs text-muted">
+              <span>⭐ {r.data.rating}</span>
+              <span>{r.data.priceRange}</span>
+              <span class="ml-auto text-leaf font-medium">Bekijk →</span>
+            </div>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <!-- VERGELIJKINGEN -->
+    <section id="vergelijkingen" class="mb-12">
+      <h2 class="text-3xl font-serif font-semibold mb-4 border-b pb-2">⚖️ Head-to-Head: De Belangrijkste Energieverschillen</h2>
+      <p class="text-muted mb-6">
+        Welk type apparaat is écht het zuinigst? Onze directe vergelijkingen laten het energieverschil zien in euro's per jaar.
+      </p>
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-3">
+        {vergelijkingen.sort((a, b) => b.data.rating - a.data.rating).map(r => (
+          <a href={`/${r.data.slug}/`} class="block p-4 border border-[#e8e1d7] rounded hover:border-leaf hover:shadow-sm transition-all bg-white group">
+            <span class="text-sm font-medium text-leaf group-hover:underline">{r.data.title}</span>
+            <p class="text-xs text-muted mt-1 line-clamp-2">{r.data.description}</p>
+            <div class="flex items-center gap-3 mt-2 text-xs text-muted">
+              <span>⭐ {r.data.rating}</span>
+              <span>{r.data.priceRange}</span>
+              <span class="ml-auto text-leaf font-medium">Vergelijk →</span>
+            </div>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <!-- TIPS -->
+    <section id="tips" class="mb-12">
+      <h2 class="text-3xl font-serif font-semibold mb-4 border-b pb-2">💡 8 Energiebespaartips per Apparaat</h2>
+      <p class="text-muted mb-6">Met deze tips haal je het maximale rendement uit je apparaten — vaak zonder een cent uit te geven.</p>
+      <div class="space-y-4">
+        {tips.map(t => (
+          <div class="bg-white border border-[#e8e1d7] rounded p-5 hover:border-leaf transition-colors">
+            <div class="flex items-start gap-4">
+              <span class="text-2xl">{t.icon}</span>
+              <div class="flex-1">
+                <h3 class="font-semibold text-ink mb-1">{t.category}</h3>
+                <p class="text-sm text-muted leading-relaxed">{t.tip}</p>
+                <a href={t.link} class="inline-block mt-2 text-sm font-medium text-leaf hover:underline">Bekijk de beste {t.category.toLowerCase()}s →</a>
+              </div>
+            </div>
+          </div>
+        ))}
+      </div>
+    </section>
+
+    <!-- FAQ -->
+    <section id="faq" class="mb-12">
+      <h2 class="text-3xl font-serif font-semibold mb-4 border-b pb-2">❓ Veelgestelde Vragen</h2>
+      <div class="space-y-3">
+        <details class="bg-white border border-[#e8e1d7] rounded p-4 group">
+          <summary class="font-semibold cursor-pointer text-ink">Hoeveel bespaar ik echt met een energiezuinige koelkast?</summary>
+          <p class="mt-3 text-muted text-sm leading-relaxed">Een moderne A-label koelkast verbruikt ~100 kWh/jaar. Een 10+ jaar oude koelkast verbruikt ~250-350 kWh/jaar. Bij €0,40/kWh bespaar je €60-100 per jaar. Over 15 jaar: €900-1.500.</p>
+        </details>
+        <details class="bg-white border border-[#e8e1d7] rounded p-4 group">
+          <summary class="font-semibold cursor-pointer text-ink">Is een warmtepompdroger écht de investering waard?</summary>
+          <p class="mt-3 text-muted text-sm leading-relaxed">Ja. Een condensdroger verbruikt ~560 kWh/jaar, een warmtepompdroger ~230 kWh/jaar. Dat is €130 besparing per jaar. Het prijsverschil (~€250) verdien je in 2 jaar terug. Daarna is het pure winst.</p>
+        </details>
+        <details class="bg-white border border-[#e8e1d7] rounded p-4 group">
+          <summary class="font-semibold cursor-pointer text-ink">Hoeveel energie gebruikt een airfryer vs een oven?</summary>
+          <p class="mt-3 text-muted text-sm leading-relaxed">Een airfryer gebruikt ~1.400W voor 15-20 minuten (0,35-0,47 kWh per maaltijd). Een oven gebruikt ~2.500W voor 35-45 minuten (1,46-1,88 kWh). De airfryer is <strong>70-75% zuiniger</strong> per maaltijd.</p>
+        </details>
+        <details class="bg-white border border-[#e8e1d7] rounded p-4 group">
+          <summary class="font-semibold cursor-pointer text-ink">Wat is het verschil tussen het oude en nieuwe energielabel?</summary>
+          <p class="mt-3 text-muted text-sm leading-relaxed">Het nieuwe label (sinds 2021) gebruikt een simpele A-G schaal zonder plusjes. Een oude A+++ is ongeveer een nieuwe B of C. De A-klasse is bewust streng — bijna geen enkel apparaat haalt hem, wat ruimte laat voor toekomstige innovatie.</p>
+        </details>
+        <details class="bg-white border border-[#e8e1d7] rounded p-4 group">
+          <summary class="font-semibold cursor-pointer text-ink">Zijn energiezuinige apparaten duurder in aanschaf?</summary>
+          <p class="mt-3 text-muted text-sm leading-relaxed">Meestal wel, maar het verschil verdien je terug. Een A-label wasmachine kost ~€100-150 meer dan een D-label, maar bespaart ~€50/jaar. Na 2-3 jaar speel je quitte en daarna bespaar je elk jaar. Reken op 10-15 jaar levensduur voor witgoed.</p>
+        </details>
+      </div>
+    </section>
+
+    <!-- CTA -->
+    <div class="bg-[#f0f7f4] rounded-lg p-8 text-center border border-[#c5e0d0]">
+      <h2 class="text-2xl font-serif font-semibold mb-3">Klaar om te besparen?</h2>
+      <p class="text-muted mb-5 max-w-lg mx-auto">
+        Bekijk onze complete collectie koopgidsen — allemaal met actuele Amazon NL prijzen, eerlijke minpunten, en duidelijke vergelijkingen.
+      </p>
+      <div class="flex flex-wrap justify-center gap-3">
+        <a href="/keukenapparaten-koopgids/" class="inline-block rounded bg-leaf px-5 py-3 text-sm font-bold text-white hover:bg-[#1f514b] transition">Keukenapparaten Koopgids →</a>
+        <a href="/vergelijking/" class="inline-block rounded border border-leaf px-5 py-3 text-sm font-bold text-leaf hover:bg-[#f0f7f4] transition">Alle Vergelijkingen →</a>
+      </div>
+    </div>
+
+  </div>
+</BaseLayout>
