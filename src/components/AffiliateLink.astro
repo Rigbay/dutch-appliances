@@ -1,0 +1,59 @@
+---
+import {
+  canRenderAffiliate,
+  resolveAffiliateUrl,
+  getMerchant,
+} from '../lib/affiliateRegistry';
+
+interface Props {
+  merchantId: string;
+  siteId: string;
+  params?: Record<string, string>;
+  fallbackText?: string;
+  class?: string;
+  target?: string;
+}
+
+const {
+  merchantId,
+  siteId,
+  params = {},
+  fallbackText,
+  class: className = '',
+  target = '_blank',
+} = Astro.props;
+
+const merchant = getMerchant(merchantId);
+const canRender = canRenderAffiliate(merchantId, siteId);
+const url = resolveAffiliateUrl(merchantId, siteId, params);
+const status = merchant?.perSite?.[siteId]?.status || merchant?.status || '';
+
+const isDeadOrRejected = status === 'rejected' || status === 'dead';
+const isPending = status === 'pending';
+const hasUrl = !!url;
+---
+
+{
+  canRender && hasUrl ? (
+    <a
+      href={url}
+      rel="sponsored nofollow"
+      target={target}
+      class={className}
+    >
+      <slot>{merchant?.name || merchantId}</slot>
+      {isPending && <span class="text-xs opacity-70 ml-1">(in behandeling)</span>}
+    </a>
+  ) : isDeadOrRejected ? (
+    <span class:list={['line-through opacity-60', className]}>
+      <slot>{merchant?.name || merchantId}</slot> — Niet meer beschikbaar
+    </span>
+  ) : isPending ? (
+    <span class:list={['opacity-80', className]}>
+      <slot>{merchant?.name || merchantId}</slot>
+      <span class="text-xs opacity-70 ml-1">(in behandeling)</span>
+    </span>
+  ) : fallbackText ? (
+    <span class={className}>{fallbackText}</span>
+  ) : null
+}
