@@ -16,6 +16,7 @@ cons:
 - Kan meer geluid maken
 affiliateLinks:
 - https://www.amazon.nl/dp/B0D673C31Y?tag=kieskeukennl-21
+- [**Bekijk airfryer met twee manden op Coolblue** (Awin/Coolblue)](https://www.awin1.com/cread.php?awinmid=85161&awinaffid=2899551&ued=https%3A%2F%2Fwww.coolblue.nl%2Fkeuken%2Ffriteuses%2Fairfryers) — airfryers op Coolblue
 modelYear: 2026
 featuredProduct: Ninja Foodi Dual Zone AF300EU
 readingTime: 8 min

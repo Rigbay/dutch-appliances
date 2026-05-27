@@ -16,6 +16,7 @@ cons:
 - Waterreservoir regelmatig bijvullen
 affiliateLinks:
 - https://www.amazon.nl/dp/B0CQ8GHBRG?tag=kieskeukennl-21
+- [**Bekijk luchtbevochtiger op Coolblue** (Awin/Coolblue)](https://www.awin1.com/cread.php?awinmid=85161&awinaffid=2899551&ued=https%3A%2F%2Fwww.coolblue.nl%2Fluchtbehandeling%2Fluchtbevochtigers) — luchtbevochtigers op Coolblue
 - https://www.amazon.nl/dp/B0CQ8GHBRG?tag=kieskeukennl-21
 date: 2026-05-13
 modelYear: 2026

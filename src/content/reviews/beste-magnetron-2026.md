@@ -30,6 +30,7 @@ products:
   bestFor: Beste combi
   rating: 4.8
   affiliateLink: https://www.amazon.nl/dp/B084XP98NC?tag=kieskeukennl-21
+- [**Bekijk magnetron op Coolblue** (Awin/Coolblue)](https://www.awin1.com/cread.php?awinmid=85161&awinaffid=2899551&ued=https%3A%2F%2Fwww.coolblue.nl%2Fkeuken%2Fmagnetrons) — magnetrons op Coolblue
 - name: Samsung MS23K3515AS
   verdict: De beste prijs-kwaliteit solomagnetron met stijlvol keramisch interieur,
     zuinige eco-stand en intuïtieve bediening.

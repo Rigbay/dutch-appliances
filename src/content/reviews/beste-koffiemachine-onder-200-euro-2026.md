@@ -16,6 +16,7 @@ cons:
 - Minder luxe functies
 affiliateLinks:
 - https://www.amazon.nl/dp/B085J8LBXF?tag=kieskeukennl-21
+- [**Bekijk koffiemachine onder 200 euro op Coolblue** (Awin/Coolblue)](https://www.awin1.com/cread.php?awinmid=85161&awinaffid=2899551&ued=https%3A%2F%2Fwww.coolblue.nl%2Fkoffie%2Fkoffiemachines) — koffiemachines op Coolblue
 modelYear: 2026
 featuredProduct: De'Longhi Stilosa
 readingTime: 7 min
