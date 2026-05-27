@@ -28,7 +28,6 @@ products:
   bestFor: Technologieliefhebbers die ultieme controle en dynamische sfeer zoeken.
   rating: 4.8
   affiliateLink: https://www.amazon.nl/dp/B07VV4NZW5?tag=kieskeukennl-21
-- [**Bekijk tuinverlichting op Coolblue** (Awin/Coolblue)](https://www.awin1.com/cread.php?awinmid=85161&awinaffid=2899551&ued=https%3A%2F%2Fwww.coolblue.nl%2Ftuin%2Ftuinverlichting) — tuinverlichting op Coolblue
 - name: Luxform Solarlamp 'Riva' Grondspot Set (4 stuks)
   verdict: Uitstekende prijs-kwaliteitverhouding voor stijlvolle en onderhoudsvrije solar accentverlichting.
   priceRange: EUR 74

@@ -16,7 +16,6 @@ cons:
 - Geluidsniveau kan variëren per model
 affiliateLinks:
 - https://www.amazon.nl/dp/B0D14ZHFS8?tag=kieskeukennl-21
-- [**Bekijk inductiekookplaat op Coolblue** (Awin/Coolblue)](https://www.awin1.com/cread.php?awinmid=85161&awinaffid=2899551&ued=https%3A%2F%2Fwww.coolblue.nl%2Fkoken%2Finbouwkookplaten%2Finductie) — inductie op Coolblue
 - https://www.amazon.nl/dp/B0D14ZHFS8?tag=kieskeukennl-21
 - https://www.amazon.nl/dp/B0D14ZHFS8?tag=kieskeukennl-21
 - https://www.amazon.nl/dp/B0D14ZHFS8?tag=kieskeukennl-21

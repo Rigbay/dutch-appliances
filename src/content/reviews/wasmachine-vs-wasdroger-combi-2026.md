@@ -33,7 +33,6 @@ products:
   bestFor: Smart home & compact
   rating: 4.6
   affiliateLink: https://www.amazon.nl/dp/B08CKZFR8N?tag=kieskeukennl-21
-- [**Bekijk wasmachine/wasdroger combi op Coolblue** (Awin/Coolblue)](https://www.awin1.com/cread.php?awinmid=85161&awinaffid=2899551&ued=https%3A%2F%2Fwww.coolblue.nl%2Fwassen-drogen%2Fwasmachines) — wasmachines op Coolblue
 - name: "Bosch WGG254FSNL + WQG245DNL"
   verdict: Prijs-kwaliteit winnaar met uitstekende Duitse techniek.
   priceRange: EUR 1100-1400

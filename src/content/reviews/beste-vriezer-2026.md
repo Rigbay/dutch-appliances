@@ -33,7 +33,6 @@ products:
   bestFor: Gezinnen en huishoudens die maximale vriesruimte en betrouwbaarheid zoeken.
   rating: 4.8
   affiliateLink: https://www.amazon.nl/dp/B0020P15BQ?tag=kieskeukennl-21
-- [**Bekijk vriezer op Coolblue** (Awin/Coolblue)](https://www.awin1.com/cread.php?awinmid=85161&awinaffid=2899551&ued=https%3A%2F%2Fwww.coolblue.nl%2Fkoelen-vriezen%2Fvriezers) — vriezers op Coolblue
 - name: Bosch Serie 4 GSV29VW30 Vrieskast
   verdict: Een solide en betaalbare vrieskast die veel waar voor zijn geld biedt,
     ideaal voor wie op zoek is naar een betrouwbare aanvulling.

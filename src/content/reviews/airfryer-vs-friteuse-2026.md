@@ -16,7 +16,6 @@ cons:
 - Langer bakken
 affiliateLinks:
 - https://www.amazon.nl/dp/B08T6H8XZR?tag=kieskeukennl-21
-- [**Bekijk airfryer/friteuse op Coolblue** (Awin/Coolblue)](https://www.awin1.com/cread.php?awinmid=85161&awinaffid=2899551&ued=https%3A%2F%2Fwww.coolblue.nl%2Fkeuken%2Ffriteuses%2Fairfryers) — airfryers op Coolblue
 modelYear: 2026
 featuredProduct: Philips Airfryer XXL
 readingTime: 10 min

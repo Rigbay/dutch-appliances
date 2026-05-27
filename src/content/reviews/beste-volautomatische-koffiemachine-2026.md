@@ -16,7 +16,6 @@ cons:
 - Geluid
 affiliateLinks:
 - https://www.amazon.nl/dp/B0CQ8GHBRG?tag=kieskeukennl-21
-- [**Bekijk volautomatische koffiemachine op Coolblue** (Awin/Coolblue)](https://www.awin1.com/cread.php?awinmid=85161&awinaffid=2899551&ued=https%3A%2F%2Fwww.coolblue.nl%2Fkoffie%2Fkoffiemachines%2Fvolautomatische-espessomachines) — volautomatische-espessomachines op Coolblue
 modelYear: 2026
 featuredProduct: Jura E8
 readingTime: 10 min

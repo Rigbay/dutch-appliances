@@ -16,7 +16,6 @@ cons:
 - Gewicht
 affiliateLinks:
 - https://www.amazon.nl/dp/B0CH5QWSGK?tag=kieskeukennl-21
-- [**Bekijk stofzuiger tegen dierenharen op Coolblue** (Awin/Coolblue)](https://www.awin1.com/cread.php?awinmid=85161&awinaffid=2899551&ued=https%3A%2F%2Fwww.coolblue.nl%2Fschoonmaken%2Fstofzuigers) — stofzuigers op Coolblue
 modelYear: 2026
 featuredProduct: Dyson V15 Detect Animal
 readingTime: 10 min

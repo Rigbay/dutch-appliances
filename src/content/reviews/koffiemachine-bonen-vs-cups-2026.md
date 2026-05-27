@@ -27,7 +27,6 @@ products:
   bestFor: Allround perfectie
   rating: 4.9
   affiliateLink: https://www.amazon.nl/dp/B0020P15BQ?tag=kieskeukennl-21
-- [**Bekijk koffiemachine bonen/cups op Coolblue** (Awin/Coolblue)](https://www.awin1.com/cread.php?awinmid=85161&awinaffid=2899551&ued=https%3A%2F%2Fwww.coolblue.nl%2Fkoffie%2Fkoffiemachines) — koffiemachines op Coolblue
 - name: Jura E8
   verdict: Zwitserse precisie en ongeëvenaarde bouwkwaliteit in een compact formaat.
   priceRange: EUR 800-1100
