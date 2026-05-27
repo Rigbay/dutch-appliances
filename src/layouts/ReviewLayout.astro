@@ -2,6 +2,7 @@
 import type { CollectionEntry } from 'astro:content';
 import BaseLayout from './BaseLayout.astro';
 import AffiliateNotice from '../components/AffiliateNotice.astro';
+import AffiliateLink from '../components/AffiliateLink.astro';
 import ArticleCard from '../components/ArticleCard.astro';
 import ComparisonTable from '../components/ComparisonTable.astro';
 
@@ -22,6 +23,10 @@ const categoryLabel = {
 }[data.category];
 
 const bestProduct = data.products[0];
+const extractAsin = (url: string): string => {
+  const match = url.match(/\/dp\/([A-Z0-9]+)/);
+  return match ? match[1] : '';
+};
 const amazonSearch = (name: string) => `https://www.amazon.nl/s?k=${encodeURIComponent(name.replace(/\*\*/g, '').trim())}&tag=kieskeukennl-21`;
 
 const breadcrumbSchema = {
@@ -126,11 +131,18 @@ const articleSchema = {
         <p class="text-sm font-bold uppercase tracking-[0.16em] text-leaf">Beste keuze</p>
         <h2 class="mt-2 font-serif text-2xl font-semibold text-ink">{bestProduct.name}</h2>
         <p class="mt-3 text-sm leading-6 text-muted">{bestProduct.verdict}</p>
-        <a class="mt-5 inline-flex rounded bg-leaf px-4 py-2 text-sm font-bold text-white hover:bg-[#1f514b]" href={bestProduct.affiliateLink} rel="nofollow sponsored">
-          Bekijk beste prijs
-        </a>
+        <div class="mt-5">
+          <AffiliateLink
+            merchantId="amazon-nl"
+            siteId="kieskeuken"
+            params={{ asin: extractAsin(bestProduct.affiliateLink) }}
+            class="inline-flex rounded bg-leaf px-4 py-2 text-sm font-bold text-white hover:bg-[#1f514b]"
+          >
+            Bekijk beste prijs
+          </AffiliateLink>
+        </div>
         <a class="mt-3 inline-flex rounded bg-[#232f3e] px-4 py-2 text-sm font-bold text-white hover:bg-[#131921]" href={amazonSearch(bestProduct.name)} rel="nofollow sponsored" target="_blank">
-          Bekijk op Amazon
+          Zoek op Amazon
         </a>
       </aside>
     </header>
