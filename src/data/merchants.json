@@ -1,0 +1,185 @@
+{
+  "meta": {
+    "version": "1.0.0",
+    "lastUpdated": "2026-05-27T12:00:00+02:00",
+    "updatedBy": "hermes",
+    "source": "audit-2026-05-27.json"
+  },
+  "merchants": {
+    "amazon-nl": {
+      "name": "Amazon.nl",
+      "program": "Amazon Associates",
+      "status": "active",
+      "perSite": {
+        "kieskeuken": {
+          "status": "active",
+          "affiliateId": "kieskeukennl-21"
+        },
+        "dutch-ai-tools": {
+          "status": "inactive"
+        }
+      },
+      "commission": {
+        "rate": 0.04,
+        "type": "percentage",
+        "notes": "Standard NL appliances rate"
+      },
+      "cookieDurationHours": 24,
+      "linkTemplate": "https://www.amazon.nl/dp/{asin}?tag={affiliateId}",
+      "fallbackUrl": "https://www.amazon.nl",
+      "domainHints": [
+        "amazon.nl"
+      ],
+      "lastVerified": "2026-05-27T10:00:00+02:00",
+      "notes": "Primary for KiesKeuken. 47/76 articles monetized."
+    },
+    "bol-com": {
+      "name": "Bol.com",
+      "program": "Bol.com Partnerprogramma",
+      "status": "rejected",
+      "perSite": {
+        "kieskeuken": {
+          "status": "rejected",
+          "affiliateId": null
+        },
+        "dutch-ai-tools": {
+          "status": "inactive"
+        }
+      },
+      "commission": {
+        "rate": 0.05,
+        "type": "percentage"
+      },
+      "cookieDurationHours": 720,
+      "linkTemplate": "https://partner.bol.com/click/click?p={productId}&t=url&s={publisherId}&url={targetUrl}",
+      "lastVerified": "2026-05-26T00:00:00+02:00",
+      "notes": "REJECTED 2026-05-26. Site ID 1520310. DO NOT USE. 'in behandeling' text in ReviewLayout.astro:156 must be scrubbed."
+    },
+    "coolblue": {
+      "name": "Coolblue",
+      "program": "Awin / Coolblue",
+      "status": "pending",
+      "perSite": {
+        "kieskeuken": {
+          "status": "pending",
+          "affiliateId": null
+        },
+        "dutch-ai-tools": {
+          "status": "inactive"
+        }
+      },
+      "commission": null,
+      "cookieDurationHours": null,
+      "linkTemplate": null,
+      "lastVerified": "2026-05-27T00:00:00+02:00",
+      "notes": "Awin publisher 2899551. Joined Coolblue in My Programs. Awaiting advertiser approval. Link Builder gated until approved."
+    },
+    "beehiiv": {
+      "name": "beehiiv",
+      "program": "beehiiv Affiliate (Boost)",
+      "status": "active",
+      "perSite": {
+        "dutch-ai-tools": {
+          "status": "active",
+          "affiliateId": "anonymous-operator"
+        }
+      },
+      "commission": {
+        "rate": 0.5,
+        "type": "percentage",
+        "notes": "50-60% Boost program"
+      },
+      "cookieDurationHours": 720,
+      "linkTemplate": "https://www.beehiiv.com/?via={affiliateId}",
+      "lastVerified": "2026-05-27T00:00:00+02:00",
+      "notes": "Core for Dutch AI Tools. via=anonymous-operator.",
+      "domainHints": [
+        "beehiiv.com"
+      ]
+    },
+    "taskade": {
+      "name": "Taskade",
+      "program": "Taskade Affiliate",
+      "status": "active",
+      "perSite": {
+        "dutch-ai-tools": {
+          "status": "active",
+          "affiliateId": "55nfr2"
+        }
+      },
+      "commission": {
+        "rate": 0.2,
+        "type": "percentage",
+        "notes": "20% lifetime"
+      },
+      "cookieDurationHours": 720,
+      "linkTemplate": "https://taskade.com/?via={affiliateId}",
+      "lastVerified": "2026-05-26T00:00:00+02:00",
+      "notes": "Code 55nfr2. 14 articles monetized.",
+      "domainHints": [
+        "taskade.com"
+      ]
+    },
+    "writesonic": {
+      "name": "Writesonic",
+      "program": "Writesonic Affiliate",
+      "status": "active",
+      "perSite": {
+        "dutch-ai-tools": {
+          "status": "active",
+          "affiliateId": "aitoolsnl"
+        }
+      },
+      "commission": {
+        "rate": 0.3,
+        "type": "percentage",
+        "notes": "30% lifetime"
+      },
+      "cookieDurationHours": 720,
+      "linkTemplate": "https://writesonic.com/?via={affiliateId}",
+      "lastVerified": "2026-05-26T00:00:00+02:00",
+      "notes": "Code aitoolsnl. 13 articles monetized.",
+      "domainHints": [
+        "writesonic.com"
+      ]
+    },
+    "notion": {
+      "name": "Notion",
+      "program": "Notion Affiliate (if exists)",
+      "status": "dead",
+      "perSite": {
+        "dutch-ai-tools": {
+          "status": "dead"
+        }
+      },
+      "commission": null,
+      "cookieDurationHours": null,
+      "linkTemplate": null,
+      "lastVerified": "2026-05-27T00:00:00+02:00",
+      "notes": "DEAD. 36 references found in Dutch AI Tools. Scrub all and replace with non-affiliate alternatives.",
+      "domainHints": [
+        "notion.so",
+        "affiliate.notion.so"
+      ]
+    },
+    "copy-ai": {
+      "name": "Copy.ai",
+      "program": "Copy.ai Affiliate",
+      "status": "dead",
+      "perSite": {
+        "dutch-ai-tools": {
+          "status": "dead"
+        }
+      },
+      "commission": null,
+      "cookieDurationHours": null,
+      "linkTemplate": null,
+      "lastVerified": "2026-05-27T00:00:00+02:00",
+      "notes": "DEAD. 16 references found. Scrub all.",
+      "domainHints": [
+        "copy.ai",
+        "affiliate.copy.ai"
+      ]
+    }
+  }
+}

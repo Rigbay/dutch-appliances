@@ -1,10 +1,10 @@
 import { readFileSync } from 'fs';
 
-const REGISTRY_PATH =
-  (process.env.HOME || process.env.USERPROFILE || '') +
-  '/.hermes/affiliates/merchants.json';
+// Use committed registry copy (sync from ~/.hermes/affiliates/merchants.json before deploy)
+const REGISTRY_PATH = new URL('../data/merchants.json', import.meta.url).pathname;
 
 let cachedRegistry: any = null;
+let domainIndex: Record<string, string> | null = null;
 
 export type MerchantStatus =
   | 'active'
@@ -30,6 +30,7 @@ export interface Merchant {
   fallbackUrl?: string | null;
   lastVerified?: string;
   notes?: string;
+  domainHints?: string[];
 }
 
 export interface Registry {
@@ -48,6 +49,16 @@ export function loadRegistry(): Registry {
   try {
     const raw = readFileSync(REGISTRY_PATH, 'utf-8');
     cachedRegistry = JSON.parse(raw);
+    // Build domain→merchantId index
+    domainIndex = {};
+    for (const [id, merchant] of Object.entries(cachedRegistry.merchants)) {
+      const m = merchant as Merchant;
+      if (m.domainHints) {
+        for (const hint of m.domainHints) {
+          domainIndex[hint] = id;
+        }
+      }
+    }
     return cachedRegistry;
   } catch (err) {
     console.warn(
@@ -60,6 +71,16 @@ export function loadRegistry(): Registry {
 export function getMerchant(id: string): Merchant | null {
   const reg = loadRegistry();
   return reg.merchants?.[id] ?? null;
+}
+
+export function detectMerchant(url: string): string | null {
+  loadRegistry(); // ensure domainIndex is built
+  if (!domainIndex) return null;
+  const lower = url.toLowerCase();
+  for (const [domain, id] of Object.entries(domainIndex)) {
+    if (lower.includes(domain)) return id;
+  }
+  return null;
 }
 
 export function canRenderAffiliate(merchantId: string, siteId: string): boolean {
