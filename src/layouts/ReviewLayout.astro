@@ -4,6 +4,7 @@ import BaseLayout from './BaseLayout.astro';
 import AffiliateNotice from '../components/AffiliateNotice.astro';
 import AffiliateLink from '../components/AffiliateLink.astro';
 import ArticleCard from '../components/ArticleCard.astro';
+import Breadcrumb from '../components/Breadcrumb.astro';
 import ComparisonTable from '../components/ComparisonTable.astro';
 
 interface Props {
@@ -141,7 +142,9 @@ const articleSchema = {
   <script type="application/ld+json" set:html={JSON.stringify(schema)} />
   <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
 
-  <article class="mx-auto max-w-6xl px-4 py-10 sm:px-6 lg:px-8">
+  <Breadcrumb category={data.category} categoryLabel={categoryLabel || 'Overig'} featuredProduct={data.featuredProduct} />
+
+  <article class="mx-auto max-w-6xl px-4 py-6 sm:px-6 lg:px-8">
     <header class="grid gap-8 lg:grid-cols-[1.6fr_0.9fr] lg:items-end">
       <div>
         <p class="text-sm font-bold uppercase tracking-[0.16em] text-leaf">{categoryLabel} / koopgids {data.modelYear}</p>

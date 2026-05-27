@@ -1,7 +1,9 @@
 import { readFileSync } from 'fs';
 
 // Use committed registry copy (sync from ~/.hermes/affiliates/merchants.json before deploy)
-const REGISTRY_PATH = new URL('../data/merchants.json', import.meta.url).pathname;
+// During Astro build, the compiled file runs from the project root, so process.cwd() works
+import { join } from 'path';
+const REGISTRY_PATH = join(process.cwd(), 'src', 'data', 'merchants.json');
 
 let cachedRegistry: any = null;
 let domainIndex: Record<string, string> | null = null;
