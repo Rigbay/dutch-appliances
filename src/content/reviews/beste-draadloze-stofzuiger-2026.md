@@ -30,6 +30,7 @@ products:
   bestFor: Beste prestaties
   rating: 4.8
   affiliateLink: https://www.amazon.nl/dp/B09MJ7QL6H?tag=kieskeukennl-21
+- [**Bekijk draadloze stofzuiger op Coolblue** (Awin/Coolblue)](https://www.awin1.com/cread.php?awinmid=85161&awinaffid=2899551&ued=https%3A%2F%2Fwww.coolblue.nl%2Fschoonmaken%2Fstofzuigers%2Fdraadloze-stofzuigers) — draadloze-stofzuigers op Coolblue
 - name: Samsung Bespoke Jet
   verdict: Sterke prijs-kwaliteitverhouding met een innovatief Clean Station dat het
     stofreservoir automatisch leegt zonder stofwolk.

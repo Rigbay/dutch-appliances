@@ -16,6 +16,7 @@ cons:
 - Niet alle accessoires standaard meegeleverd
 affiliateLinks:
 - https://www.amazon.nl/dp/B0BWY9BY2S?tag=kieskeukennl-21
+- [**Bekijk tosti ijzer op Coolblue** (Awin/Coolblue)](https://www.awin1.com/cread.php?awinmid=85161&awinaffid=2899551&ued=https%3A%2F%2Fwww.coolblue.nl%2Fkeuken%2Ftosti-ijzers) — tosti-ijzers op Coolblue
 - https://www.amazon.nl/dp/B0BWY9BY2S?tag=kieskeukennl-21
 date: 2026-05-14
 modelYear: 2026

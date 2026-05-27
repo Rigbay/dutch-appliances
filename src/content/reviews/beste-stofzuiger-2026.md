@@ -16,6 +16,7 @@ cons:
 - Grote canisters nemen veel kastruimte in
 affiliateLinks:
 - https://www.amazon.nl/dp/B0CH5QWSGK?tag=kieskeukennl-21
+- [**Bekijk stofzuiger op Coolblue** (Awin/Coolblue)](https://www.awin1.com/cread.php?awinmid=85161&awinaffid=2899551&ued=https%3A%2F%2Fwww.coolblue.nl%2Fschoonmaken%2Fstofzuigers) — stofzuigers op Coolblue
 - https://www.amazon.nl/dp/B0CH5QWSGK?tag=kieskeukennl-21
 - https://www.amazon.nl/dp/B0CH5QWSGK?tag=kieskeukennl-21
 date: 2026-05-06

@@ -32,6 +32,7 @@ products:
   bestFor: Allergiepatiënten en gezinnen die een stille, efficiënte en slimme luchtreiniger zoeken voor grotere ruimtes.
   rating: 4.7
   affiliateLink: https://www.amazon.nl/dp/B07VV4NZW5?tag=kieskeukennl-21
+- [**Bekijk luchtreiniger op Coolblue** (Awin/Coolblue)](https://www.awin1.com/cread.php?awinmid=85161&awinaffid=2899551&ued=https%3A%2F%2Fwww.coolblue.nl%2Fluchtbehandeling%2Fluchtreinigers) — luchtreinigers op Coolblue
 - name: Dyson Purifier Cool Formaldehyde TP09
   verdict: De Dyson TP09 blinkt uit in design en functionaliteit, met een focus op het afvangen van zowel deeltjes als schadelijke
     gassen, en dient tevens als krachtige ventilator.

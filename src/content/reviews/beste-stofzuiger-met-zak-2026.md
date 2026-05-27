@@ -16,6 +16,7 @@ cons:
 - Kan onhandig zijn om zak te vervangen bij volle zak
 affiliateLinks:
 - https://www.amazon.nl/dp/B0BGZTM918?tag=kieskeukennl-21
+- [**Bekijk stofzuiger met zak op Coolblue** (Awin/Coolblue)](https://www.awin1.com/cread.php?awinmid=85161&awinaffid=2899551&ued=https%3A%2F%2Fwww.coolblue.nl%2Fschoonmaken%2Fstofzuigers) — stofzuigers op Coolblue
 - https://partner.bol.com/nl/product/bosch-serie-8-propower-bgl8sil3-stofzuiger-zilver/9300000071123457
 - https://partner.bol.com/nl/product/siemens-vs08g2711-q-series-power-edition-stofzuiger/9300000071123458
 - https://partner.bol.com/nl/product/philips-powerpro-compact-fc9332-09-stofzuiger-blauw/9300000071123459
