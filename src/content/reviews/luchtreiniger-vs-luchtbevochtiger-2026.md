@@ -20,10 +20,10 @@ featuredProduct: Philips Air Performer 8000
 readingTime: 11 min
 date: '2026-05-27'
 products:
-  - name: '**Philips Air Performer 8000**'
-    verdict: Uniek apparaat dat tegelijk de lucht zuivert én bevochtigt.
+  - name: 'Philips Air Performer 8000'
+    verdict: 'Uniek apparaat dat tegelijk de lucht zuivert en bevochtigt.'
     priceRange: EUR 500-650
-    bestFor: Alles-in-één: zuiveren + bevochtigen
+    bestFor: 'Alles-in-een: zuiveren + bevochtigen'
     rating: 4.7
     affiliateLink: https://www.amazon.nl/s?k=Philips+Air+Performer+8000&tag=kieskeukennl-21
   - name: '**Xiaomi Smart Air Purifier 4 Pro**'

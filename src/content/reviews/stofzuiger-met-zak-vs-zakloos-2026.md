@@ -21,7 +21,7 @@ readingTime: 11 min
 date: '2026-05-27'
 products:
   - name: '**Miele Complete C3 PowerLine**'
-    verdict: De gouden standaard: fluisterstil, krachtig en bouwkwaliteit voor 20 jaar.
+    verdict: 'De gouden standaard: fluisterstil, krachtig en bouwkwaliteit voor 20 jaar.'
     priceRange: EUR 250-350
     bestFor: Allergie-huishoudens, premium
     rating: 4.9
@@ -45,7 +45,7 @@ products:
     rating: 4.6
     affiliateLink: https://www.amazon.nl/s?k=Shark+Stratos+Anti+Hair+Wrap&tag=kieskeukennl-21
   - name: '**Siemens VSQ5X1230**'
-    verdict: Duitse degelijkheid: stil, krachtig en energiezuinig.
+    verdict: 'Duitse degelijkheid: stil, krachtig en energiezuinig.'
     priceRange: EUR 200-280
     bestFor: Prijs-kwaliteit met zak
     rating: 4.5
