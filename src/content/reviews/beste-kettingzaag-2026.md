@@ -14,7 +14,7 @@ cons:
 - Onderhoud is noodzakelijk
 - Benzine modellen kunnen luidruchtig zijn
 affiliateLinks:
-- https://partner.bol.com/placeholder
+- https://www.amazon.nl/s?k=kettingzaag&tag=kieskeukennl-21
 date: 2026-05-20
 modelYear: 2026
 featuredProduct: Stihl MS 180
@@ -25,31 +25,31 @@ products:
   priceRange: EUR 220-260
   bestFor: Middelgrote tot grote tuinen
   rating: 4.7
-  affiliateLink: https://partner.bol.com/placeholder
+  affiliateLink: https://www.amazon.nl/s?k=Stihl+MS+180&tag=kieskeukennl-21
 - name: Husqvarna 120 Mark II
   verdict: Premium kwaliteit voor veeleisend werk
   priceRange: EUR 240-280
   bestFor: Intensief gebruik en brandhout
   rating: 4.6
-  affiliateLink: https://partner.bol.com/placeholder
+  affiliateLink: https://www.amazon.nl/s?k=Husqvarna+120+Mark+II&tag=kieskeukennl-21
 - name: Makita UC4051A
   verdict: Beste elektrische kettingzaag
   priceRange: EUR 160-190
   bestFor: Stille buurten en kleinere klussen
   rating: 4.5
-  affiliateLink: https://partner.bol.com/placeholder
+  affiliateLink: https://www.amazon.nl/s?k=Makita+UC4051A&tag=kieskeukennl-21
 - name: Einhell GC-PC 2040
   verdict: Scherp geprijsde benzine instapper
   priceRange: EUR 130-160
   bestFor: Budget-bewuste tuinier
   rating: 4.2
-  affiliateLink: https://partner.bol.com/placeholder
+  affiliateLink: https://www.amazon.nl/s?k=Einhell+GC-PC+2040&tag=kieskeukennl-21
 - name: Black+Decker GK1000
   verdict: Betaalbare elektrische instapper
   priceRange: EUR 70-90
   bestFor: Kleine tuinen en licht snoeiwerk
   rating: 4.0
-  affiliateLink: https://partner.bol.com/placeholder
+  affiliateLink: https://www.amazon.nl/s?k=Black+Decker+GK1000&tag=kieskeukennl-21
 related:
 - beste-heggenschaar-2026
 - beste-tuinverwarming-2026
