@@ -16,7 +16,6 @@ cons:
 - Grote airfryers nemen veel aanrechtruimte in
 affiliateLinks:
 - https://www.amazon.nl/dp/B0CQ8GHBRG?tag=kieskeukennl-21
-- [**Bekijk airfryer op Coolblue** (Awin/Coolblue)](https://www.awin1.com/cread.php?awinmid=85161&awinaffid=2899551&ued=https%3A%2F%2Fwww.coolblue.nl%2Fkeuken%2Ffriteuses%2Fairfryers) — airfryers op Coolblue
 - https://www.amazon.nl/dp/B0CQ8GHBRG?tag=kieskeukennl-21
 - https://www.amazon.nl/dp/B0CQ8GHBRG?tag=kieskeukennl-21
 date: 2026-05-06

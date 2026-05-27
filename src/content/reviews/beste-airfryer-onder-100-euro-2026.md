@@ -16,7 +16,6 @@ cons:
 - Kan luider zijn
 affiliateLinks:
 - https://www.amazon.nl/dp/B0CF9RZ5NV?tag=kieskeukennl-21
-- [**Bekijk airfryer onder 100 euro op Coolblue** (Awin/Coolblue)](https://www.awin1.com/cread.php?awinmid=85161&awinaffid=2899551&ued=https%3A%2F%2Fwww.coolblue.nl%2Fkeuken%2Ffriteuses%2Fairfryers) — airfryers op Coolblue
 modelYear: 2026
 featuredProduct: Tefal Easy Fry Compact
 readingTime: 8 min

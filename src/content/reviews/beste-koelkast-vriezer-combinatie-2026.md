@@ -16,7 +16,6 @@ cons:
 - Hogere aanschafprijs voor premium modellen.
 affiliateLinks:
 - https://www.amazon.nl/dp/B0CH7WGF9S?tag=kieskeukennl-21
-- [**Bekijk koelkast vriezer combinatie op Coolblue** (Awin/Coolblue)](https://www.awin1.com/cread.php?awinmid=85161&awinaffid=2899551&ued=https%3A%2F%2Fwww.coolblue.nl%2Fkoelen-vriezen%2Famerikaanse-koelkasten) — amerikaanse-koelkasten op Coolblue
 - https://www.amazon.nl/dp/B0CH7WGF9S?tag=kieskeukennl-21
 - https://www.amazon.nl/dp/B0CH7WGF9S?tag=kieskeukennl-21
 date: 2026-05-14

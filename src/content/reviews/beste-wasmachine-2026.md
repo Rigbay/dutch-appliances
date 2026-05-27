@@ -15,7 +15,6 @@ cons:
 - Installatie kan specialistisch werk vereisen
 affiliateLinks:
 - https://www.amazon.nl/dp/B07WFQQVVK?tag=kieskeukennl-21
-- [**Bekijk wasmachine op Coolblue** (Awin/Coolblue)](https://www.awin1.com/cread.php?awinmid=85161&awinaffid=2899551&ued=https%3A%2F%2Fwww.coolblue.nl%2Fwassen-drogen%2Fwasmachines) — wasmachines op Coolblue
 - https://www.amazon.nl/dp/B07WFQQVVK?tag=kieskeukennl-21
 date: 2026-05-11
 modelYear: 2026

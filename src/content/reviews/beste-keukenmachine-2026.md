@@ -33,7 +33,6 @@ products:
     recepten maken.
   rating: 4.8
   affiliateLink: https://www.amazon.nl/dp/B06XDPNQ1R?tag=kieskeukennl-21
-- [**Bekijk keukenmachine op Coolblue** (Awin/Coolblue)](https://www.awin1.com/cread.php?awinmid=85161&awinaffid=2899551&ued=https%3A%2F%2Fwww.coolblue.nl%2Fkeuken%2Fkeukenmachines) — keukenmachines op Coolblue
 - name: Kenwood Chef XL Titanium KVC7300S Keukenmachine
   verdict: De Kenwood Chef XL Titanium blinkt uit in kracht en veelzijdigheid, ideaal
     voor de serieuze thuiskok.

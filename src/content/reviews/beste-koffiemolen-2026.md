@@ -27,7 +27,6 @@ products:
   bestFor: Thuisgebruik, veelzijdigheid
   rating: 4.5
   affiliateLink: https://www.amazon.nl/dp/B0020P15BQ?tag=kieskeukennl-21
-- [**Bekijk koffiemolen op Coolblue** (Awin/Coolblue)](https://www.awin1.com/cread.php?awinmid=85161&awinaffid=2899551&ued=https%3A%2F%2Fwww.coolblue.nl%2Fkoffie%2Fkoffiemolens) — koffiemolens op Coolblue
 - name: Sage/Breville Dose Control Pro
   verdict: Beste prijs-kwaliteit met digitale timer
   priceRange: EUR 120-150

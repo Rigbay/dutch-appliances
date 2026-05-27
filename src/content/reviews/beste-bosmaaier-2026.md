@@ -16,7 +16,6 @@ cons:
 - Niet alle accessoires standaard meegeleverd
 affiliateLinks:
 - https://www.amazon.nl/dp/B07KT96ZLC?tag=kieskeukennl-21
-- [**Bekijk bosmaaier op Coolblue** (Awin/Coolblue)](https://www.awin1.com/cread.php?awinmid=85161&awinaffid=2899551&ued=https%3A%2F%2Fwww.coolblue.nl%2Ftuin%2Fgrasmaaiers%2Fbosmaaiers) — bosmaaiers op Coolblue
 - https://www.amazon.nl/dp/B07KT96ZLC?tag=kieskeukennl-21
 date: 2026-05-14
 modelYear: 2026

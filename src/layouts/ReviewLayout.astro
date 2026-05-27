@@ -29,6 +29,17 @@ const extractAsin = (url: string): string => {
 };
 const amazonSearch = (name: string) => `https://www.amazon.nl/s?k=${encodeURIComponent(name.replace(/\*\*/g, '').trim())}&tag=kieskeukennl-21`;
 
+// Parse priceRange strings like "EUR 500-2000" or "EUR 200-3000" into numeric bounds
+const parsePriceRange = (pr: string): { low: number; high: number } | null => {
+  const match = pr.match(/(\d+)\s*[-–]\s*(\d+)/);
+  if (!match) return null;
+  const low = parseInt(match[1], 10);
+  const high = parseInt(match[2], 10);
+  if (low > 0 && high >= low) return { low, high };
+  return null;
+};
+const articlePriceRange = parsePriceRange(data.priceRange);
+
 const breadcrumbSchema = {
   '@context': 'https://schema.org',
   '@type': 'BreadcrumbList',
@@ -39,7 +50,23 @@ const breadcrumbSchema = {
   ]
 };
 
-const schema = {
+// Build individual Offer objects from product data for rich-pricing eligibility
+const productOffers = data.products.slice(0, 10).map((p: any) => {
+  const pr = parsePriceRange(p.priceRange || '');
+  const offer: any = {
+    '@type': 'Offer',
+    'priceCurrency': 'EUR',
+    'availability': 'https://schema.org/InStock',
+    'url': p.affiliateLink,
+    'seller': { '@type': 'Organization', 'name': 'Amazon NL' }
+  };
+  if (pr) { offer.price = pr.low; }
+  return offer;
+});
+
+// Product schema with editorial Review. No aggregateRating — a single editorial
+// rating doesn't qualify as an "aggregate" and Google flags ratingCount:1 as spam.
+const schema: any = {
   '@context': 'https://schema.org',
   '@type': 'Product',
   name: data.featuredProduct,
@@ -59,20 +86,25 @@ const schema = {
     },
     name: data.title,
     reviewBody: data.description
-  },
-  aggregateRating: {
-    '@type': 'AggregateRating',
-    ratingValue: data.rating,
-    bestRating: 5,
-    worstRating: 1,
-    ratingCount: 1
-  },
-  offers: {
-    '@type': 'AggregateOffer',
-    priceCurrency: 'EUR',
-    offerCount: data.products.length,
-    availability: 'https://schema.org/InStock'
   }
+};
+
+// AggregateOffer with real price bounds when we can parse them
+if (articlePriceRange) {
+  schema.offers = {
+    '@type': 'AggregateOffer',
+    'priceCurrency': 'EUR',
+    'offerCount': data.products.length,
+    'lowPrice': articlePriceRange.low,
+    'highPrice': articlePriceRange.high,
+    'availability': 'https://schema.org/InStock'
+  };
+}
+// Individual offers for rich-result eligibility
+schema.hasOfferCatalog = {
+  '@type': 'OfferCatalog',
+  'name': `${data.featuredProduct} — beschikbare aanbiedingen`,
+  'itemListElement': productOffers
 };
 const articleSchema = {
   '@context': 'https://schema.org',

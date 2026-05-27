@@ -30,7 +30,6 @@ products:
   bestFor: Huishoudens die frequent en efficiënt willen strijken met een hoge mate van gebruiksgemak.
   rating: 4.8
   affiliateLink: https://www.amazon.nl/dp/B07VV4NZW5?tag=kieskeukennl-21
-- [**Bekijk strijkijzer op Coolblue** (Awin/Coolblue)](https://www.awin1.com/cread.php?awinmid=85161&awinaffid=2899551&ued=https%3A%2F%2Fwww.coolblue.nl%2Fschoonmaken%2Fstrijkijzers) — strijkijzers op Coolblue
 - name: Tefal Pro Express Protect GV9220
   verdict: De Tefal Pro Express Protect GV9220 blinkt uit in duurzaamheid en bescherming van delicate stoffen.
   priceRange: EUR 180-280

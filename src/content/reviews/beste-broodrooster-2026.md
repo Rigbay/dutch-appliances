@@ -37,7 +37,6 @@ products:
   bestFor: Prijs-kwaliteit
   rating: 4.4
   affiliateLink: https://www.amazon.nl/dp/B07VV4NZW5?tag=kieskeukennl-21
-- [**Bekijk broodrooster op Coolblue** (Awin/Coolblue)](https://www.awin1.com/cread.php?awinmid=85161&awinaffid=2899551&ued=https%3A%2F%2Fwww.coolblue.nl%2Fkeuken%2Fbroodroosters) — broodroosters op Coolblue
 - name: Bosch ComfortLine TAT6A003
   verdict: Betaalbare instapkeuze met roestvrijstalen behuizing, ingebouwd broodjesrek
     en degelijk Duits design.

@@ -36,7 +36,6 @@ products:
   bestFor: Rookvrij binnen
   rating: 4.6
   affiliateLink: https://www.amazon.nl/dp/B07VV4NZW5?tag=kieskeukennl-21
-- [**Bekijk elektrische grill op Coolblue** (Awin/Coolblue)](https://www.awin1.com/cread.php?awinmid=85161&awinaffid=2899551&ued=https%3A%2F%2Fwww.coolblue.nl%2Fkeuken%2Felektrische-grills) — elektrische-grills op Coolblue
 - name: Princess Tafelgrill XL
   verdict: Beste prijs-kwaliteit met groot oppervlak en spatscherm — Nederlandse favoriet
   priceRange: EUR 30-60

@@ -16,7 +16,6 @@ cons:
 - Initiële investering
 affiliateLinks:
 - https://www.amazon.nl/dp/B075F78KDV?tag=kieskeukennl-21
-- [**Bekijk raamreiniger op Coolblue** (Awin/Coolblue)](https://www.awin1.com/cread.php?awinmid=85161&awinaffid=2899551&ued=https%3A%2F%2Fwww.coolblue.nl%2Fschoonmaken%2Framenreinigers) — ramenreinigers op Coolblue
 - https://partner.bol.com/nl/s/search/?search=leifheit-window-vac
 date: 2026-05-12
 modelYear: 2026

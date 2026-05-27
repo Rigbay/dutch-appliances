@@ -43,7 +43,6 @@ products:
   bestFor: Budgetbewuste consumenten die een betrouwbare blender zoeken voor smoothies en lichte soepbereidingen.
   rating: 4.2
   affiliateLink: https://www.amazon.nl/dp/B07VV4NZW5?tag=kieskeukennl-21
-- [**Bekijk blender op Coolblue** (Awin/Coolblue)](https://www.awin1.com/cread.php?awinmid=85161&awinaffid=2899551&ued=https%3A%2F%2Fwww.coolblue.nl%2Fkeuken%2Fblenders) — blenders op Coolblue
 - name: KitchenAid K400 Blender
   verdict: Een stijlvolle en degelijke blender met een uitstekende blendkwaliteit en een breed scala aan snelheden.
   priceRange: EUR 249-349
