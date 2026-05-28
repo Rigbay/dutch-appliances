@@ -58,12 +58,12 @@ products:
   rating: 4.4
   affiliateLink: https://www.amazon.nl/dp/B07FPZBKQ4?tag=kieskeukennl-21
 related:
-  - beste-airfryer-met-twee-manden-2026
-  - beste-inductiekookplaat-2026
-  - beste-airfryer-2026
-  - beste-afzuigkap-2026
-  - beste-staafmixer-2026
-  - beste-broodrooster-2026
+- beste-airfryer-met-twee-manden-2026
+- beste-inductiekookplaat-2026
+- beste-airfryer-2026
+- beste-afzuigkap-2026
+- beste-staafmixer-2026
+- beste-broodrooster-2026
 ---
 
 
@@ -117,7 +117,7 @@ Of je nu een drukke ouder bent die snel een kan koffie nodig heeft, een enthousi
  * **SCA-gecertificeerd (potentieel):** Hoewel niet altijd expliciet vermeld op de verpakking van alle varianten, is de Svart Presisjon ontworpen met de principes van de Specialty Coffee Association in gedachten. Dit betekent dat de machine streven naar de ideale zetparameters voor een optimale extractie. Het resultaat is een koffie die de subtiele smaken van specialty bonen goed naar voren brengt.
  * **Eenvoudige en Intuïtieve Bediening:** De machine is zeer eenvoudig in gebruik. Vul het waterreservoir, voeg gemalen koffie toe aan de filterhouder en zet de machine aan. Er zijn geen ingewikkelde instellingen, wat het een toegankelijk apparaat maakt voor zowel beginners als ervaren koffiedrinkers die geen behoefte hebben aan extra functionaliteit.
 * **2 eerlijke nadelen:**
- * **Bouwkwaliteit minder robuust dan duurdere opties:** Hoewel de machine degelijk is voor zijn prijs, is de gebruikte kunststof minder premium dan het metaal van duurdere Moccamaster-modellen. Dit kan resulteren in een minder luxe gevoel en mogelijk een kortere levensduur bij intensief dagelijks gebruik. onze [luxe airfryer gids](/beste-luxe-airfryer-2026/). onze [luxe airfryer gids](/beste-luxe-airfryer-2026/). onze [airfryer friteuse gids](/airfryer-vs-friteuse-2026/). onze [airfryer oven gids](/airfryer-vs-oven-2026/). onze [airfryer friteuse gids](/airfryer-vs-friteuse-2026/). onze [airfryer gids](/beste-airfryer-2026/).
+ * **Bouwkwaliteit minder robuust dan duurdere opties:** Hoewel de machine degelijk is voor zijn prijs, is de gebruikte kunststof minder premium dan het metaal van duurdere Moccamaster-modellen. Dit kan resulteren in een minder luxe gevoel en mogelijk een kortere levensduur bij intensief dagelijks gebruik. onze [luxe airfryer gids](/reviews/beste-luxe-airfryer-2026/). onze [luxe airfryer gids](/beste-luxe-airfryer-2026/). onze [airfryer friteuse gids](/reviews/airfryer-vs-friteuse-2026/). onze [airfryer magnetron gids](/reviews/airfryer-vs-magnetron-2026/). onze [luxe airfryer gids](/beste-luxe-airfryer-2026/). onze [airfryer friteuse gids](/airfryer-vs-friteuse-2026/). onze [airfryer oven gids](/airfryer-vs-oven-2026/). onze [airfryer friteuse gids](/airfryer-vs-friteuse-2026/). onze [airfryer gids](/beste-airfryer-2026/).
  * **Capaciteit beperkter:** De machine heeft een maximale capaciteit van 1,25 liter (ongeveer 10 kopjes), wat voor grotere huishoudens of gasten mogelijk aan de krappe kant is.
 
 ### Beste voor Specialty Koffie: Technivorm Moccamaster KBGV Select

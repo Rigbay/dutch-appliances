@@ -1,8 +1,8 @@
 ---
 title: 'Beste Kruiwagens & Tuintransportkarren 2026: Til- en Sleepwerk Makkelijk Gemaakt'
 slug: beste-kruiwagen-2026
-description: Vind de beste kruiwagen, tuinkar of transportwagen voor uw tuin en klussen in 2026. Vergelijk duurzame modellen
-  voor grond, zand, planten en zwaar werk.
+description: Vind de beste kruiwagen, tuinkar of transportwagen voor uw tuin en klussen
+  in 2026. Vergelijk duurzame modellen voor grond, zand, planten en zwaar werk.
 category: tuin
 rating: 4.4
 priceRange: EUR 20-250
@@ -23,13 +23,15 @@ featuredProduct: Pelican Stalen Kruiwagen 85L
 readingTime: '10'
 products:
 - name: Pelican Stalen Kruiwagen 85L
-  verdict: De klassieke allround bouwkruiwagen — onverwoestbaar, groot volume, perfect voor zwaar werk
+  verdict: De klassieke allround bouwkruiwagen — onverwoestbaar, groot volume, perfect
+    voor zwaar werk
   priceRange: EUR 40-60
   bestFor: Zwaar tuinwerk, bouwklussen
   rating: 4.7
   affiliateLink: https://partner.bol.com/nl/nl/kruiwagen-staal/9200000000000006/
 - name: Al-ko Kunststof Kruiwagen 100L
-  verdict: Roestvrij en lichtgewicht — 30% lichter dan staal, ideaal voor dagelijks tuinwerk
+  verdict: Roestvrij en lichtgewicht — 30% lichter dan staal, ideaal voor dagelijks
+    tuinwerk
   priceRange: EUR 60-90
   bestFor: Dagelijks tuinwerk, planten
   rating: 4.5
@@ -41,7 +43,8 @@ products:
   rating: 4.4
   affiliateLink: https://partner.bol.com/nl/nl/wolf-garten-multistar/9200000000000008/
 - name: Einhell Tuinkar 80kg
-  verdict: Gemotoriseerde transportwagen op accu — perfect voor zwaar werk zonder fysieke belasting
+  verdict: Gemotoriseerde transportwagen op accu — perfect voor zwaar werk zonder
+    fysieke belasting
   priceRange: EUR 150-250
   bestFor: Zwaar werk, beperkte kracht
   rating: 4.2
@@ -53,12 +56,12 @@ products:
   rating: 4.3
   affiliateLink: https://partner.bol.com/nl/nl/kruiwagen-goedkoop/9200000000000010/
 related:
-  - beste-tuinverwarming-2026
-  - beste-hogedrukreiniger-2026
-  - beste-bosmaaier-2026
-  - beste-airfryer-met-twee-manden-2026
-  - beste-heggenschaar-2026
-  - beste-inductiekookplaat-2026
+- beste-tuinverwarming-2026
+- beste-hogedrukreiniger-2026
+- beste-bosmaaier-2026
+- beste-airfryer-met-twee-manden-2026
+- beste-heggenschaar-2026
+- beste-inductiekookplaat-2026
 draft: false
 ---
 
@@ -137,9 +140,9 @@ Deze gids neemt je mee langs de top 5 van kruiwagens, tuinkarren en transportwag
 
 Meer keuzehulpen in deze categorie:
 
-- [beste-tuinverwarming-2026](/beste-tuinverwarming-2026/)
+- [beste-tuinverwarming-2026](/beste-tuinverwarming-2026/) onze [tuinverwarming gids](/reviews/beste-tuinverwarming-2026/).
 - [beste-hogedrukreiniger-2026](/beste-hogedrukreiniger-2026/)
-- [Krachtige Trimmer voor Hoog Gras en Zwaar Struikgewas](/beste-bosmaaier-2026/)
+- [Krachtige Trimmer voor Hoog Gras en Zwaar Struikgewas](/beste-bosmaaier-2026/) onze [bosmaaier gids](/reviews/beste-bosmaaier-2026/). onze [hogedrukreiniger gids](/reviews/beste-hogedrukreiniger-2026/).
 - [Dubbel Koken, Dubbel Genieten in](/beste-airfryer-met-twee-manden-2026/)
 - [beste-heggenschaar-2026](/beste-heggenschaar-2026/)
 - [Uw Complete Gids voor Efficiënt Koken](/beste-inductiekookplaat-2026/)

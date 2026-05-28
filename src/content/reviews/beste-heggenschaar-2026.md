@@ -1,8 +1,8 @@
 ---
 title: beste heggenscharen van 2026
 slug: beste-heggenschaar-2026
-description: Vergelijk de beste heggenscharen van 2026 voor Nederlandse tuinen. Reviews van Bosch, STIHL en Ryobi met focus
-  op snijcapaciteit, ergonomie, accu en steelmodellen.
+description: Vergelijk de beste heggenscharen van 2026 voor Nederlandse tuinen. Reviews
+  van Bosch, STIHL en Ryobi met focus op snijcapaciteit, ergonomie, accu en steelmodellen.
 category: tuin
 rating: 4.0
 priceRange: €30 - €500+
@@ -173,7 +173,7 @@ Uiteindelijk is het belangrijk om uw eigen behoeften te analyseren. Houd rekenin
 Onze andere keuzehulpen die relevant zijn voor deze categorie:
 
 - [Tuinverwarming](/beste-tuinverwarming-2026/)
-- [beste hogedrukreinigers van](/beste-hogedrukreiniger-2026/)
+- [beste hogedrukreinigers van](/beste-hogedrukreiniger-2026/) onze [hogedrukreiniger gids](/reviews/beste-hogedrukreiniger-2026/). onze [tuinverwarming gids](/reviews/beste-tuinverwarming-2026/).
 
 ## Gerelateerde artikelen
 - [Beste Tuinverwarming 2026](/beste-tuinverwarming-2026/)

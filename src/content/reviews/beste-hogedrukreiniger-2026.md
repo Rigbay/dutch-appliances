@@ -1,8 +1,8 @@
 ---
 title: beste hogedrukreinigers van 2026
 slug: beste-hogedrukreiniger-2026
-description: Vergelijk de beste hogedrukreinigers van 2026 voor Nederlandse tuinen en woningen. Reviews met focus op druk,
-  debiet, accessoires en reinigingskracht.
+description: Vergelijk de beste hogedrukreinigers van 2026 voor Nederlandse tuinen
+  en woningen. Reviews met focus op druk, debiet, accessoires en reinigingskracht.
 category: tuin
 rating: 4.0
 priceRange: €30 - €500+
@@ -174,7 +174,7 @@ De zoektocht naar de perfecte hogedrukreiniger eindigt hier. Of je nu een kracht
 Onze andere keuzehulpen die relevant zijn voor deze categorie:
 
 - [beste heggenscharen van](/beste-heggenschaar-2026/)
-- [Tuinverwarming](/beste-tuinverwarming-2026/)
+- [Tuinverwarming](/beste-tuinverwarming-2026/) onze [tuinverwarming gids](/reviews/beste-tuinverwarming-2026/). onze [heggenschaar gids](/reviews/beste-heggenschaar-2026/).
 
 ## Gerelateerde artikelen
 - [beste heggenscharen van 2026](/beste-heggenschaar-2026/)

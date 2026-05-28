@@ -23,15 +23,19 @@ for (const r of reviews) {
 const comparisonClusters = [
   {
     title: 'Airfryers — welke past bij jou?',
-    slugs: ['beste-airfryer-2026', 'beste-compacte-airfryer-2026', 'beste-luxe-airfryer-2026', 'beste-airfryer-onder-100-euro-2026', 'beste-airfryer-met-twee-manden-2026', 'beste-airfryer-oven-combi-2026', 'airfryer-vs-friteuse-2026'],
+    slugs: ['beste-airfryer-2026', 'beste-compacte-airfryer-2026', 'beste-luxe-airfryer-2026', 'beste-airfryer-onder-100-euro-2026', 'beste-airfryer-met-twee-manden-2026', 'beste-airfryer-oven-combi-2026', 'airfryer-vs-friteuse-2026', 'airfryer-vs-magnetron-2026', 'airfryer-vs-oven-2026'],
   },
   {
     title: 'Koffiemachines — van bonen tot Senseo',
-    slugs: ['beste-koffiemachine-2026', 'beste-koffiemachine-bonen-2026', 'beste-koffiemachine-onder-200-euro-2026', 'beste-volautomatische-koffiemachine-2026', 'beste-filterkoffiemachine-2026', 'beste-nespresso-apparaat-2026', 'beste-senseo-koffiezetapparaat-2026', 'beste-koffiemolen-2026', 'koffiemachine-bonen-vs-cups-2026'],
+    slugs: ['beste-koffiemachine-2026', 'beste-koffiemachine-bonen-2026', 'beste-koffiemachine-onder-200-euro-2026', 'beste-volautomatische-koffiemachine-2026', 'beste-filterkoffiemachine-2026', 'beste-nespresso-apparaat-2026', 'beste-senseo-koffiezetapparaat-2026', 'beste-koffiemolen-2026', 'koffiemachine-bonen-vs-cups-2026', 'koffiemachine-vs-senseo-2026', 'espresso-vs-filterkoffie-2026', 'beste-koffiemelkopschuimer-2026'],
   },
   {
     title: 'Stofzuigers — draadloos, met zak of robot',
-    slugs: ['beste-stofzuiger-2026', 'beste-draadloze-stofzuiger-2026', 'beste-steelstofzuiger-2026', 'beste-stofzuiger-met-zak-2026', 'beste-stofzuiger-tegen-dierenharen-2026', 'beste-stofzuiger-voor-allergie-2026', 'beste-kruimeldief-2026', 'stofzuiger-kopen-waar-op-letten-2026', 'stofzuiger-vs-steelstofzuiger-2026', 'robotstofzuiger-vs-stofzuiger-2026'],
+    slugs: ['beste-stofzuiger-2026', 'beste-draadloze-stofzuiger-2026', 'beste-steelstofzuiger-2026', 'beste-stofzuiger-met-zak-2026', 'beste-stofzuiger-tegen-dierenharen-2026', 'beste-stofzuiger-voor-allergie-2026', 'beste-kruimeldief-2026', 'stofzuiger-kopen-waar-op-letten-2026', 'stofzuiger-vs-steelstofzuiger-2026', 'robotstofzuiger-vs-stofzuiger-2026', 'steelstofzuiger-vs-draadloze-stofzuiger-2026', 'stofzuiger-met-zak-vs-zakloos-2026'],
+  },
+  {
+    title: 'Robotreinigers — dweilen en stofzuigen',
+    slugs: ['beste-robotstofzuiger-2026', 'beste-dweilrobot-2026', 'robotstofzuiger-vs-dweilrobot-2026', 'robotstofzuiger-vs-stofzuiger-2026'],
   },
   {
     title: 'Kookplaten — inductie, gas of combi',
@@ -39,27 +43,39 @@ const comparisonClusters = [
   },
   {
     title: 'Wassen & drogen — los of gecombineerd',
-    slugs: ['beste-wasmachine-2026', 'beste-wasdroger-2026', 'wasmachine-vs-wasdroger-combi-2026', 'beste-strijkijzer-2026'],
-  },
-  {
-    title: 'Robotreinigers — de vloer poetsen zonder moeite',
-    slugs: ['beste-robotstofzuiger-2026', 'beste-dweilrobot-2026'],
+    slugs: ['beste-wasmachine-2026', 'beste-wasdroger-2026', 'wasmachine-vs-wasdroger-combi-2026', 'condensdroger-vs-warmtepompdroger-2026', 'beste-strijkijzer-2026'],
   },
   {
     title: 'Mixers, blenders & keukenhulpjes',
-    slugs: ['beste-blender-2026', 'beste-staafmixer-2026', 'beste-handmixer-2026', 'beste-keukenmachine-2026', 'beste-sapcentrifuge-2026', 'beste-slowjuicer-2026', 'beste-citruspers-2026'],
+    slugs: ['beste-blender-2026', 'beste-staafmixer-2026', 'beste-handmixer-2026', 'beste-keukenmachine-2026', 'beste-sapcentrifuge-2026', 'beste-slowjuicer-2026', 'beste-citruspers-2026', 'blender-vs-staafmixer-vs-keukenmachine-2026'],
   },
   {
     title: 'Grasmaaiers & tuingereedschap',
-    slugs: ['beste-grasmaaier-2026', 'beste-robotgrasmaaier-2026', 'beste-bosmaaier-2026', 'beste-verticuteermachine-2026', 'beste-tuingereedschap-set-2026', 'beste-snoeischaar-2026', 'beste-kruiwagen-2026'],
+    slugs: ['beste-grasmaaier-2026', 'beste-robotgrasmaaier-2026', 'beste-bosmaaier-2026', 'beste-verticuteermachine-2026', 'beste-tuingereedschap-set-2026', 'beste-snoeischaar-2026', 'beste-kruiwagen-2026', 'beste-heggenschaar-2026', 'beste-hogedrukreiniger-2026', 'beste-bladblazer-2026', 'beste-kettingzaag-2026'],
   },
   {
     title: 'Koken & bakken',
-    slugs: ['beste-friteuse-2026', 'beste-slowcooker-2026', 'beste-stoomoven-2026', 'beste-afzuigkap-2026', 'beste-inductiekookplaat-2026', 'beste-magnetron-2026', 'beste-tosti-ijzer-2026', 'beste-elektrische-grill-2026', 'beste-broodrooster-2026', 'beste-waterkoker-2026'],
+    slugs: ['beste-friteuse-2026', 'beste-slowcooker-2026', 'beste-stoomoven-2026', 'beste-magnetron-2026', 'beste-tosti-ijzer-2026', 'beste-elektrische-grill-2026', 'beste-broodrooster-2026', 'beste-waterkoker-2026', 'beste-keukenweegschaal-2026'],
   },
   {
     title: 'Koelen & vriezen',
     slugs: ['beste-koelkast-2026', 'beste-koelkast-vriezer-combinatie-2026', 'beste-vriezer-2026'],
+  },
+  {
+    title: 'Lucht & klimaat in huis',
+    slugs: ['beste-luchtreiniger-2026', 'beste-luchtbevochtiger-2026', 'beste-ontvochtiger-2026', 'luchtreiniger-vs-luchtbevochtiger-2026', 'beste-airconditioner-2026', 'beste-elektrische-kachel-2026'],
+  },
+  {
+    title: 'Water & warme dranken',
+    slugs: ['beste-waterkoker-2026', 'waterkoker-vs-quooker-2026', 'beste-koffiemachine-2026', 'beste-filterkoffiemachine-2026', 'beste-nespresso-apparaat-2026', 'beste-senseo-koffiezetapparaat-2026'],
+  },
+  {
+    title: 'Tuin & buiten',
+    slugs: ['beste-grasmaaier-2026', 'beste-robotgrasmaaier-2026', 'beste-tuinverwarming-2026', 'beste-tuinverlichting-2026', 'beste-tuinslang-2026', 'beste-tuinsproeier-2026', 'beste-barbecue-2026', 'beste-raamreiniger-2026', 'beste-stoomreiniger-2026'],
+  },
+  {
+    title: 'Overige huishoudelijke apparaten',
+    slugs: ['beste-vaatwasser-2026', 'beste-strijkijzer-2026', 'beste-tapijtreiniger-2026', 'beste-stoomreiniger-2026'],
   },
 ];
 

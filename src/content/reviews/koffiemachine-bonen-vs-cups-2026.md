@@ -1,7 +1,8 @@
 ---
 title: 'Bonen vs. Cups Koffiemachine 2026: Welke koffie past bij jou?'
 slug: koffiemachine-bonen-vs-cups-2026
-description: Versgemalen bonen of gemak van cups? Vergelijk bonen- en cup-koffiemachines op smaak, prijs per kopje, duurzaamheid en gemak in onze complete gids voor 2026.
+description: Versgemalen bonen of gemak van cups? Vergelijk bonen- en cup-koffiemachines
+  op smaak, prijs per kopje, duurzaamheid en gemak in onze complete gids voor 2026.
 category: keuken
 rating: 4.7
 priceRange: EUR 80-1500
@@ -34,7 +35,8 @@ products:
   rating: 4.8
   affiliateLink: https://www.amazon.nl/s?k=Jura+E8&tag=kieskeukennl-21
 - name: Nespresso Vertuo Next
-  verdict: De moderne cupstandaard met barcode-lezing voor perfecte extractie per koffievariant.
+  verdict: De moderne cupstandaard met barcode-lezing voor perfecte extractie per
+    koffievariant.
   priceRange: EUR 100-180
   bestFor: Gemak & variëteit
   rating: 4.5
@@ -58,17 +60,17 @@ products:
   rating: 4.2
   affiliateLink: https://www.amazon.nl/s?k=Dolce+Gusto+Genio+S&tag=kieskeukennl-21
 related:
-  - beste-koffiemachine-2026
-  - beste-koffiemachine-bonen-2026
-  - beste-volautomatische-koffiemachine-2026
-  - beste-nespresso-apparaat-2026
-  - beste-filterkoffiemachine-2026
-  - beste-koffiemolen-2026
+- beste-koffiemachine-2026
+- beste-koffiemachine-bonen-2026
+- beste-volautomatische-koffiemachine-2026
+- beste-nespresso-apparaat-2026
+- beste-filterkoffiemachine-2026
+- beste-koffiemolen-2026
 ---
 
 # Bonen vs. Cups Koffiemachine 2026: Welke koffie past bij jou?
 
-Het ochtendritueel. Voor miljoenen Nederlanders het moment waarop de dag begint. Maar de manier waarop we dat zwarte goud zetten, verschilt dramatisch. Aan de ene kant heb je de puristen die zweren bij versgemalen bonen en het ritueel van malen, tampen en extraheren. Aan de andere kant de gemaksdrinkers die 's ochtends één knop indrukken en 30 seconden later een perfect kopje in handen hebben.
+Het ochtendritueel. onze [koffiemachine gids](/reviews/beste-koffiemachine-2026/). onze [koffiemachine bonen gids](/reviews/beste-koffiemachine-bonen-2026/). onze [koffiemachine onder 200 euro gids](/reviews/beste-koffiemachine-onder-200-euro-2026/). Voor miljoenen Nederlanders het moment waarop de dag begint. Maar de manier waarop we dat zwarte goud zetten, verschilt dramatisch. Aan de ene kant heb je de puristen die zweren bij versgemalen bonen en het ritueel van malen, tampen en extraheren. Aan de andere kant de gemaksdrinkers die 's ochtends één knop indrukken en 30 seconden later een perfect kopje in handen hebben.
 
 De keuze tussen een bonenmachine en een cupmachine is niet langer alleen een kwestie van smaak versus gemak. In 2026 zijn de technologische verschillen kleiner dan ooit. We zetten de [beste bonenmachines](/beste-koffiemachine-bonen-2026/) en [beste cupmachines](/beste-nespresso-apparaat-2026/) naast elkaar en rekenen uit wat écht de slimste aankoop is voor jouw koffiebehoefte. Voor een breder overzicht van alle types, bekijk onze [complete koffiemachine gids](/beste-koffiemachine-2026/).
 
