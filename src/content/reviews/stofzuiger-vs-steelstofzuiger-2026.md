@@ -85,7 +85,7 @@ related:
 
 ### 1. Zuigkracht — de eeuwige discussie
 
-Lange tijd was dit hét argument tegen steelstofzuigers: ze halen het simpelweg niet bij een stofzuiger met snoer. onze [stofzuiger gids](/reviews/beste-stofzuiger-2026/). onze [stofzuiger met zak gids](/reviews/beste-stofzuiger-met-zak-2026/). onze [stofzuiger tegen dierenharen gids](/reviews/beste-stofzuiger-tegen-dierenharen-2026/). In 2026 is dat niet langer waar, maar er zijn nuances.
+Lange tijd was dit hét argument tegen steelstofzuigers: ze halen het simpelweg niet bij een stofzuiger met snoer. Lees ook onze [stofzuiger gids](/beste-stofzuiger-2026/), [stofzuiger met zak gids](/beste-stofzuiger-met-zak-2026/), en [stofzuiger tegen dierenharen gids](/beste-stofzuiger-tegen-dierenharen-2026/). In 2026 is dat niet langer waar, maar er zijn nuances.
 
 *   **De Steelstofzuiger:** Topmodellen zoals de Dyson V15 Detect genereren nu tot 240 Air Watts aan zuigkracht — vergelijkbaar met veel mid-range traditionele stofzuigers. De slimme sensoren passen de zuigkracht automatisch aan op basis van het vloertype en de hoeveelheid stof. Op harde vloeren en laagpolig tapijt presteren ze uitstekend.
 *   **De Traditionele Stofzuiger:** Een Miele Complete C3 of Kärcher VC 6 trekt nog altijd consistenter op hoogpolig tapijt en dikke vloerbedekking. De continue stroomvoorziening zorgt dat de zuigkracht geen moment terugvalt, iets wat bij een steelstofzuiger na 20-60 minuten (afhankelijk van de stand) wel gebeurt.

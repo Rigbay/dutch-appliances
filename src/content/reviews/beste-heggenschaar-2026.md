@@ -173,7 +173,7 @@ Uiteindelijk is het belangrijk om uw eigen behoeften te analyseren. Houd rekenin
 Onze andere keuzehulpen die relevant zijn voor deze categorie:
 
 - [Tuinverwarming](/beste-tuinverwarming-2026/)
-- [beste hogedrukreinigers van](/beste-hogedrukreiniger-2026/) onze [hogedrukreiniger gids](/reviews/beste-hogedrukreiniger-2026/). onze [tuinverwarming gids](/reviews/beste-tuinverwarming-2026/).
+- [beste hogedrukreinigers van](/beste-hogedrukreiniger-2026/) onze [hogedrukreiniger gids](/beste-hogedrukreiniger-2026/). onze [tuinverwarming gids](/beste-tuinverwarming-2026/).
 
 ## Gerelateerde artikelen
 - [Beste Tuinverwarming 2026](/beste-tuinverwarming-2026/)

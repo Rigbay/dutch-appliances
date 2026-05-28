@@ -140,9 +140,9 @@ Deze gids neemt je mee langs de top 5 van kruiwagens, tuinkarren en transportwag
 
 Meer keuzehulpen in deze categorie:
 
-- [beste-tuinverwarming-2026](/beste-tuinverwarming-2026/) onze [tuinverwarming gids](/reviews/beste-tuinverwarming-2026/).
+- [beste-tuinverwarming-2026](/beste-tuinverwarming-2026/) onze [tuinverwarming gids](/beste-tuinverwarming-2026/).
 - [beste-hogedrukreiniger-2026](/beste-hogedrukreiniger-2026/)
-- [Krachtige Trimmer voor Hoog Gras en Zwaar Struikgewas](/beste-bosmaaier-2026/) onze [bosmaaier gids](/reviews/beste-bosmaaier-2026/). onze [hogedrukreiniger gids](/reviews/beste-hogedrukreiniger-2026/).
+- [Krachtige Trimmer voor Hoog Gras en Zwaar Struikgewas](/beste-bosmaaier-2026/) onze [bosmaaier gids](/beste-bosmaaier-2026/). onze [hogedrukreiniger gids](/beste-hogedrukreiniger-2026/).
 - [Dubbel Koken, Dubbel Genieten in](/beste-airfryer-met-twee-manden-2026/)
 - [beste-heggenschaar-2026](/beste-heggenschaar-2026/)
 - [Uw Complete Gids voor Efficiënt Koken](/beste-inductiekookplaat-2026/)
