@@ -174,7 +174,7 @@ De zoektocht naar de perfecte hogedrukreiniger eindigt hier. Of je nu een kracht
 Onze andere keuzehulpen die relevant zijn voor deze categorie:
 
 - [beste heggenscharen van](/beste-heggenschaar-2026/)
-- [Tuinverwarming](/beste-tuinverwarming-2026/) onze [tuinverwarming gids](/reviews/beste-tuinverwarming-2026/). onze [heggenschaar gids](/reviews/beste-heggenschaar-2026/).
+- [Tuinverwarming](/beste-tuinverwarming-2026/) onze [tuinverwarming gids](/beste-tuinverwarming-2026/). onze [heggenschaar gids](/beste-heggenschaar-2026/).
 
 ## Gerelateerde artikelen
 - [beste heggenscharen van 2026](/beste-heggenschaar-2026/)
