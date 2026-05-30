@@ -26,7 +26,7 @@ products:
   rating: 4.6
   affiliateLink: https://www.amazon.nl/dp/EXAMPLE?tag=kieskeukennl-21
 - name: Combi magnetron (magnetron + grill)
-  verdict: Twee-in-één: snel opwarmen én bruinen — goedkoop alternatief voor kleine keukens
+  verdict: 'Twee-in-één: snel opwarmen én bruinen — goedkoop alternatief voor kleine keukens'
   priceRange: EUR 100-350
   bestFor: Compacte keukens met twee functies in één
   rating: 4.4
