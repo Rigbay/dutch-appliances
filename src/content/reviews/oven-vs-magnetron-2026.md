@@ -17,26 +17,37 @@ affiliateLinks:
   - https://www.amazon.nl/dp/EXAMPLE?tag=kieskeukennl-21
 date: 2026-05-31
 modelYear: 2026
-featuredTool: Oven
-readingTime: 9 min
-tools:
+draft: false
+products:
 - name: Traditionele oven
   verdict: Beste grill- en bruiningsresultaten, veelzijdiger voor recepten
   priceRange: EUR 200-1500
   bestFor: Uitgebreid koken en bakken
   rating: 4.6
   affiliateLink: https://www.amazon.nl/dp/EXAMPLE?tag=kieskeukennl-21
-- name: Vaatwasser oven
-  verdict: Niet beschikbaar in markt — niet toegevoegd
-  priceRange: EUR 0-0
-  bestFor: N.v.t.
-  rating: 0
+- name: Combi magnetron (magnetron + grill)
+  verdict: Twee-in-één: snel opwarmen én bruinen — goedkoop alternatief voor kleine keukens
+  priceRange: EUR 100-350
+  bestFor: Compacte keukens met twee functies in één
+  rating: 4.4
   affiliateLink: https://www.amazon.nl/dp/EXAMPLE?tag=kieskeukennl-21
 - name: Magnetron
   verdict: Snelste opwarming voor restjes, eenvoudige functies, laag energiekosten bij kort gebruik
   priceRange: EUR 50-500
   bestFor: Snel opwarmen en eenvoudige bereidingen
   rating: 4.3
+  affiliateLink: https://www.amazon.nl/dp/EXAMPLE?tag=kieskeukennl-21
+- name: Inductie oven
+  verdict: Snelste voorverwarming, precieze temperatuur, energiezuinig bij lange gebruiksduur
+  priceRange: EUR 400-1800
+  bestFor: Serieuze koks en energiebewuste gezinnen
+  rating: 4.7
+  affiliateLink: https://www.amazon.nl/dp/EXAMPLE?tag=kieskeukennl-21
+- name: Mini oven
+  verdict: Kleine inbouwcapaciteit op het aanrecht, ideaal voor eenpersoonsmaaltijden en studenten
+  priceRange: EUR 50-200
+  bestFor: Eenpersoonshuishoudens en studentenkamers
+  rating: 4.2
   affiliateLink: https://www.amazon.nl/dp/EXAMPLE?tag=kieskeukennl-21
 related:
   - airfryer-vs-friteuse-2026
