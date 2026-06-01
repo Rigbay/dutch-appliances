@@ -16,7 +16,7 @@ cons:
 - Prijzen kunnen variëren per winkel
 - Beschikbaarheid verschilt per model
 affiliateLinks:
-- https://partner.bol.com/
+- "https://www.amazon.nl/s?k=De+Ultieme+Koopgids%3A+Verse+Sappen+Thuis+met+de+Beste+Sapcentrifuges&tag=kieskeukennl-21"
 date: 2026-05-14
 modelYear: 2026
 featuredProduct: 'De Ultieme Koopgids: Verse Sappen Thuis met de Beste Sapcentrifuges

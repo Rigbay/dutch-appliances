@@ -17,7 +17,6 @@ cons:
 - Sommige extra functies zijn wellicht overbodig.
 - Inbouwmodellen vereisen installatiekennis.
 affiliateLinks:
-- https://partner.bol.com/nl/nl/vaatwasser/c121562/
 - https://www.coolblue.nl/vaatwassers
 date: 2026-05-14
 modelYear: 2026
@@ -31,7 +30,7 @@ products:
   bestFor: Gezinnen die de beste prestaties, energie-efficiëntie en gebruiksgemak
     wensen.
   rating: 4.8
-  affiliateLink: https://partner.bol.com/nl/nl/bosch-serie-8-smv88td36e-vaatwasser-rvs-energieklasse-a/9200000123456789.html
+  affiliateLink: "https://www.amazon.nl/s?k=Bosch+Serie+8+SMV88TD36E&tag=kieskeukennl-21"
 - name: Siemens iQ700 SN778X36TE
   verdict: De Siemens iQ700 SN778X36TE biedt vergelijkbare topkwaliteit met een focus
     op innovatieve reinigingstechnologie.
@@ -39,7 +38,7 @@ products:
   bestFor: Tech-liefhebbers die op zoek zijn naar geavanceerde reinigingsopties en
     een premium uitstraling.
   rating: 4.7
-  affiliateLink: https://partner.bol.com/nl/nl/siemens-iq700-sn778x36te-vaatwasser-rvs-energieklasse-a/9200000123456790.html
+  affiliateLink: "https://www.amazon.nl/s?k=Siemens+iQ700+SN778X36TE&tag=kieskeukennl-21"
 - name: Miele G 7465 SCVi XXL
   verdict: De Miele G 7465 SCVi XXL is een toonbeeld van duurzaamheid en betrouwbaarheid,
     met een lange levensduur en uitstekende reinigingsresultaten.
@@ -47,7 +46,7 @@ products:
   bestFor: Gezinnen die investeren in een apparaat dat decennia meegaat en compromisloze
     kwaliteit levert.
   rating: 4.9
-  affiliateLink: https://partner.bol.com/nl/nl/miele-g-7465-scvi-xxl-vaatwasser-energieklasse-a/9200000123456791.html
+  affiliateLink: "https://www.amazon.nl/s?k=Miele+G+7465+SCVi+XXL&tag=kieskeukennl-21"
 - name: AEG FSE83800PM
   verdict: De AEG FSE83800PM combineert efficiëntie met een intuïtieve bediening en
     een aantrekkelijke prijs-kwaliteitverhouding.
@@ -55,7 +54,7 @@ products:
   bestFor: Gezinnen die een betrouwbare, goed presterende vaatwasser zoeken zonder
     de hoofdprijs te betalen.
   rating: 4.5
-  affiliateLink: https://partner.bol.com/nl/nl/aeg-fse83800pm-vaatwasser-energieklasse-a/9200000123456792.html
+  affiliateLink: "https://www.amazon.nl/s?k=AEG+FSE83800PM&tag=kieskeukennl-21"
 - name: Samsung DW80N3030US
   verdict: De Samsung DW80N3030US is een betaalbare optie die toch verrassend stille
     prestaties en adequate reiniging biedt.
@@ -71,7 +70,7 @@ products:
   bestFor: Gezinnen die een functionele inbouwvaatwasser zoeken die past binnen een
     standaard keukenbudget.
   rating: 4.3
-  affiliateLink: https://partner.bol.com/nl/nl/etna-vm460zin-vaatwasser-energieklasse-d/9200000123456794.html
+  affiliateLink: "https://www.amazon.nl/s?k=Etna+VM460ZIN&tag=kieskeukennl-21"
 related:
 - beste-airfryer-met-twee-manden-2026
 - beste-inductiekookplaat-2026

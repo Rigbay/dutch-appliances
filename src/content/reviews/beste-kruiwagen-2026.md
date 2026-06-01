@@ -15,8 +15,7 @@ cons:
 - Niet elk model is in elke bouwmarkt beschikbaar
 - Persoonlijke voorkeur speelt een grote rol bij handgereedschap
 affiliateLinks:
-- https://partner.bol.com/nl/nl/tuin/tuingereedschap/tuingereedschapsets/N_17100/
-- https://partner.bol.com/nl/nl/tuin/tuinberegening/N_17009/
+- "https://www.amazon.nl/s?k=Pelican+Stalen+Kruiwagen+85L&tag=kieskeukennl-21"
 date: '2026-05-21'
 modelYear: 2026
 featuredProduct: Pelican Stalen Kruiwagen 85L
@@ -28,33 +27,33 @@ products:
   priceRange: EUR 40-60
   bestFor: Zwaar tuinwerk, bouwklussen
   rating: 4.7
-  affiliateLink: https://partner.bol.com/nl/nl/kruiwagen-staal/9200000000000006/
+  affiliateLink: "https://www.amazon.nl/s?k=Pelican+Stalen+Kruiwagen+85L&tag=kieskeukennl-21"
 - name: Al-ko Kunststof Kruiwagen 100L
   verdict: Roestvrij en lichtgewicht — 30% lichter dan staal, ideaal voor dagelijks
     tuinwerk
   priceRange: EUR 60-90
   bestFor: Dagelijks tuinwerk, planten
   rating: 4.5
-  affiliateLink: https://partner.bol.com/nl/nl/kruiwagen-kunststof/9200000000000007/
+  affiliateLink: "https://www.amazon.nl/s?k=Al-ko+Kunststof+Kruiwagen+100L&tag=kieskeukennl-21"
 - name: Wolf-Garten Multistar Duo-Wagen
   verdict: Modulair systeem — kruiwagen én platte kar, wisselbaar zonder gereedschap
   priceRange: EUR 100-140
   bestFor: Flexibel tuinwerk
   rating: 4.4
-  affiliateLink: https://partner.bol.com/nl/nl/wolf-garten-multistar/9200000000000008/
+  affiliateLink: "https://www.amazon.nl/s?k=Wolf-Garten+Multistar+Duo-Wagen&tag=kieskeukennl-21"
 - name: Einhell Tuinkar 80kg
   verdict: Gemotoriseerde transportwagen op accu — perfect voor zwaar werk zonder
     fysieke belasting
   priceRange: EUR 150-250
   bestFor: Zwaar werk, beperkte kracht
   rating: 4.2
-  affiliateLink: https://partner.bol.com/nl/nl/eenhell-tuinkar/9200000000000009/
+  affiliateLink: "https://www.amazon.nl/s?k=Einhell+Tuinkar+80kg&tag=kieskeukennl-21"
 - name: Hornbach Basic 80L Stalen Kruiwagen
   verdict: De beste prijs-kwaliteit voor incidenteel gebruik — solide voor de prijs
   priceRange: EUR 25-35
   bestFor: Budget, incidenteel gebruik
   rating: 4.3
-  affiliateLink: https://partner.bol.com/nl/nl/kruiwagen-goedkoop/9200000000000010/
+  affiliateLink: "https://www.amazon.nl/s?k=Hornbach+Basic+80L+Stalen+Kruiwagen&tag=kieskeukennl-21"
 related:
 - beste-tuinverwarming-2026
 - beste-hogedrukreiniger-2026

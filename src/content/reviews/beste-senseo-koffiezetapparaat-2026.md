@@ -16,11 +16,7 @@ cons:
 - Minder controle over smaak
 - Kwaliteit kan variëren per merk
 affiliateLinks:
-- https://partner.bol.com/nl/product/philips-senseo-original-hd6554-60-zwart/9200000131939950
-- https://partner.bol.com/nl/product/philips-senseo-switch-hd6596-80-zwart/9200000087312158
-- https://partner.bol.com/nl/product/melitta-purista-serie-300-epu-300-blk/9200000146043968
-- https://partner.bol.com/nl/product/delonghi-nespresso-vertuo-next-env120-wae/9300000145067955
-- https://partner.bol.com/nl/product/krups-nespresso-essenza-mini-x-n300-white/9200000127399881
+- "https://www.amazon.nl/s?k=Philips+Senseo+Original+HD6554%2F60&tag=kieskeukennl-21"
 date: 2026-05-11
 modelYear: 2026
 featuredProduct: Philips Senseo Original HD6554/60
@@ -44,19 +40,19 @@ products:
   priceRange: EUR 130-180
   bestFor: Kleine keukens en gebruikers die een stiller apparaat zoeken.
   rating: 4.1
-  affiliateLink: https://partner.bol.com/nl/product/melitta-purista-serie-300-epu-300-blk/9200000146043968
+  affiliateLink: "https://www.amazon.nl/s?k=Melitta+Purista+Serie+300+EPU+300+BLK&tag=kieskeukennl-21"
 - name: De'Longhi Nespresso Vertuo Next ENV120.WAE
   verdict: Moderne technologie voor een consistente koffie met een rijke crema.
   priceRange: EUR 150-200
   bestFor: Liefhebbers van Nespresso's specifieke smaakprofiel en crema.
   rating: 4.4
-  affiliateLink: https://partner.bol.com/nl/product/delonghi-nespresso-vertuo-next-env120-wae/9300000145067955
+  affiliateLink: "https://www.amazon.nl/s?k=De%27Longhi+Nespresso+Vertuo+Next+ENV120.WAE&tag=kieskeukennl-21"
 - name: Krups Nespresso Essenza Mini X N300 White
   verdict: De meest compacte Nespresso voor een snelle espresso of lungo.
   priceRange: EUR 90-130
   bestFor: Single huishoudens of kantoren met beperkte ruimte en behoefte aan espresso.
   rating: 4.2
-  affiliateLink: https://partner.bol.com/nl/product/krups-nespresso-essenza-mini-x-n300-white/9200000127399881
+  affiliateLink: "https://www.amazon.nl/s?k=Krups+Nespresso+Essenza+Mini+X+N300+White&tag=kieskeukennl-21"
 related:
 - beste-inductiekookplaat-2026
 - beste-airfryer-2026

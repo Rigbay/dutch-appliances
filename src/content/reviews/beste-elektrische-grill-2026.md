@@ -16,7 +16,6 @@ cons:
 - Niet elk model is in elke winkel beschikbaar
 - Persoonlijke voorkeur speelt een grote rol
 affiliateLinks:
-- https://partner.bol.com/nl/nl/
 - https://www.amazon.nl/s?k=apparaten&tag=kieskeukennl-21
 date: 2026-05-21
 modelYear: 2026
@@ -29,7 +28,7 @@ products:
   priceRange: EUR 120-200
   bestFor: Slim grillen
   rating: 4.8
-  affiliateLink: https://partner.bol.com/nl/nl/tefal-optigrill-elite/9200000000000006/
+  affiliateLink: "https://www.amazon.nl/s?k=Tefal+OptiGrill+Elite&tag=kieskeukennl-21"
 - name: Philips Smokeless Indoor Grill
   verdict: Beste rookvrije grill met unieke infraroodtechnologie — ideaal voor binnen
   priceRange: EUR 90-160
@@ -41,19 +40,19 @@ products:
   priceRange: EUR 30-60
   bestFor: Prijsbewust gezin
   rating: 4.4
-  affiliateLink: https://partner.bol.com/nl/nl/princess-tafelgrill-xl/9200000000000008/
+  affiliateLink: "https://www.amazon.nl/s?k=Princess+Tafelgrill+XL&tag=kieskeukennl-21"
 - name: Severin Gourmetgrill
   verdict: Combi grill + gourmet + raclette in één — veelzijdig voor gezellige avonden
   priceRange: EUR 40-80
   bestFor: Gourmet & raclette
   rating: 4.3
-  affiliateLink: https://partner.bol.com/nl/nl/severin-gourmetgrill/9200000000000009/
+  affiliateLink: "https://www.amazon.nl/s?k=Severin+Gourmetgrill&tag=kieskeukennl-21"
 - name: Tristar Mini Grill
   verdict: Compacte budgetgrill voor 1-2 personen — past in elke keukenkast
   priceRange: EUR 20-35
   bestFor: Budget & compact
   rating: 4.1
-  affiliateLink: https://partner.bol.com/nl/nl/tristar-mini-grill/9200000000000010/
+  affiliateLink: "https://www.amazon.nl/s?k=Tristar+Mini+Grill&tag=kieskeukennl-21"
 related:
 - beste-airfryer-met-twee-manden-2026
 - beste-inductiekookplaat-2026

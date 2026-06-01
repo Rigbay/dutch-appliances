@@ -15,7 +15,6 @@ cons:
 - Sommige accessoires nemen extra ruimte in beslag
 - Geluidsproductie kan storend zijn bij langdurig gebruik
 affiliateLinks:
-- https://partner.bol.com/nl/nl/s/staafmixer/NttG_2313/491044750/
 - https://www.coolblue.nl/categorie/staafmixers
 date: 2026-05-12
 modelYear: 2026
@@ -28,7 +27,7 @@ products:
   priceRange: EUR 150-200
   bestFor: Allround gebruik met focus op power en accessoires
   rating: 4.8
-  affiliateLink: https://partner.bol.com/click/click?p=2&t=url&s=1520310&f=TXL&url=https%3A%2F%2Fpartner.bol.com%2Fnl%2Fnl%2Fp%2Fbraun-multiquick-9-mq9138xi-staafmixer%2F9200000168673538%2F
+  affiliateLink: "https://www.amazon.nl/s?k=Braun+MultiQuick+9+MQ9138XI&tag=kieskeukennl-21"
 - name: Philips ProMix HR2652/90
   verdict: Een uitstekende balans tussen prijs, prestaties en gebruiksgemak, ideaal
     voor dagelijks gebruik.
@@ -41,14 +40,14 @@ products:
   priceRange: EUR 60-90
   bestFor: Basisgebruik en soep
   rating: 4.2
-  affiliateLink: https://partner.bol.com/click/click?p=2&t=url&s=1520310&f=TXL&url=https%3A%2F%2Fpartner.bol.com%2Fnl%2Fnl%2Fp%2Fbosch-ergomixx-msm67170-staafmixer%2F9200000070267458%2F
+  affiliateLink: "https://www.amazon.nl/s?k=Bosch+ErgoMixx+MSM67170&tag=kieskeukennl-21"
 - name: Tefal OptiBlend HB872D
   verdict: Krachtig en efficiënt, met een scherp mes dat zelfs de meest veeleisende
     ingrediënten aanpakt.
   priceRange: EUR 70-110
   bestFor: Krachtige mixen en gladde resultaten
   rating: 4.4
-  affiliateLink: https://partner.bol.com/click/click?p=2&t=url&s=1520310&f=TXL&url=https%3A%2F%2Fpartner.bol.com%2Fnl%2Fnl%2Fp%2Ftefal-optiblend-hb872d-staafmixer%2F9200000035685791%2F
+  affiliateLink: "https://www.amazon.nl/s?k=Tefal+OptiBlend+HB872D&tag=kieskeukennl-21"
 - name: KitchenAid 5KHBS1206
   verdict: Stijlvol design gecombineerd met goede prestaties, een aanwinst voor elke
     keuken.

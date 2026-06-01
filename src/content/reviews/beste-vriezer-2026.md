@@ -15,12 +15,7 @@ cons:
 - Sommige modellen vereisen regelmatig ontdooien
 - Installatie en verhuizing kunnen zwaar zijn
 affiliateLinks:
-- https://partner.bol.com/nl/product/aeg-abe81826nc-vrieskasten/9300000141234567
-- https://partner.bol.com/nl/product/liebherr-gn-2723-vrieskast/9300000187654321
-- https://partner.bol.com/nl/product/bosch-serie-4-gsv29vw30-vrieskast/9300000123456789
-- https://partner.bol.com/nl/product/samsung-rz28tzt40ww-vrieskast/9300000145678901
-- https://partner.bol.com/nl/product/zanussi-zvf-vrieskist/9300000178901234
-- https://partner.bol.com/nl/product/siemens-gs-iQ500-vrieskast/9300000134567890
+- "https://www.amazon.nl/s?k=Liebherr+GN+2723+Vrieskast&tag=kieskeukennl-21"
 date: 2026-05-14
 modelYear: 2026
 featuredProduct: Liebherr GN 2723 Vrieskast
@@ -39,7 +34,7 @@ products:
   priceRange: EUR 450-600
   bestFor: Starters, kleine gezinnen of als extra vriezer naast een koelkast.
   rating: 4.3
-  affiliateLink: https://partner.bol.com/nl/product/bosch-serie-4-gsv29vw30-vrieskast/9300000123456789
+  affiliateLink: "https://www.amazon.nl/s?k=Bosch+Serie+4+GSV29VW30+Vrieskast&tag=kieskeukennl-21"
 - name: AEG ABE81826NC Vrieskast
   verdict: Met zijn ruime inhoud en goede interne indeling is deze AEG vrieskast een
     uitstekende allrounder voor gezinnen die veel invriezen.
@@ -47,14 +42,14 @@ products:
   bestFor: Gezinnen die regelmatig grote hoeveelheden voedsel invriezen en een overzichtelijke
     opslag wensen.
   rating: 4.5
-  affiliateLink: https://partner.bol.com/nl/product/aeg-abe81826nc-vrieskasten/9300000141234567
+  affiliateLink: "https://www.amazon.nl/s?k=AEG+ABE81826NC+Vrieskast&tag=kieskeukennl-21"
 - name: Zanussi ZVF Vrieskist
   verdict: De Zanussi ZVF vrieskist biedt een enorme opslagcapaciteit voor de laagste
     prijs, perfect voor de echte bulk-inkoper.
   priceRange: EUR 250-400
   bestFor: Huishoudens die zoveel mogelijk willen invriezen tegen een minimale investering.
   rating: 4.0
-  affiliateLink: https://partner.bol.com/nl/product/zanussi-zvf-vrieskist/9300000178901234
+  affiliateLink: "https://www.amazon.nl/s?k=Zanussi+ZVF+Vrieskist&tag=kieskeukennl-21"
 - name: Samsung RZ28TZT40WW Vrieskast
   verdict: Deze Samsung vrieskast combineert een strak design met slimme functies
     zoals Total No Frost, wat hem een moderne en onderhoudsvriendelijke keuze maakt.
@@ -70,7 +65,7 @@ products:
   bestFor: Technologie-bewuste consumenten die topklasse prestaties en zuinigheid
     zoeken.
   rating: 4.6
-  affiliateLink: https://partner.bol.com/nl/product/siemens-gs-iQ500-vrieskast/9300000134567890
+  affiliateLink: "https://www.amazon.nl/s?k=Siemens+iQ500+GS+Vriezer&tag=kieskeukennl-21"
 related:
 - beste-airfryer-met-twee-manden-2026
 - beste-inductiekookplaat-2026

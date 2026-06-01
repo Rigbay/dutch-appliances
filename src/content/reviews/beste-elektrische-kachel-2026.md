@@ -29,7 +29,7 @@ products:
   bestFor: Standaard woon- of slaapkamers die een constante, aangename warmte nodig
     hebben zonder veel lawaai.
   rating: 4.5
-  affiliateLink: https://partner.bol.com/nl/product/mill-oil-2000w-olieradiator-wit/9200000076000000
+  affiliateLink: "https://www.amazon.nl/s?k=Mill+Oil+2000W&tag=kieskeukennl-21"
 - name: Eurom E-CONVECT
   verdict: De Eurom E-CONVECT blinkt uit in snelle, gerichte verwarming en is een
     uitstekende keuze voor ruimtes die je kortstondig wilt opwarmen.
@@ -37,7 +37,7 @@ products:
   bestFor: Kleine ruimtes zoals een studeerkamer of hobbyhoek die je af en toe extra
     warmte wilt geven.
   rating: 4.0
-  affiliateLink: https://partner.bol.com/nl/product/eurom-e-convect-convectorkachel-2000w-met-thermostaat-en-ventilator/9200000159000000
+  affiliateLink: "https://www.amazon.nl/s?k=Eurom+E-CONVECT&tag=kieskeukennl-21"
 - name: Dyson Hot+Cool
   verdict: De Dyson Hot+Cool is de premium optie voor wie naast verwarming ook verkoeling
     wil en de nieuwste technologie in huis haalt.
@@ -53,7 +53,7 @@ products:
   bestFor: Budgetbewuste consumenten die een eenvoudige, betrouwbare elektrische kachel
     zoeken voor incidenteel gebruik.
   rating: 3.8
-  affiliateLink: https://partner.bol.com/nl/product/inventum-convectorkachel-hv200-2000-watt-wit/9200000081000000
+  affiliateLink: "https://www.amazon.nl/s?k=Inventum+Convector&tag=kieskeukennl-21"
 - name: De'Longhi Oil Radiator
   verdict: De De'Longhi Oil Radiator staat bekend om zijn stille werking en gelijkmatige
     warmteafgifte, ideaal voor langdurige, comfortabele verwarming.
@@ -61,7 +61,7 @@ products:
   bestFor: Slaapkamers of studeerkamers waar een constante, rustige warmte essentieel
     is zonder geluidsoverlast.
   rating: 4.2
-  affiliateLink: https://partner.bol.com/nl/product/delonghi-radiatore-trd41025-2500w-olieradiator/9200000071000000
+  affiliateLink: "https://www.amazon.nl/s?k=De%27Longhi+Oil+Radiator&tag=kieskeukennl-21"
 related:
 - beste-wasmachine-2026
 - beste-ontvochtiger-2026

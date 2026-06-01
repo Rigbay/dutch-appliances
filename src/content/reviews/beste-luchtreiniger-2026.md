@@ -16,11 +16,7 @@ cons:
 - Sommige modellen kunnen hoorbaar zijn, zeker op hogere standen
 - De effectiviteit hangt sterk af van de ruimte en de juiste plaatsing
 affiliateLinks:
-- https://partner.bol.com/nl/nl/luchtreiniger-philips-series-3000i-ac3033-10/9300000124952090/
-- https://partner.bol.com/nl/nl/dyson-purifier-cool-formaldehyde-tp09-wit/9300000167369511/
-- https://partner.bol.com/nl/nl/aeg-luchtreiniger-ax9-ax91-621bk/9300000148511906/
-- https://partner.bol.com/nl/nl/blueair-luchtreiniger-blue-3210-zwart/9300000145997866/
-- https://partner.bol.com/nl/nl/xiaomi-mi-air-purifier-4-pro-wit/9300000161435293/
+- "https://www.amazon.nl/s?k=Philips+AC3033%2F10+Series+3000i&tag=kieskeukennl-21"
 date: 2026-05-13
 modelYear: 2026
 featuredProduct: Philips AC3033/10 Series 3000i
@@ -50,7 +46,7 @@ products:
   bestFor: Mensen met ernstige allergieën of astma die een robuuste en effectieve
     oplossing zoeken voor middelgrote tot grote kamers.
   rating: 4.6
-  affiliateLink: https://partner.bol.com/nl/nl/aeg-luchtreiniger-ax9-ax91-621bk/9300000148511906/
+  affiliateLink: "https://www.amazon.nl/s?k=AEG+AX9+AX91-621BK&tag=kieskeukennl-21"
 - name: Blueair Blue 3210
   verdict: De Blueair Blue 3210 is een compacte, energiezuinige en verrassend stille
     luchtreiniger die uitstekende prestaties levert voor zijn prijsklasse.
@@ -58,7 +54,7 @@ products:
   bestFor: Studentenkamers, kleine appartementen of als secundaire luchtreiniger waar
     een beperkt budget en ruimte de prioriteit hebben.
   rating: 4.3
-  affiliateLink: https://partner.bol.com/nl/nl/blueair-luchtreiniger-blue-3210-zwart/9300000145997866/
+  affiliateLink: "https://www.amazon.nl/s?k=Blueair+Blue+3210&tag=kieskeukennl-21"
 - name: Xiaomi Mi Air Purifier 4 Pro
   verdict: De Xiaomi Mi Air Purifier 4 Pro biedt een uitstekende prijs-kwaliteitverhouding
     met slimme connectiviteit en goede filterprestaties voor middelgrote ruimtes.

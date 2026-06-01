@@ -15,7 +15,7 @@ cons:
 - Prijzen kunnen variëren per winkel
 - Beschikbaarheid verschilt per model
 affiliateLinks:
-- https://partner.bol.com/
+- "https://www.amazon.nl/s?k=De+Ultieme+Koopgids%3A+Jouw+Weg+naar+de+Perfecte+Koffiemolen+in+2026&tag=kieskeukennl-21"
 date: 2026-05-14
 modelYear: 2026
 featuredProduct: 'De Ultieme Koopgids: Jouw Weg naar de Perfecte Koffiemolen in 2026'
