@@ -16,7 +16,6 @@ cons:
 - Niet elk model is in elke winkel beschikbaar
 - Persoonlijke voorkeur speelt een grote rol
 affiliateLinks:
-- https://partner.bol.com/nl/nl/
 - https://www.amazon.nl/s?k=apparaten&tag=kieskeukennl-21
 date: 2026-05-21
 modelYear: 2026
@@ -28,34 +27,34 @@ products:
   priceRange: EUR 50-120
   bestFor: Modulaire tuinier
   rating: 4.6
-  affiliateLink: https://partner.bol.com/nl/nl/gardena-combisystem-startset/9200000000000001/
+  affiliateLink: "https://www.amazon.nl/s?k=Gardena+Combisystem+Startset&tag=kieskeukennl-21"
 - name: Wolf-Garten Multistar Set
   verdict: Premium Duits systeem met unieke klikkoppeling, werkt met alle Multistar
     opzetstukken
   priceRange: EUR 60-150
   bestFor: Serieuze hobbytuinier
   rating: 4.5
-  affiliateLink: https://partner.bol.com/nl/nl/wolf-garten-multistar-set/9200000000000002/
+  affiliateLink: "https://www.amazon.nl/s?k=Wolf-Garten+Multistar+Set&tag=kieskeukennl-21"
 - name: Fiskars Essential Set
   verdict: Finse kwaliteit met FiberComp-handvatten, lichtgewicht en ergonomisch voor
     langdurig gebruik
   priceRange: EUR 30-90
   bestFor: Ergonomisch tuinieren
   rating: 4.4
-  affiliateLink: https://partner.bol.com/nl/nl/fiskars-essential-set/9200000000000003/
+  affiliateLink: "https://www.amazon.nl/s?k=Fiskars+Essential+Set&tag=kieskeukennl-21"
 - name: Talex Basis Set
   verdict: Nederlandse prijs-kwaliteit winnaar — compleet, degelijk en betaalbaar
   priceRange: EUR 20-45
   bestFor: Budgetbewuste starter
   rating: 4.2
-  affiliateLink: https://partner.bol.com/nl/nl/talex-tuingereedschap-set/9200000000000004/
+  affiliateLink: "https://www.amazon.nl/s?k=Talex+Basis+Set&tag=kieskeukennl-21"
 - name: DeWit Professional Set
   verdict: Hollands ambacht — handgesmeed gereedschap dat generaties meegaat, voor
     de purist
   priceRange: EUR 80-250
   bestFor: Traditionele kwaliteit
   rating: 4.7
-  affiliateLink: https://partner.bol.com/nl/nl/dewit-professionele-set/9200000000000005/
+  affiliateLink: "https://www.amazon.nl/s?k=DeWit+Professional+Set&tag=kieskeukennl-21"
 related:
 - beste-tuinverwarming-2026
 - beste-hogedrukreiniger-2026

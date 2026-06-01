@@ -30,7 +30,7 @@ products:
   bestFor: Gezinnen en thuiskoks die gezonder willen frituren en veelzijdige bereidingsopties
     wensen.
   rating: 4.8
-  affiliateLink: https://partner.bol.com/product/Philips-Premium-Airfryer-XXL-HD9750-60
+  affiliateLink: "https://www.amazon.nl/s?k=Philips+Premium+Airfryer+XXL&tag=kieskeukennl-21"
 - name: Princess Classic Friteuse (182020)
   verdict: Een no-nonsense oliefriteuse die betrouwbare resultaten levert voor een
     aantrekkelijke prijs.
@@ -38,7 +38,7 @@ products:
   bestFor: Beginners en liefhebbers van traditionele friet en snacks die een eenvoudige,
     effectieve oliefriteuse zoeken.
   rating: 4.0
-  affiliateLink: https://partner.bol.com/product/Princess-Classic-Friteuse-182020
+  affiliateLink: "https://www.amazon.nl/s?k=Princess+Classic+Friteuse+%28182020%29&tag=kieskeukennl-21"
 - name: Tefal Oleoclean Pro (EY701D)
   verdict: Deze Tefal combineert gezonder frituren met een slimme reinigingsfunctie,
     ideaal voor druk huishouden.
@@ -62,7 +62,7 @@ products:
   bestFor: Kleine huishoudens, studenten of wie weinig keukenruimte heeft maar toch
     gezonder wil frituren.
   rating: 4.1
-  affiliateLink: https://partner.bol.com/product/Domo-DO507FR-Heteluchtfriteuse
+  affiliateLink: "https://www.amazon.nl/s?k=Domo+DO507FR&tag=kieskeukennl-21"
 related:
 - beste-airfryer-met-twee-manden-2026
 - beste-airfryer-2026

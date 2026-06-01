@@ -15,8 +15,7 @@ cons:
 - Niet elk model is in elke bouwmarkt beschikbaar
 - Persoonlijke voorkeur speelt een grote rol bij handgereedschap
 affiliateLinks:
-- https://partner.bol.com/nl/nl/tuin/tuingereedschap/tuingereedschapsets/N_17100/
-- https://partner.bol.com/nl/nl/tuin/tuinberegening/N_17009/
+- "https://www.amazon.nl/s?k=Gardena+AquaZoom+M&tag=kieskeukennl-21"
 date: '2026-05-21'
 modelYear: 2026
 featuredProduct: Gardena AquaZoom M
@@ -28,33 +27,33 @@ products:
   priceRange: EUR 35-55
   bestFor: Rechthoekige gazons
   rating: 4.7
-  affiliateLink: https://partner.bol.com/nl/nl/gardena-aquazoom-m/9200000000000011/
+  affiliateLink: "https://www.amazon.nl/s?k=Gardena+AquaZoom+M&tag=kieskeukennl-21"
 - name: Kärcher RS 130/3 Sproeierpistool
   verdict: Robuust sproeipistool met 3 straaltypes — van zachte nevel tot krachtige
     puntstraal
   priceRange: EUR 20-30
   bestFor: Handmatig sproeien
   rating: 4.4
-  affiliateLink: https://partner.bol.com/nl/nl/karcher-sproeierpistool/9200000000000012/
+  affiliateLink: "https://www.amazon.nl/s?k=K%C3%A4rcher+RS+130%2F3+Sproeierpistool&tag=kieskeukennl-21"
 - name: Hozelock Rectangular Sprinkler
   verdict: Robuuste zwenksproeier met brede dekking en eenvoudige fijnafstelling
   priceRange: EUR 30-50
   bestFor: Middelgrote gazons
   rating: 4.3
-  affiliateLink: https://partner.bol.com/nl/nl/hozelock-sproeier/9200000000000013/
+  affiliateLink: "https://www.amazon.nl/s?k=Hozelock+Rectangular+Sprinkler&tag=kieskeukennl-21"
 - name: Gardena Druppelslang Set 15m
   verdict: Beste druppelirrigatie voor borders, moestuin en plantenbakken — water
     precies waar het nodig is
   priceRange: EUR 30-50
   bestFor: Borders, moestuin, hagen
   rating: 4.5
-  affiliateLink: https://partner.bol.com/nl/nl/gardena-druppelslang/9200000000000014/
+  affiliateLink: "https://www.amazon.nl/s?k=Gardena+Druppelslang+Set+15m&tag=kieskeukennl-21"
 - name: Rain Bird WiFi Timer + Sproeiers
   verdict: Slim beregeningssysteem met app-bediening en weergebaseerde tijdsaanpassing
   priceRange: EUR 80-150
   bestFor: Slimme tuin, automatisering
   rating: 4.2
-  affiliateLink: https://partner.bol.com/nl/nl/rain-bird-beregening/9200000000000015/
+  affiliateLink: "https://www.amazon.nl/s?k=Rain+Bird+WiFi+Timer+%2B+Sproeiers&tag=kieskeukennl-21"
 related:
 - beste-tuinverwarming-2026
 - beste-hogedrukreiniger-2026

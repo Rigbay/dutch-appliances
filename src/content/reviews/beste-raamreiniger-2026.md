@@ -16,7 +16,6 @@ cons:
 - Initiële investering
 affiliateLinks:
 - https://www.amazon.nl/dp/B075F78KDV?tag=kieskeukennl-21
-- https://partner.bol.com/nl/s/search/?search=leifheit-window-vac
 date: 2026-05-12
 modelYear: 2026
 featuredProduct: Kärcher WV 6 Plus
@@ -37,7 +36,7 @@ products:
   bestFor: Mensen die een betrouwbare en gebruiksvriendelijke raamreiniger zoeken
     voor dagelijks gebruik.
   rating: 4.5
-  affiliateLink: https://partner.bol.com/nl/s/search/?search=leifheit-window-vac
+  affiliateLink: "https://www.amazon.nl/s?k=Leifheit+Window+Vac+Snel+en+makkelijk&tag=kieskeukennl-21"
 - name: Vileda Windomatic
   verdict: De Vileda Windomatic is een solide middenklasser die goed presteert op
     vlakke oppervlakken en een betaalbare instap biedt.
@@ -45,14 +44,14 @@ products:
   bestFor: Starters en huishoudens met een beperkter budget die toch een elektrisch
     hulpmiddel willen.
   rating: 4.2
-  affiliateLink: https://partner.bol.com/nl/s/search/?search=vileda-windomatic
+  affiliateLink: "https://www.amazon.nl/s?k=Vileda+Windomatic&tag=kieskeukennl-21"
 - name: Bosch GlassVAC
   verdict: De Bosch GlassVAC blinkt uit in flexibiliteit en de mogelijkheid om ook
     verticale oppervlakken goed aan te pakken.
   priceRange: EUR 60-90
   bestFor: Gebruikers die ook douchewanden en spiegels grondig willen reinigen.
   rating: 4.4
-  affiliateLink: https://partner.bol.com/nl/s/search/?search=bosch-glassvac
+  affiliateLink: "https://www.amazon.nl/s?k=Bosch+GlassVAC&tag=kieskeukennl-21"
 - name: Kärcher WV 2 Premium
   verdict: De Kärcher WV 2 Premium is een compacte en lichte optie, perfect voor wie
     minder kracht wil zetten.
@@ -60,7 +59,7 @@ products:
   bestFor: Mensen met minder fysieke kracht of voor het sneller opruimen van kleine
     klodders.
   rating: 4.3
-  affiliateLink: https://partner.bol.com/nl/s/search/?search=karcher-wv-2-premium
+  affiliateLink: "https://www.amazon.nl/s?k=K%C3%A4rcher+WV+2+Premium&tag=kieskeukennl-21"
 related:
 - beste-robotstofzuiger-2026
 - beste-stoomreiniger-2026

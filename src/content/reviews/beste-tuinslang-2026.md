@@ -16,8 +16,7 @@ cons:
 - Niet elk systeem is geschikt voor elke tuingrootte.
 - Onderhoud is soms noodzakelijk voor optimale prestaties.
 affiliateLinks:
-- https://partner.bol.com/nl/nl/tuinslangen-haspels-sproeisystemen/tuinslangen/N_10709/
-- https://partner.bol.com/nl/nl/tuinslangen-haspels-sproeisystemen/tuinberegening/N_10710/
+- "https://www.amazon.nl/s?k=Gardena+Comfort+HighFlex&tag=kieskeukennl-21"
 date: 2026-05-20
 modelYear: 2026
 featuredProduct: Gardena Comfort HighFlex
@@ -29,34 +28,34 @@ products:
   priceRange: EUR 40-80 (afhankelijk van lengte)
   bestFor: Gemiddelde tot grote tuinen, intensief gebruik.
   rating: 4.8
-  affiliateLink: https://partner.bol.com/nl/nl/gardena-comfort-highflex-tuinslang-13-mm-1-2-25-m/1004075723/
+  affiliateLink: "https://www.amazon.nl/s?k=Gardena+Comfort+HighFlex+Tuinslang+13mm+%281%2F2%22%29&tag=kieskeukennl-21"
 - name: Hozelock Auto Reel 30m
   verdict: 'Voor wie geen zin heeft in gedoe met oprollen: de Hozelock Auto Reel doet
     het werk voor u.'
   priceRange: EUR 150-200
   bestFor: Mensen die het opbergen van de slang zat zijn, middelgrote tuinen.
   rating: 4.5
-  affiliateLink: https://partner.bol.com/nl/nl/hozelock-auto-reel-wandslangenbox-30-meter-inclusief-slang/1004048778/
+  affiliateLink: "https://www.amazon.nl/s?k=Hozelock+Auto+Reel+30m&tag=kieskeukennl-21"
 - name: Kärcher Tuinslang-set (incl. spuitpistool en koppelingen)
   verdict: Een complete en robuuste set voor wie direct aan de slag wil met kwaliteitsapparatuur.
   priceRange: EUR 60-100
   bestFor: Allround tuinier, goede prijs-kwaliteitverhouding.
   rating: 4.3
-  affiliateLink: https://partner.bol.com/nl/nl/karcher-tuinslang-set-15-m-incl-spuitpistool/1004057777/
+  affiliateLink: "https://www.amazon.nl/s?k=K%C3%A4rcher+Tuinslang-set+%28incl.+spuitpistool+en+koppelingen%29&tag=kieskeukennl-21"
 - name: Cellfast Ergo Tuinslang 19mm (3/4")
   verdict: De Cellfast Ergo biedt een goede grip en flexibiliteit, ideaal voor zwaarder
     werk in de tuin.
   priceRange: EUR 50-90 (afhankelijk van lengte)
   bestFor: Grotere tuinen, veeleisende klussen, professioneel gebruik.
   rating: 4.4
-  affiliateLink: https://partner.bol.com/nl/nl/cellfast-ergo-tuinslang-19-mm-3-4-25-m/1004066666/
+  affiliateLink: "https://www.amazon.nl/s?k=Cellfast+Ergo+Tuinslang+19mm+%283%2F4%22%29&tag=kieskeukennl-21"
 - name: Giraffe Premium Flex Tuinslang 19mm (3/4")
   verdict: Een soepele en knikvrije slang die lang meegaat, perfect voor dagelijks
     gebruik.
   priceRange: EUR 55-95 (afhankelijk van lengte)
   bestFor: Gemiddelde tuinen, dagelijks gebruik, flexibiliteit.
   rating: 4.2
-  affiliateLink: https://partner.bol.com/nl/nl/giraffe-premium-flex-tuinslang-19-mm-3-4-30-m/1004078901/
+  affiliateLink: "https://www.amazon.nl/s?k=Giraffe+Premium+Flex+Tuinslang+19mm+%283%2F4%22%29&tag=kieskeukennl-21"
 - name: Claber Swing Automatische Slangenhaspel
   verdict: Een uitstekende keuze voor wie een geautomatiseerde, nette oplossing zoekt
     voor het opbergen van de slang.
@@ -64,7 +63,7 @@ products:
   bestFor: Mensen die waarde hechten aan een opgeruimde tuin en gemak, middelgrote
     tuinen.
   rating: 4.6
-  affiliateLink: https://partner.bol.com/nl/nl/claber-swing-automatische-slangenhaspel-gevelmontage/1004051123/
+  affiliateLink: "https://www.amazon.nl/s?k=Claber+Swing+Automatische+Slangenhaspel&tag=kieskeukennl-21"
 related:
 - beste-wasmachine-2026
 - beste-ontvochtiger-2026

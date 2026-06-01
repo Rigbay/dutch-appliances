@@ -16,10 +16,6 @@ cons:
 - Kan onhandig zijn om zak te vervangen bij volle zak
 affiliateLinks:
 - https://www.amazon.nl/dp/B0BGZTM918?tag=kieskeukennl-21
-- https://partner.bol.com/nl/product/bosch-serie-8-propower-bgl8sil3-stofzuiger-zilver/9300000071123457
-- https://partner.bol.com/nl/product/siemens-vs08g2711-q-series-power-edition-stofzuiger/9300000071123458
-- https://partner.bol.com/nl/product/philips-powerpro-compact-fc9332-09-stofzuiger-blauw/9300000071123459
-- https://partner.bol.com/nl/product/aeg-vx9-2-og-eco-stofzuiger-grijs/9300000071123460
 date: 2026-05-12
 modelYear: 2026
 featuredProduct: Miele Complete C3 PowerLine
@@ -40,7 +36,7 @@ products:
   bestFor: Huishoudens die een krachtige en betrouwbare stofzuiger zoeken voor dagelijks
     gebruik op verschillende ondergronden.
   rating: 4.7
-  affiliateLink: https://partner.bol.com/nl/product/bosch-serie-8-propower-bgl8sil3-stofzuiger-zilver/9300000071123457
+  affiliateLink: "https://www.amazon.nl/s?k=Bosch+Serie+8+ProPower+BGL8SIL3&tag=kieskeukennl-21"
 - name: Siemens VS08G2711 Q Series Power Edition
   verdict: Een stil maar krachtig werkpaard dat uitblinkt in het opzuigen van fijnstof
     en allergenen.
@@ -48,21 +44,21 @@ products:
   bestFor: Allergiepatiënten en huishoudens waar geluidsoverlast een belangrijke factor
     is.
   rating: 4.6
-  affiliateLink: https://partner.bol.com/nl/product/siemens-vs08g2711-q-series-power-edition-stofzuiger/9300000071123458
+  affiliateLink: "https://www.amazon.nl/s?k=Siemens+VS08G2711+Q+Series+Power+Edition&tag=kieskeukennl-21"
 - name: Philips PowerPro Compact FC9332/09
   verdict: Een compacte en lichte stofzuiger met verrassend goede zuigkracht voor
     zijn formaat, ideaal voor kleinere woningen.
   priceRange: EUR 150-200
   bestFor: Studentenkamers, kleine appartementen of als secundaire stofzuiger.
   rating: 4.3
-  affiliateLink: https://partner.bol.com/nl/product/philips-powerpro-compact-fc9332-09-stofzuiger-blauw/9300000071123459
+  affiliateLink: "https://www.amazon.nl/s?k=Philips+PowerPro+Compact+FC9332%2F09&tag=kieskeukennl-21"
 - name: AEG VX9-2-OG-ECO
   verdict: De AEG VX9 biedt een uitstekende balans tussen krachtige prestaties en
     energie-efficiëntie.
   priceRange: EUR 220-320
   bestFor: Milieubewuste consumenten die niet willen inleveren op zuigkracht.
   rating: 4.5
-  affiliateLink: https://partner.bol.com/nl/product/aeg-vx9-2-og-eco-stofzuiger-grijs/9300000071123460
+  affiliateLink: "https://www.amazon.nl/s?k=AEG+VX9-2-OG-ECO&tag=kieskeukennl-21"
 related:
 - beste-stofzuiger-tegen-dierenharen-2026
 - beste-robotstofzuiger-2026

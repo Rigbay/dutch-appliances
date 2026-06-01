@@ -16,8 +16,7 @@ cons:
 - Niet elk model is in elke bouwmarkt beschikbaar
 - Persoonlijke voorkeur speelt een grote rol bij handgereedschap
 affiliateLinks:
-- https://partner.bol.com/nl/nl/tuin/tuingereedschap/tuingereedschapsets/N_17100/
-- https://partner.bol.com/nl/nl/tuin/tuinberegening/N_17009/
+- "https://www.amazon.nl/s?k=Felco+2&tag=kieskeukennl-21"
 date: '2026-05-21'
 modelYear: 2026
 featuredProduct: Felco 2
@@ -29,32 +28,32 @@ products:
   priceRange: EUR 55-70
   bestFor: Serieuze tuinier, professioneel
   rating: 4.9
-  affiliateLink: https://partner.bol.com/nl/nl/felco-2-snoeischaar/9200000000000001/
+  affiliateLink: "https://www.amazon.nl/s?k=Felco+2&tag=kieskeukennl-21"
 - name: Gardena Comfort Snoeischaar
   verdict: Beste prijs-kwaliteit met uitstekende ergonomie, ideaal voor de hobbytuinier
   priceRange: EUR 25-35
   bestFor: Allround tuinier
   rating: 4.5
-  affiliateLink: https://partner.bol.com/nl/nl/gardena-snoeischaar/9200000000000002/
+  affiliateLink: "https://www.amazon.nl/s?k=Gardena+Comfort+Snoeischaar&tag=kieskeukennl-21"
 - name: Fiskars PowerGear X
   verdict: Uniek tandwielmechanisme dat 3x snijkracht levert — perfect voor dikke
     takken met weinig kracht
   priceRange: EUR 35-50
   bestFor: Minder handkracht, dikke takken
   rating: 4.6
-  affiliateLink: https://partner.bol.com/nl/nl/fiskars-powergear-snoeischaar/9200000000000003/
+  affiliateLink: "https://www.amazon.nl/s?k=Fiskars+PowerGear+X&tag=kieskeukennl-21"
 - name: Bahco PX-M3
   verdict: Lichte, ergonomische snoeischaar met bypass-snede voor precies snoeiwerk
   priceRange: EUR 30-45
   bestFor: Precisiewerk, kleinere handen
   rating: 4.4
-  affiliateLink: https://partner.bol.com/nl/nl/bahco-snoeischaar/9200000000000004/
+  affiliateLink: "https://www.amazon.nl/s?k=Bahco+PX-M3&tag=kieskeukennl-21"
 - name: Okatsune 103
   verdict: Japanse precisie — vlijmscherp uit de doos, favoriet onder bonsai- en boomkwekers
   priceRange: EUR 45-60
   bestFor: Schoonste snede, professionals
   rating: 4.7
-  affiliateLink: https://partner.bol.com/nl/nl/okatsune-103-snoeischaar/9200000000000005/
+  affiliateLink: "https://www.amazon.nl/s?k=Okatsune+103&tag=kieskeukennl-21"
 related:
 - beste-tuinverwarming-2026
 - beste-hogedrukreiniger-2026

@@ -15,7 +15,6 @@ cons:
 - Niet geschikt voor extreem complexe gazons
 - Veiligheid van kinderen en huisdieren vereist aandacht
 affiliateLinks:
-- https://partner.bol.com/nl/nl/s/robotgrasmaaier/
 - https://www.coolblue.nl/c/robotgrasmaaiers/c6095.html
 date: 2026-05-20
 modelYear: 2026
@@ -30,7 +29,7 @@ products:
   bestFor: Middelgrote tot grote, licht complexe gazons die de beste maaiprestaties
     en slimme integratie vereisen.
   rating: 4.8
-  affiliateLink: https://partner.bol.com/nl/nl/p/husqvarna-automower-405x-robotmaaier-voor-gazons-tot-600m2/930060757/
+  affiliateLink: "https://www.amazon.nl/s?k=Husqvarna+Automower+405X&tag=kieskeukennl-21"
 - name: Worx Landroid M500 (WR165E)
   verdict: De Worx Landroid M500 biedt een uitstekende prijs-kwaliteitverhouding en
     is een populaire keuze voor middelgrote gazons dankzij zijn gebruiksgemak en slimme
@@ -39,7 +38,7 @@ products:
   bestFor: Middelgrote, relatief eenvoudige gazons waar een goede balans tussen prijs
     en prestatie gewenst is.
   rating: 4.5
-  affiliateLink: https://partner.bol.com/nl/nl/p/worx-landroid-m500-plus-robotmaaier-wr165e/930482654/
+  affiliateLink: "https://www.amazon.nl/s?k=Worx+Landroid+M500+%28WR165E%29&tag=kieskeukennl-21"
 - name: Gardena Sileno City 500
   verdict: Ideaal voor kleinere stadstuintjes, de Gardena Sileno City 500 blinkt uit
     in stilte en compactheid, perfect voor wie op zoek is naar een eenvoudige, stille
@@ -48,7 +47,7 @@ products:
   bestFor: Kleine tot middelgrote, eenvoudige gazons, vooral in stedelijke omgevingen
     waar stilte belangrijk is.
   rating: 4.3
-  affiliateLink: https://partner.bol.com/nl/nl/p/gardena-sileno-city-500-robotmaaier/9200000097844395/
+  affiliateLink: "https://www.amazon.nl/s?k=Gardena+Sileno+City+500&tag=kieskeukennl-21"
 - name: McCulloch Rob S600
   verdict: Een solide middenklasser die een goede balans biedt tussen functionaliteit
     en prijs, geschikt voor een breed scala aan middelgrote gazons.

@@ -15,11 +15,7 @@ cons:
 - Kosten kunnen oplopen met accessoires
 - Sommige modellen kunnen luidruchtig zijn
 affiliateLinks:
-- https://partner.bol.com/click/MPf25222e-3787-472a-8794-c4b92631d295/KitchenAid-Artisan-5KSM175PS-Keukenmachine-Luxe-Rood-SKU123456789
-- https://partner.bol.com/click/MPf25222e-3787-472a-8794-c4b92631d295/Kenwood-Chef-XL-Titanium-KVC7300S-Keukenmachine-SKU987654321
-- https://partner.bol.com/click/MPf25222e-3787-472a-8794-c4b92631d295/Bosch-MUM5-HomeProfessional-MUM58780-Keukenmachine-SKU112233445
-- https://partner.bol.com/click/MPf25222e-3787-472a-8794-c4b92631d295/Magimix-5200XL-Keukenmachine-Wit-SKU556677889
-- https://partner.bol.com/click/MPf25222e-3787-472a-8794-c4b92631d295/Smeg-SMF03-Kleur-Keukenmachine-SKU998877665
+- "https://www.amazon.nl/s?k=KitchenAid+Artisan&tag=kieskeukennl-21"
 date: 2026-05-13
 modelYear: 2026
 featuredProduct: KitchenAid Artisan
