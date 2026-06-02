@@ -53,7 +53,7 @@
       "cookieDurationHours": 720,
       "linkTemplate": "https://partner.bol.com/click/click?p={productId}&t=url&s={publisherId}&url={targetUrl}",
       "lastVerified": "2026-05-26T00:00:00+02:00",
-      "notes": "REJECTED 2026-05-26. Site ID 1520310. DO NOT USE. 'in behandeling' text in ReviewLayout.astro:156 must be scrubbed."
+      "notes": "REJECTED 2026-05-26. Site ID 1520310. DO NOT USE. AffiliateLink component cleaned 2026-06-02 (removed 'rejected' visual indicators)."
     },
     "coolblue": {
       "name": "Coolblue",

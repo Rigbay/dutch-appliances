@@ -172,11 +172,11 @@ De specificaties op papier vertellen niet het hele verhaal. Er zijn diverse 'onz
 
 | Product | Inhoud (zones) | Max. Vermogen (kW) | Prijsrange (EUR) | Beste voor | Score (1-5) | Affiliate Link |
 | :---------------------------- | :------------- | :----------------- | :--------------- | :--------------------------------------------- | :---------- | :--------------------------------------------------------------------------------------- |
-| Bosch PXX675DV2E | 4 | 7.4 | 700-900 | Allrounder, gezinnen, enthousiaste koks | 4.8 | [Bol.com](https://www.amazon.nl/dp/B0D14ZHFS8?tag=kieskeukennl-21 |
-| Siemens iQ700 EH675MV1E | 4 (flexzones) | 7.4 | 900-1200 | Designliefhebbers, maximale controle | 4.7 | [Bol.com](https://www.amazon.nl/dp/B0D14ZHFS8?tag=kieskeukennl-21 |
-| Etna Inductie (bv. WI562IN) | 4 | 7.2 | 300-500 | Budgetbewust, starter op inductie | 4.3 | [Bol.com](https://www.amazon.nl/dp/B0D14ZHFS8?tag=kieskeukennl-21 |
-| Inventum IKG6015 | 4 | 6.0 | 200-300 | Zeer budgetbewust, extra kookzone | 4.0 | [Bol.com](https://www.amazon.nl/dp/B0D14ZHFS8?tag=kieskeukennl-21 |
-| Tefal Everyday Induction (D) | 1 (draagbaar) | 2.0 | 70-100 | Studenten, camper, tijdelijke oplossing | 4.2 | [Bol.com](https://www.amazon.nl/dp/B0D14ZHFS8?tag=kieskeukennl-21 |
+| Bosch PXX675DV2E | 4 | 7.4 | 700-900 | Allrounder, gezinnen, enthousiaste koks | 4.8 | [Amazon.nl](https://www.amazon.nl/dp/B0D14ZHFS8?tag=kieskeukennl-21 |
+| Siemens iQ700 EH675MV1E | 4 (flexzones) | 7.4 | 900-1200 | Designliefhebbers, maximale controle | 4.7 | [Amazon.nl](https://www.amazon.nl/dp/B0D14ZHFS8?tag=kieskeukennl-21 |
+| Etna Inductie (bv. WI562IN) | 4 | 7.2 | 300-500 | Budgetbewust, starter op inductie | 4.3 | [Amazon.nl](https://www.amazon.nl/dp/B0D14ZHFS8?tag=kieskeukennl-21 |
+| Inventum IKG6015 | 4 | 6.0 | 200-300 | Zeer budgetbewust, extra kookzone | 4.0 | [Amazon.nl](https://www.amazon.nl/dp/B0D14ZHFS8?tag=kieskeukennl-21 |
+| Tefal Everyday Induction (D) | 1 (draagbaar) | 2.0 | 70-100 | Studenten, camper, tijdelijke oplossing | 4.2 | [Amazon.nl](https://www.amazon.nl/dp/B0D14ZHFS8?tag=kieskeukennl-21 |
 | Miele KM 7464 FR (voorbeeld) | 4 (flexzones) | 7.3 | 1200-1600 | Premium, hoogwaardige afwerking, lange levensduur | 4.9 | (Niet standaard in tabel wegens hogere prijsklasse) |
 
 *(Let op: prijzen zijn indicatief en kunnen variëren. 'D' staat voor Draagbaar)*
