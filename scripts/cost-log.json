@@ -182,5 +182,12 @@
     "tokens_out": 4000,
     "cost_est": 0.0016940000000000002,
     "slug": "beste-tuinslang-2026"
+  },
+  {
+    "model": "gemini-2.5-flash-lite",
+    "requests": 5,
+    "tokens_input": 1000,
+    "tokens_output": 17955,
+    "cost_eur": 0.0055
   }
 ]
