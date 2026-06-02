@@ -62,7 +62,7 @@ products:
   bestFor: Budgetbewuste gezinnen die een functionele en redelijk stille vaatwasser
     nodig hebben.
   rating: 4.2
-  affiliateLink: https://www.amazon.nl/dp/B08CKZFR8N?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Samsung+DW80N3030US&tag=kieskeukennl-21
 - name: Etna VM460ZIN
   verdict: De Etna VM460ZIN is een solide inbouwvaatwasser die zich richt op basisfunctionaliteit
     en gebruiksgemak voor een scherpe prijs.

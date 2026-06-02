@@ -34,7 +34,7 @@ products:
   priceRange: EUR 1000-1400
   bestFor: Smart home & compact
   rating: 4.6
-  affiliateLink: https://www.amazon.nl/dp/B08CKZFR8N?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Samsung+Bespoke+AI+Combo&tag=kieskeukennl-21
 - name: Bosch WGG254FSNL + WQG245DNL
   verdict: Prijs-kwaliteit winnaar met uitstekende Duitse techniek.
   priceRange: EUR 1100-1400

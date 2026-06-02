@@ -27,13 +27,13 @@ products:
   priceRange: EUR 60-90
   bestFor: Dagelijkse snelle koffie voor één tot twee personen.
   rating: 4.3
-  affiliateLink: https://www.amazon.nl/dp/B07VV4NZW5?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Philips+Senseo+Original+HD6554/60&tag=kieskeukennl-21
 - name: Philips Senseo Switch HD6596/80
   verdict: Flexibiliteit met zowel pads als filterkoffie in één apparaat.
   priceRange: EUR 90-130
   bestFor: Huishoudens die zowel pads als filterkoffie willen kunnen zetten.
   rating: 4.2
-  affiliateLink: https://www.amazon.nl/dp/B07VV4NZW5?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Philips+Senseo+Switch+HD6596/80&tag=kieskeukennl-21
 - name: Melitta Purista Serie 300 EPU 300 BLK
   verdict: Compact en stil, een goede optie als je weinig ruimte hebt en waarde hecht
     aan geluidsniveau.

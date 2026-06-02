@@ -59,7 +59,7 @@ products:
   priceRange: EUR 500-700
   bestFor: Handmatig draadloos alternatief
   rating: 4.9
-  affiliateLink: https://www.amazon.nl/dp/B09MJ7QL6H?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Dyson+V15+Detect&tag=kieskeukennl-21
 related:
 - beste-robotstofzuiger-2026
 - beste-stofzuiger-2026

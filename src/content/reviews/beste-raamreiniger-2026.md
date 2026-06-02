@@ -15,7 +15,7 @@ cons:
 - Niet voor alle raamtypes geschikt
 - Initiële investering
 affiliateLinks:
-- https://www.amazon.nl/dp/B075F78KDV?tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=schoonmaken&tag=kieskeukennl-21
 date: 2026-05-12
 modelYear: 2026
 featuredProduct: Kärcher WV 6 Plus
@@ -28,7 +28,7 @@ products:
   bestFor: Huishoudens die maximale efficiëntie en een perfect streeploos resultaat
     eisen.
   rating: 4.8
-  affiliateLink: https://www.amazon.nl/dp/B075F78KDV?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Kärcher+WV+6+Plus&tag=kieskeukennl-21
 - name: Leifheit Window Vac Snel en makkelijk
   verdict: De Leifheit Window Vac biedt een uitstekende balans tussen prijs en prestatie,
     ideaal voor de regelmatige ramenwasser.

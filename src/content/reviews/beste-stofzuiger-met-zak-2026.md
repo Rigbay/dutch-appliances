@@ -15,7 +15,7 @@ cons:
 - Iets minder wendbaar dan sommige zakloze modellen
 - Kan onhandig zijn om zak te vervangen bij volle zak
 affiliateLinks:
-- https://www.amazon.nl/dp/B0BGZTM918?tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=schoonmaken&tag=kieskeukennl-21
 date: 2026-05-12
 modelYear: 2026
 featuredProduct: Miele Complete C3 PowerLine
@@ -28,7 +28,7 @@ products:
   bestFor: Grote huishoudens met huisdieren en/of allergieën die de allerbeste reinigingsprestaties
     eisen.
   rating: 4.9
-  affiliateLink: https://www.amazon.nl/dp/B0BGZTM918?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Miele+Complete+C3+PowerLine&tag=kieskeukennl-21
 - name: Bosch Serie 8 ProPower BGL8SIL3
   verdict: De Bosch Serie 8 ProPower levert indrukwekkende zuigkracht en is een uitstekende
     allrounder voor diverse vloertypen.

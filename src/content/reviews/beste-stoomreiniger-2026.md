@@ -28,31 +28,31 @@ products:
   priceRange: EUR Algemeen huishoudelijk gebruik, goede prijs-kwaliteit
   bestFor: €135
   rating: 4.0
-  affiliateLink: https://www.amazon.nl/dp/B0DG8WS4ZH?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Samako+PowerClean+Pro&tag=kieskeukennl-21
 - name: FLOWSTEAM Luxe
   verdict: '4.5'
   priceRange: EUR Intensieve reiniging, grote oppervlakken, premium kwaliteit
   bestFor: €275
   rating: 4.5
-  affiliateLink: https://www.amazon.nl/dp/B0DG8WS4ZH?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=FLOWSTEAM+Luxe&tag=kieskeukennl-21
 - name: Kärcher SC 2 Deluxe
   verdict: '4.2'
   priceRange: EUR Veelzijdige allrounder, betrouwbare prestaties
   bestFor: €185
   rating: 4.2
-  affiliateLink: https://www.amazon.nl/dp/B0DG8WS4ZH?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Kärcher+SC+2+Deluxe&tag=kieskeukennl-21
 - name: AG Stoomreiniger 10-in-1
   verdict: '3.8'
   priceRange: EUR Compact, veelzijdig door accessoires, snelle reinigingen
   bestFor: €100
   rating: 3.8
-  affiliateLink: https://www.amazon.nl/dp/B0DG8WS4ZH?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=AG+Stoomreiniger+10-in-1&tag=kieskeukennl-21
 - name: Bissell SteamShot
   verdict: '3.5'
   priceRange: EUR Handzaam, gericht reinigen, voegen, kleine oppervlakken
   bestFor: €80
   rating: 3.5
-  affiliateLink: https://www.amazon.nl/dp/B0DG8WS4ZH?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Bissell+SteamShot&tag=kieskeukennl-21
 related:
 - beste-robotstofzuiger-2026
 - beste-stofzuiger-voor-allergie-2026

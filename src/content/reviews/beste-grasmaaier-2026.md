@@ -15,7 +15,7 @@ cons:
 - Elektrische modellen beperkt door snoerlengte of accuduur
 - Premium modellen zoals Gardena hebben een hoger prijskaartje
 affiliateLinks:
-- https://www.amazon.nl/dp/B0CH7WGF9S?tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=tuin&tag=kieskeukennl-21
 date: 2026-05-14
 modelYear: 2026
 featuredProduct: ''
@@ -26,37 +26,37 @@ products:
   priceRange: '399'
   bestFor: Middelgrote tuinen, krachtig, efficiënt
   rating: 4.6
-  affiliateLink: https://www.amazon.nl/dp/B0CH7WGF9S?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Bosch+UniversalRotak+550&tag=kieskeukennl-21
 - name: Gardena PowerMax 42 E
   verdict: Middelgrote tot grotere tuinen, premium kwaliteit, ergonomie, mulchen
   priceRange: '479'
   bestFor: Middelgrote tot grotere tuinen, premium kwaliteit, ergonomie, mulchen
   rating: 4.5
-  affiliateLink: https://www.amazon.nl/dp/B0CH7WGF9S?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Gardena+PowerMax+42+E&tag=kieskeukennl-21
 - name: Einhell GC-PM 46/2 S B&S
   verdict: Middelgrote tuinen, budget, zelfrijdend, betrouwbare motor
   priceRange: '329'
   bestFor: Middelgrote tuinen, budget, zelfrijdend, betrouwbare motor
   rating: 4.2
-  affiliateLink: https://www.amazon.nl/dp/B0CH7WGF9S?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Einhell+GC-PM+46/2+S+B&S&tag=kieskeukennl-21
 - name: Gardena PowerMax 32/18V P4A
   verdict: Kleine tuinen, flexibel, lichtgewicht, Power For All systeem
   priceRange: '199'
   bestFor: Kleine tuinen, flexibel, lichtgewicht, Power For All systeem
   rating: 4.4
-  affiliateLink: https://www.amazon.nl/dp/B0CH7WGF9S?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Gardena+PowerMax+32/18V+P4A&tag=kieskeukennl-21
 - name: Makita DLM432Z
   verdict: Middelgrote tuinen, krachtig, duurzaam, mulchen
   priceRange: '369'
   bestFor: Middelgrote tuinen, krachtig, duurzaam, mulchen
   rating: 4.5
-  affiliateLink: https://www.amazon.nl/dp/B0CH7WGF9S?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Makita+DLM432Z&tag=kieskeukennl-21
 - name: Stihl RMA 235
   verdict: Kleine tot middelgrote tuinen, stil, lichtgewicht, mulchen
   priceRange: '349'
   bestFor: Kleine tot middelgrote tuinen, stil, lichtgewicht, mulchen
   rating: 4.3
-  affiliateLink: https://www.amazon.nl/dp/B0CH7WGF9S?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Stihl+RMA+235&tag=kieskeukennl-21
 related:
 - beste-heggenschaar-2026
 - beste-tuinverwarming-2026

@@ -16,7 +16,7 @@ cons:
 - Afhankelijk van Nespresso ecosysteem — geen losse koffiebonen
 - Ontkalken en onderhoud verplicht voor garantie en smaakbehoud
 affiliateLinks:
-- https://www.amazon.nl/dp/B0GKNPLF2T?tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=keuken&tag=kieskeukennl-21
 date: 2026-05-14
 modelYear: 2026
 featuredProduct: ''
@@ -27,43 +27,43 @@ products:
   priceRange: 99 - 129
   bestFor: Compactheid, budget, eenvoud
   rating: 4.5
-  affiliateLink: https://www.amazon.nl/dp/B0GKNPLF2T?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Nespresso+Essenza+Mini&tag=kieskeukennl-21
 - name: Nespresso Vertuo Pop
   verdict: Stijl, compactheid, Vertuo-ervaring
   priceRange: 119 - 149
   bestFor: Stijl, compactheid, Vertuo-ervaring
   rating: 4.0
-  affiliateLink: https://www.amazon.nl/dp/B0GKNPLF2T?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Nespresso+Vertuo+Pop&tag=kieskeukennl-21
 - name: Nespresso Lattissima One
   verdict: Eenvoudige melkspecialiteiten
   priceRange: 249 - 299
   bestFor: Eenvoudige melkspecialiteiten
   rating: 4.2
-  affiliateLink: https://www.amazon.nl/dp/B0GKNPLF2T?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Nespresso+Lattissima+One&tag=kieskeukennl-21
 - name: Nespresso Vertuo Next
   verdict: Snelheid, diverse kopgroottes, Vertuo-ervaring
   priceRange: 179 - 219
   bestFor: Snelheid, diverse kopgroottes, Vertuo-ervaring
   rating: 4.3
-  affiliateLink: https://www.amazon.nl/dp/B0GKNPLF2T?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Nespresso+Vertuo+Next&tag=kieskeukennl-21
 - name: Nespresso Creatista Plus by Sage
   verdict: Barista-ervaring, melkschuim controle
   priceRange: 499 - 599
   bestFor: Barista-ervaring, melkschuim controle
   rating: 4.8
-  affiliateLink: https://www.amazon.nl/dp/B0GKNPLF2T?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Nespresso+Creatista+Plus+by+Sage&tag=kieskeukennl-21
 - name: Nespresso Citiz & Milk
   verdict: Klassiek design, geïntegreerde melkopschuimer
   priceRange: 229 - 279
   bestFor: Klassiek design, geïntegreerde melkopschuimer
   rating: 4.1
-  affiliateLink: https://www.amazon.nl/dp/B0GKNPLF2T?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Nespresso+Citiz+&+Milk&tag=kieskeukennl-21
 - name: Nespresso Gran Lattissima
   verdict: Veelzijdigheid, veel melkopties
   priceRange: 399 - 449
   bestFor: Veelzijdigheid, veel melkopties
   rating: 4.4
-  affiliateLink: https://www.amazon.nl/dp/B0GKNPLF2T?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Nespresso+Gran+Lattissima&tag=kieskeukennl-21
 related:
 - beste-airfryer-met-twee-manden-2026
 - beste-inductiekookplaat-2026

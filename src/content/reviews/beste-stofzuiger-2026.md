@@ -15,9 +15,9 @@ cons:
 - Snoerloze varianten hebben beperkte accuduur
 - Grote canisters nemen veel kastruimte in
 affiliateLinks:
-- https://www.amazon.nl/dp/B0CH5QWSGK?tag=kieskeukennl-21
-- https://www.amazon.nl/dp/B0CH5QWSGK?tag=kieskeukennl-21
-- https://www.amazon.nl/dp/B0CH5QWSGK?tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=schoonmaken&tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=schoonmaken&tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=schoonmaken&tag=kieskeukennl-21
 date: 2026-05-06
 modelYear: 2026
 featuredProduct: Miele Complete C3 Allergy EcoLine
@@ -29,34 +29,34 @@ products:
   priceRange: EUR 220-280
   bestFor: Allergie en stilte
   rating: 4.8
-  affiliateLink: https://www.amazon.nl/dp/B0CH5QWSGK?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Miele+Complete+C3+Allergy+EcoLine&tag=kieskeukennl-21
 - name: Dyson V15s Detect Submarine
   verdict: Krachtige snoerloze alleskunner met laserstofdetectie en dweilfunctie,
     maar prijzig.
   priceRange: EUR 600-750
   bestFor: Snoerloos premium
   rating: 4.7
-  affiliateLink: https://www.amazon.nl/dp/B0CH5QWSGK?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Dyson+V15s+Detect+Submarine&tag=kieskeukennl-21
 - name: Philips SpeedPro Max XD3110
   verdict: Betaalbare snoerloze steelstofzuiger met degelijke zuigkracht voor dagelijks
     gebruik.
   priceRange: EUR 180-250
   bestFor: Prijs-kwaliteit snoerloos
   rating: 4.4
-  affiliateLink: https://www.amazon.nl/dp/B0CH5QWSGK?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Philips+SpeedPro+Max+XD3110&tag=kieskeukennl-21
 - name: Bosch Serie 4 BGLS4X201
   verdict: Betaalbaar, betrouwbaar en lichtgewicht met stofzak — ideaal voor senioren
     en kleine appartementen.
   priceRange: EUR 120-160
   bestFor: Budget met zak
   rating: 4.3
-  affiliateLink: https://www.amazon.nl/dp/B0CH5QWSGK?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Bosch+Serie+4+BGLS4X201&tag=kieskeukennl-21
 - name: Rowenta X-Force Flex 14.60
   verdict: Sterke middenklasser met flexibele zuigbuis voor onder meubels en auto-interieur.
   priceRange: EUR 250-320
   bestFor: Flexibiliteit
   rating: 4.5
-  affiliateLink: https://www.amazon.nl/dp/B0CH5QWSGK?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Rowenta+X-Force+Flex+14.60&tag=kieskeukennl-21
 related:
 - beste-stofzuiger-tegen-dierenharen-2026
 - beste-robotstofzuiger-2026

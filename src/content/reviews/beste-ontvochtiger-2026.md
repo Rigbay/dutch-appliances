@@ -27,31 +27,31 @@ products:
   priceRange: EUR Grotere ruimtes, kelders, ernstige vochtproblemen
   bestFor: € 250 - € 350
   rating: 4.2
-  affiliateLink: https://www.amazon.nl/dp/B0DF8191SW?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Eurom+Drops+20&tag=kieskeukennl-21
 - name: MeacoDry Arete One
   verdict: '9.5'
   priceRange: EUR Gemiddelde ruimtes, slaapkamers, stilte is prioriteit
   bestFor: € 200 - € 300
   rating: 4.8
-  affiliateLink: https://www.amazon.nl/dp/B0DF8191SW?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=MeacoDry+Arete+One&tag=kieskeukennl-21
 - name: De'Longhi DEX210F
   verdict: '8.0'
   priceRange: EUR Gemiddelde ruimtes, wasdroogfunctie gewenst
   bestFor: € 180 - € 250
   rating: 4.0
-  affiliateLink: https://www.amazon.nl/dp/B0DF8191SW?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=De'Longhi+DEX210F&tag=kieskeukennl-21
 - name: Pro Breeze 20L
   verdict: '8.8'
   priceRange: EUR Grote ruimtes, garages, snelle en krachtige ontvochtiging
   bestFor: € 220 - € 320
   rating: 4.4
-  affiliateLink: https://www.amazon.nl/dp/B0DF8191SW?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Pro+Breeze+20L&tag=kieskeukennl-21
 - name: Inventum AD500
   verdict: '7.0'
   priceRange: EUR Kleine ruimtes, caravans, budgetbewuste keuze
   bestFor: € 100 - € 150
   rating: 3.5
-  affiliateLink: https://www.amazon.nl/dp/B0DF8191SW?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Inventum+AD500&tag=kieskeukennl-21
 related:
 - beste-wasmachine-2026
 - beste-luchtbevochtiger-2026

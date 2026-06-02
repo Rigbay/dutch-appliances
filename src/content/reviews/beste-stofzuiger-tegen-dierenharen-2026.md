@@ -26,43 +26,43 @@ products:
   priceRange: EUR 50-400
   bestFor: Maximale prestaties, technologie, allergieën
   rating: 4.8
-  affiliateLink: https://www.amazon.nl/dp/B0DXZST2JG?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Dyson+V15+Detect+Animal&tag=kieskeukennl-21
 - name: Miele C3 Cat & Dog
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Topfiltratie, allergieën, traditioneel
   rating: 3.0
-  affiliateLink: https://www.amazon.nl/dp/B0DXZST2JG?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Miele+C3+Cat+&+Dog&tag=kieskeukennl-21
 - name: Philips PowerPro Expert Animal
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Prijs-kwaliteit, flexibiliteit, draadloos
   rating: 4.5
-  affiliateLink: https://www.amazon.nl/dp/B0DXZST2JG?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Philips+PowerPro+Expert+Animal&tag=kieskeukennl-21
 - name: Bosch BGL8 Pet
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Budget, betrouwbaarheid, zakmodel
   rating: 4.0
-  affiliateLink: https://www.amazon.nl/dp/B0DXZST2JG?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Bosch+BGL8+Pet&tag=kieskeukennl-21
 - name: AEG VX9 Animal
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Compact, stil, wendbaar
   rating: 4.4
-  affiliateLink: https://www.amazon.nl/dp/B0DXZST2JG?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=AEG+VX9+Animal&tag=kieskeukennl-21
 - name: Rowenta X-Force Flex 14.50 Animal
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Flexibiliteit, prijs-kwaliteit, draadloos
   rating: 4.4
-  affiliateLink: https://www.amazon.nl/dp/B0DXZST2JG?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Rowenta+X-Force+Flex+14.50+Animal&tag=kieskeukennl-21
 - name: Bissell CrossWave Pet Pro
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Nat-droog reinigen, harde vloeren, huisdierongeluk
   rating: 4.2
-  affiliateLink: https://www.amazon.nl/dp/B0DXZST2JG?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Bissell+CrossWave+Pet+Pro&tag=kieskeukennl-21
 related:
 - beste-stofzuiger-voor-allergie-2026
 - beste-robotstofzuiger-2026

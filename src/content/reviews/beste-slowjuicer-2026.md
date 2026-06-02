@@ -28,32 +28,32 @@ products:
   priceRange: EUR Beginners, af en toe sap, beperkt budget
   bestFor: €150 - €200
   rating: 3.2
-  affiliateLink: https://www.amazon.nl/dp/B07LFW7KJQ?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=KitchenBrothers&tag=kieskeukennl-21
 - name: Byzoo Rhino
   verdict: '8.0'
   priceRange: EUR Dagelijks gebruik, goede prijs-kwaliteit, makkelijk schoonmaken
   bestFor: €250 - €350
   rating: 4.0
-  affiliateLink: https://www.amazon.nl/dp/B07LFW7KJQ?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Byzoo+Rhino&tag=kieskeukennl-21
 - name: Nutribullet Juicer Pro
   verdict: '8.5'
   priceRange: EUR Krachtig, veelzijdig, goede opbrengst, ook voor harde groenten
   bestFor: €300 - €400
   rating: 4.2
-  affiliateLink: https://www.amazon.nl/dp/B07LFW7KJQ?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Nutribullet+Juicer+Pro&tag=kieskeukennl-21
 - name: Kuvings REVO830
   verdict: '9.5'
   priceRange: EUR Maximale opbrengst en voedingswaarde, stille werking, brede vulopening
   bestFor: €550 - €700
   rating: 4.8
-  affiliateLink: https://www.amazon.nl/dp/B07LFW7KJQ?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Kuvings+REVO830&tag=kieskeukennl-21
 - name: Angel Juicer 5500
   verdict: '9.8'
   priceRange: EUR Absolute topkwaliteit, maximale opbrengst, duurzaamheid, stille
     werking
   bestFor: €800 - €1000+
   rating: 4.9
-  affiliateLink: https://www.amazon.nl/dp/B07LFW7KJQ?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Angel+Juicer+5500&tag=kieskeukennl-21
 related:
 - beste-airfryer-met-twee-manden-2026
 - beste-inductiekookplaat-2026

@@ -26,37 +26,37 @@ products:
   priceRange: EUR 50-400
   bestFor: Tijdsbesparing, Sync Finish
   rating: 4.8
-  affiliateLink: https://www.amazon.nl/dp/B0FPVT6L4X?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=**Ninja+Foodi+Dual+Zone+AF300EU**&tag=kieskeukennl-21
 - name: '**Philips Premium XXL Dual Basket**'
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Kwaliteit, Gezond koken (vetverwijdering)
   rating: 4.7
-  affiliateLink: https://www.amazon.nl/dp/B0FPVT6L4X?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=**Philips+Premium+XXL+Dual+Basket**&tag=kieskeukennl-21
 - name: '**Princess Dual Airfryer XL**'
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Budgetvriendelijk, Goede basisfunctionaliteit
   rating: 4.2
-  affiliateLink: https://www.amazon.nl/dp/B0FPVT6L4X?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=**Princess+Dual+Airfryer+XL**&tag=kieskeukennl-21
 - name: '**Instant Pot Duo Crisp 2-in-1**'
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Veelzijdigheid (meerdere functies)
   rating: 4.4
-  affiliateLink: https://www.amazon.nl/dp/B0FPVT6L4X?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=**Instant+Pot+Duo+Crisp+2-in-1**&tag=kieskeukennl-21
 - name: '**Cosori Dual Blaze Airfryer**'
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Ruimtebesparing (relatief), Gelijkmatige garing
   rating: 4.5
-  affiliateLink: https://www.amazon.nl/dp/B0FPVT6L4X?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=**Cosori+Dual+Blaze+Airfryer**&tag=kieskeukennl-21
 - name: '**Tefal ActiFry Genius XL 2-in-1**'
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Makkelijk roeren, Specifieke gerechten
   rating: 1.712
-  affiliateLink: https://www.amazon.nl/dp/B0FPVT6L4X?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=**Tefal+ActiFry+Genius+XL+2-in-1**&tag=kieskeukennl-21
 related:
 - beste-airfryer-oven-combi-2026
 - beste-inductiekookplaat-2026

@@ -26,43 +26,43 @@ products:
   priceRange: EUR 50-400
   bestFor: Beste Koop, Instapmodel
   rating: 1.8
-  affiliateLink: https://www.amazon.nl/dp/B0FF4XDLFV?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=De'Longhi+Magnifica+S&tag=kieskeukennl-21
 - name: Jura E8
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Beste Prestaties, Kwaliteitsliefhebber
   rating: 1.9
-  affiliateLink: https://www.amazon.nl/dp/B0FF4XDLFV?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Jura+E8&tag=kieskeukennl-21
 - name: Siemens EQ9
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Geavanceerde Gebruiker, Diverse Koffies
   rating: 1.7
-  affiliateLink: https://www.amazon.nl/dp/B0FF4XDLFV?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Siemens+EQ9&tag=kieskeukennl-21
 - name: Philips LatteGo 2200
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Kleine Keuken, Melkspecialiteiten
   rating: 1.8
-  affiliateLink: https://www.amazon.nl/dp/B0FF4XDLFV?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Philips+LatteGo+2200&tag=kieskeukennl-21
 - name: Melitta Barista TS Smart
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Veelzijdig, App Bediening
   rating: 1.8
-  affiliateLink: https://www.amazon.nl/dp/B0FF4XDLFV?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Melitta+Barista+TS+Smart&tag=kieskeukennl-21
 - name: Saeco Xelsis
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Premium, Volledig aanpasbaar
   rating: 1.6
-  affiliateLink: https://www.amazon.nl/dp/B0FF4XDLFV?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Saeco+Xelsis&tag=kieskeukennl-21
 - name: Melitta Purista
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Beste Budget, Compact
   rating: 1.25
-  affiliateLink: https://www.amazon.nl/dp/B0FF4XDLFV?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Melitta+Purista&tag=kieskeukennl-21
 related:
 - beste-airfryer-met-twee-manden-2026
 - beste-inductiekookplaat-2026

@@ -15,7 +15,7 @@ cons:
 - Geluidsniveau kan storend zijn
 - Onderhoud filters
 affiliateLinks:
-- https://www.amazon.nl/dp/B079SPVQFN?tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=schoonmaken&tag=kieskeukennl-21
 modelYear: 2026
 featuredProduct: Philips SpeedPro Max Aqua
 readingTime: 10 min
@@ -26,37 +26,37 @@ products:
   priceRange: EUR 50-400
   bestFor: Allergieën, dierenharen, grote huizen
   rating: 3.0
-  affiliateLink: https://www.amazon.nl/dp/B079SPVQFN?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=**Miele+Complete+C3+Allergy+PowerLine**&tag=kieskeukennl-21
 - name: '**Philips SpeedPro Max Aqua**'
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Snelle schoonmaak, dweilen, middelgrote huizen
   rating: 4.5
-  affiliateLink: https://www.amazon.nl/dp/B079SPVQFN?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=**Philips+SpeedPro+Max+Aqua**&tag=kieskeukennl-21
 - name: '**Rowenta Compact Power Cyclonic 3**'
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Kleine ruimtes, budgetbewust, harde vloeren
   rating: 3.0
-  affiliateLink: https://www.amazon.nl/dp/B079SPVQFN?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=**Rowenta+Compact+Power+Cyclonic+3**&tag=kieskeukennl-21
 - name: '**Dyson V15 Detect Absolute**'
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Geavanceerde technologie, alle vloertypes
   rating: 4.7
-  affiliateLink: https://www.amazon.nl/dp/B079SPVQFN?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=**Dyson+V15+Detect+Absolute**&tag=kieskeukennl-21
 - name: '**Bosch Serie 6 ProAnimal**'
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Dierenharen, middelgrote tot grote huizen
   rating: 4.0
-  affiliateLink: https://www.amazon.nl/dp/B079SPVQFN?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=**Bosch+Serie+6+ProAnimal**&tag=kieskeukennl-21
 - name: '**Hoover H-FREE 500**'
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Compacte opslag, lichte huishoudens, appartement
   rating: 4.2
-  affiliateLink: https://www.amazon.nl/dp/B079SPVQFN?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=**Hoover+H-FREE+500**&tag=kieskeukennl-21
 related:
 - beste-robotstofzuiger-2026
 - beste-stoomreiniger-2026

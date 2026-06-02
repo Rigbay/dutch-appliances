@@ -28,7 +28,7 @@ products:
   bestFor: Hobbybakkers en thuiskoks met een oog voor design die dagelijks diverse
     recepten maken.
   rating: 4.8
-  affiliateLink: https://www.amazon.nl/dp/B06XDPNQ1R?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=KitchenAid+Artisan+5KSM175PS+Keukenmachine&tag=kieskeukennl-21
 - name: Kenwood Chef XL Titanium KVC7300S Keukenmachine
   verdict: De Kenwood Chef XL Titanium blinkt uit in kracht en veelzijdigheid, ideaal
     voor de serieuze thuiskok.
@@ -36,7 +36,7 @@ products:
   bestFor: Vrijwel elke thuiskok die het meeste uit zijn keukenmachine wil halen,
     van zwaar deeg tot fijne patisserie.
   rating: 4.7
-  affiliateLink: https://www.amazon.nl/dp/B06XDPNQ1R?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Kenwood+Chef+XL+Titanium+KVC7300S+Keukenmachine&tag=kieskeukennl-21
 - name: Bosch MUM5 HomeProfessional MUM58780 Keukenmachine
   verdict: De Bosch MUM5 is een solide, betaalbare optie met een breed scala aan functies
     voor dagelijks gebruik.
@@ -44,7 +44,7 @@ products:
   bestFor: Gezinnen en beginnende bakkers die een betrouwbare en veelzijdige keukenmachine
     zoeken zonder de hoofdprijs te betalen.
   rating: 4.3
-  affiliateLink: https://www.amazon.nl/dp/B06XDPNQ1R?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Bosch+MUM5+HomeProfessional+MUM58780+Keukenmachine&tag=kieskeukennl-21
 - name: Magimix 5200XL Keukenmachine
   verdict: De Magimix 5200XL is een krachtpatser voor voedselbereiding, uitblinkend
     in hakken, snijden en raspen.
@@ -52,7 +52,7 @@ products:
   bestFor: Culinaire enthousiastelingen die veel tijd besteden aan het snijden, hakken
     en pureren van ingrediënten.
   rating: 4.6
-  affiliateLink: https://www.amazon.nl/dp/B06XDPNQ1R?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Magimix+5200XL+Keukenmachine&tag=kieskeukennl-21
 - name: Smeg SMF03 Keukenmachine
   verdict: De Smeg SMF03 combineert retro-design met moderne functionaliteit, een
     blikvanger in elke keuken.
@@ -60,7 +60,7 @@ products:
   bestFor: Designbewuste consumenten die een keukenmachine willen die zowel functioneel
     als esthetisch verantwoord is.
   rating: 4.4
-  affiliateLink: https://www.amazon.nl/dp/B06XDPNQ1R?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Smeg+SMF03+Keukenmachine&tag=kieskeukennl-21
 related:
 - beste-airfryer-met-twee-manden-2026
 - beste-inductiekookplaat-2026

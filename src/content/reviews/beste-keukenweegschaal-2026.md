@@ -59,7 +59,7 @@ products:
   bestFor: Designliefhebbers en bakkers die een stijlvolle en veelzijdige weegschaal
     willen.
   rating: 4.6
-  affiliateLink: https://www.amazon.nl/dp/B06XDPNQ1R?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=KitchenAid+Digital+Kitchen+Scale&tag=kieskeukennl-21
 related:
 - beste-airfryer-met-twee-manden-2026
 - beste-inductiekookplaat-2026

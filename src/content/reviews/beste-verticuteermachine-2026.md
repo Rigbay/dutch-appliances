@@ -15,8 +15,8 @@ cons:
 - Kan geluidsproductie hebben bij intensief gebruik
 - Niet alle accessoires standaard meegeleverd
 affiliateLinks:
-- https://www.amazon.nl/dp/B07KT96ZLC?tag=kieskeukennl-21
-- https://www.amazon.nl/dp/B07KT96ZLC?tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=tuin&tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=tuin&tag=kieskeukennl-21
 date: 2026-05-14
 modelYear: 2026
 featuredProduct: Bosch AVR 1100
@@ -28,31 +28,31 @@ products:
     duurzaam
   bestFor: €250-€350
   rating: 4.5
-  affiliateLink: https://www.amazon.nl/dp/B07KT96ZLC?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Bosch+AVR+1100&tag=kieskeukennl-21
 - name: Gardena EVC 1000
   verdict: '8.5'
   priceRange: EUR Kleine tot middelgrote gazons, gebruiksgemak, wendbaarheid, budgetvriendelijk
   bestFor: €150-€200
   rating: 4.2
-  affiliateLink: https://www.amazon.nl/dp/B07KT96ZLC?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Gardena+EVC+1000&tag=kieskeukennl-21
 - name: Einhell GC-SA 1231/1
   verdict: '7.5'
   priceRange: EUR Zeer kleine gazons, incidenteel gebruik, budgetoptie
   bestFor: €100-€150
   rating: 3.8
-  affiliateLink: https://www.amazon.nl/dp/B07KT96ZLC?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Einhell+GC-SA+1231/1&tag=kieskeukennl-21
 - name: Wolf-Garten Verticuteerhark
   verdict: '6.0'
   priceRange: EUR Zeer kleine gazons, geen elektriciteit nodig, fysieke inspanning
   bestFor: €100-€150
   rating: 3.0
-  affiliateLink: https://www.amazon.nl/dp/B07KT96ZLC?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Wolf-Garten+Verticuteerhark&tag=kieskeukennl-21
 - name: Makita UV3600
   verdict: '9.5'
   priceRange: EUR Grote gazons, professionele prestaties, duurzaamheid, krachtig
   bestFor: €300-€400
   rating: 4.8
-  affiliateLink: https://www.amazon.nl/dp/B07KT96ZLC?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Makita+UV3600&tag=kieskeukennl-21
 related:
 - beste-heggenschaar-2026
 - beste-tuinverwarming-2026

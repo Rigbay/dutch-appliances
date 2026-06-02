@@ -15,7 +15,7 @@ cons:
 - Elektrische modellen hebben beperkte mobiliteit door snoer
 - Goedkopere modellen missen duurzaamheid op langere termijn
 affiliateLinks:
-- https://www.amazon.nl/dp/B0G133H7Y8?tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=tuin&tag=kieskeukennl-21
 date: 2026-05-14
 modelYear: 2026
 featuredProduct: ''
@@ -26,43 +26,43 @@ products:
   priceRange: €650
   bestFor: Grote projecten, veelzijdigheid, slimme functies
   rating: 4.8
-  affiliateLink: https://www.amazon.nl/dp/B0G133H7Y8?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Kärcher+K+7+Premium+Power+Control+Home&tag=kieskeukennl-21
 - name: Nilfisk Core 140-10 EU
   verdict: Allround gebruik, goede prijs-kwaliteit
   priceRange: €250
   bestFor: Allround gebruik, goede prijs-kwaliteit
   rating: 4.5
-  affiliateLink: https://www.amazon.nl/dp/B0G133H7Y8?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Nilfisk+Core+140-10+EU&tag=kieskeukennl-21
 - name: Bosch UniversalAquatak 135
   verdict: Budgetvriendelijk, compact, auto's, fietsen
   priceRange: €150
   bestFor: Budgetvriendelijk, compact, auto's, fietsen
   rating: 4.2
-  affiliateLink: https://www.amazon.nl/dp/B0G133H7Y8?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Bosch+UniversalAquatak+135&tag=kieskeukennl-21
 - name: Kärcher K 5 Power Control Home
   verdict: Middelgrote terrassen, huis en tuin
   priceRange: €400
   bestFor: Middelgrote terrassen, huis en tuin
   rating: 4.6
-  affiliateLink: https://www.amazon.nl/dp/B0G133H7Y8?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Kärcher+K+5+Power+Control+Home&tag=kieskeukennl-21
 - name: Stihl RE 100 Plus
   verdict: Duurzaamheid, comfort, diverse taken
   priceRange: €320
   bestFor: Duurzaamheid, comfort, diverse taken
   rating: 4.4
-  affiliateLink: https://www.amazon.nl/dp/B0G133H7Y8?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Stihl+RE+100+Plus&tag=kieskeukennl-21
 - name: Kränzle K 1050 TST
   verdict: Professionele kwaliteit, lange levensduur
   priceRange: €550
   bestFor: Professionele kwaliteit, lange levensduur
   rating: 4.7
-  affiliateLink: https://www.amazon.nl/dp/B0G133H7Y8?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Kränzle+K+1050+TST&tag=kieskeukennl-21
 - name: Parkside PHD 170 B5 (Lidl)
   verdict: Krachtig voor de prijs, veel accessoires
   priceRange: €180
   bestFor: Krachtig voor de prijs, veel accessoires
   rating: 4.0
-  affiliateLink: https://www.amazon.nl/dp/B0G133H7Y8?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Parkside+PHD+170+B5+Lidl&tag=kieskeukennl-21
 related:
 - beste-heggenschaar-2026
 - beste-tuinverwarming-2026
