@@ -15,11 +15,11 @@ cons:
 - Initiële investering kan hoger zijn
 - Geluidsniveau kan variëren per model
 affiliateLinks:
-- https://www.amazon.nl/dp/B0D14ZHFS8?tag=kieskeukennl-21
-- https://www.amazon.nl/dp/B0D14ZHFS8?tag=kieskeukennl-21
-- https://www.amazon.nl/dp/B0D14ZHFS8?tag=kieskeukennl-21
-- https://www.amazon.nl/dp/B0D14ZHFS8?tag=kieskeukennl-21
-- https://www.amazon.nl/dp/B0D14ZHFS8?tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=keuken&tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=keuken&tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=keuken&tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=keuken&tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=keuken&tag=kieskeukennl-21
 date: 2026-05-13
 modelYear: 2026
 featuredProduct: Bosch PXX675DV2E
@@ -32,7 +32,7 @@ products:
   bestFor: Gezinnen en enthousiaste thuiskoks die een betrouwbare en veelzijdige inductiekookplaat
     zoeken.
   rating: 4.8
-  affiliateLink: https://www.amazon.nl/dp/B0D14ZHFS8?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Bosch+PXX675DV2E&tag=kieskeukennl-21
 - name: Siemens iQ700 EH675MV1E
   verdict: Voor wie het beste van het beste wil op het gebied van design en prestaties,
     met slimme functies en een premium uitstraling.
@@ -40,7 +40,7 @@ products:
   bestFor: Liefhebbers van designkeukens en koks die maximale controle en flexibiliteit
     wensen.
   rating: 4.7
-  affiliateLink: https://www.amazon.nl/dp/B0D14ZHFS8?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Siemens+iQ700+EH675MV1E&tag=kieskeukennl-21
 - name: Etna Inductie (Diverse modellen, bv. WI562IN)
   verdict: Etna biedt solide en betaalbare inductiekookplaten die een uitstekende
     upgrade zijn vanaf gas of keramisch.
@@ -48,7 +48,7 @@ products:
   bestFor: Huishoudens met een beperkter budget die een betrouwbare en gebruiksvriendelijke
     inductiekookplaat zoeken.
   rating: 4.3
-  affiliateLink: https://www.amazon.nl/dp/B0D14ZHFS8?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Etna+Inductie+Diverse+modellen+bv.+WI562IN&tag=kieskeukennl-21
 - name: Inventum IKG6015
   verdict: Een no-nonsense, prijsbewuste keuze die de basisprincipes van inductie
     perfect beheerst.
@@ -56,14 +56,14 @@ products:
   bestFor: Starters op de inductie-markt of voor wie een extra, voordelige kookzone
     nodig heeft.
   rating: 4.0
-  affiliateLink: https://www.amazon.nl/dp/B0D14ZHFS8?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Inventum+IKG6015&tag=kieskeukennl-21
 - name: Tefal Everyday Induction (Draagbaar)
   verdict: De ideale oplossing voor wie flexibiliteit nodig heeft, of het nu voor
     een studentenkamer, camper of als tijdelijke oplossing is.
   priceRange: EUR 70-100
   bestFor: Studenten, kampeerders, kleine huishoudens of als tijdelijke kookoplossing.
   rating: 4.2
-  affiliateLink: https://www.amazon.nl/dp/B0D14ZHFS8?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Tefal+Everyday+Induction+Draagbaar&tag=kieskeukennl-21
 related:
 - beste-airfryer-met-twee-manden-2026
 - beste-airfryer-2026

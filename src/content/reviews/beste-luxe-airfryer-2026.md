@@ -15,7 +15,7 @@ cons:
 - Neemt meer aanrechtruimte in dan compacte basismodellen
 - Niet alle modellen hebben PFAS-vrije mandinformatie duidelijk vermeld
 affiliateLinks:
-- https://www.amazon.nl/dp/B01DR6IT06?tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=keuken&tag=kieskeukennl-21
 date: 2026-05-14
 modelYear: 2026
 featuredProduct: ''
@@ -26,37 +26,37 @@ products:
   priceRange: €349
   bestFor: Topkwaliteit kookresultaten, slimme integratie, grote gezinnen
   rating: 4.8
-  affiliateLink: https://www.amazon.nl/dp/B01DR6IT06?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=**Philips+Airfryer+XXL+Connected+HD9867/90**&tag=kieskeukennl-21
 - name: '**Ninja Foodi MAX Dual Zone Airfryer (AF400EU)**'
   verdict: Flexibiliteit, snelheid, bereiden van complete maaltijden
   priceRange: €279
   bestFor: Flexibiliteit, snelheid, bereiden van complete maaltijden
   rating: 4.7
-  affiliateLink: https://www.amazon.nl/dp/B01DR6IT06?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=**Ninja+Foodi+MAX+Dual+Zone+Airfryer+AF400EU**&tag=kieskeukennl-21
 - name: '**Cosori Smart Airfryer XXL (CP158-AF-RX)**'
   verdict: Uitstekende prijs-kwaliteit, veelzijdigheid, gezinsformaat
   priceRange: €219
   bestFor: Uitstekende prijs-kwaliteit, veelzijdigheid, gezinsformaat
   rating: 4.6
-  affiliateLink: https://www.amazon.nl/dp/B01DR6IT06?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=**Cosori+Smart+Airfryer+XXL+CP158-AF-RX**&tag=kieskeukennl-21
 - name: '**Tefal ActiFry Genius XL 2-in-1 (FZ7290)**'
   verdict: Grote porties, geautomatiseerd kookproces, unieke roerfunctie
   priceRange: €249
   bestFor: Grote porties, geautomatiseerd kookproces, unieke roerfunctie
   rating: 4.5
-  affiliateLink: https://www.amazon.nl/dp/B01DR6IT06?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=**Tefal+ActiFry+Genius+XL+2-in-1+FZ7290**&tag=kieskeukennl-21
 - name: '**Inventum Airfryer XXL (GF400HL)**'
   verdict: Ruime capaciteit voor een scherpe prijs, eenvoudige bediening
   priceRange: €209
   bestFor: Ruime capaciteit voor een scherpe prijs, eenvoudige bediening
   rating: 4.3
-  affiliateLink: https://www.amazon.nl/dp/B01DR6IT06?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=**Inventum+Airfryer+XXL+GF400HL**&tag=kieskeukennl-21
 - name: '**Princess Aerofryer XXL (182025)**'
   verdict: Goede allrounder voor gezinnen, makkelijk in gebruik en onderhoud
   priceRange: €229
   bestFor: Goede allrounder voor gezinnen, makkelijk in gebruik en onderhoud
   rating: 4.2
-  affiliateLink: https://www.amazon.nl/dp/B01DR6IT06?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=**Princess+Aerofryer+XXL+182025**&tag=kieskeukennl-21
 related:
 - beste-airfryer-met-twee-manden-2026
 - beste-inductiekookplaat-2026

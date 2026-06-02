@@ -15,7 +15,7 @@ cons:
 - Accu-modellen hebben beperkte looptijd voor grote tuinen
 - Premium steel- en accu-modellen zijn prijziger
 affiliateLinks:
-- https://www.amazon.nl/dp/B0CH7WGF9S?tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=tuin&tag=kieskeukennl-21
 date: 2026-05-14
 modelYear: 2026
 featuredProduct: ''
@@ -26,37 +26,37 @@ products:
   priceRange: €129,99
   bestFor: Middelgrote tot grote tuinen, diverse heggen
   rating: 4.2
-  affiliateLink: https://www.amazon.nl/dp/B0CH7WGF9S?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Bosch+UniversalHedgeCut+60&tag=kieskeukennl-21
 - name: STIHL HLA 65 (steelheggenschaar)
   verdict: Hoge heggen, bereik, comfort
   priceRange: €399,00*
   bestFor: Hoge heggen, bereik, comfort
   rating: 4.8
-  affiliateLink: https://www.amazon.nl/dp/B0CH7WGF9S?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=STIHL+HLA+65+steelheggenschaar&tag=kieskeukennl-21
 - name: Ryobi RHT5355RG
   verdict: Kleine tuinen, budgetbewust
   priceRange: €79,99
   bestFor: Kleine tuinen, budgetbewust
   rating: 3.8
-  affiliateLink: https://www.amazon.nl/dp/B0CH7WGF9S?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Ryobi+RHT5355RG&tag=kieskeukennl-21
 - name: Gardena EasyCut 450/50
   verdict: Precisiewerk, kleine/fijne heggen
   priceRange: €89,95
   bestFor: Precisiewerk, kleine/fijne heggen
   rating: 4.0
-  affiliateLink: https://www.amazon.nl/dp/B0CH7WGF9S?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Gardena+EasyCut+450/50&tag=kieskeukennl-21
 - name: Makita DUH602Z (solo)
   verdict: Accuvrijheid, middelgrote tuinen
   priceRange: €199,00*
   bestFor: Accuvrijheid, middelgrote tuinen
   rating: 4.4
-  affiliateLink: https://www.amazon.nl/dp/B0CH7WGF9S?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Makita+DUH602Z+solo&tag=kieskeukennl-21
 - name: Black+Decker GT5000-QS
   verdict: Zeer kleine tuinen, instapmodel
   priceRange: €64,99
   bestFor: Zeer kleine tuinen, instapmodel
   rating: 3.5
-  affiliateLink: https://www.amazon.nl/dp/B0CH7WGF9S?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Black+Decker+GT5000-QS&tag=kieskeukennl-21
 related:
 - beste-tuinverwarming-2026
 - beste-hogedrukreiniger-2026

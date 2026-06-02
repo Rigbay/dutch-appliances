@@ -26,31 +26,31 @@ products:
   priceRange: EUR 50-400
   bestFor: Beste prestaties, gezinnen van 2
   rating: 3.5
-  affiliateLink: https://www.amazon.nl/dp/B0CQ8GHBRG?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Philips+Essential+Airfryer+XL&tag=kieskeukennl-21
 - name: Tefal Easy Fry Compact
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Beste koop, goede prijs-kwaliteit
   rating: 3.0
-  affiliateLink: https://www.amazon.nl/dp/B0CQ8GHBRG?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Tefal+Easy+Fry+Compact&tag=kieskeukennl-21
 - name: Princess Mini Airfryer
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Beste budget, studenten, incidenteel gebruik
   rating: 4.0
-  affiliateLink: https://www.amazon.nl/dp/B0CQ8GHBRG?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Princess+Mini+Airfryer&tag=kieskeukennl-21
 - name: Cosori Lite
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Beste voor kleine keuken, design & gemak
   rating: 4.6
-  affiliateLink: https://www.amazon.nl/dp/B0CQ8GHBRG?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Cosori+Lite&tag=kieskeukennl-21
 - name: Inventum Compact Airfryer
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Solide allrounder voor kleine keukens
   rating: 2.5
-  affiliateLink: https://www.amazon.nl/dp/B0CQ8GHBRG?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Inventum+Compact+Airfryer&tag=kieskeukennl-21
 related:
 - beste-airfryer-met-twee-manden-2026
 - beste-inductiekookplaat-2026

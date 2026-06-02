@@ -27,37 +27,37 @@ products:
   priceRange: EUR 50-400
   bestFor: Alleskunner, maximale veelzijdigheid
   rating: 4.8
-  affiliateLink: https://www.amazon.nl/dp/B0CQ8GHBRG?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=**Ninja+Foodi+Max+Pro**&tag=kieskeukennl-21
 - name: '**Philips Airfryer Combi XXL**'
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Gezinnen, bewezen kwaliteit, gezonde opties
   rating: 4.7
-  affiliateLink: https://www.amazon.nl/dp/B0CQ8GHBRG?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=**Philips+Airfryer+Combi+XXL**&tag=kieskeukennl-21
 - name: '**Instant Pot Omni Plus**'
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Kleine keuken, slimme functies, veelzijdig
   rating: 4.4
-  affiliateLink: https://www.amazon.nl/dp/B0CQ8GHBRG?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=**Instant+Pot+Omni+Plus**&tag=kieskeukennl-21
 - name: '**Tefal EasyFry & Grill**'
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Beste koop, goede prijs-kwaliteit
   rating: 4.2
-  affiliateLink: https://www.amazon.nl/dp/B0CQ8GHBRG?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=**Tefal+EasyFry+&+Grill**&tag=kieskeukennl-21
 - name: '**Cosori Smart Oven Air Fryer**'
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Budgetbewust, slimme functies, ruime inhoud
   rating: 4.5
-  affiliateLink: https://www.amazon.nl/dp/B0CQ8GHBRG?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=**Cosori+Smart+Oven+Air+Fryer**&tag=kieskeukennl-21
 - name: '**Emerio Airfryer Oven**'
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Zeer budgetvriendelijk, basis functionaliteit
   rating: 3.8
-  affiliateLink: https://www.amazon.nl/dp/B0CQ8GHBRG?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=**Emerio+Airfryer+Oven**&tag=kieskeukennl-21
 related:
 - beste-airfryer-onder-100-euro-2026
 - beste-inductiekookplaat-2026

@@ -16,8 +16,8 @@ cons:
 - Kan lawaai produceren
 - Waterreservoir regelmatig bijvullen
 affiliateLinks:
-- https://www.amazon.nl/dp/B0CQ8GHBRG?tag=kieskeukennl-21
-- https://www.amazon.nl/dp/B0CQ8GHBRG?tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=huishoudelijk&tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=huishoudelijk&tag=kieskeukennl-21
 date: 2026-05-13
 modelYear: 2026
 featuredProduct: Philips Series 3000 Luchtbevochtiger
@@ -28,31 +28,31 @@ products:
   priceRange: EUR 200-250
   bestFor: Middelgrote tot grote ruimtes
   rating: 4.5
-  affiliateLink: https://www.amazon.nl/dp/B0CQ8GHBRG?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Philips+Series+3000+Luchtbevochtiger&tag=kieskeukennl-21
 - name: Dyson Purifier Humidify+Cool
   verdict: 'Ultieme 3-in-1: reiniging, bevochtiging en verkoeling'
   priceRange: EUR 700-900
   bestFor: Maximale luchtkwaliteit met slimme bediening
   rating: 4.8
-  affiliateLink: https://www.amazon.nl/dp/B0CQ8GHBRG?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Dyson+Purifier+Humidify+Cool&tag=kieskeukennl-21
 - name: Duux Beam Luchtbevochtiger
   verdict: Compacte, stijlvolle en betaalbare keuze voor kleine ruimtes
   priceRange: EUR 60-90
   bestFor: Slaapkamers en studeerkamers
   rating: 4.2
-  affiliateLink: https://www.amazon.nl/dp/B0CQ8GHBRG?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Duux+Beam+Luchtbevochtiger&tag=kieskeukennl-21
 - name: Stadler Form Oskar Luchtbevochtiger
   verdict: Energiezuinig en filterloos verdampingssysteem
   priceRange: EUR 100-150
   bestFor: Duurzaamheid en lage onderhoudskosten
   rating: 4.3
-  affiliateLink: https://www.amazon.nl/dp/B0CQ8GHBRG?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Stadler+Form+Oskar+Luchtbevochtiger&tag=kieskeukennl-21
 - name: Boneco U200 Luchtbevochtiger
   verdict: Hygiënisch met antibacteriële zilveren staaf voor constante schone bevochtiging
   priceRange: EUR 130-180
   bestFor: Compacte ruimtes met focus op hygiëne en stilte
   rating: 4.1
-  affiliateLink: https://www.amazon.nl/dp/B0CQ8GHBRG?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Boneco+U200+Luchtbevochtiger&tag=kieskeukennl-21
 related:
 - beste-ontvochtiger-2026
 - beste-airconditioner-2026

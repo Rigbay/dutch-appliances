@@ -16,7 +16,7 @@ cons:
 - Soms zwaarder
 - Geluidsniveau kan variëren
 affiliateLinks:
-- https://www.amazon.nl/dp/B00TY83I0S?tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=schoonmaken&tag=kieskeukennl-21
 modelYear: 2026
 featuredProduct: Miele Complete C3 Allergy PowerLine
 readingTime: 8 min
@@ -27,37 +27,37 @@ products:
   priceRange: EUR 50-400
   bestFor: Grondige reiniging, maximale filtratie
   rating: 3.0
-  affiliateLink: https://www.amazon.nl/dp/B00TY83I0S?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Miele+Complete+C3+Allergy&tag=kieskeukennl-21
 - name: Dyson V15 Detect Absolute
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Draadloze flexibiliteit, slimme detectie
   rating: 4.7
-  affiliateLink: https://www.amazon.nl/dp/B00TY83I0S?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Dyson+V15+Detect+Absolute&tag=kieskeukennl-21
 - name: Philips Performer Ultimate Allergy
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Prijs-kwaliteit, effectieve filtratie
   rating: 4.0
-  affiliateLink: https://www.amazon.nl/dp/B00TY83I0S?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Philips+Performer+Ultimate+Allergy&tag=kieskeukennl-21
 - name: Bosch ProHygienic Serie 6
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Betaalbare optie, betrouwbare prestaties
   rating: 4.0
-  affiliateLink: https://www.amazon.nl/dp/B00TY83I0S?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Bosch+ProHygienic+Serie+6&tag=kieskeukennl-21
 - name: AEG VX9 Allergy
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Stille werking, goede filtratie
   rating: 4.5
-  affiliateLink: https://www.amazon.nl/dp/B00TY83I0S?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=AEG+VX9+Allergy&tag=kieskeukennl-21
 - name: Rowenta X-Force Flex 11.60 Aqua
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Wendbaarheid, aqua-functie voor extra reiniging
   rating: 4.2
-  affiliateLink: https://www.amazon.nl/dp/B00TY83I0S?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Rowenta+X-Force+Flex+11.60+Aqua&tag=kieskeukennl-21
 related:
 - beste-stofzuiger-tegen-dierenharen-2026
 - beste-robotstofzuiger-2026

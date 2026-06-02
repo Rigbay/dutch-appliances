@@ -29,33 +29,33 @@ products:
     werk
   bestFor: €170 - €250 (body)
   rating: 4.5
-  affiliateLink: https://www.amazon.nl/dp/B00XP5CKHI?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Makita+DUB362Z&tag=kieskeukennl-21
 - name: Bosch ALB 36 LI
   verdict: '7.5'
   priceRange: EUR Kleine tuinen, droge bladeren, beginners, gebruikers die lichtgewicht
     zoeken
   bestFor: €100 - €150
   rating: 3.8
-  affiliateLink: https://www.amazon.nl/dp/B00XP5CKHI?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Bosch+ALB+36+LI&tag=kieskeukennl-21
 - name: Stihl BGA 86
   verdict: '9.5'
   priceRange: EUR Grote tuinen, professioneel gebruik, natte bladeren, topkwaliteit
   bestFor: €300 - €450 (body)
   rating: 4.8
-  affiliateLink: https://www.amazon.nl/dp/B00XP5CKHI?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Stihl+BGA+86&tag=kieskeukennl-21
 - name: Husqvarna 536LiB
   verdict: '8.8'
   priceRange: EUR Middelgrote tot grote tuinen, gebruikers die merkvoorkeur hebben
     en goede ergonomie wensen
   bestFor: €250 - €350 (body)
   rating: 4.4
-  affiliateLink: https://www.amazon.nl/dp/B00XP5CKHI?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Husqvarna+536LiB&tag=kieskeukennl-21
 - name: Ryobi RBL36-0
   verdict: '7.0'
   priceRange: EUR Budgetbewuste tuiniers met middelgrote tuinen, incidenteel gebruik
   bestFor: €120 - €180 (body)
   rating: 3.5
-  affiliateLink: https://www.amazon.nl/dp/B00XP5CKHI?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Ryobi+RBL36-0&tag=kieskeukennl-21
 related:
 - beste-heggenschaar-2026
 - beste-tuinverwarming-2026

@@ -36,7 +36,7 @@ products:
   priceRange: EUR 40-60
   bestFor: Prijs-kwaliteit
   rating: 4.4
-  affiliateLink: https://www.amazon.nl/dp/B07VV4NZW5?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Philips+Viva+Collection+HD2640&tag=kieskeukennl-21
 - name: Bosch ComfortLine TAT6A003
   verdict: Betaalbare instapkeuze met roestvrijstalen behuizing, ingebouwd broodjesrek
     en degelijk Duits design.
