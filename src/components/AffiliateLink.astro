@@ -45,8 +45,8 @@ const hasUrl = !!url;
       {isPending && <span class="text-xs opacity-70 ml-1">(in behandeling)</span>}
     </a>
   ) : isDeadOrRejected ? (
-    <span class:list={['line-through opacity-60', className]}>
-      <slot>{merchant?.name || merchantId}</slot> — Niet meer beschikbaar
+    <span class:list={['opacity-60', className]}>
+      <slot>{merchant?.name || merchantId}</slot>
     </span>
   ) : isPending ? (
     <span class:list={['opacity-80', className]}>
