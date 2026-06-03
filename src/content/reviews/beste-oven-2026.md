@@ -18,7 +18,7 @@ affiliateLinks:
   - https://www.amazon.nl/s?k=Samsung+Bespoke+AI+Oven+NV7B4545&tag=kieskeukennl-21
   - https://www.amazon.nl/s?k=Siemens+iQ700+HB678GBS1+oven&tag=kieskeukennl-21
   - https://www.amazon.nl/s?k=Etna+KOV280+oven&tag=kieskeukennl-21
-  - https://www.amazon.nl/dp/B0DNK62ZYB?tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=keuken&tag=kieskeukennl-21
 modelYear: 2026
 featuredProduct: Bosch Serie 8 Inbouwoven HBA574BS0
 readingTime: 10 min
@@ -58,7 +58,7 @@ products:
     priceRange: 'EUR 50-70'
     bestFor: 'Mini-oven / budget'
     rating: 4.3
-    affiliateLink: https://www.amazon.nl/dp/B0DNK62ZYB?tag=kieskeukennl-21
+    affiliateLink: https://www.amazon.nl/s?k=Princess+182065+Airfryer+Oven+10L&tag=kieskeukennl-21
 related:
   - beste-stoomoven-2026
   - airfryer-vs-oven-2026
