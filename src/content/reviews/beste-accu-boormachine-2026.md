@@ -101,4 +101,10 @@ De **Bosch Professional GSR 18V-50** is de beste keuze. Voor lichte klussen kies
 
 Kies verstandig, want je kiest ook een accu-systeem. De **Bosch Professional GSR 18V-50** is de beste keuze.
 
+## Gerelateerde artikelen
+
+- [Beste cirkelzaag 2026: welke zaagmachine zaagt zuiver en veilig?](/dutch-appliances/beste-cirkelzaag-2026/)
+- [Beste decoupeerzaag 2026: welke figuurzaag zaagt strak en precies?](/dutch-appliances/beste-decoupeerzaag-2026/)
+- [Beste multitool 2026: oscillatiegereedschap voor zagen schuren en snijden](/dutch-appliances/beste-multitool-2026/)
+
 *Dit artikel bevat affiliate links. Als je via deze links een aankoop doet, ontvangen wij een kleine commissie zonder extra kosten voor jou. Lees ook onze andere huishoudelijke artikelen en vergelijk meer huishoudelijke apparaten.*
