@@ -1,7 +1,7 @@
 ---
 title: 'Beste oven-magnetron combi 2026: 2-in-1 apparaat voor kleine keukens'
 slug: beste-oven-magnetron-combi-2026
-description: "Vergelijk de beste oven-magnetron combi's van 2026"
+description: "Vergelijk de beste oven-magnetron combis van 2026 met prijzen, maten en functies voor de keuken."
 category: keuken
 rating: 4.4
 priceRange: 'EUR 250-1200'

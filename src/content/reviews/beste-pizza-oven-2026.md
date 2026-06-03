@@ -1,7 +1,7 @@
 ---
 title: 'Beste pizza oven 2026: thuis pizza bakken als een pizzaiolo'
 slug: beste-pizza-oven-2026
-description: 'Vergelijk de beste pizza-ovens van 2026: gas, elektrisch en houtgestookt'
+description: "Vergelijk de beste pizza-ovens van 2026: gas, elektrisch en houtgestookt met baktemperatuur en prijzen."
 category: keuken
 rating: 4.5
 priceRange: 'EUR 50-800'

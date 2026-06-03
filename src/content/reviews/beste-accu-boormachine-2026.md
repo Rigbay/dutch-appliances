@@ -1,7 +1,7 @@
 ---
 title: 'Beste accu boormachine 2026: klussen zonder snoer'
 slug: beste-accu-boormachine-2026
-description: 'Vergelijk de beste accu boormachines van 2026: Bosch, Makita, Dewalt'
+description: "Vergelijk de beste accu boormachines van 2026: Bosch, Makita, Dewalt met spanning en koppel."
 category: huishoudelijk
 rating: 4.3
 priceRange: 'EUR 40-350'
