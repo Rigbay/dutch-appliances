@@ -100,4 +100,10 @@ Houd het gereedschap schoon, verwijder zaagsel en stof na elk gebruik en bewaar 
 
 ---
 
+## Gerelateerde artikelen
+
+- [Beste cirkelzaag 2026: welke zaagmachine zaagt zuiver en veilig?](/dutch-appliances/beste-cirkelzaag-2026/)
+- [Beste decoupeerzaag 2026: welke figuurzaag zaagt strak en precies?](/dutch-appliances/beste-decoupeerzaag-2026/)
+- [Beste haakse slijper 2026: welke slijptol kies je voor metaal en steen?](/dutch-appliances/beste-haakse-slijper-2026/)
+
 *Disclaimer: Als Amazon Associate verdienen wij aan kwalificerende aankopen via de links op deze pagina. Actuele prijzen en beschikbaarheid kunnen afwijken.*
