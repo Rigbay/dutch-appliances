@@ -1,7 +1,7 @@
 ---
 title: 'Beste inductieset 2026: inductie pannenset voor elk budget'
 slug: beste-inductieset-2026
-description: 'Vergelijk de beste inductiesets van 2026: pannensets voor inductiekookplaten'
+description: "Vergelijk de beste inductiesets van 2026: BK, Tefal, GreenPan en IKEA voor inductiekookplaten."
 category: keuken
 rating: 4.3
 priceRange: 'EUR 60-400'

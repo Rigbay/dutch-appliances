@@ -1,7 +1,7 @@
 ---
 title: 'Beste keukenmes set 2026: kookmessen voor de thuiskok'
 slug: beste-keukenmes-set-2026
-description: 'Vergelijk de beste keukenmessen sets van 2026: Duits, Japans en budget'
+description: "Vergelijk de beste keukenmessen sets van 2026: Wusthof, Zwilling, Victorinox en Kyoku met prijzen."
 category: keuken
 rating: 4.4
 priceRange: 'EUR 20-300'
