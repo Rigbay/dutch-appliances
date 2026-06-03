@@ -15,7 +15,7 @@ cons:
 - Regelmatig ontkalken nodig bij hard Nederlands kraanwater
 - Filterpapiertjes blijven een terugkerende aankoop
 affiliateLinks:
-- https://www.amazon.nl/s?k=keuken&tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=beste+filterkoffiemachine+2026&tag=kieskeukennl-21
 date: 2026-05-14
 modelYear: 2026
 featuredProduct: ''

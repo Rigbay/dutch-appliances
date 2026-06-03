@@ -16,7 +16,7 @@ cons:
 - Soms zwaarder
 - Geluidsniveau kan variëren
 affiliateLinks:
-- https://www.amazon.nl/s?k=schoonmaken&tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=beste+stofzuiger+allergie+2026&tag=kieskeukennl-21
 modelYear: 2026
 featuredProduct: Miele Complete C3 Allergy PowerLine
 readingTime: 8 min

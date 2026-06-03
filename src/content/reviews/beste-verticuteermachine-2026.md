@@ -15,8 +15,8 @@ cons:
 - Kan geluidsproductie hebben bij intensief gebruik
 - Niet alle accessoires standaard meegeleverd
 affiliateLinks:
-- https://www.amazon.nl/s?k=tuin&tag=kieskeukennl-21
-- https://www.amazon.nl/s?k=tuin&tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=beste+verticuteermachine+2026&tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=beste+verticuteermachine+2026&tag=kieskeukennl-21
 date: 2026-05-14
 modelYear: 2026
 featuredProduct: Bosch AVR 1100

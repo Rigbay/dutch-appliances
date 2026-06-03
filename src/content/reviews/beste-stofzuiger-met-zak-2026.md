@@ -15,7 +15,7 @@ cons:
 - Iets minder wendbaar dan sommige zakloze modellen
 - Kan onhandig zijn om zak te vervangen bij volle zak
 affiliateLinks:
-- https://www.amazon.nl/s?k=schoonmaken&tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=beste+stofzuiger+zak+2026&tag=kieskeukennl-21
 date: 2026-05-12
 modelYear: 2026
 featuredProduct: Miele Complete C3 PowerLine

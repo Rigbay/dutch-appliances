@@ -15,7 +15,7 @@ cons:
 - Elektrische modellen beperkt door snoerlengte of accuduur
 - Premium modellen zoals Gardena hebben een hoger prijskaartje
 affiliateLinks:
-- https://www.amazon.nl/s?k=tuin&tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=beste+grasmaaier+2026&tag=kieskeukennl-21
 date: 2026-05-14
 modelYear: 2026
 featuredProduct: ''

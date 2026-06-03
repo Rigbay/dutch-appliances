@@ -15,7 +15,7 @@ cons:
 - Niet voor alle raamtypes geschikt
 - Initiële investering
 affiliateLinks:
-- https://www.amazon.nl/s?k=schoonmaken&tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=beste+raamreiniger+2026&tag=kieskeukennl-21
 date: 2026-05-12
 modelYear: 2026
 featuredProduct: Kärcher WV 6 Plus

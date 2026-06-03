@@ -15,11 +15,11 @@ cons:
 - Initiële investering kan hoger zijn
 - Geluidsniveau kan variëren per model
 affiliateLinks:
-- https://www.amazon.nl/s?k=keuken&tag=kieskeukennl-21
-- https://www.amazon.nl/s?k=keuken&tag=kieskeukennl-21
-- https://www.amazon.nl/s?k=keuken&tag=kieskeukennl-21
-- https://www.amazon.nl/s?k=keuken&tag=kieskeukennl-21
-- https://www.amazon.nl/s?k=keuken&tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=beste+inductiekookplaat+2026&tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=beste+inductiekookplaat+2026&tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=beste+inductiekookplaat+2026&tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=beste+inductiekookplaat+2026&tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=beste+inductiekookplaat+2026&tag=kieskeukennl-21
 date: 2026-05-13
 modelYear: 2026
 featuredProduct: Bosch PXX675DV2E

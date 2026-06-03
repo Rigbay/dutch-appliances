@@ -15,9 +15,9 @@ cons:
 - Niet elk model heeft PFAS-vrije mandinformatie duidelijk vermeld
 - Grote airfryers nemen veel aanrechtruimte in
 affiliateLinks:
-- https://www.amazon.nl/s?k=keuken&tag=kieskeukennl-21
-- https://www.amazon.nl/s?k=keuken&tag=kieskeukennl-21
-- https://www.amazon.nl/s?k=keuken&tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=beste+airfryer+2026&tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=beste+airfryer+2026&tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=beste+airfryer+2026&tag=kieskeukennl-21
 date: 2026-05-06
 modelYear: 2026
 featuredProduct: Philips 3000 Series Dual Airfryer NA352/00

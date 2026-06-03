@@ -15,8 +15,8 @@ cons:
 - Sommige geavanceerde functies zijn mogelijk overbodig
 - Installatie kan specialistisch werk vereisen
 affiliateLinks:
-- https://www.amazon.nl/s?k=huishoudelijk&tag=kieskeukennl-21
-- https://www.amazon.nl/s?k=huishoudelijk&tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=beste+wasmachine+2026&tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=beste+wasmachine+2026&tag=kieskeukennl-21
 date: 2026-05-11
 modelYear: 2026
 featuredProduct: Miele W1 TwinDos

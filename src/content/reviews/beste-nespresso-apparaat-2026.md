@@ -16,7 +16,7 @@ cons:
 - Afhankelijk van Nespresso ecosysteem — geen losse koffiebonen
 - Ontkalken en onderhoud verplicht voor garantie en smaakbehoud
 affiliateLinks:
-- https://www.amazon.nl/s?k=keuken&tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=beste+nespresso+apparaat+2026&tag=kieskeukennl-21
 date: 2026-05-14
 modelYear: 2026
 featuredProduct: ''

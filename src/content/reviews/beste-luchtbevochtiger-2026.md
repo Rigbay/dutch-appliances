@@ -16,8 +16,8 @@ cons:
 - Kan lawaai produceren
 - Waterreservoir regelmatig bijvullen
 affiliateLinks:
-- https://www.amazon.nl/s?k=huishoudelijk&tag=kieskeukennl-21
-- https://www.amazon.nl/s?k=huishoudelijk&tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=beste+luchtbevochtiger+2026&tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=beste+luchtbevochtiger+2026&tag=kieskeukennl-21
 date: 2026-05-13
 modelYear: 2026
 featuredProduct: Philips Series 3000 Luchtbevochtiger

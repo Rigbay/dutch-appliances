@@ -15,9 +15,9 @@ cons:
 - Padmachines produceren meer afval dan bonenmachines
 - Filterkoffie is lekkerder maar minder snel dan een pad
 affiliateLinks:
-- https://www.amazon.nl/s?k=keuken&tag=kieskeukennl-21
-- https://www.amazon.nl/s?k=keuken&tag=kieskeukennl-21
-- https://www.amazon.nl/s?k=keuken&tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=beste+koffiemachine+2026&tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=beste+koffiemachine+2026&tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=beste+koffiemachine+2026&tag=kieskeukennl-21
 date: 2026-05-06
 modelYear: 2026
 featuredProduct: Philips 5400 Serie LatteGo EP5447
