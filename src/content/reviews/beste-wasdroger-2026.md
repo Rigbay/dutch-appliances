@@ -15,8 +15,8 @@ cons:
 - Initiële investering voor een warmtepompdroger kan hoger zijn.
 - Condensdrogers vereisen regelmatige ontluchting of waterafvoer.
 affiliateLinks:
-- https://www.amazon.nl/s?k=huishoudelijk&tag=kieskeukennl-21
-- https://www.amazon.nl/s?k=huishoudelijk&tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=beste+wasdroger+2026&tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=beste+wasdroger+2026&tag=kieskeukennl-21
 date: 2026-05-11
 modelYear: 2026
 featuredProduct: Bosch Serie 8 WTH85201NL Warmtepompdroger

@@ -15,7 +15,7 @@ cons:
 - Accu-modellen hebben beperkte looptijd voor grote tuinen
 - Premium steel- en accu-modellen zijn prijziger
 affiliateLinks:
-- https://www.amazon.nl/s?k=tuin&tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=beste+heggenschaar+2026&tag=kieskeukennl-21
 date: 2026-05-14
 modelYear: 2026
 featuredProduct: ''

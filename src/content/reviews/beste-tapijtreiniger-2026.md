@@ -16,8 +16,8 @@ cons:
 - Kan geluidsproductie hebben bij intensief gebruik
 - Niet alle accessoires standaard meegeleverd
 affiliateLinks:
-- https://www.amazon.nl/s?k=schoonmaken&tag=kieskeukennl-21
-- https://www.amazon.nl/s?k=schoonmaken&tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=beste+tapijtreiniger+2026&tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=beste+tapijtreiniger+2026&tag=kieskeukennl-21
 date: 2026-05-14
 modelYear: 2026
 featuredProduct: Bissell ProHeat 2X

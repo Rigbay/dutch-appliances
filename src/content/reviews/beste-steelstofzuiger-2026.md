@@ -16,7 +16,7 @@ cons:
 - Kleinere stofbak dan traditionele stofzuigers — vaker legen
 - Prijs voor topmodellen (Dyson, Samsung) loopt op tot €700+
 affiliateLinks:
-- https://www.amazon.nl/s?k=schoonmaken&tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=beste+steelstofzuiger+2026&tag=kieskeukennl-21
 date: 2026-05-14
 modelYear: 2026
 featuredProduct: ''

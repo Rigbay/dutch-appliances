@@ -15,7 +15,7 @@ cons:
 - Geluidsniveau kan storend zijn
 - Onderhoud filters
 affiliateLinks:
-- https://www.amazon.nl/s?k=schoonmaken&tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=stofzuiger+kopen+waar+op+letten+2026&tag=kieskeukennl-21
 modelYear: 2026
 featuredProduct: Philips SpeedPro Max Aqua
 readingTime: 10 min

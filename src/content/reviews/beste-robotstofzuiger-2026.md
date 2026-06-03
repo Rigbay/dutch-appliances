@@ -15,9 +15,9 @@ cons:
 - Onderhoud van borstels en reservoirs blijft nodig
 - Prijzige modellen dweilen nog steeds niet zo grondig als een handmop
 affiliateLinks:
-- https://www.amazon.nl/s?k=schoonmaken&tag=kieskeukennl-21
-- https://www.amazon.nl/s?k=schoonmaken&tag=kieskeukennl-21
-- https://www.amazon.nl/s?k=schoonmaken&tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=beste+robotstofzuiger+2026&tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=beste+robotstofzuiger+2026&tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=beste+robotstofzuiger+2026&tag=kieskeukennl-21
 date: 2026-05-06
 modelYear: 2026
 featuredProduct: Roborock Qrevo MaxV

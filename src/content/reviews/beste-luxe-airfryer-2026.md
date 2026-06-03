@@ -15,7 +15,7 @@ cons:
 - Neemt meer aanrechtruimte in dan compacte basismodellen
 - Niet alle modellen hebben PFAS-vrije mandinformatie duidelijk vermeld
 affiliateLinks:
-- https://www.amazon.nl/s?k=keuken&tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=beste+luxe+airfryer+2026&tag=kieskeukennl-21
 date: 2026-05-14
 modelYear: 2026
 featuredProduct: ''

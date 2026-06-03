@@ -15,7 +15,7 @@ cons:
 - Soms minder duurzaam
 - Minder luxe functies
 affiliateLinks:
-- https://www.amazon.nl/s?k=keuken&tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=beste+koffiemachine+200+euro+2026&tag=kieskeukennl-21
 modelYear: 2026
 featuredProduct: De'Longhi Stilosa
 readingTime: 7 min

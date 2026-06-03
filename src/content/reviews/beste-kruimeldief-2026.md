@@ -15,7 +15,7 @@ cons:
 - Topmodellen met lange accuduur kosten €150+
 - Minder geschikt voor tapijt en grote oppervlakken
 affiliateLinks:
-- https://www.amazon.nl/s?k=schoonmaken&tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=beste+kruimeldief+2026&tag=kieskeukennl-21
 date: 2026-05-14
 modelYear: 2026
 featuredProduct: ''

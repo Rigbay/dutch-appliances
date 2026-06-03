@@ -15,7 +15,7 @@ cons:
 - Elektrische modellen hebben beperkte mobiliteit door snoer
 - Goedkopere modellen missen duurzaamheid op langere termijn
 affiliateLinks:
-- https://www.amazon.nl/s?k=tuin&tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=beste+hogedrukreiniger+2026&tag=kieskeukennl-21
 date: 2026-05-14
 modelYear: 2026
 featuredProduct: ''

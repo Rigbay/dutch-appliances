@@ -15,9 +15,9 @@ cons:
 - Snoerloze varianten hebben beperkte accuduur
 - Grote canisters nemen veel kastruimte in
 affiliateLinks:
-- https://www.amazon.nl/s?k=schoonmaken&tag=kieskeukennl-21
-- https://www.amazon.nl/s?k=schoonmaken&tag=kieskeukennl-21
-- https://www.amazon.nl/s?k=schoonmaken&tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=beste+stofzuiger+2026&tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=beste+stofzuiger+2026&tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=beste+stofzuiger+2026&tag=kieskeukennl-21
 date: 2026-05-06
 modelYear: 2026
 featuredProduct: Miele Complete C3 Allergy EcoLine
