@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "generated": "2026-06-03 22:17 CEST",
+    "source": "139 KiesKeuken articles",
+    "purpose": "ASIN reference for browser delegation — skip lookups for products already discovered"
+  },
+  "known_asins": {
+    "**philips airfryer xxl (hd9650/90)**": "B07VHKMGFX",
+    "**samsung mc28h5015as combimagnetron**": "B00ISBDDIW",
+    "**ninja foodi max dual zone airfryer**": "B09B1XGZ4H",
+    "**panasonic nn-e27jmmbpq solo magnetron**": "B084JQK4P6",
+    "**philips essential airfryer (hd9252/90)**": "B0999GR9SM",
+    "**whirlpool amw 590 ix inbouw combi magnetron**": "B07YL9KYKP",
+    "**tristar fr-6980 airfryer**": "B078XBH8K2",
+    "philips airfryer xxl premium": "B08T6H8XZR",
+    "ninja foodi flexdrawer": "B0C4V3B1R5",
+    "bosch serie 8 inbouwoven": "B0CQ8GHBRG",
+    "sage the smart oven air fryer": "B08M9G9K5L",
+    "samsung bespoke ai oven": "B0CQ8GHBRG",
+    "princess 182061 oven deluxe": "B07N8Z7D75",
+    "philips problend 6 3d": "B07VV4NZW5",
+    "kitchenaid k400 blender": "B06XDPNQ1R",
+    "dyson v15 detect fluffy": "B09MJ7QL6H",
+    "samsung bespoke jet": "B08CKZFR8N",
+    "philips speedpro max fc6904": "B07VV4NZW5",
+    "philips daily collection hr2530": "B07VV4NZW5",
+    "kitchenaid cordless hand mixer 5khmb732": "B06XDPNQ1R",
+    "liebherr cbnes 3913 plus koelvriescombinatie": "B0020P15BQ",
+    "samsung rb38t775db1 koelvriescombinatie": "B08CKZFR8N",
+    "bosch serie 6 kgn39vxep koelvriescombinatie": "B08CKZFR8N",
+    "siemens iq500 kg39nlidp koelvriescombinatie": "B08CKZFR8N",
+    "philips senseo milk frother ca6500/60": "B07VV4NZW5",
+    "severin sm 3587 spuma 700 plus": "B0020P15BQ",
+    "philips ac3033/10 series 3000i": "B07VV4NZW5",
+    "dyson purifier cool formaldehyde tp09": "B09MJ7QL6H",
+    "xiaomi mi air purifier 4 pro": "B09MJ7QL6H",
+    "panasonic nn-cs89l": "B084XP98NC",
+    "samsung ms23k3515as": "B08CKZFR8N",
+    "philips promix hr2652/90": "B07VV4NZW5",
+    "kitchenaid 5khbs1206": "B06XDPNQ1R",
+    "liebherr gn 2723 vrieskast": "B0020P15BQ",
+    "samsung rz28tzt40ww vrieskast": "B08CKZFR8N",
+    "philips viva collection hd9356": "B07VV4NZW5",
+    "kitchenaid artisan 5kek1522": "B06XDPNQ1R",
+    "**de''longhi dedica ec685**": "B07H2NHD7L",
+    "**moccamaster kbg select filter**": "B07HFY6N2R",
+    "**de''longhi magnifica s ecam 22.110.b**": "B007JRLSTM",
+    "**sage barista express impress ses876**": "B0BG14X5Z5",
+    "**melitta aromafresh ii filterkoffiezetapparaat**": "B08HCN8HX2",
+    "**krups nespresso vertuo next xn911b**": "B08BJ4RPNV",
+    "**wmf lumero filterkoffiezetapparaat**": "B09N6R9Z6Z",
+    "de'longhi dinamica plus": "B0020P15BQ",
+    "philips 5400 lattego": "B07VV4NZW5",
+    "**philips senseo original csa210/60**": "B0CLRBTZ1Q",
+    "**philips 5400 series lattego ep5447/90**": "B08C79MHFZ",
+    "**philips senseo select csa240/60**": "B092R7HZ4Q",
+    "**moccamaster kbg select filterkoffiezetapparaat**": "B07HFY6N2R",
+    "**melitta caffeo solo & milk**": "B09GXP2WXJ",
+    "**krups nespresso inissia xn1005**": "B06XFV5BZH",
+    "**dyson v15 detect absolute**": "B08VNPS2KK",
+    "**dyson gen5detect absolute**": "B0C73S5WFX",
+    "**philips speedpro max xc8043/01**": "B08FHDQN7D",
+    "**samsung bespoke jet vs20a95923w**": "B09XH5ZL1R",
+    "**miele triflex hx2 cat & dog**": "B097Q5YH6V",
+    "**rowenta x-force flex 14.60 rh99c8**": "B08K8B4DZT",
+    "**black+decker powerseries extreme 18v**": "B09NL4L9N3",
+    "dyson v15 detect": "B09MJ7QL6H",
+    "samsung bespoke jet ai": "B08CKZFR8N",
+    "philips 8000 series": "B07VV4NZW5",
+    "**quooker pro3 rvs kokendwaterkraan**": "B07B9WSSN1",
+    "**philips waterkoker hd9351/92**": "B08N6QQYNR",
+    "**quooker combi+ rvs**": "B01MXLKXQB",
+    "**russell hobbs attentiv 23271**": "B08D3Y5R8L",
+    "**quooker nordic square twist**": "B09VNH9XKF",
+    "**de''longhi kbov 2001.b waterkoker**": "B07PFBK1K6",
+    "**inventum wk650b waterkoker**": "B00P0GMXFS"
+  },
+  "collisions": {
+    "B0CQ8GHBRG": [
+      "samsung bespoke ai oven",
+      "bosch serie 8 inbouwoven"
+    ],
+    "B07VV4NZW5": [
+      "philips senseo milk frother ca6500/60",
+      "philips speedpro max fc6904",
+      "philips 5400 lattego",
+      "philips viva collection hd9356",
+      "philips promix hr2652/90",
+      "philips daily collection hr2530",
+      "philips ac3033/10 series 3000i",
+      "philips 8000 series",
+      "philips problend 6 3d"
+    ],
+    "B06XDPNQ1R": [
+      "kitchenaid artisan 5kek1522",
+      "kitchenaid 5khbs1206",
+      "kitchenaid k400 blender",
+      "kitchenaid cordless hand mixer 5khmb732"
+    ],
+    "B09MJ7QL6H": [
+      "xiaomi mi air purifier 4 pro",
+      "dyson purifier cool formaldehyde tp09",
+      "dyson v15 detect fluffy",
+      "dyson v15 detect"
+    ],
+    "B08CKZFR8N": [
+      "siemens iq500 kg39nlidp koelvriescombinatie",
+      "samsung rz28tzt40ww vrieskast",
+      "bosch serie 6 kgn39vxep koelvriescombinatie",
+      "samsung rb38t775db1 koelvriescombinatie",
+      "samsung bespoke jet ai",
+      "samsung bespoke jet",
+      "samsung ms23k3515as"
+    ],
+    "B0020P15BQ": [
+      "severin sm 3587 spuma 700 plus",
+      "de'longhi dinamica plus",
+      "liebherr cbnes 3913 plus koelvriescombinatie",
+      "liebherr gn 2723 vrieskast"
+    ],
+    "B07HFY6N2R": [
+      "**moccamaster kbg select filter**",
+      "**moccamaster kbg select filterkoffiezetapparaat**"
+    ]
+  },
+  "stats": {
+    "total_products_with_asins": 69,
+    "total_unique_asins": 44,
+    "collision_asins": 7
+  }
+}
