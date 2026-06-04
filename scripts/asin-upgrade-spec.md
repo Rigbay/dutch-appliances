@@ -27,6 +27,16 @@ The earlier same-ASIN fix only caught cases where ALL products in ONE article sh
 
 **Priority fix:** The 18 articles with at least one real ASIN link likely have the WRONG ASIN on 1 product (the collision ASIN). These are the highest-value first-pass: VERIFY each collision ASIN belongs to the product it's linked to in that article. If it doesn't, find the correct ASIN.
 
+## Auto-match results (2026-06-04 08:17 Hermes scan)
+
+The `scripts/upgrade-known-asins.py` script can auto-replace search URLs for the **39 safe ASINs** (non-collision, 1:1 verified). However, when run against all 139 articles, it found **0 replacements needed** — every product name that matches a known ASIN **already has that ASIN** in its affiliateLink. The earlier `fix-same-asin.py` (Jun 2) and per-article fixes covered all ~288 matches.
+
+**Remaining work for Claude Code (browser/GUI lane):**
+- 1099 search URLs across 131 articles
+- ~480 unique product names need per-name ASIN lookups on Amazon.nl
+- 7 collision ASINs to verify (listed above)
+- No file-only automation shortcut — every unmatched product needs browser verification
+
 ## Strategy
 
 1. **Work one article at a time.** Each `.md` file under `src/content/reviews/` has a `products:` array in frontmatter. Each product entry has a `name:` and `affiliateLink:` — the latter is either a search URL (needs fixing) or a real ASIN link (needs VERIFICATION per the collision list).
