@@ -28,38 +28,38 @@ products:
   priceRange: EUR 1000-1200
   bestFor: All-in-one luxe
   rating: 4.9
-  affiliateLink: https://www.amazon.nl/s?k=Roborock+S8+MaxV+Ultra&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B0CRV7F37B?tag=kieskeukennl-21
 - name: iRobot Roomba j9+
   verdict: Bewezen betrouwbaarheid met uitstekende PrecisionVision-navigatie.
   priceRange: EUR 700-900
   bestFor: Betrouwbaarheid & gebruiksgemak
   rating: 4.7
-  affiliateLink: https://www.amazon.nl/s?k=iRobot+Roomba+j9%2B&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B0CHGJHJRM?tag=kieskeukennl-21
 - name: Dreame L20 Ultra
   verdict: Uitstekende prijs-kwaliteit met indrukwekkende dweilfunctie.
   priceRange: EUR 600-800
   bestFor: Prijs-kwaliteit & dweilen
   rating: 4.8
-  affiliateLink: https://www.amazon.nl/s?k=Dreame+L20+Ultra&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B0CC236CLT?tag=kieskeukennl-21
 - name: Eufy X10 Pro Omni
   verdict: Budgetvriendelijke all-in-one met verrassend goede prestaties.
   priceRange: EUR 500-650
   bestFor: Budget all-in-one
   rating: 4.4
-  affiliateLink: https://www.amazon.nl/s?k=Eufy+X10+Pro+Omni&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B0CPDZ3HD9?tag=kieskeukennl-21
 - name: Miele Complete C3
   verdict: De referentie voor handmatig stofzuigen — ongekende levensduur.
   priceRange: EUR 250-400
   bestFor: Handmatig stofzuigen pur sang
   rating: 4.8
-  affiliateLink: https://www.amazon.nl/s?k=Miele+Complete+C3&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B09VKXBRDQ?tag=kieskeukennl-21
 - name: Dyson V15 Detect
   verdict: Snel en krachtig handmatig alternatief voor wie niet wil wachten op een
     robot.
   priceRange: EUR 500-700
   bestFor: Handmatig draadloos alternatief
   rating: 4.9
-  affiliateLink: https://www.amazon.nl/s?k=Dyson+V15+Detect&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B0C2J8KJH9?tag=kieskeukennl-21
 related:
 - beste-robotstofzuiger-2026
 - beste-stofzuiger-2026

@@ -16,7 +16,7 @@ cons:
 - Vereist regelmatig onderhoud en navullen van tanks
 - Beperkt inzetbaar op hoogpolig tapijt of trappen
 affiliateLinks:
-- "https://www.amazon.nl/s?k=Roborock+Dyad+Pro&tag=kieskeukennl-21"
+- "https://www.amazon.nl/dp/B0BM9HBDYV?tag=kieskeukennl-21"
 date: 2026-05-12
 modelYear: 2026
 featuredProduct: Roborock Dyad Pro
@@ -29,7 +29,7 @@ products:
   bestFor: Huishoudens die op zoek zijn naar de meest efficiënte en onderhoudsarme
     oplossing voor alle soorten harde vloeren, inclusief hardnekkige vlekken.
   rating: 4.8
-  affiliateLink: "https://www.amazon.nl/s?k=Roborock+Dyad+Pro&tag=kieskeukennl-21"
+  affiliateLink: "https://www.amazon.nl/dp/B0BM9HBDYV?tag=kieskeukennl-21"
 - name: Tineco Floor One S5 Combo
   verdict: Een veelzijdige alleskunner die zowel zuigt als dweilt, ideaal voor dagelijks
     onderhoud en kleine ongelukjes.
@@ -37,7 +37,7 @@ products:
   bestFor: Gezinnen met kinderen en huisdieren die een snelle en effectieve oplossing
     zoeken voor dagelijkse schoonmaak.
   rating: 4.5
-  affiliateLink: "https://www.amazon.nl/s?k=Tineco+Floor+One+S5+Combo&tag=kieskeukennl-21"
+  affiliateLink: "https://www.amazon.nl/dp/B099DBMW3H?tag=kieskeukennl-21"
 - name: iRobot Braava Jet m6
   verdict: Voor wie pure dweilautomatisering zoekt zonder zuigkracht, is de Braava
     Jet m6 de koning van het dweilen.
@@ -45,7 +45,7 @@ products:
   bestFor: Mensen die al een goede stofzuiger hebben en puur het dweilen willen automatiseren
     met een slimme, efficiënte robot.
   rating: 4.3
-  affiliateLink: "https://www.amazon.nl/s?k=iRobot+Braava+Jet+m6&tag=kieskeukennl-21"
+  affiliateLink: "https://www.amazon.nl/dp/B07TQVQ3FN?tag=kieskeukennl-21"
 - name: Bissell CrossWave X7 Plus
   verdict: Een krachtige snoerloze vloerreiniger die zowel nat als droog vuil aankan
     en een goede optie is voor grotere oppervlakken.
@@ -53,7 +53,7 @@ products:
   bestFor: Huishoudens met grote harde vloeren die een krachtige, snoerloze reiniger
     zoeken die ook met grover vuil overweg kan.
   rating: 4.2
-  affiliateLink: https://www.amazon.nl/s?k=Bissell+CrossWave+X7+Plus&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B09S119JFR?tag=kieskeukennl-21
 - name: Kärcher FC 7 Cordless Premium
   verdict: De Kärcher FC 7 is een uitstekende keuze voor wie een grondige, continue
     reiniging wenst zonder de noodzaak om constant tanks te wisselen.
@@ -61,7 +61,7 @@ products:
   bestFor: Gebruikers die een hoge mate van hygiëne en een grondige reiniging van
     harde vloeren waarderen, met een efficiënt 'continue reiniging' systeem.
   rating: 4.4
-  affiliateLink: "https://www.amazon.nl/s?k=K%C3%A4rcher+FC+7+Cordless+Premium&tag=kieskeukennl-21"
+  affiliateLink: "https://www.amazon.nl/dp/B0CGMCD63W?tag=kieskeukennl-21"
 related:
 - beste-stoomreiniger-2026
 - beste-stofzuiger-tegen-dierenharen-2026

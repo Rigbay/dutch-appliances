@@ -13,11 +13,11 @@ cons:
 - Prijs en kwaliteit verschillen sterk per merk
 - Onderhoud en reiniging vereisen regelmatige aandacht
 affiliateLinks:
-- https://www.amazon.nl/s?k=Dyson+V15+Detect+Fluffy&tag=kieskeukennl-21
-- https://www.amazon.nl/s?k=Samsung+Bespoke+Jet&tag=kieskeukennl-21
-- https://www.amazon.nl/s?k=Philips+SpeedPro+Max+FC6904&tag=kieskeukennl-21
+- https://www.amazon.nl/dp/B0CVHJP29K?tag=kieskeukennl-21
+- https://www.amazon.nl/dp/B0DTQ1HT3C?tag=kieskeukennl-21
+- https://www.amazon.nl/dp/B07FWQ7KHL?tag=kieskeukennl-21
 - https://www.amazon.nl/s?k=Bosch+Unlimited+BCS81&tag=kieskeukennl-21
-- https://www.amazon.nl/s?k=Shark+Stratos+IZ420EUT&tag=kieskeukennl-21
+- https://www.amazon.nl/dp/B0BHKNBJH1?tag=kieskeukennl-21
 date: 2026-05-06
 modelYear: 2026
 featuredProduct: Dyson V15 Detect Fluffy
@@ -29,21 +29,21 @@ products:
   priceRange: EUR 550-700
   bestFor: Beste prestaties
   rating: 4.8
-  affiliateLink: https://www.amazon.nl/dp/B09MJ7QL6H?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B0CVHJP29K?tag=kieskeukennl-21
 - name: Samsung Bespoke Jet
   verdict: Sterke prijs-kwaliteitverhouding met een innovatief Clean Station dat het
     stofreservoir automatisch leegt zonder stofwolk.
   priceRange: EUR 400-550
   bestFor: Prijs-kwaliteit
   rating: 4.5
-  affiliateLink: https://www.amazon.nl/dp/B08CKZFR8N?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B0DTQ1HT3C?tag=kieskeukennl-21
 - name: Philips SpeedPro Max FC6904
   verdict: Betaalbare draadloze stofzuiger met 360-graden zuigmond, handige led-verlichting
     en een redelijke accuduur voor dagelijks schoonmaakwerk.
   priceRange: EUR 250-350
   bestFor: Budget
   rating: 4.3
-  affiliateLink: https://www.amazon.nl/dp/B07VV4NZW5?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B07FWQ7KHL?tag=kieskeukennl-21
 - name: Bosch Unlimited BCS81
   verdict: Praktische keuze dankzij verwisselbare accu's waarmee je de gebruiksduur
     kunt verdubbelen, ideaal voor grotere woningen.
@@ -57,7 +57,7 @@ products:
   priceRange: EUR 350-480
   bestFor: Anti-hair wrap
   rating: 4.5
-  affiliateLink: https://www.amazon.nl/s?k=Shark+Stratos+IZ420EUT&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B0BHKNBJH1?tag=kieskeukennl-21
 related:
 - beste-robotstofzuiger-2026
 - beste-stoomreiniger-2026

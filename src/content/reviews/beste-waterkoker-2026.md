@@ -15,11 +15,11 @@ cons:
 - Plastic kokers kunnen smaak afgeven bij hoog gebruik
 - Grote inhoud kokers zuigen meer stroom bij herhaald opwarmen
 affiliateLinks:
-- https://www.amazon.nl/s?k=Bosch+Sky+Kettle+TWK7203&tag=kieskeukennl-21
+- https://www.amazon.nl/dp/B06WVKZVPW?tag=kieskeukennl-21
 - https://www.amazon.nl/s?k=Philips+Viva+Collection+HD9356&tag=kieskeukennl-21
-- https://www.amazon.nl/s?k=Smeg+Kettle+KLF03&tag=kieskeukennl-21
-- https://www.amazon.nl/s?k=Bosch+CompactClass+TWK3A011&tag=kieskeukennl-21
-- https://www.amazon.nl/s?k=KitchenAid+Artisan+5KEK1522&tag=kieskeukennl-21
+- https://www.amazon.nl/dp/B075WW8GGL?tag=kieskeukennl-21
+- https://www.amazon.nl/dp/B008WK1PCC?tag=kieskeukennl-21
+- https://www.amazon.nl/dp/B00BJL4VG8?tag=kieskeukennl-21
 date: 2026-05-06
 modelYear: 2026
 featuredProduct: Bosch Sky Kettle TWK7203
@@ -30,32 +30,32 @@ products:
   priceRange: EUR 90-130
   bestFor: Temperatuur en stilte
   rating: 4.7
-  affiliateLink: https://www.amazon.nl/s?k=Bosch+Sky+Kettle+TWK7203&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B06WVKZVPW?tag=kieskeukennl-21
 - name: Philips Viva Collection HD9356
   verdict: Degelijke dubbelwandige koker met temperatuurkeuze en lange levensduur.
   priceRange: EUR 60-80
   bestFor: Prijs-kwaliteit
   rating: 4.5
-  affiliateLink: https://www.amazon.nl/dp/B07VV4NZW5?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/s?k=Philips+Viva+Collection+HD9356&tag=kieskeukennl-21
 - name: Smeg kettle KLF03
   verdict: Iconisch retro design in vele kleuren, basic functie, maar een statement
     op het aanrecht.
   priceRange: EUR 140-180
   bestFor: Design
   rating: 4.3
-  affiliateLink: https://www.amazon.nl/s?k=Smeg+Kettle+KLF03&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B075WW8GGL?tag=kieskeukennl-21
 - name: Bosch CompactClass TWK3A011
   verdict: Betaalbare basic-koker met roestvrij staal en uitneembaar kalkfilter.
   priceRange: EUR 30-45
   bestFor: Budget
   rating: 4.2
-  affiliateLink: https://www.amazon.nl/s?k=Bosch+CompactClass+TWK3A011&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B008WK1PCC?tag=kieskeukennl-21
 - name: KitchenAid Artisan 5KEK1522
   verdict: Premium dubbelwandig ontwerp met temperatuurstanden en fluisterstille werking.
   priceRange: EUR 130-170
   bestFor: Premium stil
   rating: 4.6
-  affiliateLink: https://www.amazon.nl/dp/B06XDPNQ1R?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B00BJL4VG8?tag=kieskeukennl-21
 related:
 - beste-airfryer-met-twee-manden-2026
 - beste-inductiekookplaat-2026

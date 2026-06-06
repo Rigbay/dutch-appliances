@@ -1,0 +1,270 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const allReviews = (await getCollection('reviews', ({ data }) => !data.draft))
+  .sort((a, b) => b.data.rating - a.data.rating);
+
+const categoryLabels: Record<string, { label: string; emoji: string; desc: string }> = {
+  keuken: { label: 'Keukenapparaten', emoji: '🍳', desc: 'Airfryers, koffiemachines, inductiekookplaten, mixers, ovens en alles voor de perfecte keuken.' },
+  schoonmaken: { label: 'Schoonmaken', emoji: '🧹', desc: 'Stofzuigers, robotstofzuigers, dweilrobots, steelstofzuigers en alles wat je vloer blinkend houdt.' },
+  huishoudelijk: { label: 'Huishoudelijk', emoji: '🏠', desc: 'Wasmachines, drogers, airconditioners, strijkijzers en dagelijkse huishoudelijke helpers.' },
+  tuin: { label: 'Tuin & Buiten', emoji: '🌿', desc: 'Grasmaaiers, barbecues, robotmaaiers, heggenscharen en alles voor buitenleven.' },
+};
+
+const grouped: Record<string, any[]> = {};
+let grandTotalProducts = 0;
+for (const r of allReviews) {
+  const cat = r.data.category || 'overig';
+  if (!grouped[cat]) grouped[cat] = [];
+  grouped[cat].push(r);
+  grandTotalProducts += (r.data.products?.length || 0);
+}
+
+// Structured data: ItemList of all reviews
+const itemListSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'ItemList',
+  name: 'Alle 86 Beste Apparaten Koopgidsen 2026 — Complete Vergelijking',
+  description: 'Complete verzameling van 86 Nederlandse koopgidsen voor huishoudelijke apparaten in 2026: airfryers, koffiemachines, stofzuigers, wasmachines, grasmaaiers, inductiekookplaten en meer. Alle Amazon NL affiliate links (kieskeukennl-21).',
+  numberOfItems: allReviews.length,
+  itemListElement: allReviews.slice(0, 50).map((r, idx) => ({
+    '@type': 'ListItem',
+    position: idx + 1,
+    item: {
+      '@type': 'Product',
+      name: r.data.title,
+      url: `https://rigbay.github.io/dutch-appliances/${r.data.slug}/`,
+      offers: {
+        '@type': 'AggregateOffer',
+        priceCurrency: 'EUR',
+        lowPrice: r.data.priceRange?.match(/\d+/g)?.[0] || null,
+        highPrice: r.data.priceRange?.match(/\d+/g)?.[1] || null,
+      },
+      aggregateRating: {
+        '@type': 'AggregateRating',
+        ratingValue: r.data.rating,
+        bestRating: 5,
+      },
+    },
+  })),
+};
+---
+
+<BaseLayout
+  title="Alle 86 Apparaten Koopgidsen 2026 — Complete Vergelijking & Overzicht"
+  description="Complete Nederlandse koopgids: alle 86 huishoudelijke apparaten in één overzicht. Vergelijk airfryers, koffiemachines, stofzuigers, wasmachines, grasmaaiers en meer. Met Amazon NL affiliate links (kieskeukennl-21) en eerlijke prijsvergelijking."
+  canonicalUrl="https://rigbay.github.io/dutch-appliances/alle-apparaten/"
+  structuredData={itemListSchema}
+>
+  <!-- HERO -->
+  <section class="border-b border-[#e8e1d7] bg-linen">
+    <div class="mx-auto max-w-6xl px-4 py-12 sm:px-6 lg:px-8">
+      <p class="text-sm font-bold uppercase tracking-[0.16em] text-leaf">Complete koopgids 2026</p>
+      <h1 class="mt-3 font-serif text-4xl font-semibold leading-tight text-ink sm:text-5xl">
+        Alle {allReviews.length} Apparaten in één Overzicht — Beste Koopgidsen 2026
+      </h1>
+      <p class="mt-4 max-w-3xl text-lg leading-8 text-muted">
+        Van airfryer tot wasdroger, van robotstofzuiger tot inductiekookplaat — hier vind je ál onze koopgidsen in één handig overzicht. 
+        Iedere gids bevat productvergelijkingen, budgetopties, eerlijke minpunten en een Amazon NL link met onze affiliate tag kieskeukennl-21. 
+        {allReviews.length} koopgidsen, {grandTotalProducts}+ productaanbevelingen, één centrale plek.
+      </p>
+
+      <!-- Quick stats -->
+      <div class="mt-8 grid grid-cols-2 sm:grid-cols-4 gap-4">
+        {Object.entries(categoryLabels).map(([key, meta]) => {
+          const count = grouped[key]?.length || 0;
+          return (
+            <a href={`#${key}`} class="rounded bg-white border border-[#e6ded2] p-4 text-center shadow-sm hover:-translate-y-0.5 hover:shadow-soft transition">
+              <span class="text-2xl">{meta.emoji}</span>
+              <p class="mt-1 font-bold text-leaf">{count}</p>
+              <p class="text-xs text-muted">{meta.label}</p>
+            </a>
+          );
+        })}
+      </div>
+
+      <!-- Quick nav -->
+      <nav class="mt-6 flex flex-wrap gap-2">
+        {Object.entries(categoryLabels).map(([key, meta]) => (
+          <a href={`#${key}`} class="rounded border border-[#dfe8e5] px-4 py-2 text-sm font-semibold text-leaf hover:bg-[#edf4f2] transition">
+            {meta.emoji} {meta.label}
+          </a>
+        ))}
+        <a href="#vergelijkingen" class="rounded border border-[#dfe8e5] px-4 py-2 text-sm font-semibold text-leaf hover:bg-[#edf4f2] transition">
+          ⚖️ Directe vergelijkingen
+        </a>
+      </nav>
+    </div>
+  </section>
+
+  <!-- PER-CATEGORY MEGA TABLES -->
+  {Object.entries(categoryLabels).map(([key, meta]) => {
+    const items = grouped[key];
+    if (!items || items.length === 0) return null;
+    return (
+      <section id={key} class="mx-auto max-w-6xl px-4 py-10 sm:px-6 lg:px-8 border-t border-[#e8e1d7]">
+        <div class="mb-6">
+          <p class="text-sm font-bold uppercase tracking-[0.16em] text-leaf">{meta.emoji} {meta.label}</p>
+          <h2 class="mt-2 font-serif text-3xl font-semibold text-ink">
+            {meta.label} ({items.length} koopgidsen)
+          </h2>
+          <p class="mt-2 text-muted max-w-3xl">{meta.desc}</p>
+        </div>
+
+        <!-- Table -->
+        <div class="overflow-x-auto rounded border border-[#e8e1d7]">
+          <table class="min-w-full text-sm">
+            <thead>
+              <tr class="bg-[#f8f5f0] text-left">
+                <th class="p-3 font-semibold w-8">#</th>
+                <th class="p-3 font-semibold">Koopgids / Artikel</th>
+                <th class="p-3 font-semibold">Top Model</th>
+                <th class="p-3 font-semibold">Rating</th>
+                <th class="p-3 font-semibold">Prijsrange</th>
+                <th class="p-3 font-semibold">Producten</th>
+                <th class="p-3 font-semibold">Leestijd</th>
+                <th class="p-3 font-semibold">Bekijken</th>
+              </tr>
+            </thead>
+            <tbody>
+              {items.sort((a: any, b: any) => b.data.rating - a.data.rating).map((article: any, idx: number) => {
+                const d = article.data;
+                return (
+                  <tr class={idx % 2 === 0 ? 'bg-white' : 'bg-[#faf8f3]'}>
+                    <td class="p-3 text-muted text-xs font-mono">{idx + 1}</td>
+                    <td class="p-3 font-medium max-w-xs">
+                      <a href={`/${d.slug}/`} class="text-ink hover:text-leaf transition leading-snug block">
+                        {d.title}
+                      </a>
+                      {d.description && (
+                        <p class="text-xs text-muted mt-0.5 line-clamp-1">{d.description}</p>
+                      )}
+                    </td>
+                    <td class="p-3 text-muted text-sm">{d.featuredProduct || d.products?.[0]?.name || '—'}</td>
+                    <td class="p-3">
+                      <span class="inline-flex items-center gap-1 font-bold">
+                        <span class="text-amber-500">★</span> {d.rating.toFixed(1)}
+                      </span>
+                    </td>
+                    <td class="p-3 text-muted">{d.priceRange}</td>
+                    <td class="p-3 text-muted text-xs">{d.products?.length || '—'}</td>
+                    <td class="p-3 text-muted">{d.readingTime}</td>
+                    <td class="p-3">
+                      <a href={`/${d.slug}/`} class="inline-block rounded bg-leaf px-3 py-1.5 text-xs font-bold text-white hover:bg-[#1f514b] transition whitespace-nowrap">
+                        Bekijk gids →
+                      </a>
+                    </td>
+                  </tr>
+                );
+              })}
+            </tbody>
+          </table>
+        </div>
+
+        <p class="mt-3 text-xs text-muted">
+          {items.length} koopgidsen in {meta.label.toLowerCase()} — alle Amazon NL links met tag kieskeukennl-21. {items.filter((r: any) => r.data.slug.includes('-vs-')).length} directe apparaatvergelijkingen in deze categorie.
+        </p>
+      </section>
+    );
+  })}
+
+  <!-- DIRECTE VERGELIJKINGEN (X vs Y) -->
+  <section id="vergelijkingen" class="mx-auto max-w-6xl px-4 py-10 sm:px-6 lg:px-8 border-t border-[#e8e1d7]">
+    <div class="mb-6">
+      <p class="text-sm font-bold uppercase tracking-[0.16em] text-leaf">⚖️ Directe apparaatvergelijkingen</p>
+      <h2 class="mt-2 font-serif text-3xl font-semibold text-ink">
+        X vs Y: Directe Vergelijkingen ({allReviews.filter(r => r.data.slug.includes('-vs-')).length} head-to-head gidsen)
+      </h2>
+      <p class="mt-2 text-muted max-w-3xl">
+        Twijfel je tussen twee soorten apparaten? Airfryer of friteuse? Robotstofzuiger of gewone stofzuiger? Inductie of gas? Deze directe vergelijkingen zetten de verschillen helder uiteen: prijs, energie, gebruiksgemak en verborgen nadelen.
+      </p>
+      <p class="mt-3 text-sm">
+        <a href="/vergelijken/" class="text-leaf font-bold hover:text-[#1f514b] hover:underline">Bekijk alle {allReviews.filter(r => r.data.slug.includes('-vs-')).length} vergelijkingen met uitgebreide FAQ →</a>
+      </p>
+    </div>
+
+    <div class="grid gap-3 md:grid-cols-2 lg:grid-cols-3">
+      {allReviews
+        .filter(r => r.data.slug.includes('-vs-'))
+        .sort((a: any, b: any) => b.data.rating - a.data.rating)
+        .map((article: any) => {
+          const d = article.data;
+          return (
+            <a href={`/${d.slug}/`} class="group block rounded border border-[#e6ded2] bg-paper p-4 shadow-sm transition hover:-translate-y-0.5 hover:shadow-soft">
+              <div class="flex items-start justify-between gap-2">
+                <div class="flex-1 min-w-0">
+                  <h3 class="font-serif text-sm font-semibold text-ink group-hover:text-leaf transition leading-snug line-clamp-2">
+                    {d.title}
+                  </h3>
+                  <p class="mt-1 text-xs text-muted line-clamp-1">{d.description}</p>
+                </div>
+                <span class="shrink-0 rounded bg-[#edf4f2] px-2 py-0.5 text-xs font-bold text-leaf">
+                  ⭐{d.rating.toFixed(1)}
+                </span>
+              </div>
+              <div class="mt-3 flex items-center justify-between text-xs">
+                <span class="text-muted">{d.priceRange}</span>
+                <span class="font-bold text-leaf">Vergelijk direct →</span>
+              </div>
+            </a>
+          );
+        })}
+    </div>
+  </section>
+
+  <!-- FAQ SECTION -->
+  <section class="mx-auto max-w-6xl px-4 py-10 sm:px-6 lg:px-8 border-t border-[#e8e1d7]">
+    <h2 class="font-serif text-3xl font-semibold text-ink mb-8">Veelgestelde vragen</h2>
+    <div class="grid gap-5 md:grid-cols-2 max-w-5xl">
+      <div class="rounded border border-[#e8e1d7] bg-paper p-5">
+        <h3 class="font-semibold text-ink">Hoeveel koopgidsen staan er op Beste Apparaten?</h3>
+        <p class="mt-2 text-sm text-muted">Momenteel {allReviews.length} uitgebreide koopgidsen voor huishoudelijke apparaten — van airfryers en koffiemachines tot stofzuigers, wasmachines en grasmaaiers. Elke gids bevat {grandTotalProducts}+ productaanbevelingen met Amazon NL affiliate links.</p>
+      </div>
+      <div class="rounded border border-[#e8e1d7] bg-paper p-5">
+        <h3 class="font-semibold text-ink">Zijn alle producten echt getest?</h3>
+        <p class="mt-2 text-sm text-muted">Onze gidsen zijn gebaseerd op productspecificaties, prijsniveau, gebruikersreviews en bekende minpunten. We pretenderen niet dat elk product hands-on is getest — we zijn eerlijk over wat we wel en niet weten. <a href="/over/" class="text-leaf underline hover:text-[#1f514b]">Lees onze werkwijze →</a></p>
+      </div>
+      <div class="rounded border border-[#e8e1d7] bg-paper p-5">
+        <h3 class="font-semibold text-ink">Wat is het verschil tussen deze pagina en de vergelijkingenpagina?</h3>
+        <p class="mt-2 text-sm text-muted">Dit is het complete overzicht van álle koopgidsen. De <a href="/vergelijken/" class="text-leaf underline hover:text-[#1f514b]">vergelijkingenpagina</a> focust op directe X-vs-Y vergelijkingen (bijv. airfryer vs friteuse). De <a href="/vergelijking/" class="text-leaf underline hover:text-[#1f514b]">categoriepagina</a> groepeert gidsen per productgroep met extra context.</p>
+      </div>
+      <div class="rounded border border-[#e8e1d7] bg-paper p-5">
+        <h3 class="font-semibold text-ink">Hoe verdienen jullie geld?</h3>
+        <p class="mt-2 text-sm text-muted">Via Amazon NL affiliate links (tag: kieskeukennl-21). Als je via onze link koopt, ontvangen wij een kleine commissie — zonder extra kosten voor jou. Dit beïnvloedt onze aanbevelingen niet; elke gids benoemt eerlijk voor- en nadelen.</p>
+      </div>
+      <div class="rounded border border-[#e8e1d7] bg-paper p-5">
+        <h3 class="font-semibold text-ink">Worden de gidsen regelmatig bijgewerkt?</h3>
+        <p class="mt-2 text-sm text-muted">Ja, onze koopgidsen worden elk kwartaal geüpdatet met nieuwe modellen, actuele prijzen en recente gebruikerservaringen. De huidige collectie richt zich op het 2026 modeljaar.</p>
+      </div>
+      <div class="rounded border border-[#e8e1d7] bg-paper p-5">
+        <h3 class="font-semibold text-ink">Ik zoek een specifiek apparaat — hoe vind ik het snel?</h3>
+        <p class="mt-2 text-sm text-muted">Gebruik de categorienavigatie bovenaan deze pagina, of blader door de tabellen hierboven. Elke gids is gesorteerd op rating — de best beoordeelde staan bovenaan. Voor budgetkopers: bekijk onze <a href="/budget/" class="text-leaf underline hover:text-[#1f514b]">budgetpagina met 60+ apparaten onder €100</a>.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA -->
+  <section class="mx-auto max-w-6xl px-4 py-10 sm:px-6 lg:px-8 border-t border-[#e8e1d7]">
+    <div class="rounded-lg bg-[#f3faf7] border border-[#dfe8e5] p-8 text-center">
+      <h2 class="font-serif text-2xl font-semibold text-ink">Klaar om te shoppen?</h2>
+      <p class="mt-2 text-muted max-w-xl mx-auto">
+        Blader door onze {allReviews.length} koopgidsen en vind het perfecte apparaat. Alle links naar Amazon NL (kieskeukennl-21) — dezelfde prijs voor jou, een kleine commissie voor ons.
+      </p>
+      <div class="mt-5 flex flex-wrap justify-center gap-3">
+        <a href="/top-15/" class="rounded bg-leaf px-5 py-2.5 text-sm font-bold text-white hover:bg-[#1f514b] transition">
+          Top 15 van 2026 →
+        </a>
+        <a href="/budget/" class="rounded border border-leaf bg-white px-5 py-2.5 text-sm font-bold text-leaf hover:bg-[#edf4f2] transition">
+          Budget onder €100 →
+        </a>
+        <a href="/energiezuinige-apparaten/" class="rounded border border-[#cbbda9] px-5 py-2.5 text-sm font-bold text-ink hover:bg-paper transition">
+          Energiezuinige apparaten →
+        </a>
+        <a href="/vergelijking/" class="rounded border border-[#cbbda9] px-5 py-2.5 text-sm font-bold text-ink hover:bg-paper transition">
+          Categorie overzicht →
+        </a>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
