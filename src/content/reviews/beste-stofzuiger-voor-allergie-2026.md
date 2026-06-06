@@ -27,13 +27,13 @@ products:
   priceRange: EUR 50-400
   bestFor: Grondige reiniging, maximale filtratie
   rating: 3.0
-  affiliateLink: https://www.amazon.nl/s?k=Miele+Complete+C3+Allergy&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B09VKXBRDQ?tag=kieskeukennl-21
 - name: Dyson V15 Detect Absolute
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Draadloze flexibiliteit, slimme detectie
   rating: 4.7
-  affiliateLink: https://www.amazon.nl/s?k=Dyson+V15+Detect+Absolute&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B08VNPS2KK?tag=kieskeukennl-21
 - name: Philips Performer Ultimate Allergy
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
@@ -57,7 +57,7 @@ products:
   priceRange: EUR 50-400
   bestFor: Wendbaarheid, aqua-functie voor extra reiniging
   rating: 4.2
-  affiliateLink: https://www.amazon.nl/s?k=Rowenta+X-Force+Flex+11.60+Aqua&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B08K8B4DZT?tag=kieskeukennl-21
 related:
 - beste-stofzuiger-tegen-dierenharen-2026
 - beste-robotstofzuiger-2026

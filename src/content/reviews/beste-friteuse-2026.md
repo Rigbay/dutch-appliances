@@ -30,7 +30,7 @@ products:
   bestFor: Gezinnen en thuiskoks die gezonder willen frituren en veelzijdige bereidingsopties
     wensen.
   rating: 4.8
-  affiliateLink: https://www.amazon.nl/s?k=Philips+Premium+Airfryer+XXL&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B08T6H8XZR?tag=kieskeukennl-21
 - name: Princess Classic Friteuse (182020)
   verdict: Een no-nonsense oliefriteuse die betrouwbare resultaten levert voor een
     aantrekkelijke prijs.

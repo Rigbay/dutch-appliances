@@ -33,7 +33,7 @@ products:
   priceRange: EUR 1000-1400
   bestFor: Prijs-kwaliteit inductie
   rating: 4.7
-  affiliateLink: https://www.amazon.nl/s?k=Bosch+PXY875DC1E&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B01BGQTHLY?tag=kieskeukennl-21
 - name: ETNA KKV682WIT
   verdict: Betaalbare instap-inductie voor wie de overstap wil maken zonder hoofdprijs.
   priceRange: EUR 400-600

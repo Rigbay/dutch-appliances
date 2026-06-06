@@ -27,7 +27,7 @@ products:
   priceRange: EUR 1299
   bestFor: Culinaire avonturiers, slow-cooking experts, liefhebbers van topkwaliteit.
   rating: 4.8
-  affiliateLink: https://www.amazon.nl/s?k=Kamado+Joe+Classic+II&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B01INNA89S?tag=kieskeukennl-21
 - name: Weber Spirit II E-320 GBS Zwart
   verdict: Een robuuste gasbarbecue met drie branders, GBS-rooster en zijbrander voor
     de veeleisende buitenkok.

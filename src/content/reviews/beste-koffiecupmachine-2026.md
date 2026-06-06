@@ -19,7 +19,7 @@ affiliateLinks:
 - https://www.amazon.nl/s?k=Philips+Senseo+Switch&tag=kieskeukennl-21
 - https://www.amazon.nl/s?k=Dolce+Gusto+Genio+S+Plus&tag=kieskeukennl-21
 - https://www.amazon.nl/s?k=Nespresso+Essenza+Mini&tag=kieskeukennl-21
-- https://www.amazon.nl/s?k=SENSEO+Original&tag=kieskeukennl-21
+- https://www.amazon.nl/dp/B0CLRBTZ1Q?tag=kieskeukennl-21
 date: '2026-06-03'
 modelYear: 2026
 featuredProduct: Nespresso Vertuo Pop Deluxe

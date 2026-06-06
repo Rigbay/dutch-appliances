@@ -50,7 +50,7 @@ products:
   priceRange: EUR 50-400
   bestFor: Zeer prijsbewust, basisgebruik
   rating: 2.2
-  affiliateLink: https://www.amazon.nl/s?k=Tristar+Airfryer&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B078XBH8K2?tag=kieskeukennl-21
 related:
 - beste-airfryer-oven-combi-2026
 - beste-inductiekookplaat-2026

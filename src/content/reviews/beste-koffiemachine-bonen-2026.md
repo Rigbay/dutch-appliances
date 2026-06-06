@@ -27,7 +27,7 @@ products:
   priceRange: EUR 50-400
   bestFor: Allround thuisbarista, espresso & melkdranken
   rating: 1.8
-  affiliateLink: https://www.amazon.nl/s?k=Sage+Barista+Express&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B0BG14X5Z5?tag=kieskeukennl-21
 - name: De'Longhi Dedica Arte
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400

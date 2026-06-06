@@ -43,7 +43,7 @@ products:
   priceRange: EUR 140-180
   bestFor: Tuinen tot 500 m², betrouwbaar en eenvoudig
   rating: 4.6
-  affiliateLink: https://www.amazon.nl/s?k=Bosch+UniversalRotak+550&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B07YLX6K3R?tag=kieskeukennl-21
 - name: Gardena PowerMax 1200/32
   verdict: Lichtgewicht (8,4 kg) elektrische grasmaaier met 1200W motor, ideaal voor
     kleinere tuinen en dames die licht tillen.

@@ -65,7 +65,7 @@ products:
   bestFor: Grote huishoudens of kookliefhebbers die de ultieme veelzijdigheid zoeken
     en bereid zijn te investeren in een premium, alles-in-één apparaat.
   rating: 4.6
-  affiliateLink: https://www.amazon.nl/s?k=Ninja+Foodi+MAX+Dual+Zone+Air+Fryer+%2B+Slow+Cooker&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B09B1XGZ4H?tag=kieskeukennl-21
 related:
 - beste-airfryer-met-twee-manden-2026
 - beste-inductiekookplaat-2026

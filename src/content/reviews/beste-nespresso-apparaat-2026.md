@@ -45,7 +45,7 @@ products:
   priceRange: 179 - 219
   bestFor: Snelheid, diverse kopgroottes, Vertuo-ervaring
   rating: 4.3
-  affiliateLink: https://www.amazon.nl/s?k=Nespresso+Vertuo+Next&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B08BJ4RPNV?tag=kieskeukennl-21
 - name: Nespresso Creatista Plus by Sage
   verdict: Barista-ervaring, melkschuim controle
   priceRange: 499 - 599

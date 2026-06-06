@@ -26,13 +26,13 @@ products:
   priceRange: €349
   bestFor: Topkwaliteit kookresultaten, slimme integratie, grote gezinnen
   rating: 4.8
-  affiliateLink: https://www.amazon.nl/s?k=**Philips+Airfryer+XXL+Connected+HD9867/90**&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B07VHKMGFX?tag=kieskeukennl-21
 - name: '**Ninja Foodi MAX Dual Zone Airfryer (AF400EU)**'
   verdict: Flexibiliteit, snelheid, bereiden van complete maaltijden
   priceRange: €279
   bestFor: Flexibiliteit, snelheid, bereiden van complete maaltijden
   rating: 4.7
-  affiliateLink: https://www.amazon.nl/s?k=**Ninja+Foodi+MAX+Dual+Zone+Airfryer+AF400EU**&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B09B1XGZ4H?tag=kieskeukennl-21
 - name: '**Cosori Smart Airfryer XXL (CP158-AF-RX)**'
   verdict: Uitstekende prijs-kwaliteit, veelzijdigheid, gezinsformaat
   priceRange: €219

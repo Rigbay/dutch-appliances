@@ -40,7 +40,7 @@ products:
   priceRange: EUR 60-90
   bestFor: Basisgebruik en soep
   rating: 4.2
-  affiliateLink: "https://www.amazon.nl/s?k=Bosch+ErgoMixx+MSM67170&tag=kieskeukennl-21"
+  affiliateLink: https://www.amazon.nl/dp/B009W0L6KM?tag=kieskeukennl-21
 - name: Tefal OptiBlend HB872D
   verdict: Krachtig en efficiënt, met een scherp mes dat zelfs de meest veeleisende
     ingrediënten aanpakt.

@@ -26,13 +26,13 @@ products:
   priceRange: EUR 50-400
   bestFor: Allergieën, dierenharen, grote huizen
   rating: 3.0
-  affiliateLink: https://www.amazon.nl/s?k=**Miele+Complete+C3+Allergy+PowerLine**&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B09VKXBRDQ?tag=kieskeukennl-21
 - name: '**Philips SpeedPro Max Aqua**'
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Snelle schoonmaak, dweilen, middelgrote huizen
   rating: 4.5
-  affiliateLink: https://www.amazon.nl/s?k=**Philips+SpeedPro+Max+Aqua**&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B08FHDQN7D?tag=kieskeukennl-21
 - name: '**Rowenta Compact Power Cyclonic 3**'
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
@@ -44,7 +44,7 @@ products:
   priceRange: EUR 50-400
   bestFor: Geavanceerde technologie, alle vloertypes
   rating: 4.7
-  affiliateLink: https://www.amazon.nl/s?k=**Dyson+V15+Detect+Absolute**&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B08VNPS2KK?tag=kieskeukennl-21
 - name: '**Bosch Serie 6 ProAnimal**'
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400

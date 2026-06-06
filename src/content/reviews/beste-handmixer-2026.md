@@ -13,7 +13,7 @@ cons:
 - Prijs en kwaliteit verschillen sterk per merk
 - Onderhoud en reiniging vereisen regelmatige aandacht
 affiliateLinks:
-- https://www.amazon.nl/s?k=Bosch+ErgoMixx+MS6CM6155&tag=kieskeukennl-21
+- https://www.amazon.nl/dp/B009W0L6KM?tag=kieskeukennl-21
 - https://www.amazon.nl/s?k=Braun+MultiQuick+9+MQ9195X&tag=kieskeukennl-21
 - https://www.amazon.nl/s?k=Philips+Daily+Collection+HR2530&tag=kieskeukennl-21
 - https://www.amazon.nl/s?k=KitchenAid+Cordless+Hand+Mixer+5KHMB732&tag=kieskeukennl-21
@@ -29,7 +29,7 @@ products:
   priceRange: EUR 60-90
   bestFor: Beste allround
   rating: 4.6
-  affiliateLink: https://www.amazon.nl/s?k=Bosch+ErgoMixx+MS6CM6155&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B009W0L6KM?tag=kieskeukennl-21
 - name: Braun MultiQuick 9 MQ9195X
   verdict: De meest veelzijdige handmixer met krachtige 1200 watt motor, ActiveBlade-technologie
     en uitgebreide accessoireset voor gevorderde thuiskoks.

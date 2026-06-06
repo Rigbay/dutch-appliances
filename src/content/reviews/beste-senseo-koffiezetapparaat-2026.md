@@ -16,7 +16,7 @@ cons:
 - Minder controle over smaak
 - Kwaliteit kan variëren per merk
 affiliateLinks:
-- https://www.amazon.nl/s?k=Philips+Senseo+Original+HD6554%2F60&tag=kieskeukennl-21
+- https://www.amazon.nl/dp/B0CLRBTZ1Q?tag=kieskeukennl-21
 date: 2026-05-11
 modelYear: 2026
 featuredProduct: Philips Senseo Original HD6554/60
@@ -27,7 +27,7 @@ products:
   priceRange: EUR 60-90
   bestFor: Dagelijkse snelle koffie voor één tot twee personen.
   rating: 4.3
-  affiliateLink: https://www.amazon.nl/s?k=Philips+Senseo+Original+HD6554/60&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B0CLRBTZ1Q?tag=kieskeukennl-21
 - name: Philips Senseo Switch HD6596/80
   verdict: Flexibiliteit met zowel pads als filterkoffie in één apparaat.
   priceRange: EUR 90-130
@@ -46,7 +46,7 @@ products:
   priceRange: EUR 150-200
   bestFor: Liefhebbers van Nespresso's specifieke smaakprofiel en crema.
   rating: 4.4
-  affiliateLink: https://www.amazon.nl/s?k=De%27Longhi+Nespresso+Vertuo+Next+ENV120.WAE&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B08BJ4RPNV?tag=kieskeukennl-21
 - name: Krups Nespresso Essenza Mini X N300 White
   verdict: De meest compacte Nespresso voor een snelle espresso of lungo.
   priceRange: EUR 90-130

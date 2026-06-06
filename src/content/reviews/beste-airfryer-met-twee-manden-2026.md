@@ -26,13 +26,13 @@ products:
   priceRange: EUR 50-400
   bestFor: Tijdsbesparing, Sync Finish
   rating: 4.8
-  affiliateLink: https://www.amazon.nl/s?k=**Ninja+Foodi+Dual+Zone+AF300EU**&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B09B1XGZ4H?tag=kieskeukennl-21
 - name: '**Philips Premium XXL Dual Basket**'
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Kwaliteit, Gezond koken (vetverwijdering)
   rating: 4.7
-  affiliateLink: https://www.amazon.nl/s?k=**Philips+Premium+XXL+Dual+Basket**&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B08T6H8XZR?tag=kieskeukennl-21
 - name: '**Princess Dual Airfryer XL**'
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400

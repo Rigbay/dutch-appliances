@@ -26,7 +26,7 @@ products:
   priceRange: '399'
   bestFor: Middelgrote tuinen, krachtig, efficiënt
   rating: 4.6
-  affiliateLink: https://www.amazon.nl/s?k=Bosch+UniversalRotak+550&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B07YLX6K3R?tag=kieskeukennl-21
 - name: Gardena PowerMax 42 E
   verdict: Middelgrote tot grotere tuinen, premium kwaliteit, ergonomie, mulchen
   priceRange: '479'

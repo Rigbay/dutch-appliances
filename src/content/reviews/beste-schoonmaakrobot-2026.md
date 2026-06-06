@@ -18,7 +18,7 @@ affiliateLinks:
   - https://www.amazon.nl/s?k=Dreame+X50+Ultra&tag=kieskeukennl-21
   - https://www.amazon.nl/s?k=iRobot+Roomba+Combo+j9+&tag=kieskeukennl-21
   - https://www.amazon.nl/s?k=Ecovacs+Deebot+X2+Omni&tag=kieskeukennl-21
-  - https://www.amazon.nl/s?k=Xiaomi+Robot+Vacuum+X20&tag=kieskeukennl-21
+  - https://www.amazon.nl/dp/B0CTCXKL52?tag=kieskeukennl-21
 date: '2026-06-03'
 modelYear: 2026
 featuredProduct: "Roborock Qrevo Curv"
@@ -58,7 +58,7 @@ products:
     priceRange: 'EUR 300-400'
     bestFor: 'Beste budget'
     rating: 4.4
-    affiliateLink: https://www.amazon.nl/s?k=Xiaomi+Robot+Vacuum+X20&tag=kieskeukennl-21
+    affiliateLink: https://www.amazon.nl/dp/B0CTCXKL52?tag=kieskeukennl-21
 related:
 - beste-robotstofzuiger-2026
 - beste-dweilrobot-2026

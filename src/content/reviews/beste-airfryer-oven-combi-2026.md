@@ -27,13 +27,13 @@ products:
   priceRange: EUR 50-400
   bestFor: Alleskunner, maximale veelzijdigheid
   rating: 4.8
-  affiliateLink: https://www.amazon.nl/s?k=**Ninja+Foodi+Max+Pro**&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B0C4V3B1R5?tag=kieskeukennl-21
 - name: '**Philips Airfryer Combi XXL**'
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Gezinnen, bewezen kwaliteit, gezonde opties
   rating: 4.7
-  affiliateLink: https://www.amazon.nl/s?k=**Philips+Airfryer+Combi+XXL**&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B07VHKMGFX?tag=kieskeukennl-21
 - name: '**Instant Pot Omni Plus**'
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
@@ -51,7 +51,7 @@ products:
   priceRange: EUR 50-400
   bestFor: Budgetbewust, slimme functies, ruime inhoud
   rating: 4.5
-  affiliateLink: https://www.amazon.nl/s?k=**Cosori+Smart+Oven+Air+Fryer**&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B08M9G9K5L?tag=kieskeukennl-21
 - name: '**Emerio Airfryer Oven**'
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400

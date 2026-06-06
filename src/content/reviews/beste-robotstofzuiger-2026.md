@@ -50,7 +50,7 @@ products:
   priceRange: EUR 300-420
   bestFor: Instap
   rating: 4.2
-  affiliateLink: https://www.amazon.nl/s?k=Xiaomi+Robot+Vacuum+X20+&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B0CTCXKL52?tag=kieskeukennl-21
 - name: Dreame L40 Ultra
   verdict: Slimme uitbreidbare robot met uitklapbare zijborstels en uitneembare dweilmodules.
   priceRange: EUR 650-800
