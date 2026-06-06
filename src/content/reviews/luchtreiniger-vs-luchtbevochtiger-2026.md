@@ -89,7 +89,7 @@ Voor bevochtigers is de **Philips Humidifier HU4814/01** (EUR 140-190) de beste 
 
 De absolute top combineert functionaliteit op een manier die losse apparaten niet kunnen evenaren. De **Philips Air Performer 8000** (EUR 500-650) is uniek: hij zuivert de lucht met een 3-laags filter (voorfilter, actief kool, HEPA) én bevochtigt via natuurlijke verdamping — geen witte neerslag, geen overbevochtiging. Het grootste voordeel: je hebt één apparaat op het stopcontact in plaats van twee, en het design is strak genoeg om in een woonkamer te staan zonder dat het op een medisch apparaat lijkt.
 
-De **Dyson Purifier Hot+Cool Formaldehyde** (EUR 550-700) pakt het anders aan: naast luchtreiniging (HEPA H13 + koolstoffilter dat specifiek formaldehyde afbreekt) werkt hij als ventilator in de zomer en als verwarming in de winter. Het is het enige apparaat dat jaarrond nuttig is. De Air Multiplier-technologie van Dyson verspreidt gezuiverde lucht door de hele kamer (geen dode hoeken), en het display toont welke deeltjes hij vangt.
+De **Dyson Purifier Hot+Cool Formaldehyde** (EUR 550-700) pakt het anders aan: naast luchtreiniging (HEPA H13 + koolstoffilter dat specifiek formaldehyde afbreekt) werkt hij als ventilator in de zomer en als verwarming in de winter. onze [ventilator gids](/beste-ventilator-2026/). Het is het enige apparaat dat jaarrond nuttig is. De Air Multiplier-technologie van Dyson verspreidt gezuiverde lucht door de hele kamer (geen dode hoeken), en het display toont welke deeltjes hij vangt.
 
 ### Beste Budget (ca. EUR 100-200)
 

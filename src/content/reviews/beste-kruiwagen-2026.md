@@ -15,7 +15,7 @@ cons:
 - Niet elk model is in elke bouwmarkt beschikbaar
 - Persoonlijke voorkeur speelt een grote rol bij handgereedschap
 affiliateLinks:
-- "https://www.amazon.nl/s?k=Pelican+Stalen+Kruiwagen+85L&tag=kieskeukennl-21"
+- https://www.amazon.nl/s?k=Pelican+Stalen+Kruiwagen+85L&tag=kieskeukennl-21
 date: '2026-05-21'
 modelYear: 2026
 featuredProduct: Pelican Stalen Kruiwagen 85L
@@ -27,33 +27,33 @@ products:
   priceRange: EUR 40-60
   bestFor: Zwaar tuinwerk, bouwklussen
   rating: 4.7
-  affiliateLink: "https://www.amazon.nl/s?k=Pelican+Stalen+Kruiwagen+85L&tag=kieskeukennl-21"
+  affiliateLink: https://www.amazon.nl/s?k=Pelican+Stalen+Kruiwagen+85L&tag=kieskeukennl-21
 - name: Al-ko Kunststof Kruiwagen 100L
   verdict: Roestvrij en lichtgewicht — 30% lichter dan staal, ideaal voor dagelijks
     tuinwerk
   priceRange: EUR 60-90
   bestFor: Dagelijks tuinwerk, planten
   rating: 4.5
-  affiliateLink: "https://www.amazon.nl/s?k=Al-ko+Kunststof+Kruiwagen+100L&tag=kieskeukennl-21"
+  affiliateLink: https://www.amazon.nl/s?k=Al-ko+Kunststof+Kruiwagen+100L&tag=kieskeukennl-21
 - name: Wolf-Garten Multistar Duo-Wagen
   verdict: Modulair systeem — kruiwagen én platte kar, wisselbaar zonder gereedschap
   priceRange: EUR 100-140
   bestFor: Flexibel tuinwerk
   rating: 4.4
-  affiliateLink: "https://www.amazon.nl/s?k=Wolf-Garten+Multistar+Duo-Wagen&tag=kieskeukennl-21"
+  affiliateLink: https://www.amazon.nl/s?k=Wolf-Garten+Multistar+Duo-Wagen&tag=kieskeukennl-21
 - name: Einhell Tuinkar 80kg
   verdict: Gemotoriseerde transportwagen op accu — perfect voor zwaar werk zonder
     fysieke belasting
   priceRange: EUR 150-250
   bestFor: Zwaar werk, beperkte kracht
   rating: 4.2
-  affiliateLink: "https://www.amazon.nl/s?k=Einhell+Tuinkar+80kg&tag=kieskeukennl-21"
+  affiliateLink: https://www.amazon.nl/s?k=Einhell+Tuinkar+80kg&tag=kieskeukennl-21
 - name: Hornbach Basic 80L Stalen Kruiwagen
   verdict: De beste prijs-kwaliteit voor incidenteel gebruik — solide voor de prijs
   priceRange: EUR 25-35
   bestFor: Budget, incidenteel gebruik
   rating: 4.3
-  affiliateLink: "https://www.amazon.nl/s?k=Hornbach+Basic+80L+Stalen+Kruiwagen&tag=kieskeukennl-21"
+  affiliateLink: https://www.amazon.nl/s?k=Hornbach+Basic+80L+Stalen+Kruiwagen&tag=kieskeukennl-21
 related:
 - beste-tuinverwarming-2026
 - beste-hogedrukreiniger-2026
@@ -68,7 +68,7 @@ draft: false
 
 In de Nederlandse tuin en rondom het huis is er altijd wel iets te doen: van het aanleggen van een nieuw terras, het verplaatsen van bergen grond voor die nieuwe border, tot het sjouwen met zakken zand, potgrond of zware planten. Zonder de juiste uitrusting kan dit zware werk snel leiden tot rugpijn, frustratie en vertraging. Een goede kruiwagen, tuinkar of transportwagen is daarom niet zomaar een stuk gereedschap; het is een onmisbare partner die het verschil maakt tussen moeizaam zwoegen en efficiënt, ergonomisch werken.
 
-De markt voor transportmiddelen voor tuin en klus is continu in beweging, met steeds nieuwe innovaties op het gebied van materialen, design en gebruiksgemak. Voor 2026 zien we een trend naar duurzamere, veelzijdigere en ergonomischere oplossingen die het leven van de Nederlandse tuinier en klusser aanzienlijk vergemakkelijken. Combineer je kruiwagen met de [beste tuinverwarming](/beste-tuinverwarming-2026/) voor lange werkdagen in de buitenlucht en een [hogedrukreiniger](/beste-hogedrukreiniger-2026/) om na het sjouwen alles weer schoon te spuiten. Maar welke keuze is de beste voor jouw specifieke behoeften?
+De markt voor transportmiddelen voor tuin en klus is continu in beweging, met steeds nieuwe innovaties op het gebied van materialen, design en gebruiksgemak. Voor 2026 zien we een trend naar duurzamere, veelzijdigere en ergonomischere oplossingen die het leven van de Nederlandse tuinier en klusser aanzienlijk vergemakkelijken. Combineer je kruiwagen met de [beste tuinverwarming](/beste-tuinverwarming-2026/) voor lange werkdagen in de buitenlucht en een [hogedrukreiniger](/beste-hogedrukreiniger-2026/) om na het sjouwen alles weer schoon te spuiten. onze [tuinverwarming gids](/beste-tuinverwarming-2026/). onze [hogedrukreiniger gids](/beste-hogedrukreiniger-2026/). Maar welke keuze is de beste voor jouw specifieke behoeften?
 
 Deze gids neemt je mee langs de top 5 van kruiwagens, tuinkarren en transportwagens die in 2026 de Nederlandse markt domineren. We bespreken hun unieke eigenschappen, voor wie ze het meest geschikt zijn, en geven je alle informatie om een weloverwogen keuze te maken.
 
