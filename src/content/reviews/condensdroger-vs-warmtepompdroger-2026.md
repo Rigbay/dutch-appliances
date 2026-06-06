@@ -110,7 +110,7 @@ Warmtepompdrogers waren vroeger traag — 2-3 uur voor een volle trommel was nor
 
 ### Ruimtevereisten en Installatie
 
-Een condensdroger stoot warme, vochtige lucht uit in de ruimte waar hij staat. In een kleine, slecht geventileerde wasruimte of badkamer leidt dit tot condens op muren en ramen, en op termijn tot schimmel. Je moet de ruimte kunnen ventileren — een raam open of een mechanische ventilator. Een warmtepompdroger heeft dit probleem niet: hij is een gesloten systeem dat de warmte hergebruikt en het condenswater opvangt in een reservoir of afvoert via een slang. Dit maakt de warmtepompdroger ideaal voor appartementen, inpandige bergingen en badkamers zonder raam.
+Een condensdroger stoot warme, vochtige lucht uit in de ruimte waar hij staat. In een kleine, slecht geventileerde wasruimte of badkamer leidt dit tot condens op muren en ramen, en op termijn tot schimmel. Je moet de ruimte kunnen ventileren — een raam open of een mechanische ventilator. onze [ventilator gids](/beste-ventilator-2026/). Een warmtepompdroger heeft dit probleem niet: hij is een gesloten systeem dat de warmte hergebruikt en het condenswater opvangt in een reservoir of afvoert via een slang. Dit maakt de warmtepompdroger ideaal voor appartementen, inpandige bergingen en badkamers zonder raam.
 
 Beide types hebben een stroomaansluiting nodig (standaard stopcontact, 230V) en kunnen op elkaar gestapeld worden met de wasmachine via een universele tussenstuk (EUR 15-25 bij Coolblue). Warmtepompdrogers zijn gemiddeld 5-8 kg zwaarder dan condensdrogers vanwege de compressor — houd hier rekening mee als je 'm een trap op moet tillen.
 

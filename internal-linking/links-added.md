@@ -1,5 +1,116 @@
-# Internal Linking Results (v3)
+# Internal Linking Report — 111/142 articles updated
 
-Modified: 91/91
-Links added: 257
-Related slugs fixed: 0
+**Total links added:** 284
+
+## Articles modified:
+- **airconditioner-vs-luchtkoeler-2026**: +3 links → airco gids, ventilator gids, stofzuiger gids
+- **airfryer-vs-friteuse-2026**: +3 links → 
+- **airfryer-vs-magnetron-2026**: +3 links → airfryer met twee manden gids
+- **airfryer-vs-oven-2026**: +3 links → 
+- **barbecue-vs-elektrische-grill-2026**: +1 links → barbecue gids
+- **beste-airconditioner-2026**: +3 links → ventilator gids, elektrische deken gids
+- **beste-airfryer-2026**: +3 links → 
+- **beste-airfryer-met-twee-manden-2026**: +3 links → 
+- **beste-airfryer-onder-100-euro-2026**: +3 links → 
+- **beste-bakplaat-2026**: +3 links → inductiekookplaat gids, inductie gasfornuis gids, inductie keramisch gids
+- **beste-barbecue-2026**: +1 links → barbecue elektrische grill gids
+- **beste-broodmachine-2026**: +1 links → compacte airfryer gids
+- **beste-bruiswaterapparaat-2026**: +1 links → luxe airfryer gids
+- **beste-citruspers-2026**: +3 links → airfryer magnetron gids
+- **beste-compacte-airfryer-2026**: +3 links → 
+- **beste-draadloze-stofzuiger-2026**: +3 links → stofzuiger voor allergie gids
+- **beste-dweilrobot-2026**: +3 links → 
+- **beste-elektrische-deken-2026**: +2 links → wasmachine gids, wasmachine wasdroger combi gids
+- **beste-elektrische-grill-2026**: +3 links → airfryer oven gids
+- **beste-elektrische-kachel-2026**: +3 links → elektrische deken gids, airconditioner luchtkoeler gids, ventilator gids
+- **beste-esparettomachine-2026**: +1 links → strijkijzer gids
+- **beste-espresso-apparaat-2026**: +3 links → espresso filterkoffie gids, volautomatische koffiemachine gids, koffiemolen gids
+- **beste-fohn-2026**: +1 links → strijkijzer gids
+- **beste-friteuse-2026**: +3 links → 
+- **beste-gasfornuis-2026**: +3 links → oven magnetron combi gids, oven magnetron gids, inductiekookplaat gids
+- **beste-gourmetstel-2026**: +2 links → compacte airfryer gids, bakplaat gids
+- **beste-grasmaaier-2026**: +3 links → robotgrasmaaier gids
+- **beste-hakmolen-2026**: +2 links → compacte airfryer gids, elektrische grill gids
+- **beste-handmixer-2026**: +2 links → handmixer keukenmachine gids, hakmolen gids
+- **beste-ijsmachine-2026**: +2 links → vriezer gids, compacte airfryer gids
+- **beste-inductiekookplaat-2026**: +3 links → inductie keramisch gids, gasfornuis gids
+- **beste-inductieset-2026**: +3 links → inductiekookplaat gids, inductie gasfornuis gids, inductie keramisch gids
+- **beste-kettingzaag-2026**: +3 links → bosmaaier gids
+- **beste-koekenpan-2026**: +3 links → inductiekookplaat gids, inductie gasfornuis gids, inductie keramisch gids
+- **beste-koelkast-2026**: +3 links → airfryer friteuse gids, airfryer magnetron gids
+- **beste-koelkast-vriezer-combinatie-2026**: +3 links → airfryer friteuse gids, airfryer magnetron gids
+- **beste-koffiecupmachine-2026**: +3 links → Nespresso gids, Senseo gids, espresso apparaat gids
+- **beste-koffiemachine-2026**: +3 links → koffiemachine senseo gids
+- **beste-koffiemachine-bonen-2026**: +2 links → espresso apparaat gids
+- **beste-koffiemachine-onder-200-euro-2026**: +3 links → espresso apparaat gids
+- **beste-koffiemelkopschuimer-2026**: +3 links → inductie keramisch gids, gasfornuis gids
+- **beste-koffiemolen-2026**: +3 links → espresso apparaat gids
+- **beste-kruimeldief-2026**: +3 links → stofzuiger voor allergie gids
+- **beste-kruimeldief-draadloos-2026**: +3 links → kruimeldief gids, steelstofzuiger gids, steelstofzuiger draadloze stofzuiger gids
+- **beste-kruiwagen-2026**: +2 links → tuinverwarming gids, hogedrukreiniger gids
+- **beste-luchtbevochtiger-2026**: +1 links → airconditioner luchtkoeler gids
+- **beste-luchtreiniger-2026**: +1 links → ventilator gids
+- **beste-luxe-airfryer-2026**: +3 links → 
+- **beste-magnetron-2026**: +3 links → oven magnetron combi gids, oven magnetron gids
+- **beste-nespresso-apparaat-2026**: +3 links → espresso apparaat gids, filterkoffiemachine gids
+- **beste-ontvochtiger-2026**: +3 links → wasdroger gids
+- **beste-oven-2026**: +2 links → stoomoven gids, airfryer gids
+- **beste-oven-magnetron-combi-2026**: +2 links → oven magnetron gids, magnetron gids
+- **beste-paneerapparaat-2026**: +3 links → tosti-ijzer gids, tosti ijzer broodrooster gids, broodrooster gids
+- **beste-pannenset-2026**: +3 links → inductiekookplaat gids, inductie gasfornuis gids, inductie keramisch gids
+- **beste-pastamachine-2026**: +1 links → elektrische grill gids
+- **beste-persoonsweegschaal-2026**: +2 links → elektrische deken gids, luchtbevochtiger gids
+- **beste-pizza-oven-2026**: +2 links → oven magnetron combi gids, oven magnetron gids
+- **beste-raamreiniger-2026**: +3 links → stofzuiger voor allergie gids
+- **beste-rijstkoker-2026**: +3 links → inductiekookplaat gids, inductie gasfornuis gids, inductie keramisch gids
+- **beste-robotgrasmaaier-2026**: +3 links → robotgrasmaaier grasmaaier gids, heggenschaar gids, grasmaaier gids
+- **beste-robotstofzuiger-2026**: +3 links → dweilrobot gids, stofzuiger met zak gids, stofzuiger voor allergie gids
+- **beste-sapcentrifuge-2026**: +2 links → sapcentrifuge slowjuicer gids, koelkast vriezer combinatie gids
+- **beste-senseo-koffiezetapparaat-2026**: +3 links → airfryer magnetron gids, airfryer oven gids
+- **beste-slowcooker-2026**: +3 links → slowcooker stoomoven gids, airfryer magnetron gids
+- **beste-slowjuicer-2026**: +3 links → sapcentrifuge slowjuicer gids
+- **beste-snijplank-2026**: +1 links → vaatwasser gids
+- **beste-snoeischaar-2026**: +2 links → heggenschaar gids, bosmaaier gids
+- **beste-steelstofzuiger-2026**: +3 links → stofzuiger voor allergie gids
+- **beste-stofzuiger-2026**: +3 links → stofzuiger kopen waar op letten gids
+- **beste-stofzuiger-met-zak-2026**: +3 links → stofzuiger kopen waar op letten gids
+- **beste-stofzuiger-tegen-dierenharen-2026**: +3 links → stofzuiger kopen waar op letten gids
+- **beste-stofzuiger-voor-allergie-2026**: +3 links → stofzuiger kopen waar op letten gids
+- **beste-stoomreiniger-2026**: +1 links → stoomreiniger hogedrukreiniger gids
+- **beste-strijkijzer-2026**: +3 links → ventilator gids
+- **beste-tapijtreiniger-2026**: +1 links → stofzuiger gids
+- **beste-tosti-ijzer-2026**: +3 links → tosti ijzer broodrooster gids, airfryer oven gids, airfryer gids
+- **beste-tuingereedschap-set-2026**: +3 links → robotgrasmaaier grasmaaier gids, robotgrasmaaier gids, bosmaaier gids
+- **beste-tuinslang-2026**: +3 links → wasdroger gids
+- **beste-tuinsproeier-2026**: +2 links → airfryer gids, heggenschaar gids
+- **beste-tuinverlichting-2026**: +3 links → barbecue elektrische grill gids, robotgrasmaaier grasmaaier gids, robotgrasmaaier gids
+- **beste-tuinverwarming-2026**: +1 links → barbecue elektrische grill gids
+- **beste-ventilator-2026**: +3 links → airconditioner luchtkoeler gids, airco gids, luchtbevochtiger gids
+- **beste-volautomatische-koffiemachine-2026**: +3 links → espresso apparaat gids, filterkoffiemachine gids
+- **beste-wafelijzer-2026**: +3 links → compacte airfryer gids, luxe airfryer gids, vaatwasser gids
+- **beste-wasdroger-2026**: +1 links → 
+- **beste-waterkoker-2026**: +3 links → airfryer magnetron gids
+- **beste-wokpan-2026**: +3 links → inductiekookplaat gids, inductie gasfornuis gids, inductie keramisch gids
+- **blender-vs-staafmixer-vs-keukenmachine-2026**: +3 links → elektrische grill gids, vleesmolen gids, compacte airfryer gids
+- **condensdroger-vs-warmtepompdroger-2026**: +1 links → ventilator gids
+- **espresso-vs-filterkoffie-2026**: +3 links → espresso apparaat gids, koffiemachine onder 200 euro gids, koffiemachine bonen cups gids
+- **handmixer-vs-keukenmachine-2026**: +3 links → handmixer gids, hakmolen gids
+- **inductie-vs-gasfornuis-2026**: +3 links → inductie keramisch gids, gasfornuis gids, airfryer magnetron gids
+- **inductie-vs-keramisch-2026**: +3 links → inductiekookplaat gids, inductie gasfornuis gids, elektrische grill gids
+- **koffiemachine-bonen-vs-cups-2026**: +3 links → koffiemachine senseo gids
+- **koffiemachine-vs-senseo-2026**: +3 links → koffiemachine bonen cups gids
+- **luchtreiniger-vs-luchtbevochtiger-2026**: +1 links → ventilator gids
+- **oven-vs-magnetron-2026**: +3 links → oven magnetron combi gids, magnetron gids, airfryer friteuse gids
+- **robotgrasmaaier-vs-grasmaaier-2026**: +3 links → robotgrasmaaier gids, grasmaaier gids, stofzuiger gids
+- **robotstofzuiger-vs-dweilrobot-2026**: +3 links → stofzuiger gids, stofzuiger met zak gids, stofzuiger tegen dierenharen gids
+- **robotstofzuiger-vs-stofzuiger-2026**: +3 links → dweilrobot gids, stofzuiger met zak gids, stofzuiger tegen dierenharen gids
+- **sapcentrifuge-vs-slowjuicer-2026**: +3 links → koelkast gids, koelkast vriezer combinatie gids
+- **slowcooker-vs-stoomoven-2026**: +3 links → slowcooker gids, stoomoven gids, oven magnetron combi gids
+- **steelstofzuiger-vs-draadloze-stofzuiger-2026**: +3 links → stofzuiger met zak gids, stofzuiger tegen dierenharen gids, stofzuiger voor allergie gids
+- **stofzuiger-kopen-waar-op-letten-2026**: +3 links → stofzuiger voor allergie gids
+- **stofzuiger-met-zak-vs-zakloos-2026**: +3 links → stofzuiger voor allergie gids
+- **stofzuiger-vs-steelstofzuiger-2026**: +3 links → stofzuiger voor allergie gids
+- **stoomreiniger-vs-hogedrukreiniger-2026**: +1 links → stoomreiniger gids
+- **tosti-ijzer-vs-broodrooster-2026**: +3 links → vaatwasser gids, oven magnetron combi gids
+- **wasmachine-vs-wasdroger-combi-2026**: +2 links → strijkijzer gids, stofzuiger gids
+- **waterkoker-vs-quooker-2026**: +3 links → airfryer friteuse gids, airfryer magnetron gids, airfryer oven gids

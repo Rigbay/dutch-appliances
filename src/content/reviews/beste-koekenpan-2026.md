@@ -1,64 +1,76 @@
 ---
 title: 'Beste koekenpan 2026: keramisch, antiaanbak of rvs?'
 slug: beste-koekenpan-2026
-description: 'Vergelijk de beste koekenpannen van 2026 voor de Nederlandse keuken: keramisch, antiaanbak, rvs en gietijzer. Met prijzen, maten en welke past bij jouw kookstijl.'
+description: 'Vergelijk de beste koekenpannen van 2026 voor de Nederlandse keuken:
+  keramisch, antiaanbak, rvs en gietijzer. Met prijzen, maten en welke past bij jouw
+  kookstijl.'
 category: keuken
 rating: 4.3
-priceRange: 'EUR 15-90'
+priceRange: EUR 15-90
 pros:
-  - "Een goede pan gaat 5+ jaar mee bij goed onderhoud"
-  - 'Antiaanbaklaag = koken met weinig vet'
-  - "Rvs en gietijzer zijn geschikt voor inductie"
+- Een goede pan gaat 5+ jaar mee bij goed onderhoud
+- Antiaanbaklaag = koken met weinig vet
+- Rvs en gietijzer zijn geschikt voor inductie
 cons:
-  - "Antiaanbaklaag slijt na verloop van tijd"
-  - "Gietijzer is zwaar en vergt onderhoud"
-  - "Keramisch is breekbaarder dan rvs"
+- Antiaanbaklaag slijt na verloop van tijd
+- Gietijzer is zwaar en vergt onderhoud
+- Keramisch is breekbaarder dan rvs
 affiliateLinks:
-  - https://www.amazon.nl/s?k=Tefal+Ingenio+Excellence+koekenpan&tag=kieskeukennl-21
-  - https://www.amazon.nl/s?k=BK+Cookmaster+6000+koekenpan&tag=kieskeukennl-21
-  - https://www.amazon.nl/s?k=De+Buyer+Mineral+B+koekenpan&tag=kieskeukennl-21
-  - https://www.amazon.nl/s?k=GreenPan+Valencia+Pro+koekenpan&tag=kieskeukennl-21
-  - https://www.amazon.nl/s?k=IKEA+Vardagen+gietijzeren+pan&tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=Tefal+Ingenio+Excellence+koekenpan&tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=BK+Cookmaster+6000+koekenpan&tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=De+Buyer+Mineral+B+koekenpan&tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=GreenPan+Valencia+Pro+koekenpan&tag=kieskeukennl-21
+- https://www.amazon.nl/s?k=IKEA+Vardagen+gietijzeren+pan&tag=kieskeukennl-21
 date: '2026-06-03'
 modelYear: 2026
-featuredProduct: "Tefal Ingenio Excellence"
+featuredProduct: Tefal Ingenio Excellence
 readingTime: 8 min
 products:
-  - name: "Tefal Ingenio Excellence"
-    verdict: |+
-      Beste koekenpan 2026: 28cm, titanium antiaanbaklaag, thermosignaal warmte-indicator, verwisselbare handgreep (ook ovenbestendig). De allrounder voor elke dag.
-    priceRange: 'EUR 35-50'
-    bestFor: 'Beste allround'
-    rating: 4.7
-    affiliateLink: https://www.amazon.nl/s?k=Tefal+Ingenio+Excellence+koekenpan&tag=kieskeukennl-21
-  - name: "BK Cookmaster 6000"
-    verdict: |+
-      BK's beste: 28cm rvs met 5-laags opbouw, inductiegeschikt, vaatwasserbestendig. Voor wie geen antiaanbak wil.
-    priceRange: 'EUR 50-70'
-    bestFor: 'Beste rvs'
-    rating: 4.6
-    affiliateLink: https://www.amazon.nl/s?k=BK+Cookmaster+6000+koekenpan&tag=kieskeukennl-21
-  - name: "De Buyer Mineral B"
-    verdict: |+
-      Professionele koolstofstalen pan: 28cm, naturel (geen coating), geschikt voor inductie, oneindig duurzaam bij goed gebruik. Favoriet bij koks.
-    priceRange: 'EUR 40-55'
-    bestFor: 'Beste professioneel'
-    rating: 4.8
-    affiliateLink: https://www.amazon.nl/s?k=De+Buyer+Mineral+B+koekenpan&tag=kieskeukennl-21
-  - name: "GreenPan Valencia Pro"
-    verdict: |+
-      Keramische antiaanbaklaag zonder PFAS. 28cm, inductiebodem, vaatwasserbestendig. Milieuvriendelijker dan teflon.
-    priceRange: 'EUR 30-45'
-    bestFor: 'Beste keramisch'
-    rating: 4.4
-    affiliateLink: https://www.amazon.nl/s?k=GreenPan+Valencia+Pro+koekenpan&tag=kieskeukennl-21
-  - name: "IKEA Vardagen"
-    verdict: |+
-      Gietijzeren koekenpan 28cm: onverwoestbaar, perfect voor biefstuk en bakken, ovenbestendig tot 300°C. Zeer betaalbaar.
-    priceRange: 'EUR 15-25'
-    bestFor: 'Beste budget'
-    rating: 4.5
-    affiliateLink: https://www.amazon.nl/s?k=IKEA+Vardagen+gietijzeren+pan&tag=kieskeukennl-21
+- name: Tefal Ingenio Excellence
+  verdict: 'Beste koekenpan 2026: 28cm, titanium antiaanbaklaag, thermosignaal warmte-indicator,
+    verwisselbare handgreep (ook ovenbestendig). De allrounder voor elke dag.
+
+    '
+  priceRange: EUR 35-50
+  bestFor: Beste allround
+  rating: 4.7
+  affiliateLink: https://www.amazon.nl/s?k=Tefal+Ingenio+Excellence+koekenpan&tag=kieskeukennl-21
+- name: BK Cookmaster 6000
+  verdict: 'BK''s beste: 28cm rvs met 5-laags opbouw, inductiegeschikt, vaatwasserbestendig.
+    Voor wie geen antiaanbak wil.
+
+    '
+  priceRange: EUR 50-70
+  bestFor: Beste rvs
+  rating: 4.6
+  affiliateLink: https://www.amazon.nl/s?k=BK+Cookmaster+6000+koekenpan&tag=kieskeukennl-21
+- name: De Buyer Mineral B
+  verdict: 'Professionele koolstofstalen pan: 28cm, naturel (geen coating), geschikt
+    voor inductie, oneindig duurzaam bij goed gebruik. Favoriet bij koks.
+
+    '
+  priceRange: EUR 40-55
+  bestFor: Beste professioneel
+  rating: 4.8
+  affiliateLink: https://www.amazon.nl/s?k=De+Buyer+Mineral+B+koekenpan&tag=kieskeukennl-21
+- name: GreenPan Valencia Pro
+  verdict: 'Keramische antiaanbaklaag zonder PFAS. 28cm, inductiebodem, vaatwasserbestendig.
+    Milieuvriendelijker dan teflon.
+
+    '
+  priceRange: EUR 30-45
+  bestFor: Beste keramisch
+  rating: 4.4
+  affiliateLink: https://www.amazon.nl/s?k=GreenPan+Valencia+Pro+koekenpan&tag=kieskeukennl-21
+- name: IKEA Vardagen
+  verdict: 'Gietijzeren koekenpan 28cm: onverwoestbaar, perfect voor biefstuk en bakken,
+    ovenbestendig tot 300°C. Zeer betaalbaar.
+
+    '
+  priceRange: EUR 15-25
+  bestFor: Beste budget
+  rating: 4.5
+  affiliateLink: https://www.amazon.nl/s?k=IKEA+Vardagen+gietijzeren+pan&tag=kieskeukennl-21
 related:
 - beste-wokpan-2026
 - beste-braadpan-2026
@@ -85,7 +97,7 @@ De **Tefal Ingenio Excellence** is voor de meeste huishoudens de beste keuze: ee
 
 **Beste rvs:** **BK Cookmaster 6000** (€50-70). BK's beste: 28cm rvs met 5-laags opbouw, inductiegeschikt, vaatwasserbestendig. Voor wie geen antiaanbak wil.
 
-**Beste professioneel:** **De Buyer Mineral B** (€40-55). Professionele koolstofstalen pan: 28cm, naturel (geen coating), geschikt voor inductie, oneindig duurzaam bij goed gebruik. Favoriet bij koks.
+**Beste professioneel:** **De Buyer Mineral B** (€40-55). Professionele koolstofstalen pan: 28cm, naturel (geen coating), geschikt voor inductie, oneindig duurzaam bij goed gebruik. onze [inductiekookplaat gids](/beste-inductiekookplaat-2026/). onze [inductie gasfornuis gids](/inductie-vs-gasfornuis-2026/). onze [inductie keramisch gids](/inductie-vs-keramisch-2026/). Favoriet bij koks.
 
 **Beste keramisch:** **GreenPan Valencia Pro** (€30-45). Keramische antiaanbaklaag zonder PFAS. 28cm, inductiebodem, vaatwasserbestendig. Milieuvriendelijker dan teflon.
 

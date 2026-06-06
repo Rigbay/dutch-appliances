@@ -99,7 +99,7 @@ We hebben de populairste modellen getest op schuimdichtheid, temperatuurbehoud, 
 * **Prijs:** €108
 * **Voor wie:** Serieuze koffieliefhebbers die grote hoeveelheden perfect schuim willen met professionele features zoals LED-verlichting en meerdere programma's.
 * **2-3 concrete voordelen:**
-  * **Grote capaciteit en inductie:** 700 ml container met 360° LED ring en 13 programma's voor hot/cold foam, chocolade en meer. Lees ook onze [inductiekookplaat gids](/beste-inductiekookplaat-2026/) en [inductie gasfornuis gids](/inductie-vs-gasfornuis-2026/). Dishwasher safe.
+  * **Grote capaciteit en inductie:** 700 ml container met 360° LED ring en 13 programma's voor hot/cold foam, chocolade en meer. onze [inductie gasfornuis gids](/inductie-vs-gasfornuis-2026/). onze [inductie keramisch gids](/inductie-vs-keramisch-2026/). Lees ook onze [inductiekookplaat gids](/beste-inductiekookplaat-2026/) en [inductie gasfornuis gids](/inductie-vs-gasfornuis-2026/). onze [gasfornuis gids](/beste-gasfornuis-2026/). Dishwasher safe.
   * **Uitstekende schuimkwaliteit:** Consistente microfoam die barista-resultaten benadert, ideaal voor latte art.
   * **Duurzaam en stil:** Hoogwaardige bouwkwaliteit met goede temperatuurregeling.
 * **2 eerlijke nadelen:**
