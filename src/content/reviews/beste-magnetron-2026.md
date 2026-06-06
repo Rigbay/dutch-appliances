@@ -13,11 +13,11 @@ cons:
 - Prijs en kwaliteit verschillen sterk per merk
 - Onderhoud en reiniging vereisen regelmatige aandacht
 affiliateLinks:
-- https://www.amazon.nl/s?k=Panasonic+NN-CS89L&tag=kieskeukennl-21
-- https://www.amazon.nl/s?k=Samsung+MS23K3515AS&tag=kieskeukennl-21
+- https://www.amazon.nl/dp/B084XP98NC?tag=kieskeukennl-21
+- https://www.amazon.nl/dp/B07PTCKJHQ?tag=kieskeukennl-21
 - https://www.amazon.nl/s?k=Inventum+MN255C&tag=kieskeukennl-21
-- https://www.amazon.nl/s?k=Bosch+Serie+6+CFA634GS1&tag=kieskeukennl-21
-- https://www.amazon.nl/s?k=Sharp+R843INW&tag=kieskeukennl-21
+- https://www.amazon.nl/dp/B01E1GS5SC?tag=kieskeukennl-21
+- https://www.amazon.nl/dp/B01K1Z5OD6?tag=kieskeukennl-21
 date: 2026-05-06
 modelYear: 2026
 featuredProduct: Panasonic NN-CS89L
@@ -36,7 +36,7 @@ products:
   priceRange: EUR 100-140
   bestFor: Prijs-kwaliteit
   rating: 4.5
-  affiliateLink: https://www.amazon.nl/dp/B08CKZFR8N?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B07PTCKJHQ?tag=kieskeukennl-21
 - name: Inventum MN255C
   verdict: Gunstig geprijsde basismagnetron met mechanische draaiknoppen, ideaal voor
     senioren en eenvoudig opwarmwerk zonder poespas.
@@ -50,14 +50,14 @@ products:
   priceRange: EUR 500-650
   bestFor: Inbouw
   rating: 4.6
-  affiliateLink: https://www.amazon.nl/s?k=Bosch+Serie+6+CFA634GS1&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B01E1GS5SC?tag=kieskeukennl-21
 - name: Sharp R843INW
   verdict: Betaalbare combi-magnetron met grill en hetelucht die uitstekend presteert
     voor krokante ovenschotels en gegratineerde gerechten.
   priceRange: EUR 180-240
   bestFor: Grill/combi
   rating: 4.4
-  affiliateLink: https://www.amazon.nl/s?k=Sharp+R843INW&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B01K1Z5OD6?tag=kieskeukennl-21
 related:
 - beste-inductiekookplaat-2026
 - beste-airfryer-2026

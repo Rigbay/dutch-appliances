@@ -14,9 +14,9 @@ cons:
   - 'Luchtkoelers moeten regelmatig bijgevuld worden en kunnen de luchtvochtigheid verhogen'
   - 'Budgetventilatoren zijn vaak luid en hebben minder luchtverplaatsing'
 affiliateLinks:
-  - https://www.amazon.nl/s?k=Dyson+Pure+Cool+TP09+ventilator&tag=kieskeukennl-21
-  - https://www.amazon.nl/s?k=Duux+Whisper+Flex+Ultimate&tag=kieskeukennl-21
-  - https://www.amazon.nl/s?k=Honeywell+QuietSet+HYF290B&tag=kieskeukennl-21
+  - https://www.amazon.nl/dp/B0C8FWNGSB?tag=kieskeukennl-21
+  - https://www.amazon.nl/dp/B092MV8X79?tag=kieskeukennl-21
+  - https://www.amazon.nl/dp/B01N0LQJN6?tag=kieskeukennl-21
   - https://www.amazon.nl/s?k=Princess+luchtkoeler+369370&tag=kieskeukennl-21
   - https://www.amazon.nl/s?k=Klarbi+verkoeler+S1&tag=kieskeukennl-21
 modelYear: 2026
@@ -30,21 +30,21 @@ products:
     priceRange: 'EUR 200-250'
     bestFor: 'Luchtzuivering + koeling'
     rating: 4.7
-    affiliateLink: https://www.amazon.nl/s?k=Dyson+Pure+Cool+TP09+ventilator&tag=kieskeukennl-21
+    affiliateLink: https://www.amazon.nl/dp/B0C8FWNGSB?tag=kieskeukennl-21
   - name: Duux Whisper Flex Ultimate
     verdict: |+
       Nederlands designmerk met fluisterstille DC-motor, 10 snelheden, afstandsbediening en uitstekende luchtverplaatsing.
     priceRange: 'EUR 130-180'
     bestFor: 'Fluisterstille koeling'
     rating: 4.6
-    affiliateLink: https://www.amazon.nl/s?k=Duux+Whisper+Flex+Ultimate&tag=kieskeukennl-21
+    affiliateLink: https://www.amazon.nl/dp/B092MV8X79?tag=kieskeukennl-21
   - name: Honeywell QuietSet HYF290B
     verdict: |+
       Zeer stille torenventilator met 8 snelheden en oscillerende beweging voor een gelijkmatige luchtstroom.
     priceRange: 'EUR 80-100'
     bestFor: 'Stilte en breedte'
     rating: 4.5
-    affiliateLink: https://www.amazon.nl/s?k=Honeywell+QuietSet+HYF290B&tag=kieskeukennl-21
+    affiliateLink: https://www.amazon.nl/dp/B01N0LQJN6?tag=kieskeukennl-21
   - name: Princess Turbo Cool Air 369370
     verdict: |+
       Betaalbare luchtkoeler met waterreservoir en drie standen, ideaal voor slaapkamers tijdens warme nachten.

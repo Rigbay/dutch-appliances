@@ -27,38 +27,38 @@ products:
   priceRange: EUR 500-700
   bestFor: Allround perfectie
   rating: 4.9
-  affiliateLink: https://www.amazon.nl/dp/B0020P15BQ?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B09GYRYQRR?tag=kieskeukennl-21
 - name: Jura E8
   verdict: Zwitserse precisie en ongeëvenaarde bouwkwaliteit in een compact formaat.
   priceRange: EUR 800-1100
   bestFor: Premium smaak & kwaliteit
   rating: 4.8
-  affiliateLink: https://www.amazon.nl/s?k=Jura+E8&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B0CPM7Y933?tag=kieskeukennl-21
 - name: Nespresso Vertuo Next
   verdict: De moderne cupstandaard met barcode-lezing voor perfecte extractie per
     koffievariant.
   priceRange: EUR 100-180
   bestFor: Gemak & variëteit
   rating: 4.5
-  affiliateLink: https://www.amazon.nl/s?k=Nespresso+Vertuo+Next&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B093ZT9P7N?tag=kieskeukennl-21
 - name: Philips 5400 LatteGo
   verdict: Uitstekende prijs-kwaliteit voor cappuccino- en latte-liefhebbers.
   priceRange: EUR 400-600
   bestFor: Melkspecialiteiten
   rating: 4.7
-  affiliateLink: https://www.amazon.nl/dp/B07VV4NZW5?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B08C79MHFZ?tag=kieskeukennl-21
 - name: Sage Barista Express Impress
   verdict: Semi-automaat voor de echte koffieliefhebber die controle wil.
   priceRange: EUR 600-800
   bestFor: Handmatige controle
   rating: 4.6
-  affiliateLink: https://www.amazon.nl/s?k=Sage+Barista+Express+Impress&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B0B3JFH9KH?tag=kieskeukennl-21
 - name: Dolce Gusto Genio S
   verdict: Betaalbare cupmachine met de grootste variëteit aan koffiestijlen.
   priceRange: EUR 60-100
   bestFor: Budget & variëteit
   rating: 4.2
-  affiliateLink: https://www.amazon.nl/s?k=Dolce+Gusto+Genio+S&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B08B49C9G7?tag=kieskeukennl-21
 related:
 - beste-koffiemachine-2026
 - beste-koffiemachine-bonen-2026

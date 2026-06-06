@@ -12,11 +12,11 @@ cons:
 - Prijs en kwaliteit verschillen sterk per merk
 - Niet alle modellen geschikt voor elke keuken
 affiliateLinks:
-- "https://www.amazon.nl/s?k=yum+asia+panda+mini&tag=kieskeukennl-21"
+- "https://www.amazon.nl/dp/B0B431NHJ1?tag=kieskeukennl-21"
 - "https://www.amazon.nl/s?k=zojirushi+ns-ysq10&tag=kieskeukennl-21"
-- "https://www.amazon.nl/s?k=reishunger+digital&tag=kieskeukennl-21"
+- "https://www.amazon.nl/dp/B07TBDQL1L?tag=kieskeukennl-21"
 - "https://www.amazon.nl/s?k=princess+102060&tag=kieskeukennl-21"
-- "https://www.amazon.nl/s?k=yum+asia+bamboo&tag=kieskeukennl-21"
+- "https://www.amazon.nl/dp/B07T95GW9S?tag=kieskeukennl-21"
 - "https://www.amazon.nl/s?k=severin+rk+7020&tag=kieskeukennl-21"
 - "https://www.amazon.nl/s?k=russell+hobbs+26750-56&tag=kieskeukennl-21"
 date: 2026-06-02
@@ -29,7 +29,7 @@ products:
     priceRange: "EUR 70-100"
     bestFor: "Beste allround"
     rating: 4.6
-    affiliateLink: "https://www.amazon.nl/s?k=yum+asia+panda+mini&tag=kieskeukennl-21"
+    affiliateLink: "https://www.amazon.nl/dp/B0B431NHJ1?tag=kieskeukennl-21"
   - name: "Zojirushi NS-YSQ10"
     verdict: "De beste premium met een score van 4.8/5."
     priceRange: "EUR 150-220"
@@ -41,7 +41,7 @@ products:
     priceRange: "EUR 40-60"
     bestFor: "Beste middenklasse"
     rating: 4.3
-    affiliateLink: "https://www.amazon.nl/s?k=reishunger+digital&tag=kieskeukennl-21"
+    affiliateLink: "https://www.amazon.nl/dp/B07TBDQL1L?tag=kieskeukennl-21"
   - name: "Princess 102060"
     verdict: "De beste budget met een score van 3.9/5."
     priceRange: "EUR 25-40"
@@ -53,7 +53,7 @@ products:
     priceRange: "EUR 90-130"
     bestFor: "Beste inductie"
     rating: 4.5
-    affiliateLink: "https://www.amazon.nl/s?k=yum+asia+bamboo&tag=kieskeukennl-21"
+    affiliateLink: "https://www.amazon.nl/dp/B07T95GW9S?tag=kieskeukennl-21"
   - name: "Severin RK 7020"
     verdict: "De beste compact met een score van 4.0/5."
     priceRange: "EUR 30-45"

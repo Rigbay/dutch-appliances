@@ -15,7 +15,7 @@ cons:
 - Twee losse apparaten kosten meer en nemen dubbele ruimte in
 - Goedkope combi's verspreiden vuil in plaats van schoon te maken
 affiliateLinks:
-- https://www.amazon.nl/s?k=Roborock+S8+MaxV+Ultra&tag=kieskeukennl-21
+- https://www.amazon.nl/dp/B0CRV7F37B?tag=kieskeukennl-21
 modelYear: 2026
 featuredProduct: Roborock S8 MaxV Ultra
 readingTime: 12 min
@@ -26,37 +26,37 @@ products:
   priceRange: EUR 1200-1500
   bestFor: Alles-in-één gemak, premium
   rating: 4.9
-  affiliateLink: https://www.amazon.nl/s?k=Roborock+S8+MaxV+Ultra&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B0CRV7F37B?tag=kieskeukennl-21
 - name: '**iRobot Braava Jet M6**'
   verdict: Dedicated dweilrobot met precisiesproei — de beste dweil-only keuze.
   priceRange: EUR 350-450
   bestFor: Grondig dweilen, los apparaat
   rating: 4.5
-  affiliateLink: https://www.amazon.nl/s?k=iRobot+Braava+Jet+M6&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B07TQVQ3FN?tag=kieskeukennl-21
 - name: '**Dreame L20 Ultra**'
   verdict: Uitschuifbare dweilpads die randjes en hoeken perfect bereiken.
   priceRange: EUR 900-1100
   bestFor: Hoeken en randen dweilen
   rating: 4.7
-  affiliateLink: https://www.amazon.nl/s?k=Dreame+L20+Ultra&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B0CC236CLT?tag=kieskeukennl-21
 - name: '**eufy X10 Pro Omni**'
   verdict: Betaalbare combi met zelfreinigend dock en uitstekende prijs-kwaliteit.
   priceRange: EUR 600-800
   bestFor: Prijs-kwaliteit combi
   rating: 4.6
-  affiliateLink: https://www.amazon.nl/s?k=eufy+X10+Pro+Omni&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B0CPDZ3HD9?tag=kieskeukennl-21
 - name: '**Roborock Qrevo Pro**'
   verdict: Warmwaterdweilen verwijdert vlekken die koud water laat zitten.
   priceRange: EUR 700-900
   bestFor: Hardnekkig vuil, warm water
   rating: 4.6
-  affiliateLink: https://www.amazon.nl/s?k=Roborock+Qrevo+Pro&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B0CRL4HQQZ?tag=kieskeukennl-21
 - name: '**Roomba Combo j9+**'
   verdict: Herkent automatisch type vloer en tilt dweilpad op bij tapijt.
   priceRange: EUR 800-1000
   bestFor: Gemengde vloeren, tapijt+hout
   rating: 4.5
-  affiliateLink: https://www.amazon.nl/s?k=Roomba+Combo+j9+&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B0CHGJHJRM?tag=kieskeukennl-21
 related:
 - beste-robotstofzuiger-2026
 - beste-dweilrobot-2026
@@ -122,11 +122,11 @@ Niet elke robot werkt op elke vloer. Heb je veel tapijt? Dan is een robot met ta
 
 ## Conclusie: Welke Robot Past Bij Jou?
 
-De keuze tussen een aparte robotstofzuiger, dweilrobot of combi hangt af van je prioriteiten. Wil je het allerbeste dweilresultaat en heb je ruimte voor twee apparaten? Ga voor een dedicated dweilrobot zoals de [Braava Jet M6](https://www.amazon.nl/s?k=iRobot+Braava+Jet+M6&tag=kieskeukennl-21) naast een goede robotstofzuiger. Het kost meer, maar beide apparaten doen waar ze voor ontworpen zijn.
+De keuze tussen een aparte robotstofzuiger, dweilrobot of combi hangt af van je prioriteiten. Wil je het allerbeste dweilresultaat en heb je ruimte voor twee apparaten? Ga voor een dedicated dweilrobot zoals de [Braava Jet M6](https://www.amazon.nl/dp/B07TQVQ3FN?tag=kieskeukennl-21) naast een goede robotstofzuiger. Het kost meer, maar beide apparaten doen waar ze voor ontworpen zijn.
 
-Wil je maximaal gemak met minimale bemoeienis? De [Roborock S8 MaxV Ultra](https://www.amazon.nl/s?k=Roborock+S8+MaxV+Ultra&tag=kieskeukennl-21) is de absolute koning van set-and-forget. Je offert een klein beetje dweilkwaliteit in vergeleken met een dedicated dweilrobot, maar wint een enorm gemak terug. Voor de meeste huishoudens is dit de beste keuze in 2026.
+Wil je maximaal gemak met minimale bemoeienis? De [Roborock S8 MaxV Ultra](https://www.amazon.nl/dp/B0CRV7F37B?tag=kieskeukennl-21) is de absolute koning van set-and-forget. Je offert een klein beetje dweilkwaliteit in vergeleken met een dedicated dweilrobot, maar wint een enorm gemak terug. Voor de meeste huishoudens is dit de beste keuze in 2026.
 
-Ben je prijsbewust maar wil je niet inleveren op moderne features? De [eufy X10 Pro Omni](https://www.amazon.nl/s?k=eufy+X10+Pro+Omni&tag=kieskeukennl-21) en [Qrevo Pro](https://www.amazon.nl/s?k=Roborock+Qrevo+Pro&tag=kieskeukennl-21) bieden 90% van de premium-ervaring voor 50% van de prijs. Perfect voor wie de sprong naar robotreiniging wil maken zonder zich scheel te betalen.
+Ben je prijsbewust maar wil je niet inleveren op moderne features? De [eufy X10 Pro Omni](https://www.amazon.nl/dp/B0CPDZ3HD9?tag=kieskeukennl-21) en [Qrevo Pro](https://www.amazon.nl/dp/B0CRL4HQQZ?tag=kieskeukennl-21) bieden 90% van de premium-ervaring voor 50% van de prijs. Perfect voor wie de sprong naar robotreiniging wil maken zonder zich scheel te betalen.
 
 ## Gerelateerde artikelen
 

@@ -27,13 +27,13 @@ products:
   priceRange: Laserdetectie, natte reiniging, HEPA-filtratie
   bestFor: '999'
   rating: 4.8
-  affiliateLink: https://www.amazon.nl/s?k=Dyson+V15s+Detect+Submarine&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B0CN5L69HV?tag=kieskeukennl-21
 - name: Samsung Bespoke Jet AI
   verdict: '899'
   priceRange: All-in-One Clean Station, AI-gestuurde zuigkracht
   bestFor: '899'
   rating: 4.5
-  affiliateLink: https://www.amazon.nl/s?k=Samsung+Bespoke+Jet+AI&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B0DTQ1HT3C?tag=kieskeukennl-21
 - name: Tineco Floor One S7 Pro 2
   verdict: '749'
   priceRange: Gelijktijdig stofzuigen & dweilen, slimme sensoren
@@ -45,7 +45,7 @@ products:
   priceRange: Flex-technologie, Animal Care borstel
   bestFor: '399'
   rating: 4.2
-  affiliateLink: https://www.amazon.nl/s?k=Rowenta+X-Force+Flex+14.60+AC&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B08XBXHCLK?tag=kieskeukennl-21
 - name: Philips Series 3000 Xpert FC6823/01
   verdict: '199'
   priceRange: Lichtgewicht, aanpasbare zuigkracht
@@ -57,13 +57,13 @@ products:
   priceRange: Power for ALL accu-systeem, flexibele mond
   bestFor: '349'
   rating: 4.0
-  affiliateLink: https://www.amazon.nl/s?k=Bosch+Unlimited+7&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B09V85SCX1?tag=kieskeukennl-21
 - name: Shark Anti Hair Wrap IZ420EUT
   verdict: '449'
   priceRange: Anti Hair Wrap technologie, DuoClean vloermond
   bestFor: '449'
   rating: 4.3
-  affiliateLink: https://www.amazon.nl/s?k=Shark+Anti+Hair+Wrap+IZ420EUT&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B0BHKNBJH1?tag=kieskeukennl-21
 related:
 - beste-stoomreiniger-2026
 - beste-stofzuiger-tegen-dierenharen-2026

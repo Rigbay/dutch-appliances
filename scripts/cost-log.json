@@ -189,5 +189,13 @@
     "tokens_input": 1000,
     "tokens_output": 17955,
     "cost_eur": 0.0055
+  },
+  {
+    "date": "2026-06-05",
+    "model": "gemini",
+    "tokens_in": 982,
+    "tokens_out": 4000,
+    "cost_est": 0.0016982000000000002,
+    "slug": "beste-gourmetstel-2026"
   }
 ]

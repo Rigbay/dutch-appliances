@@ -36,14 +36,14 @@ products:
   priceRange: EUR 500-650
   bestFor: Prijs-kwaliteit
   rating: 4.6
-  affiliateLink: https://www.amazon.nl/s?k=Ecovacs+Deebot+T30S+Omni&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B0CTSV7PJL?tag=kieskeukennl-21
 - name: iRobot Roomba j9+
   verdict: Betrouwbare navigatie en dierhaar-prestaties, maar minder geavanceerde
     dweil dan concurrenten.
   priceRange: EUR 600-800
   bestFor: Dierhaar en tapijt
   rating: 4.5
-  affiliateLink: https://www.amazon.nl/s?k=iRobot+Roomba+j9+&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B0CHGJHJRM?tag=kieskeukennl-21
 - name: Xiaomi Robot Vacuum X20+
   verdict: Betaalbaar instapmodel met LiDAR en dweilfunctie, maar basisstation is
     basis.
@@ -56,7 +56,7 @@ products:
   priceRange: EUR 650-800
   bestFor: Slimme features
   rating: 4.7
-  affiliateLink: https://www.amazon.nl/s?k=Dreame+L40+Ultra&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B0D6VS4SLX?tag=kieskeukennl-21
 related:
 - beste-stoomreiniger-2026
 - beste-stofzuiger-voor-allergie-2026

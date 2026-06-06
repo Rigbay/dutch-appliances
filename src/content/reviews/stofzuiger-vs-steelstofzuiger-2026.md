@@ -29,31 +29,31 @@ products:
   priceRange: EUR 500-700
   bestFor: Maximale zuigkracht draadloos
   rating: 4.9
-  affiliateLink: https://www.amazon.nl/dp/B09MJ7QL6H?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B0C2J8KJH9?tag=kieskeukennl-21
 - name: Miele Complete C3
   verdict: De gouden standaard voor traditionele stofzuigers met zak — ongekende duurzaamheid.
   priceRange: EUR 250-400
   bestFor: Lange levensduur & hygiëne
   rating: 4.8
-  affiliateLink: https://www.amazon.nl/s?k=Miele+Complete+C3&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B09VKXBRDQ?tag=kieskeukennl-21
 - name: Samsung Bespoke Jet AI
   verdict: Slimme steelstofzuiger met AI-zuigoptimalisatie en zelfreinigend station.
   priceRange: EUR 600-800
   bestFor: Smart home & gemak
   rating: 4.7
-  affiliateLink: https://www.amazon.nl/dp/B08CKZFR8N?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B0DTQ1HT3C?tag=kieskeukennl-21
 - name: Bosch Unlimited 7
   verdict: Uitstekende prijs-kwaliteit met verwisselbare batterij.
   priceRange: EUR 300-450
   bestFor: Prijs-kwaliteit draadloos
   rating: 4.5
-  affiliateLink: https://www.amazon.nl/s?k=Bosch+Unlimited+7&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B09V85SCX1?tag=kieskeukennl-21
 - name: Philips 8000 Series
   verdict: 360-graden zuigmond maakt schoonmaken in elke hoek kinderspel.
   priceRange: EUR 350-500
   bestFor: Wendbaarheid & design
   rating: 4.6
-  affiliateLink: https://www.amazon.nl/dp/B07VV4NZW5?tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B07WTHWT84?tag=kieskeukennl-21
 - name: Kärcher VC 6
   verdict: Krachtige traditionele stofzuiger voor een scherpe prijs.
   priceRange: EUR 150-250
@@ -147,31 +147,31 @@ Niet elk huishouden heeft dezelfde stofzuiger nodig. We zetten de aanbevelingen 
 
 ## 6 Topmodellen van 2026 onder de loep
 
-### 1. [Dyson V15 Detect](https://www.amazon.nl/s?k=Dyson+V15+Detect&tag=kieskeukennl-21)
+### 1. [Dyson V15 Detect](https://www.amazon.nl/dp/B0C2J8KJH9?tag=kieskeukennl-21)
 
 De onbetwiste koning van de steelstofzuigers in 2026. De piëzo-sensor telt en meet deeltjes tot 10 micron groot en toont real-time data op het LCD-scherm. De laser onthult stof dat met het blote oog onzichtbaar is, wat resulteert in een obsessief schone vloer. Met 60 minuten batterijduur op eco-stand en 240 Air Watts maximum vermogen is dit het dichtste dat een draadloze stofzuiger bij een traditioneel model komt.
 
 *Ideaal voor:* Veeleisende gebruikers die de beste technologie willen en bereid zijn daarvoor te betalen.
 
-### 2. [Miele Complete C3](https://www.amazon.nl/s?k=Miele+Complete+C3&tag=kieskeukennl-21)
+### 2. [Miele Complete C3](https://www.amazon.nl/dp/B09VKXBRDQ?tag=kieskeukennl-21)
 
 De referentie in traditionele stofzuigerland. Miele's befaamde bouwkwaliteit en duurzaamheid maken dit een aankoop voor het leven. De AirClean-filterzak sluit automatisch bij verwijdering, perfect voor mensen met allergieën. Met een actieradius van 12 meter en een extreem stille motor (72 dB) is dit de gouden standaard.
 
 *Ideaal voor:* Huishoudens die gaan voor betrouwbaarheid, hygiëne en een lange levensduur. Ook perfect voor [allergie-huishoudens](/beste-stofzuiger-voor-allergie-2026/).
 
-### 3. [Samsung Bespoke Jet AI](https://www.amazon.nl/s?k=Samsung+Bespoke+Jet+AI&tag=kieskeukennl-21)
+### 3. [Samsung Bespoke Jet AI](https://www.amazon.nl/dp/B0DTQ1HT3C?tag=kieskeukennl-21)
 
 Samsungs antwoord op de Dyson V15. De AI-geoptimaliseerde zuigkracht past zich in real-time aan, en het All-in-One Clean Station leegt automatisch het stofreservoir en laadt de batterij op. Het is de meest complete smart home stofzuiger-ervaring die er bestaat.
 
 *Ideaal voor:* Tech-liefhebbers die een complete, hands-off schoonmaakervaring zoeken.
 
-### 4. [Bosch Unlimited 7](https://www.amazon.nl/s?k=Bosch+Unlimited+7&tag=kieskeukennl-21)
+### 4. [Bosch Unlimited 7](https://www.amazon.nl/dp/B09V85SCX1?tag=kieskeukennl-21)
 
 De beste prijs-kwaliteitverhouding in het steelstofzuiger-segment. De verwisselbare batterij is een gamechanger: koop een tweede accu en je hebt 80 minuten onafgebroken zuigtijd. Uitstekende Duitse bouwkwaliteit voor een scherpere prijs dan Dyson.
 
 *Ideaal voor:* Prijsbewuste kopers die niet willen inleveren op kwaliteit.
 
-### 5. [Philips 8000 Series](https://www.amazon.nl/s?k=Philips+8000+Series+steelstofzuiger&tag=kieskeukennl-21)
+### 5. [Philips 8000 Series](https://www.amazon.nl/dp/B07WTHWT84?tag=kieskeukennl-21)
 
 Philips introduceerde een 360-graden zuigmond die in elke richting draait, waardoor je moeiteloos om meubels heen manoeuvreert. De PowerCyclone 12 technologie zorgt voor consistente zuigkracht zonder filterverstopping.
 

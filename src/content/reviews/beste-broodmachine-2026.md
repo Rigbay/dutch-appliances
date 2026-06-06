@@ -12,7 +12,7 @@ cons:
 - Prijs en kwaliteit verschillen sterk per merk
 - Niet alle modellen geschikt voor elke keuken
 affiliateLinks:
-- "https://www.amazon.nl/s?k=moulinex+ow6101+home++bread&tag=kieskeukennl-21"
+- "https://www.amazon.nl/dp/B00C5A14ZS?tag=kieskeukennl-21"
 - "https://www.amazon.nl/s?k=panasonic+sd-zp2000kxe&tag=kieskeukennl-21"
 - "https://www.amazon.nl/s?k=princess+112020&tag=kieskeukennl-21"
 - "https://www.amazon.nl/s?k=kenwood+bm580&tag=kieskeukennl-21"
@@ -29,7 +29,7 @@ products:
     priceRange: "EUR 80-110"
     bestFor: "Beste allround"
     rating: 4.5
-    affiliateLink: "https://www.amazon.nl/s?k=moulinex+ow6101+home++bread&tag=kieskeukennl-21"
+    affiliateLink: "https://www.amazon.nl/dp/B00C5A14ZS?tag=kieskeukennl-21"
   - name: "Panasonic SD-ZP2000KXE"
     verdict: "De beste premium met een score van 4.7/5."
     priceRange: "EUR 150-200"

@@ -12,12 +12,12 @@ cons:
 - Prijs en kwaliteit verschillen sterk per merk
 - Niet alle modellen geschikt voor elke keuken
 affiliateLinks:
-- "https://www.amazon.nl/s?k=sage+barista+express+impress&tag=kieskeukennl-21"
-- "https://www.amazon.nl/s?k=delonghi+magnifica+s+ecam+22.110.sb&tag=kieskeukennl-21"
-- "https://www.amazon.nl/s?k=gaggia+classic+pro+e24&tag=kieskeukennl-21"
-- "https://www.amazon.nl/s?k=sage+bambino+plus&tag=kieskeukennl-21"
-- "https://www.amazon.nl/s?k=delonghi+dedica+style+ec685&tag=kieskeukennl-21"
-- "https://www.amazon.nl/s?k=rancilio+silvia&tag=kieskeukennl-21"
+- "https://www.amazon.nl/dp/B0B3JFH9KH?tag=kieskeukennl-21"
+- "https://www.amazon.nl/dp/B00400OMUK?tag=kieskeukennl-21"
+- "https://www.amazon.nl/dp/B086H1W384?tag=kieskeukennl-21"
+- "https://www.amazon.nl/dp/B07G1CW1LG?tag=kieskeukennl-21"
+- "https://www.amazon.nl/dp/B06WGTZ874?tag=kieskeukennl-21"
+- "https://www.amazon.nl/dp/B084RT95LQ?tag=kieskeukennl-21"
 - "https://www.amazon.nl/s?k=ecm+classika+pid&tag=kieskeukennl-21"
 date: 2026-06-02
 modelYear: 2026
@@ -29,37 +29,37 @@ products:
     priceRange: "EUR 700-900"
     bestFor: "Beste allround"
     rating: 4.7
-    affiliateLink: "https://www.amazon.nl/s?k=sage+barista+express+impress&tag=kieskeukennl-21"
+    affiliateLink: "https://www.amazon.nl/dp/B0B3JFH9KH?tag=kieskeukennl-21"
   - name: "DeLonghi Magnifica S ECAM 22.110.SB"
     verdict: "De beste volautomatisch met een score van 4.5/5."
     priceRange: "EUR 400-550"
     bestFor: "Beste volautomatisch"
     rating: 4.5
-    affiliateLink: "https://www.amazon.nl/s?k=delonghi+magnifica+s+ecam+22.110.sb&tag=kieskeukennl-21"
+    affiliateLink: "https://www.amazon.nl/dp/B00400OMUK?tag=kieskeukennl-21"
   - name: "Gaggia Classic Pro E24"
     verdict: "De beste semiautomatisch met een score van 4.4/5."
     priceRange: "EUR 350-450"
     bestFor: "Beste semiautomatisch"
     rating: 4.4
-    affiliateLink: "https://www.amazon.nl/s?k=gaggia+classic+pro+e24&tag=kieskeukennl-21"
+    affiliateLink: "https://www.amazon.nl/dp/B086H1W384?tag=kieskeukennl-21"
   - name: "Sage Bambino Plus"
     verdict: "De beste compact met een score van 4.3/5."
     priceRange: "EUR 300-400"
     bestFor: "Beste compact"
     rating: 4.3
-    affiliateLink: "https://www.amazon.nl/s?k=sage+bambino+plus&tag=kieskeukennl-21"
+    affiliateLink: "https://www.amazon.nl/dp/B07G1CW1LG?tag=kieskeukennl-21"
   - name: "DeLonghi Dedica Style EC685"
     verdict: "De beste budget met een score van 4.2/5."
     priceRange: "EUR 200-300"
     bestFor: "Beste budget"
     rating: 4.2
-    affiliateLink: "https://www.amazon.nl/s?k=delonghi+dedica+style+ec685&tag=kieskeukennl-21"
+    affiliateLink: "https://www.amazon.nl/dp/B06WGTZ874?tag=kieskeukennl-21"
   - name: "Rancilio Silvia"
     verdict: "De beste voor liefhebbers met een score van 4.6/5."
     priceRange: "EUR 450-600"
     bestFor: "Beste voor liefhebbers"
     rating: 4.6
-    affiliateLink: "https://www.amazon.nl/s?k=rancilio+silvia&tag=kieskeukennl-21"
+    affiliateLink: "https://www.amazon.nl/dp/B084RT95LQ?tag=kieskeukennl-21"
   - name: "ECM Classika PID"
     verdict: "De beste professioneel met een score van 4.7/5."
     priceRange: "EUR 1000-1400"
