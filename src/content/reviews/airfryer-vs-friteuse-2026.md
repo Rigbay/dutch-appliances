@@ -26,7 +26,7 @@ products:
   priceRange: EUR 50-400
   bestFor: Gezinnen, veelzijdigheid, beste resultaten
   rating: 4.8
-  affiliateLink: https://www.amazon.nl/s?k=**Philips+Airfryer+XXL+HD9650/90**&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B07VHKMGFX?tag=kieskeukennl-21
 - name: '**Tefal Oleoclean Pro 3.5L**'
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
@@ -38,7 +38,7 @@ products:
   priceRange: EUR 50-400
   bestFor: Twee gerechten tegelijk, veelzijdigheid
   rating: 4.7
-  affiliateLink: https://www.amazon.nl/s?k=**Ninja+Foodi+Max+Dual+Zone**&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B09B1XGZ4H?tag=kieskeukennl-21
 - name: '**Princess Aerofryer XXL**'
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
@@ -50,13 +50,13 @@ products:
   priceRange: EUR 50-400
   bestFor: Budget, kleine huishoudens
   rating: 3.0
-  affiliateLink: https://www.amazon.nl/s?k=**Tristar+FR-6980**&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B078XBH8K2?tag=kieskeukennl-21
 - name: '**Philips Essential Airfryer**'
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Kleine keukens, 1-2 personen
   rating: 3.5
-  affiliateLink: https://www.amazon.nl/s?k=**Philips+Essential+Airfryer**&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B0999GR9SM?tag=kieskeukennl-21
 - name: '**Tefal Easy Clean FF1231**'
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400

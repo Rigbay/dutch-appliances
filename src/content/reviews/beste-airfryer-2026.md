@@ -40,7 +40,7 @@ products:
   priceRange: EUR 170-230
   bestFor: Prestaties
   rating: 4.6
-  affiliateLink: https://www.amazon.nl/s?k=Ninja+Foodi+Dual+Zone+AF400EU&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B09B1XGZ4H?tag=kieskeukennl-21
 - name: Princess Digitale Airfryer XXL 182026
   verdict: Betaalbare XXL-airfryer met digitale programma's, maar minder premium afwerking.
   priceRange: EUR 70-110

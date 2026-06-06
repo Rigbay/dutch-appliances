@@ -35,14 +35,14 @@ products:
   priceRange: EUR 100-350
   bestFor: Compacte keukens met twee functies in één
   rating: 4.4
-  affiliateLink: https://www.amazon.nl/s?k=combi+magnetron&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B07YL9KYKP?tag=kieskeukennl-21
 - name: Magnetron
   verdict: Snelste opwarming voor restjes, eenvoudige functies, laag energiekosten
     bij kort gebruik
   priceRange: EUR 50-500
   bestFor: Snel opwarmen en eenvoudige bereidingen
   rating: 4.3
-  affiliateLink: https://www.amazon.nl/s?k=magnetron&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B00ISBDDIW?tag=kieskeukennl-21
 - name: Inductie oven
   verdict: Snelste voorverwarming, precieze temperatuur, energiezuinig bij lange gebruiksduur
   priceRange: EUR 400-1800

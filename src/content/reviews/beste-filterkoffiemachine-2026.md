@@ -50,7 +50,7 @@ products:
   priceRange: €120
   bestFor: huishoudens die betaalbare kwaliteit met molen willen
   rating: 4.1
-  affiliateLink: https://www.amazon.nl/s?k=Melitta+AromaFresh+II&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B08HCN8HX2?tag=kieskeukennl-21
 - name: Sage Precision Brewer
   verdict: Beste voor aanpasbare zetparameters
   priceRange: €299

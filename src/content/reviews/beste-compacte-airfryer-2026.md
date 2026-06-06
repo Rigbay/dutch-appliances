@@ -26,7 +26,7 @@ products:
   priceRange: EUR 50-400
   bestFor: Beste prestaties, gezinnen van 2
   rating: 3.5
-  affiliateLink: https://www.amazon.nl/s?k=Philips+Essential+Airfryer+XL&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B0999GR9SM?tag=kieskeukennl-21
 - name: Tefal Easy Fry Compact
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400

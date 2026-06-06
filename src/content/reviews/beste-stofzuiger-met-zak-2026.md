@@ -28,7 +28,7 @@ products:
   bestFor: Grote huishoudens met huisdieren en/of allergieën die de allerbeste reinigingsprestaties
     eisen.
   rating: 4.9
-  affiliateLink: https://www.amazon.nl/s?k=Miele+Complete+C3+PowerLine&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B09VKXBRDQ?tag=kieskeukennl-21
 - name: Bosch Serie 8 ProPower BGL8SIL3
   verdict: De Bosch Serie 8 ProPower levert indrukwekkende zuigkracht en is een uitstekende
     allrounder voor diverse vloertypen.

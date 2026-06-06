@@ -26,13 +26,13 @@ products:
   priceRange: Laserdetectie, HEPA-filter, LCD-scherm
   bestFor: € 799,00
   rating: 4.8
-  affiliateLink: https://www.amazon.nl/s?k=Dyson+V15+Detect™+Absolute&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B08VNPS2KK?tag=kieskeukennl-21
 - name: Philips SpeedPro Max Aqua FC6904/01
   verdict: € 399,00
   priceRange: 2-in-1 functie (stofzuigen & dweilen), 360° zuigmond
   bestFor: € 399,00
   rating: 4.5
-  affiliateLink: https://www.amazon.nl/s?k=Philips+SpeedPro+Max+Aqua+FC6904/01&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B08FHDQN7D?tag=kieskeukennl-21
 - name: Xiaomi Mi Handheld Vacuum Cleaner 1C
   verdict: € 129,00
   priceRange: Lichtgewicht, goede prijs-kwaliteit
@@ -62,7 +62,7 @@ products:
   priceRange: All-in-one laadstation, automatische vuilafvoer
   bestFor: € 999,00
   rating: 4.9
-  affiliateLink: https://www.amazon.nl/s?k=Samsung+Bespoke+Jet™+AI+Vacuum+Cleaner&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B0DKY2LL65?tag=kieskeukennl-21
 related:
 - beste-robotstofzuiger-2026
 - beste-stoomreiniger-2026

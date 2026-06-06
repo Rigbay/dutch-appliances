@@ -26,13 +26,13 @@ products:
   priceRange: EUR 50-400
   bestFor: Maximale prestaties, technologie, allergieën
   rating: 4.8
-  affiliateLink: https://www.amazon.nl/s?k=Dyson+V15+Detect+Animal&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B08VNPS2KK?tag=kieskeukennl-21
 - name: Miele C3 Cat & Dog
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
   bestFor: Topfiltratie, allergieën, traditioneel
   rating: 3.0
-  affiliateLink: https://www.amazon.nl/s?k=Miele+C3+Cat+&+Dog&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B097Q5YH6V?tag=kieskeukennl-21
 - name: Philips PowerPro Expert Animal
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400
@@ -56,7 +56,7 @@ products:
   priceRange: EUR 50-400
   bestFor: Flexibiliteit, prijs-kwaliteit, draadloos
   rating: 4.4
-  affiliateLink: https://www.amazon.nl/s?k=Rowenta+X-Force+Flex+14.50+Animal&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B08K8B4DZT?tag=kieskeukennl-21
 - name: Bissell CrossWave Pet Pro
   verdict: Topproduct in zijn categorie met uitstekende prestaties.
   priceRange: EUR 50-400

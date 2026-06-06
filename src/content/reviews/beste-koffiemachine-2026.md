@@ -29,7 +29,7 @@ products:
   priceRange: EUR 550-700
   bestFor: Volautomaat gemak
   rating: 4.7
-  affiliateLink: https://www.amazon.nl/s?k=Philips+5400+Serie+LatteGo+EP5447&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B08C79MHFZ?tag=kieskeukennl-21
 - name: De'Longhi Dinamica Plus ECAM370.95.T
   verdict: Premium volautomaat met app-bediening, keramische molen en uitstekende
     espresso-crema.
@@ -43,7 +43,7 @@ products:
   priceRange: EUR 550-700
   bestFor: Halfautomaat leren
   rating: 4.6
-  affiliateLink: https://www.amazon.nl/s?k=Sage+the+Barista+Express+SES876&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B0BG14X5Z5?tag=kieskeukennl-21
 - name: Siemens EQ.300 TI351209RW
   verdict: Betaalbare volautomaat met keramische molen en melkopschuimer, compact
     voor kleine keukens.

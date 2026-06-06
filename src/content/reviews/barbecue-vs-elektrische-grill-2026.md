@@ -30,7 +30,7 @@ products:
   priceRange: EUR 900-1200
   bestFor: Smaakpuristen, slow cooking, pizza
   rating: 4.8
-  affiliateLink: https://www.amazon.nl/s?k=Kamado+Joe+Classic+II&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B01INNA89S?tag=kieskeukennl-21
 - name: Weber Spirit II E-310
   verdict: 'Dé referentie onder gasbarbecues: betrouwbaar, gelijkmatige hitteverdeling,
     3 branders en in 5 minuten grillklaar.'

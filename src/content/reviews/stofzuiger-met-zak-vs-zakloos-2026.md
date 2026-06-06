@@ -16,7 +16,7 @@ cons:
 - Zakloos legen geeft stofwolk en kan allergieën triggeren
 - Zakmodellen verliezen zuigkracht als de zak voller raakt
 affiliateLinks:
-- https://www.amazon.nl/s?k=Miele+Complete+C3+PowerLine&tag=kieskeukennl-21
+- https://www.amazon.nl/dp/B09VKXBRDQ?tag=kieskeukennl-21
 modelYear: 2026
 featuredProduct: Miele Complete C3 PowerLine
 readingTime: 11 min
@@ -27,13 +27,13 @@ products:
   priceRange: EUR 250-350
   bestFor: Allergie-huishoudens, premium
   rating: 4.9
-  affiliateLink: https://www.amazon.nl/s?k=Miele+Complete+C3+PowerLine&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B09VKXBRDQ?tag=kieskeukennl-21
 - name: '**Dyson V15 Detect**'
   verdict: Zakloze steelstofzuiger met lasertelling van onzichtbaar stof.
   priceRange: EUR 500-650
   bestFor: Tech-liefhebbers, snelle beurten
   rating: 4.7
-  affiliateLink: https://www.amazon.nl/s?k=Dyson+V15+Detect&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B08VNPS2KK?tag=kieskeukennl-21
 - name: '**Philips PowerPro Compact FC9332**'
   verdict: Betaalbare stofzuiger met zak en HEPA 13-filter tegen allergieën.
   priceRange: EUR 100-150

@@ -50,7 +50,7 @@ products:
   priceRange: EUR 50-80
   bestFor: Dagelijks gebruik, compact
   rating: 4.5
-  affiliateLink: https://www.amazon.nl/s?k=Bosch+ErgoMixx+MSM67170&tag=kieskeukennl-21
+  affiliateLink: https://www.amazon.nl/dp/B009W0L6KM?tag=kieskeukennl-21
 - name: '**Ninja Professional Plus Blender BN800EU**'
   verdict: Krachtige budgetblender met Auto-iQ programma's.
   priceRange: EUR 100-160

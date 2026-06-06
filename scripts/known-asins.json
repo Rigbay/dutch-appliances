@@ -2,7 +2,7 @@
   "meta": {
     "generated": "2026-06-03 22:17 CEST",
     "source": "139 KiesKeuken articles",
-    "purpose": "ASIN reference for browser delegation — skip lookups for products already discovered"
+    "purpose": "ASIN reference for browser delegation \u2014 skip lookups for products already discovered"
   },
   "known_asins": {
     "**philips airfryer xxl (hd9650/90)**": "B07VHKMGFX",
@@ -73,7 +73,17 @@
     "**russell hobbs attentiv 23271**": "B08D3Y5R8L",
     "**quooker nordic square twist**": "B09VNH9XKF",
     "**de''longhi kbov 2001.b waterkoker**": "B07PFBK1K6",
-    "**inventum wk650b waterkoker**": "B00P0GMXFS"
+    "**inventum wk650b waterkoker**": "B00P0GMXFS",
+    "Kamado Joe Classic II": "B01INNA89S",
+    "Xiaomi Robot Vacuum X20": "B0CTCXKL52",
+    "Bosch ErgoMixx MSM67170": "B009W0L6KM",
+    "Samsung Bespoke AI Combo": "B0DKY2LL65",
+    "KitchenAid Artisan 5KSM175": "B06XDPNQ1R",
+    "Bosch PXY875DC1E": "B01BGQTHLY",
+    "Miele Complete C3 PowerLine": "B09VKXBRDQ",
+    "Bosch UniversalRotak 550": "B07YLX6K3R",
+    "De'Longhi Dedica Style EC685": "B06WGTZ874",
+    "Nespresso Vertuo Next": "B08DRKVSBJ"
   },
   "collisions": {
     "B0CQ8GHBRG": [
