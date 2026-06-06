@@ -1,0 +1,192 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const allReviews = await getCollection('reviews', ({ data }) => !data.draft);
+
+const has = (d, ...keywords) => keywords.some(kw => d.slug && d.slug.includes(kw));
+
+const summerCategories = [
+  {
+    id: 'barbecues',
+    label: '🔥 Barbecues & Buiten Koken',
+    intro: 'Niets zegt zomer als de geur van een barbecue in de avondlucht. Of je nu kiest voor houtskool, gas, elektrisch of een pizza-oven — met de juiste apparatuur kook je deze zomer buiten als een pro.',
+    items: allReviews.filter(r => has(r.data, 'barbecue', 'grill', 'gourmet', 'pizza-oven'))
+  },
+  {
+    id: 'koeling',
+    label: '❄️ Koeling & Klimaat',
+    intro: 'Als de temperaturen stijgen wil je thuis kunnen afkoelen. Van mobiele airco\'s en ventilatoren tot luchtontvochtigers en ijskoude drankjes — hier vind je alles om de zomerhitte te temmen.',
+    items: allReviews.filter(r => has(r.data, 'airconditioner', 'airco', 'ventilator', 'ontvochtiger', 'luchtkoeler'))
+  },
+  {
+    id: 'ijsdrankjes',
+    label: '🍹 IJs, Drankjes & Verfrissing',
+    intro: 'Eigen ijs maken, bruiswater tappen, of de perfecte smoothie blenden — de zomer smaakt beter met deze apparaten op je aanrecht.',
+    items: allReviews.filter(r => has(r.data, 'ijsmachine', 'bruiswater', 'sapcentrifuge', 'slowjuicer', 'blender'))
+  },
+  {
+    id: 'tuin',
+    label: '🌿 Tuin & Terras',
+    intro: 'Je tuin wordt deze zomer je tweede huiskamer. De juiste tuinapparaten — van grasmaaier tot tuinverwarming — maken het verschil tussen ploeteren en genieten.',
+    items: allReviews.filter(r => has(r.data, 'grasmaaier', 'robotgrasmaaier', 'tuinverwarming', 'tuinverlichting', 'tuinslang', 'tuinsproeier', 'bladblazer', 'hogedrukreiniger', 'kruiwagen'))
+  },
+  {
+    id: 'huishoudelijk',
+    label: '🏠 Huishoudelijk Zomer',
+    intro: 'Zomer betekent ook: meer was, meer stof, en pollen die naar binnen waaien. Deze huishoudelijke apparaten houden je huis fris, schoon en leefbaar — ook als het buiten 30 graden is.',
+    items: allReviews.filter(r => has(r.data, 'luchtreiniger', 'luchtbevochtiger', 'wasmachine', 'wasdroger', 'stofzuiger', 'robotstofzuiger', 'steelstofzuiger', 'stoomreiniger'))
+  }
+];
+
+const totalItems = summerCategories.reduce((sum, cat) => sum + cat.items.length, 0);
+---
+
+<BaseLayout
+  title="Zomer Apparaten 2026 — Beste Keuzes voor Barbecue, Airco, Tuin & Meer"
+  description="Ontdek de beste apparaten voor zomer 2026: barbecues, airconditioners, ventilatoren, ijsmachines, tuingereedschap en meer. Allemaal met Amazon NL affiliate links."
+  canonicalUrl="https://rigbay.github.io/dutch-appliances/zomer-apparaten/"
+>
+  <div class="max-w-6xl mx-auto px-4 py-12">
+
+    <!-- HERO -->
+    <div class="bg-[#fef9ed] border border-[#f0d98a] rounded-lg p-8 mb-10">
+      <p class="text-sm font-bold uppercase tracking-[0.16em] text-[#b8860b]">Seizoensgids</p>
+      <h1 class="text-4xl md:text-5xl font-serif font-semibold mb-4 leading-tight mt-2">
+        Zomer Apparaten 2026: Alles voor een Heerlijke Zomer in Huis & Tuin
+      </h1>
+      <p class="text-lg text-muted leading-relaxed max-w-3xl">
+        De zomer van 2026 staat voor de deur — en met temperaturen die volgens de KNMI-verwachting weer boven het gemiddelde uitkomen, is dit hét moment om je huis en tuin zomerklaar te maken. We hebben <strong>{totalItems} koopgidsen</strong> verzameld voor alles wat je deze zomer nodig hebt: van de beste barbecue tot een stille airco, van een ijsmachine tot een robotgrasmaaier. Alle links verwijzen naar Amazon NL — met de tag <em>kieskeukennl-21</em> steun je deze site zonder extra kosten.
+      </p>
+    </div>
+
+    <!-- QUICK NAV -->
+    <nav class="bg-[#f8f5f0] p-5 rounded mb-12" aria-label="Inhoudsopgave">
+      <p class="text-sm font-semibold uppercase tracking-[0.1em] text-muted mb-3">📋 Wat zoek je?</p>
+      <div class="flex flex-wrap gap-3">
+        {summerCategories.map(cat => (
+          <a href={`#${cat.id}`} class="px-3 py-1.5 bg-white border border-[#e8e1d7] rounded text-sm font-medium text-leaf hover:bg-leaf hover:text-white transition-colors">
+            {cat.label} ({cat.items.length})
+          </a>
+        ))}
+      </div>
+    </nav>
+
+    <!-- CATEGORY SECTIONS -->
+    {summerCategories.map(cat => (
+      <section id={cat.id} class="mb-14">
+        <h2 class="text-3xl font-serif font-semibold mb-3 border-b pb-2">{cat.label}</h2>
+        <p class="text-muted mb-6 leading-relaxed">{cat.intro}</p>
+        {cat.items.length > 0 ? (
+          <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+            {cat.items.map(r => (
+              <a href={`/${r.data.slug}/`} class="block p-4 border border-[#e8e1d7] rounded hover:border-leaf hover:shadow-md transition-all bg-white group">
+                <span class="text-sm font-medium text-leaf group-hover:underline">{r.data.title}</span>
+                {r.data.featuredProduct && (
+                  <p class="text-xs text-muted mt-1">Top pick: {r.data.featuredProduct}</p>
+                )}
+                <div class="flex items-center gap-3 mt-2.5 text-xs text-muted">
+                  <span>⭐ {r.data.rating}</span>
+                  <span>{r.data.priceRange}</span>
+                  <span class="ml-auto text-xs font-medium text-leaf bg-[#f3faf7] px-2 py-0.5 rounded">Bekijk →</span>
+                </div>
+              </a>
+            ))}
+          </div>
+        ) : (
+          <p class="text-sm text-muted italic">Nog geen reviews in deze categorie — wordt binnenkort toegevoegd.</p>
+        )}
+      </section>
+    ))}
+
+    <!-- ZOMER CHECKLIST -->
+    <section class="mb-12 bg-[#f0f7f4] border border-[#c5dbcc] rounded-lg p-8">
+      <h2 class="text-2xl font-serif font-semibold mb-4">📝 Zomer Checklist: Wat Heb Je Nodig?</h2>
+      <p class="text-muted mb-6">Niet elk huishouden heeft alles nodig. Gebruik deze checklist om te bepalen wat voor jouw zomer essentieel is:</p>
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-4 text-sm">
+        <div class="space-y-2">
+          <p class="font-semibold">☀️ Must-have (iedere zomer)</p>
+          <ul class="space-y-1 text-muted list-disc list-inside">
+            <li><strong>Ventilator of airco</strong> — voor warme nachten (zie onze <a href="/beste-ventilator-2026/" class="text-leaf underline">ventilatorgids</a>)</li>
+            <li><strong>Barbecue of elektrische grill</strong> — voor zwoele avonden</li>
+            <li><strong>IJsmachine</strong> — voor eigen schepijs zonder toevoegingen</li>
+          </ul>
+        </div>
+        <div class="space-y-2">
+          <p class="font-semibold">🌿 Nice-to-have (met tuin/balkon)</p>
+          <ul class="space-y-1 text-muted list-disc list-inside">
+            <li><strong>Robotgrasmaaier</strong> — automatisch gemaaid gras, elke dag</li>
+            <li><strong>Tuinverwarming</strong> — voor lange avonden buiten</li>
+            <li><strong>Hogedrukreiniger</strong> — terras en tuinmeubels stralend schoon</li>
+            <li><strong>Bruiswaterapparaat</strong> — eindeloos bruiswater zonder plastic flessen</li>
+          </ul>
+        </div>
+        <div class="space-y-2">
+          <p class="font-semibold">🏠 Binnen comfort</p>
+          <ul class="space-y-1 text-muted list-disc list-inside">
+            <li><strong>Luchtreiniger</strong> — filtert pollen en zomerstof</li>
+            <li><strong>Ontvochtiger</strong> — tegen dat plakkerige zomergevoel</li>
+            <li><strong>Luchtbevochtiger</strong> — voor airco-droge lucht</li>
+          </ul>
+        </div>
+        <div class="space-y-2">
+          <p class="font-semibold">🍳 Buiten koken</p>
+          <ul class="space-y-1 text-muted list-disc list-inside">
+            <li><strong>Pizza-oven</strong> — restaurantpizza's uit eigen tuin</li>
+            <li><strong>Gourmetstel</strong> — gezellig tafelen met het hele gezin</li>
+            <li><strong>Elektrische grill</strong> — voor op het balkon zonder rookoverlast</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <!-- BUDGET TIPS -->
+    <section class="mb-12 p-8 bg-[#f8f5f0] rounded">
+      <h2 class="text-2xl font-serif font-semibold mb-4">💰 Zomer Budget Tips</h2>
+      <div class="space-y-4 text-sm text-muted leading-relaxed">
+        <p>
+          <strong class="text-leaf">1. Koop airco's in het voorjaar.</strong> In mei en begin juni zijn airconditioners nog redelijk geprijsd. In juli en augustus, tijdens een hittegolf, schieten de prijzen omhoog en zijn populaire modellen vaak uitverkocht. Wacht niet tot het 30 graden is.
+        </p>
+        <p>
+          <strong class="text-leaf">2. Barbecues zijn het goedkoopst in augustus-september.</strong> Aan het einde van het zomerseizoen dumpen winkels hun voorraad. Als je geduld hebt, bespaar je 30-50% op een high-end gasbarbecue.
+        </p>
+        <p>
+          <strong class="text-leaf">3. Vergelijk energieverbruik bij koelapparaten.</strong> Een mobiele airco kan €50-100 per maand aan stroom kosten bij dagelijks gebruik. Een plafondventilator kost €2-5 per maand. Kies bewust wat je écht nodig hebt — onze reviews geven eerlijke energie-inschattingen.
+        </p>
+        <p>
+          <strong class="text-leaf">4. Check of je in aanmerking komt voor btw-teruggave op zonnepanelen.</strong> Combineer je zomerapparaten met een energiezuinige mindset — een airco op zonnestroom is in 2026 een serieuze besparing. Bekijk ook onze <a href="/energiezuinige-apparaten/" class="underline">energiezuinige apparaten gids</a>.
+        </p>
+        <p>
+          <strong class="text-leaf">5. Amazon Prime Day (juli).</strong> De jaarlijkse Prime Day is hét moment voor kortingen op airfryers, airco's, robotstofzuigers en koffiemachines. Houd onze pagina's in de gaten — we updaten prijzen regelmatig.
+        </p>
+      </div>
+    </section>
+
+    <!-- CTA -->
+    <div class="mt-10 p-6 bg-leaf text-white rounded-lg text-center">
+      <p class="text-lg font-semibold mb-2">🌞 Klaar voor de zomer?</p>
+      <p class="text-sm opacity-90 mb-4 max-w-2xl mx-auto">
+        Blader door onze {totalItems} zomerreviews en vind de perfecte apparaten voor jouw zomer. Alle links verwijzen naar Amazon NL — jij betaalt niets extra, wij ontvangen een kleine commissie. Tag: kieskeukennl-21.
+      </p>
+      <div class="flex flex-wrap justify-center gap-3">
+        <a href="/categorie/tuin/" class="inline-block px-5 py-2 bg-white text-leaf rounded font-medium hover:bg-[#f0ead6] transition-colors">Tuinapparaten →</a>
+        <a href="/categorie/huishoudelijk/" class="inline-block px-5 py-2 bg-white text-leaf rounded font-medium hover:bg-[#f0ead6] transition-colors">Huishoudelijke apparaten →</a>
+        <a href="/budget/" class="inline-block px-5 py-2 bg-white text-leaf rounded font-medium hover:bg-[#f0ead6] transition-colors">Budget onder €100 →</a>
+      </div>
+    </div>
+
+    <!-- SCHEMA -->
+    <script type="application/ld+json" set:html={JSON.stringify({
+      '@context': 'https://schema.org',
+      '@type': 'Article',
+      'headline': 'Zomer Apparaten 2026 — Beste Keuzes voor Barbecue, Airco, Tuin & Meer',
+      'description': 'Ontdek de beste apparaten voor zomer 2026: barbecues, airconditioners, ventilatoren, ijsmachines, tuingereedschap en meer.',
+      'author': { '@type': 'Organization', 'name': 'Beste Apparaten' },
+      'publisher': { '@type': 'Organization', 'name': 'Beste Apparaten', 'url': 'https://rigbay.github.io/dutch-appliances/' },
+      'datePublished': '2026-06-06',
+      'dateModified': '2026-06-06',
+      'mainEntityOfPage': { '@type': 'WebPage', '@id': 'https://rigbay.github.io/dutch-appliances/zomer-apparaten/' }
+    })} />
+
+  </div>
+</BaseLayout>
