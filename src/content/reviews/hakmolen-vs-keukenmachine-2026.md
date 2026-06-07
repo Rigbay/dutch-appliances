@@ -72,7 +72,6 @@ related:
   - beste-handmixer-2026
   - beste-blender-2026
   - blender-vs-staafmixer-vs-keukenmachine-2026
-  - handmixer-vs-keukenmachine-2026
 draft: false
 ---
 
