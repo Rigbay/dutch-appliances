@@ -158,3 +158,9 @@ Een cirkelzaag heeft een zwaardere motor, een groter en duurder zaagblad, en com
 ### Kan ik met een cirkelzaag ook metaal zagen?
 Ja, met het juiste zaagblad (carbide-getipt voor non-ferro metalen, of een speciaal metaalzaagblad) zaag je aluminium, koper en dun staal. Gebruik altijd een lagere snelheid, smeerolie, en draag gehoor- en oogbescherming. Dik staal (>3mm) is een klus voor de slijptol.
 
+## Gerelateerde artikelen
+
+- [Beste cirkelzaag 2026: handcirkelzagen, tafelcirkelzagen en afkortzagen](/reviews/beste-cirkelzaag-2026/)
+- [Beste decoupeerzaag 2026: de ultieme gids voor figuurzagen](/reviews/beste-decoupeerzaag-2026/)
+- [Beste bosmaaier 2026: borstmaaier, bosmaaier op accu en benzine vergeleken](/reviews/beste-bosmaaier-2026/)
+- [Beste haakse slijper 2026: doorslijpen, slijpen en polijsten](/reviews/beste-haakse-slijper-2026/)

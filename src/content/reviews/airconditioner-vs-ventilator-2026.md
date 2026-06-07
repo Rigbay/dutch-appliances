@@ -164,3 +164,9 @@ Een gemiddelde mobiele airco verbruikt 0.8-1.5 kWh per uur. Bij EUR 0,35 per kWh
 ### Kan ik een airco gebruiken zonder raamafvoer?
 Nee — een mobiele airco móet warme lucht naar buiten afvoeren via een slang. Zonder afvoer blaast hij de warme lucht terug de kamer in, wat averechts werkt. Er zijn wel 'luchtkoelers' (met waterreservoir) die zonder slang werken, maar die koelen minder effectief. Lees onze [luchtkoeler vs airco vergelijking](/airconditioner-vs-luchtkoeler-2026/) voor het verschil.
 
+## Gerelateerde artikelen
+
+- [Beste airconditioner 2026: koopgids voor mobiele en split-unit airco's](/reviews/beste-airconditioner-2026/)
+- [Airconditioner vs luchtkoeler: welke past bij jouw situatie?](/reviews/airconditioner-vs-luchtkoeler-2026/)
+- [Beste ventilator 2026: plafond, tafel, toren en vloerventilatoren vergeleken](/reviews/beste-ventilator-2026/)
+- [Beste elektrische kachel 2026: efficiënt verwarmen zonder gas](/reviews/beste-elektrische-kachel-2026/)
