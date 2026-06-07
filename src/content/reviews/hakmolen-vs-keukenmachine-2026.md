@@ -160,3 +160,9 @@ Waarschijnlijk niet. Eén keer per week bakken rechtvaardigt geen uitgave van EU
 ### Welke hakmolen is het beste voor kleine keukens?
 De Kenwood CHP60 (EUR 25-35) is de kleinste elektrische optie: 400ml kom, past in elke la. Nog kleiner: de FACKELMANN Draaiknijper (EUR 10-15) is handmatig, heeft geen stroom nodig en is 12 cm hoog. Perfect voor campers, studentenkamers of mini-keukens.
 
+## Gerelateerde artikelen
+
+- [Beste keukenmachine 2026: kneed, klop en mix als een professionele bakker](/reviews/beste-keukenmachine-2026/)
+- [Beste hakmolen 2026: uien, noten en kruiden in seconden fijn](/reviews/beste-hakmolen-2026/)
+- [Beste blender 2026: smoothies, sauzen en soepen in één apparaat](/reviews/beste-blender-2026/)
+- [Beste staafmixer 2026: soepen pureren en sauzen mixen direct in de pan](/reviews/beste-staafmixer-2026/)
