@@ -71,6 +71,7 @@ products:
   rating: 4.1
   affiliateLink: https://www.amazon.nl/s?k=Klarbi+verkoeler+S1&tag=kieskeukennl-21
 related:
+  - airconditioner-vs-ventilator-2026
 - beste-airconditioner-2026
 - beste-luchtbevochtiger-2026
 - beste-luchtreiniger-2026
