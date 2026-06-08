@@ -1,0 +1,110 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ArticleCard from '../../components/ArticleCard.astro';
+
+const allReviews = await getCollection('reviews', ({ data }) => !data.draft);
+
+const categories = [
+  {
+    id: 'keuken',
+    label: 'Keukenapparaten',
+    emoji: '🍳',
+    desc: 'Airfryers, koffiemachines, waterkokers, mixers en alles wat je aanrecht kracht geeft.',
+    reviews: allReviews.filter(r => r.data.category === 'keuken').sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf()),
+    topSlugs: ['beste-airfryer-2026', 'beste-koffiemachine-2026', 'beste-waterkoker-2026', 'beste-magnetron-2026']
+  },
+  {
+    id: 'schoonmaken',
+    label: 'Schoonmaken & Stofzuigen',
+    emoji: '🧹',
+    desc: 'Stofzuigers, robotstofzuigers, steelstofzuigers, dweilrobots en meer.',
+    reviews: allReviews.filter(r => r.data.category === 'schoonmaken').sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf()),
+    topSlugs: ['beste-stofzuiger-2026', 'beste-robotstofzuiger-2026', 'beste-draadloze-stofzuiger-2026', 'beste-steelstofzuiger-2026']
+  },
+  {
+    id: 'huishoudelijk',
+    label: 'Huishoudelijk',
+    emoji: '🏠',
+    desc: 'Wasapparaten, airconditioners, strijkijzers en praktische dagelijkse helpers.',
+    reviews: allReviews.filter(r => r.data.category === 'huishoudelijk').sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf()),
+    topSlugs: ['beste-wasmachine-2026', 'beste-airconditioner-2026', 'beste-strijkijzer-2026', 'beste-vaatwasser-2026']
+  },
+  {
+    id: 'tuin',
+    label: 'Tuin & Buiten',
+    emoji: '🌿',
+    desc: 'Grasmaaiers, barbecues, tuinverlichting, terrasverwarmers en tuingereedschap.',
+    reviews: allReviews.filter(r => r.data.category === 'tuin').sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf()),
+    topSlugs: ['beste-grasmaaier-2026', 'beste-barbecue-2026', 'beste-hogedrukreiniger-2026', 'beste-robotgrasmaaier-2026']
+  }
+];
+
+const slugMap = new Map(allReviews.map(r => [r.data.slug, r]));
+const totalArticles = allReviews.length;
+---
+
+<BaseLayout
+  title="Apparaten per categorie — Keuken, Schoonmaken, Huishoudelijk & Tuin | Beste Apparaten"
+  description="Blader door onze {totalArticles} koopgidsen per categorie: keukenapparaten, schoonmaken, huishoudelijk en tuin. Vind snel de beste airfryer, stofzuiger, wasmachine of grasmaaier."
+  canonicalUrl="https://rigbay.github.io/dutch-appliances/categorie/"
+>
+  <section class="mx-auto max-w-6xl px-4 py-12 sm:px-6 lg:px-8">
+    <p class="text-sm font-bold uppercase tracking-[0.16em] text-leaf">Navigatie</p>
+    <h1 class="mt-3 font-serif text-4xl font-semibold text-ink sm:text-5xl">
+      Apparaten per categorie
+    </h1>
+    <p class="mt-4 max-w-3xl text-lg leading-8 text-muted">
+      {totalArticles} koopgidsen verdeeld over vier categorieën. Klik op een categorie voor de volledige lijst of ga direct naar de populairste gidsen.
+    </p>
+
+    <!-- Quick nav pills -->
+    <nav class="mt-8 flex flex-wrap gap-2" aria-label="Categorie navigatie">
+      {categories.map(cat => (
+        <a href={`/categorie/${cat.id}/`} class="rounded border border-[#dfe8e5] px-4 py-2 text-sm font-semibold text-leaf hover:bg-[#edf4f2] transition">
+          {cat.emoji} {cat.label} ({cat.reviews.length})
+        </a>
+      ))}
+    </nav>
+  </section>
+
+  <!-- Per-category sections -->
+  {categories.map(cat => (
+    <section class="mx-auto max-w-6xl px-4 py-8 sm:px-6 lg:px-8 border-t border-[#e8e1d7]">
+      <div class="flex flex-wrap items-baseline justify-between gap-4 mb-6">
+        <div>
+          <p class="text-sm font-bold uppercase tracking-[0.16em] text-leaf">{cat.emoji} {cat.label}</p>
+          <h2 class="mt-2 font-serif text-3xl font-semibold text-ink">
+            {cat.label} ({cat.reviews.length} gidsen)
+          </h2>
+          <p class="mt-2 text-muted">{cat.desc}</p>
+        </div>
+        <a href={`/categorie/${cat.id}/`} class="rounded border border-leaf px-4 py-2 text-sm font-semibold text-leaf hover:bg-leaf hover:text-white transition">
+          Bekijk alle {cat.reviews.length} →
+        </a>
+      </div>
+
+      <!-- Top picks grid -->
+      <div class="grid gap-5 md:grid-cols-2 lg:grid-cols-4">
+        {cat.topSlugs.map(slug => {
+          const article = slugMap.get(slug);
+          if (!article) return null;
+          return <ArticleCard article={article} />;
+        })}
+      </div>
+    </section>
+  ))}
+
+  <!-- SEO footer -->
+  <section class="mx-auto max-w-6xl px-4 py-10 sm:px-6 lg:px-8 border-t border-[#e8e1d7]">
+    <div class="max-w-3xl rounded bg-linen p-6">
+      <h2 class="font-serif text-2xl font-semibold text-ink">Waarom per categorie?</h2>
+      <p class="mt-3 text-muted leading-relaxed">
+        Onze {totalArticles} koopgidsen zijn geordend in vier hoofdcategorieën zodat je snel vindt wat je zoekt. Keukenapparaten voor alles wat met koken te maken heeft, Schoonmaken voor stofzuigers en reinigers, Huishoudelijk voor wasapparaten en klimaatbeheersing, en Tuin voor alles wat buiten leeft.
+      </p>
+      <p class="mt-3 text-muted">
+        <a href="/vergelijk/" class="font-semibold text-leaf hover:text-[#1f514b]">Of bekijk het volledige vergelijkingsoverzicht →</a>
+      </p>
+    </div>
+  </section>
+</BaseLayout>
