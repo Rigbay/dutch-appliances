@@ -1,7 +1,7 @@
 ---
 title: 'Gasbarbecue vs. Houtskoolbarbecue 2026: Wat Past Bij Jouw Situatie?'
 slug: gasbarbecue-vs-houtskoolbarbecue-2026
-description: Gasbarbecue vs. Houtskoolbarbecue 2026 vergeleken: prijs, gebruiksgemak, prestaties en verborgen nadelen. Eerlijke keuzehulp met Amazon NL affiliate links (kieskeukennl-21).
+description: 'Gasbarbecue vs. Houtskoolbarbecue 2026 vergeleken: prijs, gebruiksgemak, prestaties en verborgen nadelen. Eerlijke keuzehulp met Amazon NL affiliate links (kieskeukennl-21).'
 category: tuin
 rating: 4.5
 priceRange: EUR 50-2000

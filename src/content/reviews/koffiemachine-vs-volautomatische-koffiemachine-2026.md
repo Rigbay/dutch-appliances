@@ -6,9 +6,9 @@ category: keuken
 rating: 4.5
 priceRange: EUR 120-2500
 pros:
-- Helder overzicht van alle koffietypes: cups, pads, filter én bonen
-- Van budget tot luxe volautomaat, elk budget meegenomen
-- Eerlijke vergelijking op smaak, gemak en kosten per kopje
+  - 'Helder overzicht van alle koffietypes: cups, pads, filter en bonen'
+  - Van budget tot luxe volautomaat, elk budget meegenomen
+  - Eerlijke vergelijking op smaak, gemak en kosten per kopje
 cons:
 - Prijzen wisselen per aanbieding, check altijd de actuele deal
 - Smaak blijft persoonlijk — probeer als het kan eerst zelf
