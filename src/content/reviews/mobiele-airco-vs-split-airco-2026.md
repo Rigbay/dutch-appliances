@@ -1,7 +1,7 @@
 ---
 title: 'Mobiele Airco vs. Split-Unit Airco 2026: Wat Past Bij Jouw Situatie?'
 slug: mobiele-airco-vs-split-airco-2026
-description: Mobiele Airco vs. Split-Unit Airco 2026 vergeleken: prijs, gebruiksgemak, prestaties en verborgen nadelen. Eerlijke keuzehulp met Amazon NL affiliate links (kieskeukennl-21).
+description: 'Mobiele Airco vs. Split-Unit Airco 2026 vergeleken: prijs, gebruiksgemak, prestaties en verborgen nadelen. Eerlijke keuzehulp met Amazon NL affiliate links (kieskeukennl-21).'
 category: huishoudelijk
 rating: 4.5
 priceRange: EUR 150-2500
