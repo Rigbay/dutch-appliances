@@ -212,7 +212,7 @@ Na grondige analyse en vergelijking van diverse modellen, presenteren we hier on
 | Princess 102060         | 25-40 EUR    | Verwarmingselement   | Studenten, starters, budgetbewust   | 1-3 kopjes            | Zeer betaalbaar, eenvoudig, compact                                        | Beperkte functionaliteit, minder consistent, basale warmhoudfunctie       |
 | Yum Asia Bamboo         | 90-130 EUR   | Inductie (IH)        | Aziatische keukenliefhebbers       | 3-5 kopjes            | IH, speciale programma's, stijlvol, goede prijs voor IH                  | Capaciteit kan beperkt zijn, minder programma's dan topmodellen          |
 | Severin RK 7020         | 30-45 EUR    | Verwarmingselement   | Kleine keukens, 1-2 personen       | 1-2 kopjes            | Zeer compact, betaalbaar, voor kleine porties                              | Beperkte capaciteit, basale technologie, minder programma's               |
-| Russell Hobbs 26750-56  | 35-50 EUR    | Verwarmingselement   | Beginners, instapmodel             | 2-4 kopjes            | Eenvoudig, goede prijs, modern design, vaatwasmachinebestendige pan     | Basale technologie, minder consistent met diverse rijstsoorten            |
+| Russell Hobbs 26750-56  | 35-50 EUR    | Verwarmingselement   | Beginners, instapmodel             | 2-4 kopjes            | Eenvoudig, goede prijs, modern design, vaatwasmachinebestendige pan     | Basale technologie, minder consistent met diverse rijstsoorten            |  [onze 'beste ijsmachine 2026: 7 modellen voor zelfgemaakt roomijs en sorbet'](/dutch-appliances/beste-ijsmachine-2026/)
 
 ## Veelgestelde Vragen (FAQ)
 

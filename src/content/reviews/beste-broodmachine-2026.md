@@ -213,7 +213,7 @@ Voor de avontuurlijke thuisbakker die graag experimenteert met verschillende soo
 | Kenwood BM580              | 90 - 130    | Stijlvolle keuken, goede balans                 | 4.0         |
 | Severin BM 3995            | 60 - 85     | Kleine keuken, compacte oplossing                | 4.0         |
 | Inventum BM810             | 55 - 80     | Absolute beginner                               | 3.5         |
-| Gastroback 40964           | 120 - 160   | Avontuurlijke bakker, veel programma's          | 4.5         |
+| Gastroback 40964           | 120 - 160   | Avontuurlijke bakker, veel programma's          | 4.5         |  [onze 'beste pastamachine 2026: 5 pastamachines voor verse pasta thuis'](/dutch-appliances/beste-pastamachine-2026/)
 
 ## Advies: Welke Broodbakmachine Kies Je?
 

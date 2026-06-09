@@ -133,8 +133,7 @@ Niets is zo frustrerend als een heerlijke maaltijd die wordt overschaduwd door e
 ### 5. Formaat en capaciteit
 Hier ligt de grootste beperking van de traditionele airfryer en de kracht van de oven.
 
-*   **De Airfryer:** Zelfs de grootste XXL-modellen houden bij een capaciteit van zo'n 2 tot 3 kilo (of circa 7 tot 10 liter) wel op. Voor een gezin van vier personen is dit vaak net voldoende voor een eenpansgerecht, maar het gelijktijdig bereiden van verschillende componenten (bijvoorbeeld vlees, aardappelen én groenten) is passen en meten. Daarnaast slokt het apparaat kostbare ruimte op je aanrecht op.
-*   **De Oven:** Met een capaciteit van 70 liter of meer kun je moeiteloos meerdere bakplaten tegelijkertijd gebruiken. Een driegangendiner voor acht personen schuif je probleemloos in één keer naar binnen. De oven is netjes weggewerkt in de keukenwand, wat zorgt voor een opgeruimd aanrecht.
+*   **De Airfryer:** Zelfs de grootste XXL-modellen houden bij een capaciteit van zo'n 2 tot 3 kilo (of circa 7 tot 10 liter) wel op. Voor een gezin van vier personen is dit vaak net voldoende voor een eenpansgerecht, maar het gelijktijdig bereiden van verschillende componenten (bijvoorbeeld vlees, aardappelen én groenten) is passen en meten. Daarnaast slokt het apparaat kostbare ruimte op je aanrecht op. *   **De Oven:** Met een capaciteit van 70 liter of meer kun je moeiteloos meerdere bakplaten tegelijkertijd gebruiken. Een driegangendiner voor acht personen schuif je probleemloos in één keer naar binnen. De oven is netjes weggewerkt in de keukenwand, wat zorgt voor een opgeruimd aanrecht.  [onze 'airfryer vs. magnetron 2026: welke is beter voor jouw keuken?'](/dutch-appliances/airfryer-vs-magnetron-2026/)
 
 **Winnaar:** *Oven*
 

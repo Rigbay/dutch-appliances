@@ -125,10 +125,7 @@ Een traditionele oven (elektrisch) verbruikt 2-3 kWh. Een magnetron verbruikt me
 
 ## 🏠 Welke past bij jouw huishouden?
 
-- **Al wonen of kamerstudent:** een combimagnetron is meestal voldoende (opwarmen, eenvoudige maaltijden, kleine porties).
-- **Gezin met kinderen:** een oven is onmisbaar. Kinderen willen pizza's, koekjes, schotel-gerechten — de oven doet dat betrouwbaar.
-- **Gastronomie-geek:** overweeg een combimagnetron met grill- en heteluchtfunctie voor de flexibiliteit van twee in één.
-- **Budget beperkt:** een losse magnetron (EUR 50-150) + een kleine oven (EUR 150-300) kost vaak minder dan een goede combimagnetron.
+- **Al wonen of kamerstudent:** een combimagnetron is meestal voldoende (opwarmen, eenvoudige maaltijden, kleine porties).  [onze 'beste oven-magnetron combi 2026: 2-in-1 apparaat voor kleine keukens'](/dutch-appliances/beste-oven-magnetron-combi-2026/) - **Gezin met kinderen:** een oven is onmisbaar. Kinderen willen pizza's, koekjes, schotel-gerechten — de oven doet dat betrouwbaar. - **Gastronomie-geek:** overweeg een combimagnetron met grill- en heteluchtfunctie voor de flexibiliteit van twee in één. - **Budget beperkt:** een losse magnetron (EUR 50-150) + een kleine oven (EUR 150-300) kost vaak minder dan een goede combimagnetron.
 
 ---
 

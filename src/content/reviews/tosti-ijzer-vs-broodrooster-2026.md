@@ -113,7 +113,7 @@ De ster van deze prijsklasse is de **Tefal Snack Collection SW854D** (EUR 65-90)
 | **Capaciteit** | 2-4 driehoekige tosti's tegelijk | 2-4 sneetjes tegelijk |
 | **Extra functies** | Verwisselbare platen (wafels, grill) | Ontdooien, bagel-stand, opwarmen, broodjesrek |
 | **Prijsrange** | EUR 15-180 | EUR 15-120 |
-| **Beste voor** | Hartige lunches, warme snacks | Snel ontbijt, geroosterd brood |
+| **Beste voor** | Hartige lunches, warme snacks | Snel ontbijt, geroosterd brood |  [onze 'beste yoghurtmaker 2026: 5 yoghurtmakers voor zelfgemaakte yoghurt'](/dutch-appliances/beste-yoghurtmaker-2026/)
 
 ## Wanneer Kies Je een Tosti-ijzer?
 

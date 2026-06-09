@@ -164,3 +164,4 @@ Ja, met het juiste zaagblad (carbide-getipt voor non-ferro metalen, of een speci
 - [Beste decoupeerzaag 2026: de ultieme gids voor figuurzagen](/beste-decoupeerzaag-2026/)
 - [Beste bosmaaier 2026: borstmaaier, bosmaaier op accu en benzine vergeleken](/beste-bosmaaier-2026/)
 - [Beste haakse slijper 2026: doorslijpen, slijpen en polijsten](/beste-haakse-slijper-2026/)
+  [onze 'beste decoupeerzaag 2026: welke figuurzaag zaagt strak en precies?'](/dutch-appliances/beste-decoupeerzaag-2026/)

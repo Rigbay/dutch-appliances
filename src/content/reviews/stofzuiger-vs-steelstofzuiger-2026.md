@@ -139,7 +139,7 @@ Niet elk huishouden heeft dezelfde stofzuiger nodig. We zetten de aanbevelingen 
 | Eengezinswoning (100-150 m², gemengd) | Traditioneel of high-end steelstofzuiger | Groter oppervlak vraagt om batterijduur of snoer |
 | Grote woning (>150 m², veel tapijt) | Traditionele stofzuiger | Consistent vermogen over grote oppervlakken |
 | Huishouden met huisdieren | Traditioneel (met zak) | Betere filtratie en harenopname — zie ook [haren stofzuigers](/beste-stofzuiger-tegen-dierenharen-2026/) |
-| Minimalistisch / snel schoonmaken | Steelstofzuiger | Dagelijkse kleine beurten zonder gedoe |
+| Minimalistisch / snel schoonmaken | Steelstofzuiger | Dagelijkse kleine beurten zonder gedoe |  [onze 'robotstofzuiger vs steelstofzuiger 2026: welke past het beste bij jouw huishouden?'](/dutch-appliances/robotstofzuiger-vs-steelstofzuiger-2026/)
 
 **Winnaar:** *Afhankelijk van woningtype*
 

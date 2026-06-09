@@ -112,3 +112,4 @@ Een braadpan is een van de weinige keukenproducten waarbij 'duur' vaak 'beter' b
 - [Airfryer vs. Oven 2026: Welke is echt gezonder en zuiniger?](/airfryer-vs-oven-2026/)
 - [Beste afzuigkap 2026: Schone keukenlucht voor elk huishouden](/beste-afzuigkap-2026/)
 - [Beste airfryer 2026: welke heteluchtfriteuse past bij jouw keuken?](/beste-airfryer-2026/)
+  [onze 'inductie vs. keramische kookplaat 2026: snelheid vs. budget — wat past bij](/dutch-appliances/inductie-vs-keramisch-2026/)

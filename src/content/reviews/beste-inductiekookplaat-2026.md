@@ -177,7 +177,7 @@ De specificaties op papier vertellen niet het hele verhaal. Er zijn diverse 'onz
 | Etna Inductie (bv. WI562IN) | 4 | 7.2 | 300-500 | Budgetbewust, starter op inductie | 4.3 | [Amazon.nl](https://www.amazon.nl/s?k=Etna+Inductie&tag=kieskeukennl-21) |
 | Inventum IKG6015 | 4 | 6.0 | 200-300 | Zeer budgetbewust, extra kookzone | 4.0 | [Amazon.nl](https://www.amazon.nl/s?k=Inventum+IKG6015&tag=kieskeukennl-21) |
 | Tefal Everyday Induction (D) | 1 (draagbaar) | 2.0 | 70-100 | Studenten, camper, tijdelijke oplossing | 4.2 | [Amazon.nl](https://www.amazon.nl/s?k=Tefal+Everyday+Induction&tag=kieskeukennl-21) |
-| Miele KM 7464 FR (voorbeeld) | 4 (flexzones) | 7.3 | 1200-1600 | Premium, hoogwaardige afwerking, lange levensduur | 4.9 | (Niet standaard in tabel wegens hogere prijsklasse) |
+| Miele KM 7464 FR (voorbeeld) | 4 (flexzones) | 7.3 | 1200-1600 | Premium, hoogwaardige afwerking, lange levensduur | 4.9 | (Niet standaard in tabel wegens hogere prijsklasse) |  [onze 'beste broodmachine 2026: 7 modellen voor zelfgebakken brood thuis'](/dutch-appliances/beste-broodmachine-2026/)
 
 *(Let op: prijzen zijn indicatief en kunnen variëren. 'D' staat voor Draagbaar)*
 

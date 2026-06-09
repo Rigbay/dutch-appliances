@@ -115,7 +115,7 @@ De **Tefal Wok Excellence 30cm** is de beste allround wokpan voor thuis: antiaan
 
 De beste wokpan voor de meeste Nederlanders is de **Tefal Wok Excellence 30cm**: breed, antiaanbak en geschikt voor inductie. Wie op gas kookt en authentiek wil wokken, kiest de **De Buyer Wok 32cm**.
 
-*Dit artikel bevat affiliate links. Als je via deze links een aankoop doet, ontvangen wij een kleine commissie zonder extra kosten voor jou. Lees ook onze andere [keuken artikelen](/) en vergelijk meer keukenapparaten.*
+*Dit artikel bevat affiliate links. Als je via deze links een aankoop doet, ontvangen wij een kleine commissie zonder extra kosten voor jou. Lees ook onze andere [keuken artikelen](/) en vergelijk meer keukenapparaten.*  [onze 'beste keukenmes set 2026: kookmessen voor de thuiskok'](/dutch-appliances/beste-keukenmes-set-2026/)
 
 ## Gerelateerde artikelen
 

@@ -113,3 +113,4 @@ De beste vloerwisser hangt af van je vloertype en budget. Voor de meeste huishou
 - [beste-kruimeldief-2026](/beste-kruimeldief-2026/)
 - [Beste kruimeldief draadloos 2026: draadloze handstofzuiger voor snelle schoonmaak](/beste-kruimeldief-draadloos-2026/)
 - [Beste elektrische raamreinigers 2026: Streeploos schone ramen zonder moeite](/beste-raamreiniger-2026/)
+  [onze 'beste schoonmaakrobot 2026: stofzuigen en dweilen in één'](/dutch-appliances/beste-schoonmaakrobot-2026/)

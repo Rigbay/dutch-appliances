@@ -113,3 +113,4 @@ Een waterontharder is een investering die zich terugverdient door minder kalkaan
 - [Beste Elektrische Kachels 2026: Bijverwarming Zonder CV](/beste-elektrische-kachel-2026/)
 - [beste-fohn-2026](/beste-fohn-2026/)
 - [beste-luchtbevochtiger-2026](/beste-luchtbevochtiger-2026/)
+  [onze 'airconditioner vs. luchtkoeler 2026: welke houdt jouw huis koel deze zomer?'](/dutch-appliances/airconditioner-vs-luchtkoeler-2026/)
