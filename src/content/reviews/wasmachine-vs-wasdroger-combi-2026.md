@@ -119,8 +119,7 @@ De nieuwste wasdroogcombinaties met warmtepomp (zoals de Samsung Bespoke AI) zij
 
 ### 4. Droogprestaties en kledingzorg
 
-*   **Losse droger:** Warmtepompdrogers drogen op lage temperaturen (45-55°C) wat kleding aanzienlijk minder belast dan traditionele condensatie. Sensoren stoppen exact wanneer de was droog is — geen overdrogen of krimpen. Stoomfuncties verfrissen kleding en verminderen strijktijd. Voor fijne was er aparte rekken.
-*   **Wasdroogcombinatie:** Oudere modellen drogen heter (60-80°C) wat kleding harder belast en meer slijtage veroorzaakt. De moderne warmtepomp-combi's hebben dit probleem opgelost, maar de droogsensor is minder verfijnd dan bij een standalone droger. Resultaat: soms net niet droog, of juist oververhit.
+*   **Losse droger:** Warmtepompdrogers drogen op lage temperaturen (45-55°C) wat kleding aanzienlijk minder belast dan traditionele condensatie.  [onze 'condensdroger vs. warmtepompdroger 2026: welke wasdroger bespaart jouw geld?'](/dutch-appliances/condensdroger-vs-warmtepompdroger-2026/) Sensoren stoppen exact wanneer de was droog is — geen overdrogen of krimpen. Stoomfuncties verfrissen kleding en verminderen strijktijd. Voor fijne was er aparte rekken. *   **Wasdroogcombinatie:** Oudere modellen drogen heter (60-80°C) wat kleding harder belast en meer slijtage veroorzaakt. De moderne warmtepomp-combi's hebben dit probleem opgelost, maar de droogsensor is minder verfijnd dan bij een standalone droger. Resultaat: soms net niet droog, of juist oververhit.
 
 **Winnaar:** *Losse droger*
 

@@ -111,3 +111,4 @@ De beste schoonmaakrobot van 2026 is de **Roborock Qrevo Curv** — hij combinee
 - [beste-kruimeldief-2026](/beste-kruimeldief-2026/)
 - [Beste kruimeldief draadloos 2026: draadloze handstofzuiger voor snelle schoonmaak](/beste-kruimeldief-draadloos-2026/)
 - [Beste elektrische raamreinigers 2026: Streeploos schone ramen zonder moeite](/beste-raamreiniger-2026/)
+  [onze 'beste vloerwisser 2026: dweil zonder emmer voor harde vloeren'](/dutch-appliances/beste-vloerwisser-2026/)

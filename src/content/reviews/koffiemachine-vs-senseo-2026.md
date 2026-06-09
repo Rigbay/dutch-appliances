@@ -132,7 +132,7 @@ Geen discussie mogelijk: versgemalen bonen zetten de beste koffie. Het verschil 
 | **Philips Senseo Select CSA240/60** | Pads | 1-2 tegelijk | 70-100 | Gezinnen, meer functies | 4.3 |
 | **Moccamaster KBG Select Filter**| Filter | 10 kopjes/kan | 200-260 | Filterkoffie puristen | 4.7 |
 | **Melitta Caffeo Solo & Milk**| Volautomaat | 1-2 tegelijk | 330-430 | Compacte volautomaat met melk | 4.5 |
-| **Krups Nespresso Inissia XN1005** | Capsules | 1 tegelijk | 70-100 | Gemak, espressoliefhebbers | 4.4 |
+| **Krups Nespresso Inissia XN1005** | Capsules | 1 tegelijk | 70-100 | Gemak, espressoliefhebbers | 4.4 |  [onze 'espresso vs. filterkoffie 2026: welke zetmethode past bij jouw smaak?'](/dutch-appliances/espresso-vs-filterkoffie-2026/)
 
 ## Conclusie: Welke Koffiezetter Past bij Jou?
 

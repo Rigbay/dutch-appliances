@@ -73,7 +73,7 @@ related:
 draft: false
 ---
 
-Een goede pizza oven kiezen in 2026 is makkelijker met een helder overzicht. onze [oven magnetron combi gids](/beste-oven-magnetron-combi-2026/). onze [oven magnetron gids](/oven-vs-magnetron-2026/). Dit vergelijk helpt je de juiste keuze te maken.
+Een goede pizza oven kiezen in 2026 is makkelijker met een helder overzicht. onze [oven magnetron combi gids](/beste-oven-magnetron-combi-2026/). onze [oven magnetron gids](/oven-vs-magnetron-2026/). Dit vergelijk helpt je de juiste keuze te maken.  [onze 'beste pastamachine 2026: 5 pastamachines voor verse pasta thuis'](/dutch-appliances/beste-pastamachine-2026/)
 
 De **Ooni Koda 16** is de beste keuze voor serieuze pizzabakkers. Voor binnen kies je de **Gourmet Maxx Pizzarette**.
 

@@ -131,7 +131,7 @@ De meeste draadloze stofzuigers laden in 3-5 uur volledig op. Houd hier rekening
 | **Samsung Bespoke Jet VS20A95923W**| 60 min | 0.50 | 550-700 | Slimme huizen, alles-in-één | 4.6 |
 | **Miele Triflex HX2 Cat & Dog**| 60 min | 0.40 | 450-600 | Huisdieren, traplopen | 4.5 |
 | **Rowenta X-Force Flex 14.60**| 45 min | 0.55 | 200-320 | Budget, onder meubels | 4.3 |
-| **Black+Decker PowerSeries Extreme 18V**| 35 min | 0.50 | 100-160 | Budget, kleine appartementen | 4.0 |
+| **Black+Decker PowerSeries Extreme 18V**| 35 min | 0.50 | 100-160 | Budget, kleine appartementen | 4.0 |  [onze 'robotstofzuiger vs steelstofzuiger 2026: welke past het beste bij jouw huishouden?'](/dutch-appliances/robotstofzuiger-vs-steelstofzuiger-2026/)
 
 ## Conclusie: Draadloos Stofzuigen is Volwassen
 

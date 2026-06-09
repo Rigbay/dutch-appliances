@@ -84,12 +84,8 @@ Winnaar: *Gelijkspel – beide zijn onmisbaar voor hun primaire functie.*
 In 2026 is energiezuinigheid belangrijker dan ooit, zowel voor de portemonnee als het milieu.
 
 *   **Wasmachine:**
-    *   **Voordelen:** Moderne wasmachines (vanaf energielabel A) zijn zeer efficiënt, met een gemiddeld verbruik van 40-50 kWh per 100 cycli. Koud wassen of lage temperaturen besparen aanzienlijk.
-    *   **Nadelen:** Warm water programma's verbruiken meer energie. Waterverbruik is ook een factor (gemiddeld 40-50 liter per wasbeurt).
-*   **Wasdroger (Warmtepompdroger):**
-    *   **Voordelen:** Warmtepompdrogers (energielabel A+++) zijn de meest energiezuinige optie, met een gemiddeld verbruik van 150-200 kWh per 100 cycli. Hergebruiken warme lucht.
-    *   **Nadelen:** Condensdrogers en afvoerdrogers verbruiken aanzienlijk meer energie (300-500+ kWh/100 cycli), wat leidt tot hogere operationele kosten en een grotere ecologische voetafdruk.
-Winnaar: *Wasmachine (mits energiezuinig gebruikt) voor de laagste absolute impact, maar warmtepompdrogers zijn de winnaar binnen de droogcategorie.*
+    *   **Voordelen:** Moderne wasmachines (vanaf energielabel A) zijn zeer efficiënt, met een gemiddeld verbruik van 40-50 kWh per 100 cycli. Koud wassen of lage temperaturen besparen aanzienlijk. *   **Nadelen:** Warm water programma's verbruiken meer energie. Waterverbruik is ook een factor (gemiddeld 40-50 liter per wasbeurt). *   **Wasdroger (Warmtepompdroger):**
+    *   **Voordelen:** Warmtepompdrogers (energielabel A+++) zijn de meest energiezuinige optie, met een gemiddeld verbruik van 150-200 kWh per 100 cycli.  [onze 'wasmachine + aparte droger vs. wasdroogcombinatie 2026: wat is voordeliger?'](/dutch-appliances/wasmachine-vs-wasdroger-combi-2026/) Hergebruiken warme lucht. *   **Nadelen:** Condensdrogers en afvoerdrogers verbruiken aanzienlijk meer energie (300-500+ kWh/100 cycli), wat leidt tot hogere operationele kosten en een grotere ecologische voetafdruk. Winnaar: *Wasmachine (mits energiezuinig gebruikt) voor de laagste absolute impact, maar warmtepompdrogers zijn de winnaar binnen de droogcategorie.*
 
 ### 3. Aanschafprijs & Totale Kosten
 De initiële investering versus de kosten gedurende de levensduur.

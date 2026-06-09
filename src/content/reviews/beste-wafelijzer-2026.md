@@ -228,7 +228,7 @@ De Russell Hobbs 23820-56 is speciaal ontworpen om de perfecte Amerikaanse wafel
 | Lacor 69180                 | 40-60       | Luikse wafels                 | Specifiek voor Luikse wafels, karamelisatie | Minder geschikt voor andere wafels        | Beste voor Luikse wafels, authentieke smaak     |
 | Severin WK 3455             | 35-50       | Compact, kleine keukens       | Compact formaat, ruimtebesparend            | Kleinere bakplaten                        | Beste compact, ideaal voor kleine ruimtes       |
 | Tristar WA-2431             | 25-35       | Instap, beginners             | Betaalbaar, gebruiksvriendelijk             | Antiaanbaklaag minder duurzaam            | Beste instap, perfect voor beginners            |
-| Russell Hobbs 23820-56      | 50-70       | Amerikaanse wafels            | Specifiek voor Amerikaanse wafels, textuur | Minder geschikt voor andere wafels        | Beste voor Amerikaanse wafels, luchtige textuur |
+| Russell Hobbs 23820-56      | 50-70       | Amerikaanse wafels            | Specifiek voor Amerikaanse wafels, textuur | Minder geschikt voor andere wafels        | Beste voor Amerikaanse wafels, luchtige textuur |  [onze 'beste broodmachine 2026: 7 modellen voor zelfgebakken brood thuis'](/dutch-appliances/beste-broodmachine-2026/)
 
 ## Veelgestelde Vragen (FAQ)
 

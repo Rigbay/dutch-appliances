@@ -161,8 +161,7 @@ Dat hangt af van jouw situatie. Slaap je slecht bij warmte, wordt je huis >28°C
 ### Hoeveel stroom verbruikt een airco per uur?
 Een gemiddelde mobiele airco verbruikt 0.8-1.5 kWh per uur. Bij EUR 0,35 per kWh kost dat EUR 0,28-0,53 per uur. Een ventilator verbruikt 0.015-0.05 kWh per uur — EUR 0,005-0,018 per uur. Draai je de airco 8 uur per dag, 30 dagen per maand, dan kost dat EUR 67-127 per maand.
 
-### Kan ik een airco gebruiken zonder raamafvoer?
-Nee — een mobiele airco móet warme lucht naar buiten afvoeren via een slang. Zonder afvoer blaast hij de warme lucht terug de kamer in, wat averechts werkt. Er zijn wel 'luchtkoelers' (met waterreservoir) die zonder slang werken, maar die koelen minder effectief. Lees onze [luchtkoeler vs airco vergelijking](/airconditioner-vs-luchtkoeler-2026/) voor het verschil.
+### Kan ik een airco gebruiken zonder raamafvoer? Nee — een mobiele airco móet warme lucht naar buiten afvoeren via een slang. Zonder afvoer blaast hij de warme lucht terug de kamer in, wat averechts werkt. Er zijn wel 'luchtkoelers' (met waterreservoir) die zonder slang werken, maar die koelen minder effectief. Lees onze [luchtkoeler vs airco vergelijking](/airconditioner-vs-luchtkoeler-2026/) voor het verschil.  [onze 'beste persoonsweegschaal 2026: slimme weegschalen voor gewicht, spiermassa](/dutch-appliances/beste-persoonsweegschaal-2026/)
 
 ## Gerelateerde artikelen
 

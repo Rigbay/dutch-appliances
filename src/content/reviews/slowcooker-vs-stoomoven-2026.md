@@ -142,7 +142,7 @@ Stoomovens komen in twee smaken: vrijstaand (zoals de Miele DG 2740, 20L, past o
 | **Bosch Serie 8 CSG656BS7** | Stoomoven (inbouw) | 1000-1400 | 10-60 min | 45L | Uitmuntend | Inbouwkeukens, dagelijkse stoom | 4.7 |
 | **Miele DG 2740** | Stoomoven (vrijstaand) | 600-900 | 10-60 min | 20L | Uitmuntend | Duurzaamheid, vrijstaand | 4.6 |
 | **Tefal Steam Oven VC5008** | Stoomoven (instap) | 150-250 | 10-60 min | 10L | Zeer goed | Budget, kennismaking stomen | 4.3 |
-| **Russell Hobbs Slowcooker 3.5L** | Slowcooker | 35-55 | 4-8 uur (passief) | 3.5L (1-2 pers.) | Goed | Singles, stellen, kleinschalig | 4.3 |
+| **Russell Hobbs Slowcooker 3.5L** | Slowcooker | 35-55 | 4-8 uur (passief) | 3.5L (1-2 pers.) | Goed | Singles, stellen, kleinschalig | 4.3 |  [onze 'inductie vs. keramische kookplaat 2026: snelheid vs. budget — wat past bij](/dutch-appliances/inductie-vs-keramisch-2026/)
 
 ## Conclusie: Slow Sudderen of Snel Stomen?
 

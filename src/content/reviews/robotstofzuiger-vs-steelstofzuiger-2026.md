@@ -80,12 +80,8 @@ Winnaar: *Robotstofzuiger (voor handsfree gemak)*
 
 ### 2. Schoonmaakprestaties & Resultaat
 *   **Robotstofzuiger:**
-    *   **Voordelen:** Regelmatige reiniging houdt de vloer constant schoon, effectief op harde vloeren en laagpolig tapijt. Geavanceerde navigatie zorgt voor systematische dekking. Dweilfuncties zijn sterk verbeterd in 2026.
-    *   **Nadelen:** Minder krachtig dan top-end steelstofzuigers, moeite met diepgeworteld vuil in hoogpolig tapijt, kan hoeken en randen missen. Reinigt niet verticaal (bijv. meubels).
-*   **Steelstofzuiger:**
-    *   **Voordelen:** Superieure zuigkracht voor dieptereiniging, uitstekend op alle vloertypes (inclusief hoogpolig tapijt), bereikt gemakkelijk hoeken en kieren met diverse opzetstukken. Kan ook meubels en plafonds reinigen.
-    *   **Nadelen:** De kwaliteit van het resultaat is direct afhankelijk van de gebruiker en de tijd die eraan wordt besteed.
-Winnaar: *Steelstofzuiger (voor dieptereiniging en veelzijdigheid)*
+    *   **Voordelen:** Regelmatige reiniging houdt de vloer constant schoon, effectief op harde vloeren en laagpolig tapijt. Geavanceerde navigatie zorgt voor systematische dekking. Dweilfuncties zijn sterk verbeterd in 2026. *   **Nadelen:** Minder krachtig dan top-end steelstofzuigers, moeite met diepgeworteld vuil in hoogpolig tapijt, kan hoeken en randen missen.  [onze 'stofzuiger vs. steelstofzuiger 2026: welke past bij jouw huishouden?'](/dutch-appliances/stofzuiger-vs-steelstofzuiger-2026/) Reinigt niet verticaal (bijv. meubels). *   **Steelstofzuiger:**
+    *   **Voordelen:** Superieure zuigkracht voor dieptereiniging, uitstekend op alle vloertypes (inclusief hoogpolig tapijt), bereikt gemakkelijk hoeken en kieren met diverse opzetstukken. Kan ook meubels en plafonds reinigen. *   **Nadelen:** De kwaliteit van het resultaat is direct afhankelijk van de gebruiker en de tijd die eraan wordt besteed. Winnaar: *Steelstofzuiger (voor dieptereiniging en veelzijdigheid)*
 
 ### 3. Prijs & Onderhoudskosten
 *   **Robotstofzuiger:**

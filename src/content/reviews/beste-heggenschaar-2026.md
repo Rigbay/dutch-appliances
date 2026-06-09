@@ -77,7 +77,7 @@ Of u nu een kleine buxushaag rondom uw voortuin wilt snoeien, of een meterslange
 
 *   Kies de **Bosch UniversalHedgeCut 60** als je een middelgrote tot grote tuin hebt met heggen van gemiddelde dikte: **uitstekende balans tussen kracht, gebruiksgemak en prijs, met een comfortabele ergonomie voor langdurig gebruik.**
 *   Kies de **STIHL HLA 65 (steelheggenschaar)** als je hoge of moeilijk bereikbare heggen hebt of als je rugklachten wilt voorkomen: **ongeëvenaarde flexibiliteit en bereik, met krachtige snoeiprestaties zonder de noodzaak van een ladder.**
-*   Kies de **Ryobi RHT5355RG** als je een beperkt budget hebt maar toch een betrouwbare elektrische heggenschaar zoekt voor incidenteel gebruik in een kleinere tuin: **buitengewoon scherpe prijs-kwaliteitverhouding en verrassend goede prestaties voor de prijsklasse.**
+*   Kies de **Ryobi RHT5355RG** als je een beperkt budget hebt maar toch een betrouwbare elektrische heggenschaar zoekt voor incidenteel gebruik in een kleinere tuin: **buitengewoon scherpe prijs-kwaliteitverhouding en verrassend goede prestaties voor de prijsklasse.**  [onze 'beste haakse slijper 2026: welke slijptol kies je voor metaal en steen?'](/dutch-appliances/beste-haakse-slijper-2026/)
 
 ## Beste keuze per budget
 

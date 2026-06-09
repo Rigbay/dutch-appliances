@@ -64,7 +64,7 @@ related:
 draft: false
 ---
 
-Zelf pasta maken is een van de meest lonende keukenvaardigheden. Het kost wat oefening, maar de smaak van verse pasta is niet te vergelijken met gedroogde pasta uit een pak. Met een goede pastamachine wordt het maken van tagliatelle, lasagnevellen of ravioli eenvoudig en ontspannend.
+Zelf pasta maken is een van de meest lonende keukenvaardigheden. Het kost wat oefening, maar de smaak van verse pasta is niet te vergelijken met gedroogde pasta uit een pak.  [onze 'beste pizza oven 2026: thuis pizza bakken als een pizzaiolo'](/dutch-appliances/beste-pizza-oven-2026/) Met een goede pastamachine wordt het maken van tagliatelle, lasagnevellen of ravioli eenvoudig en ontspannend.
 
 ## Snel advies
 

@@ -80,9 +80,7 @@ Het is eind mei, de terrassen stromen vol en de geur van barbecue hangt in de lu
 
 ## Snel Advies: Wat Past Bij Jouw Situatie?
 
-* **Voor serieuze grillers met een tuin:** **Weber Spirit II E-310**. Deze gasbarbecue is in 5 minuten klaar, heeft 3 onafhankelijke branders voor direct en indirect grillen, en de gietijzeren roosters geven die kenmerkende grillstrepen. Voor EUR 500-650 de beste allrounder voor gezinnen die élke week grillen.
-* **Voor balkon, appartement of kleine buitenruimte:** **Weber Q 1400**. Deze elektrische grill met gietijzeren roosters levert échte grillprestaties op een stopcontact — zonder rookoverlast voor de buren en zonder gedoe met gasflessen. EUR 230-280.
-* **Voor de smaakpurist:** **Kamado Joe Classic II**. Een keramische kamado die alles kan: 12 uur slow-cooken op 110°C, pizza bakken op 350°C, of een steak dichtschroeien op 400°C. EUR 900-1.200 en elke cent waard voor wie barbecueën als hobby ziet.
+* **Voor serieuze grillers met een tuin:** **Weber Spirit II E-310**. Deze gasbarbecue is in 5 minuten klaar, heeft 3 onafhankelijke branders voor direct en indirect grillen, en de gietijzeren roosters geven die kenmerkende grillstrepen.  [onze 'gasbarbecue vs. houtskoolbarbecue 2026: wat past bij jouw situatie?'](/dutch-appliances/gasbarbecue-vs-houtskoolbarbecue-2026/) Voor EUR 500-650 de beste allrounder voor gezinnen die élke week grillen. * **Voor balkon, appartement of kleine buitenruimte:** **Weber Q 1400**. Deze elektrische grill met gietijzeren roosters levert échte grillprestaties op een stopcontact — zonder rookoverlast voor de buren en zonder gedoe met gasflessen. EUR 230-280. * **Voor de smaakpurist:** **Kamado Joe Classic II**. Een keramische kamado die alles kan: 12 uur slow-cooken op 110°C, pizza bakken op 350°C, of een steak dichtschroeien op 400°C. EUR 900-1.200 en elke cent waard voor wie barbecueën als hobby ziet.
 
 ## Beste Keuze per Budget
 

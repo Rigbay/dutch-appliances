@@ -167,3 +167,4 @@ Nee — ook niet als de fabrikant 'vaatwasserbestendig' claimt. Het agressieve v
 - [Beste braadpan 2026: gietijzer, emaille en RVS voor stoof- en braadgerechten](/beste-braadpan-2026/)
 - [Beste bakplaat 2026: perfect voor pannenkoeken, vlees en vis](/beste-bakplaat-2026/)
 - [Beste inductiekookplaat 2026: snel, zuinig en veilig koken](/beste-inductiekookplaat-2026/)
+  [onze 'cirkelzaag vs. decoupeerzaag: welke zaag voor welke klus in 2026?'](/dutch-appliances/cirkelzaag-vs-decoupeerzaag-2026/)

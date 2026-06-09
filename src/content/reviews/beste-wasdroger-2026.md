@@ -156,7 +156,7 @@ Bij de aanschaf van een wasdroger, zeker als u overstapt van een ouder model of 
 | LG RH9052B2S Warmtepompdroger | 9 | A+++ | 900 | Energiebewust, snellere droogtijd, slimme inverter technologie | 4.6 |
 | AEG Serie 7000 T7DB7368P Warmtepompdroger | 8 | A++ | 850 | Delicate stoffen, goede prijs-kwaliteit in warmtepompsegment | 4.5 |
 | Samsung DV80TA020AE/EN OptimalDry Warmtepompdroger | 8 | A++ | 750 | Betrouwbaar, gebruiksvriendelijk, goede prijs-kwaliteit | 4.4 |
-| Beko DTKCE90W Condensdroger | 9 | B | 475 | Budgetkeuze, functioneel, lage initiële investering | 3.9 |
+| Beko DTKCE90W Condensdroger | 9 | B | 475 | Budgetkeuze, functioneel, lage initiële investering | 3.9 |  [onze 'condensdroger vs. warmtepompdroger 2026: welke wasdroger bespaart jouw geld?'](/dutch-appliances/condensdroger-vs-warmtepompdroger-2026/)
 
 *Let op: Prijzen zijn indicatief en kunnen variëren afhankelijk van de retailer en lopende aanbiedingen. Energieklassen kunnen per model licht verschillen.* 
 

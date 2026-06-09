@@ -71,9 +71,7 @@ De robotstofzuiger is in een paar jaar tijd van een speeltje naar een serieus hu
 
 ## Snel Advies: Apart of Gecombineerd?
 
-* **Voor wie maximaal gemak zoekt en een alles-in-één oplossing wil:** **Roborock S8 MaxV Ultra**. Dit vlaggenschip stofzuigt, dweilt met roterende mops, reinigt de mops automatisch met warm water, droogt ze met warme lucht, en leegt zichzelf in een stofzak. Je raakt 'm weken niet aan.
-* **Voor huishoudens die al een goede stofzuiger hebben en alleen willen automatiseren met dweilen:** **iRobot Braava Jet M6**. Deze pure dweilrobot navigeert met precisie, sproei geen water op meubels, en herkent elke kamer voor een gerichte schoonmaakbeurt.
-* **Voor prijsbewuste kopers die niet willen inleveren op features:** **eufy X10 Pro Omni**. Voor EUR 600-800 krijg je een combi met zelfreinigend dock — functies die tot voor kort EUR 1000+ kostten.
+* **Voor wie maximaal gemak zoekt en een alles-in-één oplossing wil:** **Roborock S8 MaxV Ultra**. Dit vlaggenschip stofzuigt, dweilt met roterende mops, reinigt de mops automatisch met warm water, droogt ze met warme lucht, en leegt zichzelf in een stofzak. Je raakt 'm weken niet aan. * **Voor huishoudens die al een goede stofzuiger hebben en alleen willen automatiseren met dweilen:** **iRobot Braava Jet M6**. Deze pure dweilrobot navigeert met precisie, sproei geen water op meubels, en herkent elke kamer voor een gerichte schoonmaakbeurt. * **Voor prijsbewuste kopers die niet willen inleveren op features:** **eufy X10 Pro Omni**. Voor EUR 600-800 krijg je een combi met zelfreinigend dock — functies die tot voor kort EUR 1000+ kostten.  [onze 'robotstofzuiger vs. gewone stofzuiger 2026: wat is slimmer voor jou?'](/dutch-appliances/robotstofzuiger-vs-stofzuiger-2026/)
 
 ## Beste Keuze per Budget
 

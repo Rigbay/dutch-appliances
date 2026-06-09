@@ -124,3 +124,4 @@ Of je nu gourmetten, pannenkoeken of een mixed grill wilt maken: de juiste bakpl
 - [Airfryer vs. Oven 2026: Welke is echt gezonder en zuiniger?](/airfryer-vs-oven-2026/)
 - [Beste afzuigkap 2026: Schone keukenlucht voor elk huishouden](/beste-afzuigkap-2026/)
 - [Beste airfryer 2026: welke heteluchtfriteuse past bij jouw keuken?](/beste-airfryer-2026/)
+  [onze 'beste pizza oven 2026: thuis pizza bakken als een pizzaiolo'](/dutch-appliances/beste-pizza-oven-2026/)

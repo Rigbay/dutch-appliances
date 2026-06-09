@@ -75,9 +75,7 @@ De markt voor tuinverwarming is anno 2026 veelzijdig, met opties variërend van 
 
 ## Snel advies
 
-*   **Voor de frequente gebruiker onder een overkapping:** Kies voor een elektrische infraroodheater met een hoog vermogen. Deze bieden directe en efficiënte warmte, zijn makkelijk te bedienen en stoten geen verbrandingsgassen uit.
-*   **Voor de flexibele genieter op een open terras:** Een staande gas terrasverwarmer is ideaal. Deze is mobiel, heeft een groot bereik en is onafhankelijk van stroompunten, hoewel gevoelig voor wind.
-*   **Voor de budgetbewuste of incidentele gebruiker:** Een compacte elektrische staande heater volstaat vaak al voor voldoende warmte op kleinere oppervlakken. Let hierbij wel op de weersbestendigheid.
+*   **Voor de frequente gebruiker onder een overkapping:** Kies voor een elektrische infraroodheater met een hoog vermogen.  [onze 'beste haakse slijper 2026: welke slijptol kies je voor metaal en steen?'](/dutch-appliances/beste-haakse-slijper-2026/) Deze bieden directe en efficiënte warmte, zijn makkelijk te bedienen en stoten geen verbrandingsgassen uit. *   **Voor de flexibele genieter op een open terras:** Een staande gas terrasverwarmer is ideaal. Deze is mobiel, heeft een groot bereik en is onafhankelijk van stroompunten, hoewel gevoelig voor wind. *   **Voor de budgetbewuste of incidentele gebruiker:** Een compacte elektrische staande heater volstaat vaak al voor voldoende warmte op kleinere oppervlakken. Let hierbij wel op de weersbestendigheid.
 
 ## Beste keuze per budget
 
