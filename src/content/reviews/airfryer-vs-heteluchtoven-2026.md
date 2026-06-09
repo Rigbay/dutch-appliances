@@ -7,9 +7,9 @@ category: keuken
 rating: 4.7
 priceRange: EUR 60-900
 pros:
-- Helder inzicht in het praktische verschil tussen airfryer en heteluchtoven
-- Energievergelijk: wat kost elk apparaat per maand?
-- Concreet advies: wanneer heb je beide nodig en wanneer is één genoeg?
+- 'Helder inzicht in het praktische verschil tussen airfryer en heteluchtoven'
+- 'Energievergelijk: wat kost elk apparaat per maand?'
+- 'Concreet advies: wanneer heb je beide nodig en wanneer is één genoeg?'
 cons:
 - Heteluchtovens met airfry-functie vervagen de grens tussen beide
 - Capaciteit blijft het belangrijkste onderscheid — airfryer schiet tekort voor grote maaltijden
