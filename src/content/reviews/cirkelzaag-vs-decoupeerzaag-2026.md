@@ -1,4 +1,5 @@
 ---
+
 title: 'Cirkelzaag vs. Decoupeerzaag: Welke Zaag Voor Welke Klus in 2026?'
 slug: cirkelzaag-vs-decoupeerzaag-2026
 description: 'Cirkelzaag of decoupeerzaag — of allebei? Vergelijk rechte zaagsnedes vs. bochten, materialen, precisie en de beste modellen voor elke klus.'
@@ -72,7 +73,17 @@ related:
   - beste-haakse-slijper-2026
   - beste-multitool-2026
 draft: false
+faq:
+- q: 'Kan een decoupeerzaag een cirkelzaag vervangen'
+  a: 'Voor incidentele rechte zaagsnedes in dun materiaal: ja, met een geleiderail of geklemde lat. Maar voor precisie, snelheid en dik materiaal (balken, platen >20mm) is een cirkelzaag onmisbaar. Een decoupeerzaag is niet gebouwd voor lange rechte snedes — het zaagblad kan afwijken en het duurt langer.'
+- q: 'Wat is het verschil tussen een pendelslag en een rechte slag bij een decoupeerzaag'
+  a: 'Pendelslag betekent dat het zaagblad niet alleen op-en-neer beweegt, maar ook iets naar voren kantelt bij de opgaande beweging. Dit zaagt sneller in zacht materiaal (hout, kunststof). Voor precisiewerk of metaal zet je de pendelslag uit — dan zaagt het blad exact verticaal.'
+- q: 'Waarom is een cirkelzaag duurder dan een decoupeerzaag'
+  a: 'Een cirkelzaag heeft een zwaardere motor, een groter en duurder zaagblad, en complexere veiligheidsmechanismen (spouwmes, beschermkap). Een decoupeerzaag is mechanisch eenvoudiger en gebruikt goedkopere zaagbladen. De prijs weerspiegelt de bouwkwaliteit.'
+- q: 'Kan ik met een cirkelzaag ook metaal zagen'
+  a: 'Ja, met het juiste zaagblad (carbide-getipt voor non-ferro metalen, of een speciaal metaalzaagblad) zaag je aluminium, koper en dun staal. Gebruik altijd een lagere snelheid, smeerolie, en draag gehoor- en oogbescherming. Dik staal (>3mm) is een klus voor de slijptol.'
 ---
+
 
 # Cirkelzaag vs. Decoupeerzaag: Welke Zaag Voor Welke Klus in 2026?
 
@@ -143,25 +154,3 @@ Een cirkelzaag is gevaarlijker: het zaagblad draait op hoge snelheid en is deels
 *   **Begin met een decoupeerzaag als** je meubels restaureert, uitsparingen moet maken (wastafel, stopcontacten), of niet-rechte vormen zaagt. De Einhell TC-JS 800/1 (EUR 40-60) is de betaalbare instap.
 
 *   **Koop ze allebei als** je een serieuze doe-het-zelver bent. Cirkelzaag + decoupeerzaag + [accuboormachine](/beste-accu-boormachine-2026/) = 90% van alle zaagklussen gedekt. Kies voor hetzelfde batterijplatform zodat je accus kunt uitwisselen.
-
-## Veelgestelde vragen
-
-### Kan een decoupeerzaag een cirkelzaag vervangen?
-Voor incidentele rechte zaagsnedes in dun materiaal: ja, met een geleiderail of geklemde lat. Maar voor precisie, snelheid en dik materiaal (balken, platen >20mm) is een cirkelzaag onmisbaar. Een decoupeerzaag is niet gebouwd voor lange rechte snedes — het zaagblad kan afwijken en het duurt langer.
-
-### Wat is het verschil tussen een pendelslag en een rechte slag bij een decoupeerzaag?
-Pendelslag betekent dat het zaagblad niet alleen op-en-neer beweegt, maar ook iets naar voren kantelt bij de opgaande beweging. Dit zaagt sneller in zacht materiaal (hout, kunststof). Voor precisiewerk of metaal zet je de pendelslag uit — dan zaagt het blad exact verticaal.
-
-### Waarom is een cirkelzaag duurder dan een decoupeerzaag?
-Een cirkelzaag heeft een zwaardere motor, een groter en duurder zaagblad, en complexere veiligheidsmechanismen (spouwmes, beschermkap). Een decoupeerzaag is mechanisch eenvoudiger en gebruikt goedkopere zaagbladen. De prijs weerspiegelt de bouwkwaliteit.
-
-### Kan ik met een cirkelzaag ook metaal zagen?
-Ja, met het juiste zaagblad (carbide-getipt voor non-ferro metalen, of een speciaal metaalzaagblad) zaag je aluminium, koper en dun staal. Gebruik altijd een lagere snelheid, smeerolie, en draag gehoor- en oogbescherming. Dik staal (>3mm) is een klus voor de slijptol.
-
-## Gerelateerde artikelen
-
-- [Beste cirkelzaag 2026: handcirkelzagen, tafelcirkelzagen en afkortzagen](/beste-cirkelzaag-2026/)
-- [Beste decoupeerzaag 2026: de ultieme gids voor figuurzagen](/beste-decoupeerzaag-2026/)
-- [Beste bosmaaier 2026: borstmaaier, bosmaaier op accu en benzine vergeleken](/beste-bosmaaier-2026/)
-- [Beste haakse slijper 2026: doorslijpen, slijpen en polijsten](/beste-haakse-slijper-2026/)
-  [onze 'beste decoupeerzaag 2026: welke figuurzaag zaagt strak en precies?'](/dutch-appliances/beste-decoupeerzaag-2026/)

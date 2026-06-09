@@ -1,4 +1,5 @@
 ---
+
 title: 'Airconditioner vs. Ventilator: Wat Heb Je Nodig Voor Verkoeling in 2026?'
 slug: airconditioner-vs-ventilator-2026
 description: 'Airco of ventilator voor de zomer? Vergelijk prijs, koelvermogen, energieverbruik en geluidsniveau. Maak de juiste keuze voor jouw huis.'
@@ -73,7 +74,15 @@ related:
   - beste-luchtreiniger-2026
   - beste-elektrische-kachel-2026
 draft: false
+faq:
+- q: 'Waarom koelt een ventilator mij wel, maar de kamer niet'
+  a: 'Een ventilator verplaatst lucht langs je huid, waardoor zweet sneller verdampt. Dit geeft een verkoelend gevoel op je lichaam, maar de luchttemperatuur in de kamer blijft hetzelfde. Een airco koelt daadwerkelijk de lucht in de ruimte. Daarom werkt een ventilator niet bij extreem hoge temperaturen (>'
+- q: 'Is een mobiele airco het geld waard vergeleken met een ventilator'
+  a: 'Dat hangt af van jouw situatie. Slaap je slecht bij warmte, wordt je huis >28°C in de zomer, en heb je EUR 450-600 over? Dan is een mobiele airco absoluut de investering waard. Voor milde warmte is een premium ventilator zoals de Duux Whisper Flex (EUR 130-180) een slimmere keuze — stiller, goedkope'
+- q: 'Hoeveel stroom verbruikt een airco per uur'
+  a: 'Een gemiddelde mobiele airco verbruikt 0.8-1.5 kWh per uur. Bij EUR 0,35 per kWh kost dat EUR 0,28-0,53 per uur. Een ventilator verbruikt 0.015-0.05 kWh per uur — EUR 0,005-0,018 per uur. Draai je de airco 8 uur per dag, 30 dagen per maand, dan kost dat EUR 67-127 per maand.'
 ---
+
 
 # Airconditioner vs. Ventilator: Wat Heb Je Nodig Voor Verkoeling in 2026?
 
@@ -149,23 +158,3 @@ Een airco onttrekt vocht aan de lucht — comfortabeler bij hoge luchtvochtighei
 *   **Investeer in een vaste split-unit airco als** je een koopwoning hebt en structureel last hebt van hitte. De investering is hoger (EUR 1500-3000 inclusief installatie) maar het comfort en de energie-efficiëntie zijn ongeëvenaard. Moderne modellen kunnen ook verwarmen — een airco als warmtepomp in de lente en herfst.
 
 *   **Combineer beide** voor maximale flexibiliteit: een stille ventilator voor milde zomerdagen, en een mobiele airco voor hittegolven. Zo beperk je het hoge stroomverbruik van de airco tot de dagen dat je hem écht nodig hebt.
-
-## Veelgestelde vragen
-
-### Waarom koelt een ventilator mij wel, maar de kamer niet?
-Een ventilator verplaatst lucht langs je huid, waardoor zweet sneller verdampt. Dit geeft een verkoelend gevoel op je lichaam, maar de luchttemperatuur in de kamer blijft hetzelfde. Een airco koelt daadwerkelijk de lucht in de ruimte. Daarom werkt een ventilator niet bij extreem hoge temperaturen (>30°C).
-
-### Is een mobiele airco het geld waard vergeleken met een ventilator?
-Dat hangt af van jouw situatie. Slaap je slecht bij warmte, wordt je huis >28°C in de zomer, en heb je EUR 450-600 over? Dan is een mobiele airco absoluut de investering waard. Voor milde warmte is een premium ventilator zoals de Duux Whisper Flex (EUR 130-180) een slimmere keuze — stiller, goedkoper in gebruik, en geen installatiegedoe.
-
-### Hoeveel stroom verbruikt een airco per uur?
-Een gemiddelde mobiele airco verbruikt 0.8-1.5 kWh per uur. Bij EUR 0,35 per kWh kost dat EUR 0,28-0,53 per uur. Een ventilator verbruikt 0.015-0.05 kWh per uur — EUR 0,005-0,018 per uur. Draai je de airco 8 uur per dag, 30 dagen per maand, dan kost dat EUR 67-127 per maand.
-
-### Kan ik een airco gebruiken zonder raamafvoer? Nee — een mobiele airco móet warme lucht naar buiten afvoeren via een slang. Zonder afvoer blaast hij de warme lucht terug de kamer in, wat averechts werkt. Er zijn wel 'luchtkoelers' (met waterreservoir) die zonder slang werken, maar die koelen minder effectief. Lees onze [luchtkoeler vs airco vergelijking](/airconditioner-vs-luchtkoeler-2026/) voor het verschil.  [onze 'beste persoonsweegschaal 2026: slimme weegschalen voor gewicht, spiermassa](/dutch-appliances/beste-persoonsweegschaal-2026/)
-
-## Gerelateerde artikelen
-
-- [Beste airconditioner 2026: koopgids voor mobiele en split-unit airco's](/beste-airconditioner-2026/)
-- [Airconditioner vs luchtkoeler: welke past bij jouw situatie?](/airconditioner-vs-luchtkoeler-2026/)
-- [Beste ventilator 2026: plafond, tafel, toren en vloerventilatoren vergeleken](/beste-ventilator-2026/)
-- [Beste elektrische kachel 2026: efficiënt verwarmen zonder gas](/beste-elektrische-kachel-2026/)
