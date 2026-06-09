@@ -7,7 +7,7 @@ category: keuken
 rating: 4.6
 priceRange: EUR 0-1200
 pros:
-- Compleet kostenoverzicht: wat kost afwassen met de hand vs vaatwasser over 5 jaar?
+- 'Compleet kostenoverzicht: wat kost afwassen met de hand vs vaatwasser over 5 jaar?'
 - Water- en energieverbruik eerlijk vergeleken met cijfers van Milieu Centraal
 - Praktisch advies voor singles, stellen en gezinnen
 cons:
@@ -55,6 +55,9 @@ products:
   affiliateLink: https://www.amazon.nl/s?k=Miele+G+5435+SCi+Jubilee+vaatwasser&tag=kieskeukennl-21
 related:
 - beste-vaatwasser-2026
+- keukenapparaten-koopgids
+- waterkoker-vs-quooker-2026
+- beste-koelkast-2026
 ---
 
 # Vaatwasser vs Handafwas 2026: Wat Is Goedkoper, Sneller en Hygiënischer?
