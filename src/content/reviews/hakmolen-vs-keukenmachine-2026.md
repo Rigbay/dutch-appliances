@@ -161,7 +161,7 @@ De Kenwood CHP60 (EUR 25-35) is de kleinste elektrische optie: 400ml kom, past i
 
 ## Gerelateerde artikelen
 
-- [Beste keukenmachine 2026: kneed, klop en mix als een professionele bakker](/reviews/beste-keukenmachine-2026/)
-- [Beste hakmolen 2026: uien, noten en kruiden in seconden fijn](/reviews/beste-hakmolen-2026/)
-- [Beste blender 2026: smoothies, sauzen en soepen in één apparaat](/reviews/beste-blender-2026/)
-- [Beste staafmixer 2026: soepen pureren en sauzen mixen direct in de pan](/reviews/beste-staafmixer-2026/)
+- [Beste keukenmachine 2026: kneed, klop en mix als een professionele bakker](/beste-keukenmachine-2026/)
+- [Beste hakmolen 2026: uien, noten en kruiden in seconden fijn](/beste-hakmolen-2026/)
+- [Beste blender 2026: smoothies, sauzen en soepen in één apparaat](/beste-blender-2026/)
+- [Beste staafmixer 2026: soepen pureren en sauzen mixen direct in de pan](/beste-staafmixer-2026/)
