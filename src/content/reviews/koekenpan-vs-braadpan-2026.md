@@ -163,7 +163,7 @@ Nee — ook niet als de fabrikant 'vaatwasserbestendig' claimt. Het agressieve v
 
 ## Gerelateerde artikelen
 
-- [Beste koekenpan 2026: anti-aanbak, RVS, gietijzer en keramisch vergeleken](/reviews/beste-koekenpan-2026/)
-- [Beste braadpan 2026: gietijzer, emaille en RVS voor stoof- en braadgerechten](/reviews/beste-braadpan-2026/)
-- [Beste bakplaat 2026: perfect voor pannenkoeken, vlees en vis](/reviews/beste-bakplaat-2026/)
-- [Beste inductiekookplaat 2026: snel, zuinig en veilig koken](/reviews/beste-inductiekookplaat-2026/)
+- [Beste koekenpan 2026: anti-aanbak, RVS, gietijzer en keramisch vergeleken](/beste-koekenpan-2026/)
+- [Beste braadpan 2026: gietijzer, emaille en RVS voor stoof- en braadgerechten](/beste-braadpan-2026/)
+- [Beste bakplaat 2026: perfect voor pannenkoeken, vlees en vis](/beste-bakplaat-2026/)
+- [Beste inductiekookplaat 2026: snel, zuinig en veilig koken](/beste-inductiekookplaat-2026/)

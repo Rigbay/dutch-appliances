@@ -144,7 +144,7 @@ Denk bij je keuze goed na over de factoren die voor jou het belangrijkst zijn: v
 
 ## Gerelateerde artikelen
 
-- [Beste elektrische kachel 2026: efficiënt verwarmen zonder gas](/reviews/beste-elektrische-kachel-2026/)
-- [Beste strijkijzer 2026: stoomgenerator vs traditioneel vergeleken](/reviews/beste-strijkijzer-2026/)
-- [Beste wasmachine 2026: koopgids voor elk budget en huishouden](/reviews/beste-wasmachine-2026/)
-- [Beste wasdroger 2026: warmtepomp vs condensdroger vergeleken](/reviews/beste-wasdroger-2026/)
+- [Beste elektrische kachel 2026: efficiënt verwarmen zonder gas](/beste-elektrische-kachel-2026/)
+- [Beste strijkijzer 2026: stoomgenerator vs traditioneel vergeleken](/beste-strijkijzer-2026/)
+- [Beste wasmachine 2026: koopgids voor elk budget en huishouden](/beste-wasmachine-2026/)
+- [Beste wasdroger 2026: warmtepomp vs condensdroger vergeleken](/beste-wasdroger-2026/)

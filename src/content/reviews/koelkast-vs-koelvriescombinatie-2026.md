@@ -166,7 +166,7 @@ Liebherr, Bosch, Siemens en Miele scoren consistent het hoogst op betrouwbaarhei
 
 ## Gerelateerde artikelen
 
-- [Beste koelkast 2026: tafelmodel, vrijstaand en Amerikaanse koelkasten](/reviews/beste-koelkast-2026/)
-- [Beste vriezer 2026: tafelmodel, kastmodel en NoFrost vriezers vergeleken](/reviews/beste-vriezer-2026/)
-- [Beste vaatwasser 2026: inbouw, vrijstaand en compact vergeleken](/reviews/beste-vaatwasser-2026/)
-- [Beste magnetron 2026: solo, combi en grill magnetrons voor elke keuken](/reviews/beste-magnetron-2026/)
+- [Beste koelkast 2026: tafelmodel, vrijstaand en Amerikaanse koelkasten](/beste-koelkast-2026/)
+- [Beste vriezer 2026: tafelmodel, kastmodel en NoFrost vriezers vergeleken](/beste-vriezer-2026/)
+- [Beste vaatwasser 2026: inbouw, vrijstaand en compact vergeleken](/beste-vaatwasser-2026/)
+- [Beste magnetron 2026: solo, combi en grill magnetrons voor elke keuken](/beste-magnetron-2026/)

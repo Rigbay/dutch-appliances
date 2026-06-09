@@ -159,7 +159,7 @@ De keuze voor een bruiswaterapparaat is in 2026 een slimme zet. Het bespaart je 
 
 ## Gerelateerde artikelen
 
-- [Beste blender 2026: smoothies, sauzen en soepen in één apparaat](/reviews/beste-blender-2026/)
-- [Beste waterkoker 2026: snel, zuinig en stijlvol](/reviews/beste-waterkoker-2026/)
-- [Beste sapcentrifuge 2026: vers sap op de juiste snelheid](/reviews/beste-sapcentrifuge-2026/)
-- [Beste citruspers 2026: elektrisch vs handmatig verse sinaasappelsap](/reviews/beste-citruspers-2026/)
+- [Beste blender 2026: smoothies, sauzen en soepen in één apparaat](/beste-blender-2026/)
+- [Beste waterkoker 2026: snel, zuinig en stijlvol](/beste-waterkoker-2026/)
+- [Beste sapcentrifuge 2026: vers sap op de juiste snelheid](/beste-sapcentrifuge-2026/)
+- [Beste citruspers 2026: elektrisch vs handmatig verse sinaasappelsap](/beste-citruspers-2026/)

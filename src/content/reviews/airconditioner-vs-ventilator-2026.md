@@ -166,7 +166,7 @@ Nee — een mobiele airco móet warme lucht naar buiten afvoeren via een slang. 
 
 ## Gerelateerde artikelen
 
-- [Beste airconditioner 2026: koopgids voor mobiele en split-unit airco's](/reviews/beste-airconditioner-2026/)
-- [Airconditioner vs luchtkoeler: welke past bij jouw situatie?](/reviews/airconditioner-vs-luchtkoeler-2026/)
-- [Beste ventilator 2026: plafond, tafel, toren en vloerventilatoren vergeleken](/reviews/beste-ventilator-2026/)
-- [Beste elektrische kachel 2026: efficiënt verwarmen zonder gas](/reviews/beste-elektrische-kachel-2026/)
+- [Beste airconditioner 2026: koopgids voor mobiele en split-unit airco's](/beste-airconditioner-2026/)
+- [Airconditioner vs luchtkoeler: welke past bij jouw situatie?](/airconditioner-vs-luchtkoeler-2026/)
+- [Beste ventilator 2026: plafond, tafel, toren en vloerventilatoren vergeleken](/beste-ventilator-2026/)
+- [Beste elektrische kachel 2026: efficiënt verwarmen zonder gas](/beste-elektrische-kachel-2026/)
