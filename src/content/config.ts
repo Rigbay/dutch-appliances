@@ -28,6 +28,10 @@ const reviews = defineCollection({
     readingTime: z.string(),
     products: z.array(productSchema).min(5),
     related: z.array(z.string()).min(2).max(6),
+    faq: z.array(z.object({
+      q: z.string(),
+      a: z.string()
+    })).min(3).max(6).optional(),
     draft: z.boolean().default(false)
   })
 });

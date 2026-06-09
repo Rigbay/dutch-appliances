@@ -1,4 +1,5 @@
 ---
+
 title: 'Koelkast vs. Koelkast-Vriezer Combinatie: Welke Past Bij Jouw Keuken in 2026?'
 slug: koelkast-vs-koelvriescombinatie-2026
 description: 'Twijfel je tussen een losse koelkast en een koelkast-vriezer combinatie? Vergelijk ruimte, energieverbruik, prijs en functionaliteit voor de beste keuze.'
@@ -72,7 +73,17 @@ related:
   - beste-keukenmachine-2026
   - beste-airfryer-2026
 draft: false
+faq:
+- q: 'Wat is het verschil tussen een koelkast en een koelvriescombinatie'
+  a: 'Een losse koelkast heeft alleen koelruimte (soms met een klein vriesvakje). Een koelvriescombinatie heeft een apart vriesgedeelte met een eigen deur, meestal 70/30 verdeeld tussen koelen en vriezen. Een combinatie bespaart ruimte, een losse koelkast geeft meer flexibiliteit.'
+- q: 'Is een koelvriescombinatie energiezuiniger dan een losse koelkast + vriezer'
+  a: 'Meestal wel. Omdat koelen en vriezen één gesloten systeem delen, is het energieverlies kleiner. Twee losse apparaten verbruiken samen vaak 15-25% meer stroom. Het precieze verschil hangt af van de energielabels van de specifieke modellen.'
+- q: 'Kan ik een losse vriezer naast een koelkast plaatsen'
+  a: 'Ja, dat kan. Let wel op ventilatieruimte: beide apparaten moeten hun warmte kwijt kunnen. Plaats ze niet strak tegen elkaar tenzij de fabrikant dat expliciet toestaat. Sommige merken bieden ''side-by-side'' sets aan die ontworpen zijn om naast elkaar te staan.'
+- q: 'Welke merken zijn het betrouwbaarst voor koelkasten'
+  a: 'Liebherr, Bosch, Siemens en Miele scoren consistent het hoogst op betrouwbaarheid en levensduur (12-18 jaar). Samsung en LG bieden meer innovatie en design, maar hebben een iets kortere gemiddelde levensduur (10-14 jaar). Alle genoemde merken geven minimaal 10 jaar garantie op de compressor.'
 ---
+
 
 # Koelkast vs. Koelkast-Vriezer Combinatie: Welke Past Bij Jouw Keuken in 2026?
 
@@ -149,24 +160,3 @@ Gaat je koelvriescombinatie stuk, dan ben je beide functies kwijt. Bij losse app
 *   **Kies een Amerikaanse koelkast als** je een grote keuken hebt, vaak gasten ontvangt, en luxe functies zoals een ijsdispenser en touchscreen waardeert. De Samsung RF9000 is dan de logische keuze.
 
 Twijfel je nog? Combineer deze pagina met onze [koelkast gids](/beste-koelkast-2026/) en [energiezuinige apparaten overzicht](/energiezuinige-apparaten/) voor een compleet beeld. Een koelkast koop je voor 12-18 jaar — neem de tijd om de juiste te kiezen.
-
-## Veelgestelde vragen
-
-### Wat is het verschil tussen een koelkast en een koelvriescombinatie?
-Een losse koelkast heeft alleen koelruimte (soms met een klein vriesvakje). Een koelvriescombinatie heeft een apart vriesgedeelte met een eigen deur, meestal 70/30 verdeeld tussen koelen en vriezen. Een combinatie bespaart ruimte, een losse koelkast geeft meer flexibiliteit.
-
-### Is een koelvriescombinatie energiezuiniger dan een losse koelkast + vriezer?
-Meestal wel. Omdat koelen en vriezen één gesloten systeem delen, is het energieverlies kleiner. Twee losse apparaten verbruiken samen vaak 15-25% meer stroom. Het precieze verschil hangt af van de energielabels van de specifieke modellen.
-
-### Kan ik een losse vriezer naast een koelkast plaatsen?
-Ja, dat kan. Let wel op ventilatieruimte: beide apparaten moeten hun warmte kwijt kunnen. Plaats ze niet strak tegen elkaar tenzij de fabrikant dat expliciet toestaat. Sommige merken bieden 'side-by-side' sets aan die ontworpen zijn om naast elkaar te staan.
-
-### Welke merken zijn het betrouwbaarst voor koelkasten?
-Liebherr, Bosch, Siemens en Miele scoren consistent het hoogst op betrouwbaarheid en levensduur (12-18 jaar). Samsung en LG bieden meer innovatie en design, maar hebben een iets kortere gemiddelde levensduur (10-14 jaar). Alle genoemde merken geven minimaal 10 jaar garantie op de compressor.
-
-## Gerelateerde artikelen
-
-- [Beste koelkast 2026: tafelmodel, vrijstaand en Amerikaanse koelkasten](/beste-koelkast-2026/)
-- [Beste vriezer 2026: tafelmodel, kastmodel en NoFrost vriezers vergeleken](/beste-vriezer-2026/)
-- [Beste vaatwasser 2026: inbouw, vrijstaand en compact vergeleken](/beste-vaatwasser-2026/)
-- [Beste magnetron 2026: solo, combi en grill magnetrons voor elke keuken](/beste-magnetron-2026/)

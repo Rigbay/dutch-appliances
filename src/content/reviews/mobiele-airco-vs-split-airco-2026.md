@@ -1,4 +1,5 @@
 ---
+
 title: 'Mobiele Airco vs. Split-Unit Airco 2026: Wat Past Bij Jouw Situatie?'
 slug: mobiele-airco-vs-split-airco-2026
 description: 'Mobiele Airco vs. Split-Unit Airco 2026 vergeleken: prijs, gebruiksgemak, prestaties en verborgen nadelen. Eerlijke keuzehulp met Amazon NL affiliate links (kieskeukennl-21).'
@@ -59,7 +60,40 @@ related:
 - beste-ventilator-2026
 - beste-luchtreiniger-2026
 - beste-ontvochtiger-2026
+faq:
+- q: 'luchtverplaatsing via een afvoerslang**. Een mobiele airco zuigt warme lucht uit de kamer, koelt die, en blaast de hitte via een slang naar buiten. Maar: het apparaat moet ook **nieuwe lucht aanzuigen** om te koelen. Die lucht komt uit de kamer zelf — wat onderdruk creëert. Via kieren en spleten stroomt er vervolgens weer **warme buitenlucht** naar binnen. Dit maakt mobiele airco''s fundamenteel **minder efficiënt** dan split-units.
+
+Andere nadelen:
+* **Lawaai**: een mobiele airco produceert 50-65 dB — vergelijkbaar met een vaatwasser. Slapen in dezelfde ruimte is voor veel mensen lastig
+* **Beperkt koelvermogen**: geschikt voor ruimtes tot 35-40 m², daarboven presteren ze ondermaats
+* **Condenswater**: bij hoge luchtvochtigheid moet je regelmatig een opvangreservoir legen — tot wel 5 liter per dag
+
+Winnaar: **Split-unit** — geen concurrentie van warme luchtinstroom
+
+### Is een split-unit airco echt zoveel zuiniger?
+
+Ja, en het verschil is fors. Een split-unit met **A+++ label** verbruikt gemiddeld **40-60% minder stroom** dan een mobiele airco met vergelijkbaar koelvermogen.
+
+Rekenvoorbeeld voor een zomer (500 koeluren):
+* **Mobiele airco (A-klasse, 12000 BTU)**: verbruik ~1,3 kWh per uur = 650 kWh = **€260 per zomer** (bij €0,40/kWh)
+* **Split-unit (A+++, 3,5 kW)**: verbruik ~0,55 kWh per uur = 275 kWh = **€110 per zomer'
+  a: '* **Besparing**: €150 per zomer
+
+Bij een meerprijs van €500-800 voor een split-unit is de terugverdientijd **3-5 zomers**. Tel daarbij de langere levensduur (15-20 jaar vs 5-8 jaar voor een mobiele airco) en het plaatje wordt nog gunstiger.
+
+Winnaar: **Split-unit** — op lange termijn duidelijk voord'
+- q: 'Wat is het grootste nadeel van een mobiele airco'
+  a: 'Het grootste nadeel is de **luchtverplaatsing via een afvoerslang**. Een mobiele airco zuigt warme lucht uit de kamer, koelt die, en blaast de hitte via een slang naar buiten. Maar: het apparaat moet ook **nieuwe lucht aanzuigen** om te koelen. Die lucht komt uit de kamer zelf — wat onderdruk creëer'
+- q: 'Is een split-unit airco echt zoveel zuiniger'
+  a: 'Ja, en het verschil is fors. Een split-unit met **A+++ label** verbruikt gemiddeld **40-60% minder stroom** dan een mobiele airco met vergelijkbaar koelvermogen.  Rekenvoorbeeld voor een zomer (500 koeluren): * **Mobiele airco (A-klasse, 12000 BTU)**: verbruik ~1,3 kWh per uur = 650 kWh = **€260 per'
+- q: 'Mag ik zelf een split-unit airco installeren'
+  a: '**Juridisch gezien: nee, tenzij je een STEK/F-gassen certificering hebt.** Split-units bevatten koudemiddelen (R32, R410A) die **broeikasgassen** zijn. De EU F-gassenverordening vereist dat alleen gecertificeerde installateurs deze systemen mogen installeren, onderhouden en afvoeren.  Wat je als doe'
+- q: 'Welke airco is het stilste voor in de slaapkamer'
+  a: 'Voor een slaapkamer is geluidsniveau doorslaggevend:  * **Split-unit (binnenunit)**: 18-25 dB in stille modus — fluisterstil, vergelijkbaar met bladergerits. De Daikin Perfera en Mitsubishi MSZ-AP modellen halen 19 dB en zijn de stilste op de markt * **Mobiele airco**: 50-65 dB — minimaal vergelijkb'
+- q: 'Kan een mobiele airco ook verwarmen'
+  a: 'Ja, veel moderne mobiele airco''s hebben een **warmtepompfunctie**. Dit zijn de zogenaamde **reversibele** modellen. Ze kunnen in de winter als bijverwarming dienen.  Let op de beperkingen: * **Rendement daalt bij kou**: onder 5°C buiten werkt de warmtepomp nauwelijks nog. Geschikt voor de **tussense'
 ---
+
 
 # Mobiele Airco vs. Split-Unit Airco 2026: Koelen Zonder Gedoe of Investeren in Comfort?
 
@@ -194,94 +228,3 @@ Bij KiesKeuken / Beste Apparaten selecteren we producten op basis van gebruikers
 * **De'Longhi Pinguino PAC N90** (EUR 400-550) — **Beste mobiele airco premium**: Dit is het vlaggenschip onder de mobiele airco's. Met A-energielabel, fluisterstille nachtmodus (48 dB), en een krachtig koelvermogen van 9.400 BTU is dit de beste keuze voor wie niet wil inleveren op comfort, maar geen split-unit kan of wil installeren. De ingebouwde condensverdamping voorkomt dat je een reservoir moet legen. * **AEG ChillFlex Pro 9000** (EUR 500-700) — **Beste mobiele airco allseason**: Naast krachtig koelen (12.000 BTU) kan deze airco ook **verwarmen** dankzij de warmtepompfunctie. Energieklasse A+, dual-hose optie (apart verkrijgbaar) voor hoger rendement, en app-bediening. Perfect voor wie één apparaat zoekt voor zomer én winter. * **Inventum MN207C** (EUR 200-300) — **Beste budget mobiele airco**: Voor kleine tot middelgrote kamers (tot 25 m²) is dit de beste prijs-kwaliteitverhouding. 7.000 BTU koelvermogen, energieklasse A, relatief compact (28 kg). Geen luxe functies zoals wifi, maar hij doet precies wat je verwacht: koelen. Minpunt: het geluidsniveau ligt rond 60 dB — in de slaapkamer niet ideaal. * **Daikin Perfera FTXM25R** (EUR 1.200-1.800) — **Beste split-unit premium**: Dit is de referentie in de airco-wereld. A+++ energielabel, wifi-bediening met app, 3D-luchtstroom voor gelijkmatige koeling, en een fluisterstille binnenunit (19 dB). Inclusief Flash Streamer-luchtzuivering die allergenen en virussen afbreekt. Verwarmt tot -20°C buitentemperatuur. Prijzig, maar na installatie vergeet je dat je ooit een ventilator gebruikte. * **Mitsubishi Electric MSZ-AP25VG** (EUR 900-1.400) — **Beste split-unit middenklasse**: Iets betaalbaarder dan de Daikin, maar met dezelfde hoge kwaliteit. A++ label, stille werking (19 dB), 3D i-see sensor die de kamertemperatuur meet en de luchtstroom automatisch aanpast.  [onze 'broodmachine vs. zelf brood bakken 2026: wat past bij jouw situatie?'](/dutch-appliances/broodmachine-vs-zelf-bakken-2026/) Verwarmt tot -15°C. Uitstekende prijs-kwaliteitverhouding.
 
 ---
-
-## Veelgestelde vragen (FAQ)
-
-### Wat is het grootste nadeel van een mobiele airco?
-
-Het grootste nadeel is de **luchtverplaatsing via een afvoerslang**. Een mobiele airco zuigt warme lucht uit de kamer, koelt die, en blaast de hitte via een slang naar buiten. Maar: het apparaat moet ook **nieuwe lucht aanzuigen** om te koelen. Die lucht komt uit de kamer zelf — wat onderdruk creëert. Via kieren en spleten stroomt er vervolgens weer **warme buitenlucht** naar binnen. Dit maakt mobiele airco's fundamenteel **minder efficiënt** dan split-units.
-
-Andere nadelen:
-* **Lawaai**: een mobiele airco produceert 50-65 dB — vergelijkbaar met een vaatwasser. Slapen in dezelfde ruimte is voor veel mensen lastig
-* **Beperkt koelvermogen**: geschikt voor ruimtes tot 35-40 m², daarboven presteren ze ondermaats
-* **Condenswater**: bij hoge luchtvochtigheid moet je regelmatig een opvangreservoir legen — tot wel 5 liter per dag
-
-Winnaar: **Split-unit** — geen concurrentie van warme luchtinstroom
-
-### Is een split-unit airco echt zoveel zuiniger?
-
-Ja, en het verschil is fors. Een split-unit met **A+++ label** verbruikt gemiddeld **40-60% minder stroom** dan een mobiele airco met vergelijkbaar koelvermogen.
-
-Rekenvoorbeeld voor een zomer (500 koeluren):
-* **Mobiele airco (A-klasse, 12000 BTU)**: verbruik ~1,3 kWh per uur = 650 kWh = **€260 per zomer** (bij €0,40/kWh)
-* **Split-unit (A+++, 3,5 kW)**: verbruik ~0,55 kWh per uur = 275 kWh = **€110 per zomer**
-* **Besparing**: €150 per zomer
-
-Bij een meerprijs van €500-800 voor een split-unit is de terugverdientijd **3-5 zomers**. Tel daarbij de langere levensduur (15-20 jaar vs 5-8 jaar voor een mobiele airco) en het plaatje wordt nog gunstiger.
-
-Winnaar: **Split-unit** — op lange termijn duidelijk voordeliger
-
-### Mag ik zelf een split-unit airco installeren?
-
-**Juridisch gezien: nee, tenzij je een STEK/F-gassen certificering hebt.** Split-units bevatten koudemiddelen (R32, R410A) die **broeikasgassen** zijn. De EU F-gassenverordening vereist dat alleen gecertificeerde installateurs deze systemen mogen installeren, onderhouden en afvoeren.
-
-Wat je als doe-het-zelver kunt doen:
-* De **buitenunit** plaatsen en bevestigen
-* Kabelgoten en doorvoeren voorbereiden
-* De elektrische aansluiting verzorgen (in overleg met een elektricien)
-
-Wat de installateur moet doen:
-* Het koelcircuit aansluiten en vullen
-* De installatie lektest en inbedrijfstelling
-* Registratie van het systeem
-
-De installatiekosten (€500-1.200) lijken hoog, maar dit is **geen plek om te besparen**. Een slecht geïnstalleerd systeem lekt, presteert slecht en kan gevaarlijk zijn.
-
-### Welke airco is het stilste voor in de slaapkamer?
-
-Voor een slaapkamer is geluidsniveau doorslaggevend:
-
-* **Split-unit (binnenunit)**: 18-25 dB in stille modus — fluisterstil, vergelijkbaar met bladergerits. De Daikin Perfera en Mitsubishi MSZ-AP modellen halen 19 dB en zijn de stilste op de markt
-* **Mobiele airco**: 50-65 dB — minimaal vergelijkbaar met een vaatwasser. De stilste mobiele modellen (De'Longhi Pinguino, AEG ChillFlex) komen niet onder 48 dB in nachtmodus
-
-Dit is **het grootste praktijkverschil** tussen beide systemen. Met een mobiele airco in dezelfde ruimte slapen is voor de meeste mensen oncomfortabel. Met een split-unit merk je nauwelijks dat hij aanstaat.
-
-Aanbeveling voor de slaapkamer:
-* **Split-unit met nachtmodus** (Daikin, Mitsubishi) — ideaal
-* **Mobiele airco alleen als je hem voor het slapengaan gebruikt** om de kamer te koelen, en daarna uitschakelt
-
-Winnaar: **Split-unit** — het verschil in geluidscomfort is enorm
-
-### Kan een mobiele airco ook verwarmen?
-
-Ja, veel moderne mobiele airco's hebben een **warmtepompfunctie**. Dit zijn de zogenaamde **reversibele** modellen. Ze kunnen in de winter als bijverwarming dienen.
-
-Let op de beperkingen:
-* **Rendement daalt bij kou**: onder 5°C buiten werkt de warmtepomp nauwelijks nog. Geschikt voor de **tussenseizoenen** (oktober, november, maart, april) — niet als hoofdverwarming in de winter
-* **Energieverbruik blijft hoog**: een mobiele airco-warmtepomp gebruikt 1,5-2x zoveel stroom als een vaste split-unit warmtepomp
-* **Niet alle modellen kunnen het**: check of de airco expliciet 'verwarmingsfunctie' of 'heat mode' vermeldt
-
-**Split-unit warmtepompen** daarentegen werken bij moderne modellen tot -15°C buitentemperatuur met goed rendement. Ze zijn volwaardige verwarmingsoplossingen en vervangen in veel gevallen een cv-ketel.
-
-### Hoeveel bespaar ik per jaar met een split-unit vs mobiele airco?
-
-Bij gemiddeld Nederlands gebruik (400-600 koeluren per zomer, plus eventueel bijverwarming in voor- en naseizoen):
-
-* **Alleen koelen**: €90-180 per zomer besparing
-* **Koelen + bijverwarming**: €200-400 per jaar besparing
-* **Levensduur**: split-units gaan 15-20 jaar mee vs 5-8 jaar voor mobiele airco's — over de levensduur scheelt dit €2.000-4.000
-
-De initiële investering is hoger (€1.500-3.000 voor split-unit met installatie vs €200-800 voor mobiel), maar verdeeld over de levensduur is een split-unit **per jaar goedkoper** én comfortabeler.
-
-Kortom: een split-unit is een **investering**, een mobiele airco is een **noodoplossing**.
-
----
-
-Alle genoemde producten zijn verkrijgbaar via **Amazon.nl**. Als je via onze links koopt, ontvangen wij een kleine commissie (**tag: kieskeukennl-21**) zonder extra kosten voor jou. Dit helpt ons om onafhankelijke reviews te blijven schrijven.
-
-Wil je meer weten? Bekijk dan ook onze andere airco-vergelijkingen:
-* [Airconditioner vs Luchtkoeler](/airconditioner-vs-luchtkoeler-2026/)
-* [Airconditioner vs Ventilator](/airconditioner-vs-ventilator-2026/)
-* [Beste Airconditioner 2026](/beste-airconditioner-2026/)
-
-Heb je nog vragen? Stuur ons gerust een bericht — we helpen je graag verder met het kiezen van de perfecte airco voor jouw situatie.
