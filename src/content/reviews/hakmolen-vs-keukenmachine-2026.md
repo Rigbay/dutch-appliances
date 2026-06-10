@@ -78,7 +78,7 @@ faq:
 - q: 'Kan een keukenmachine ook hakken zoals een hakmolen'
   a: 'Ja, de meeste keukenmachines hebben een hakmes-accessoire. Maar het is omslachtiger: de kom is groter, er zit meer afwas aan, en voor één uitje zet je niet snel de hele machine op. Een losse hakmolen is praktischer voor kleine porties. Heb je beide? Gebruik de hakmolen voor klein werk en de keukenma'
 - q: 'Wat is het verschil tussen een hakmolen en een staafmixer'
-  a: 'Een hakmolen heeft een kom met roterend mes — perfect voor droge ingrediënten (noten, uien, kruiden). Een staafmixer pureert direct in de pan — ideaal voor soepen, sauzen en smoothies. Ze vullen elkaar aan, niet vervangen. Lees ook onze [blender vs staafmixer vs keukenmachine](/blender-vs-staafmixer'
+  a: 'Een hakmolen heeft een kom met roterend mes — perfect voor droge ingrediënten (noten, uien, kruiden). Een staafmixer pureert direct in de pan — ideaal voor soepen, sauzen en smoothies. Ze vullen elkaar aan, niet vervangen. Lees ook onze [blender vs staafmixer vs keukenmachine](/blender-vs-staafmixer-vs-keukenmachine-2026/)
 - q: 'Is een dure keukenmachine het geld waard als ik maar één keer per week bak'
   a: 'Waarschijnlijk niet. Eén keer per week bakken rechtvaardigt geen uitgave van EUR 450-600. Een handmixer van EUR 40-50 kneedt deeg en klopt eiwit net zo goed voor dat soort gebruik. Pas bij 3+ keer per week bakken of koken voor grote groepen wordt een keukenmachine interessant.'
 - q: 'Welke hakmolen is het beste voor kleine keukens'
