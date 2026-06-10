@@ -67,7 +67,7 @@ draft: false
 
 Een goede accu boormachine kiezen in 2026 is makkelijker met een helder overzicht. Dit vergelijk helpt je de juiste keuze te maken.
 
-De **Bosch Professional GSR 18V-50** is de beste keuze. Voor lichte klussen kies je de **Makita DF331DS**.
+De **Bosch Professional GSR 18V-50** is de beste keuze. Voor lichte klussen kies je de **[Makita DF331DS](https://www.amazon.nl/s?k=Makita+DF331DS+accu+boormachine&tag=kieskeukennl-21)**.
 
 ## Snel advies
 
@@ -79,7 +79,7 @@ De **Bosch Professional GSR 18V-50** is de beste keuze. Voor lichte klussen kies
 
 ## Beste keuze per budget
 
-**Beste allround:** **Bosch Professional GSR 18V-50** (EUR EUR 120 tot 180). 18V, 50Nm, 2 versnellingen, 13mm boorkop, LED. Deelt accus met heel Professional systeem.
+**Beste allround:** **[Bosch Professional GSR 18V-50](https://www.amazon.nl/s?k=Bosch+Professional+GSR+18V+50&tag=kieskeukennl-21)** (EUR EUR 120 tot 180). 18V, 50Nm, 2 versnellingen, 13mm boorkop, LED. Deelt accus met heel Professional systeem.
 
 **Beste compact:** **Makita DF331DS** (EUR EUR 100 tot 140). 12V compact: 28Nm, 10mm boorkop, 800g. Perfect voor meubels.
 

@@ -93,7 +93,7 @@ De **Princess Gourmet 4-persoons** is de beste keuze voor de Nederlandse gourmet
 
 ## Beste keuze per budget
 
-**Beste gourmet:** **Princess Gourmet 4-persoons** (€40-60). Beste bakplaat 2026: 4-persoons gourmetbakplaat met 8 mini-pannetjes, anti-aanbak, regelbare temperatuur, 1200W. De klassieker voor Nederlandse gourmetavonden.
+**Beste gourmet:** **[Princess Gourmet 4-persoons](https://www.amazon.nl/s?k=Princess+Gourmet+4+persoons+bakplaat&tag=kieskeukennl-21)** (€40-60). Beste bakplaat 2026: 4-persoons gourmetbakplaat met 8 mini-pannetjes, anti-aanbak, regelbare temperatuur, 1200W. De klassieker voor Nederlandse gourmetavonden.
 
 **Beste automatisch:** **Tefal GC305D Optigrill** (€100-120). Automatische grill/bakplaat: 8 programma's, grill + bakplaat wisselplaten, temperatuursensor past zich aan dikte vlees aan. Rookarm.
 

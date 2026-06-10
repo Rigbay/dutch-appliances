@@ -88,7 +88,7 @@ De **BK Pro Inductie 7-delig** is de beste keuze. onze [inductiekookplaat gids](
 
 ## Beste keuze per budget
 
-**Beste allround:** **BK Pro Inductie 7-delig** (EUR EUR 150 tot 200). Rvs met aluminium kern, meerlaagse bodem, 7 delen, ovenbestendig 220C. Vaatwasserbestendig.
+**Beste allround:** **[BK Pro Inductie 7-delig](https://www.amazon.nl/s?k=BK+Pro+Inductie+7+delig&tag=kieskeukennl-21)** (EUR EUR 150 tot 200). Rvs met aluminium kern, meerlaagse bodem, 7 delen, ovenbestendig 220C. Vaatwasserbestendig.
 
 **Ruimtebesparend:** **Tefal Ingenio Black 10-delig** (EUR EUR 160 tot 220). Stapelbaar: 5 pannen + 5 deksels, titanium antiaanbak, verwisselbare handgreep.
 

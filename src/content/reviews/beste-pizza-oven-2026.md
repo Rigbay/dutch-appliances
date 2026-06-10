@@ -75,7 +75,7 @@ draft: false
 
 Een goede pizza oven kiezen in 2026 is makkelijker met een helder overzicht. onze [oven magnetron combi gids](/beste-oven-magnetron-combi-2026/). onze [oven magnetron gids](/oven-vs-magnetron-2026/). Dit vergelijk helpt je de juiste keuze te maken.  [onze 'beste pastamachine 2026: 5 pastamachines voor verse pasta thuis'](/dutch-appliances/beste-pastamachine-2026/)
 
-De **Ooni Koda 16** is de beste keuze voor serieuze pizzabakkers. Voor binnen kies je de **Gourmet Maxx Pizzarette**.
+De **Ooni Koda 16** is de beste keuze voor serieuze pizzabakkers. Voor binnen kies je de **[Gourmet Maxx Pizzarette](https://www.amazon.nl/s?k=Gourmet+Maxx+Pizzarette&tag=kieskeukennl-21)**.
 
 ## Snel advies
 
@@ -87,7 +87,7 @@ De **Ooni Koda 16** is de beste keuze voor serieuze pizzabakkers. Voor binnen ki
 
 ## Beste keuze per budget
 
-**Beste allround:** **Ooni Koda 16** (EUR EUR 500 tot 600). Gasgestookt, 500C, bakt 30cm pizza in 60s. Opvouwbaar, 4.2kg. Meest verkochte pizza-oven.
+**Beste allround:** **[Ooni Koda 16](https://www.amazon.nl/s?k=Ooni+Koda+16+pizza+oven&tag=kieskeukennl-21)** (EUR EUR 500 tot 600). Gasgestookt, 500C, bakt 30cm pizza in 60s. Opvouwbaar, 4.2kg. Meest verkochte pizza-oven.
 
 **Beste thuis:** **Gourmet Maxx Pizzarette** (EUR EUR 50 tot 80). Elektrisch voor binnen: bakt 4 mini pizza's tegelijk. 800W.
 

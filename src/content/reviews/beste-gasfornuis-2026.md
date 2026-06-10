@@ -93,7 +93,7 @@ Gas is minder populair dan 10 jaar geleden, maar voor de echte kookliefhebber is
 
 ## Beste keuze per budget
 
-**Beste allround:** **Etna GAS680ZVT** (€500-700). Beste gasfornuis 2026: 5-pits, thermokoppel beveiliging op alle pitten, gietijzeren roosters, 60cm inbouw.
+**Beste allround:** **[Etna GAS680ZVT](https://www.amazon.nl/s?k=Etna+GAS680ZVT+gasfornuis&tag=kieskeukennl-21)** (€500-700). Beste gasfornuis 2026: 5-pits, thermokoppel beveiliging op alle pitten, gietijzeren roosters, 60cm inbouw.
 
 **Beste AEG:** **AEG HGK854321M** (€400-550). 4-pits inbouw gasfornuis met wokbrander (4.5kW), vlamfalenbeveiliging, eenvoudige reiniging.
 

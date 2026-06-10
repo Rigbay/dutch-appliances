@@ -87,15 +87,15 @@ Een **combi-set** combineert een klassieke handmixer met een staafmixer en vaak 
 
 ## Snel advies
 
-Kies de **Bosch ErgoMixx MS6CM6155** als je één apparaat wilt voor bijna alles: beslag kloppen, deeg kneden, soep pureren en smoothies mixen. De set is compleet genoeg voor de meeste thuiskoks zonder dat je betaalt voor accessoires die stof verzamelen. Het 600 watt vermogen is krachtig genoeg voor deeg maar niet zo zwaar dat het apparaat onhandelbaar wordt.
+Kies de **[Bosch ErgoMixx MS6CM6155](https://www.amazon.nl/dp/B009W0L6KM?tag=kieskeukennl-21)** als je één apparaat wilt voor bijna alles: beslag kloppen, deeg kneden, soep pureren en smoothies mixen. De set is compleet genoeg voor de meeste thuiskoks zonder dat je betaalt voor accessoires die stof verzamelen. Het 600 watt vermogen is krachtig genoeg voor deeg maar niet zo zwaar dat het apparaat onhandelbaar wordt.
 
-Kies de **Braun MultiQuick 9 MQ9195X** als je veel kookt, graag nieuwe recepten probeert en het maximale uit een handmixer wilt halen. De 1200 watt motor en ActiveBlade-technologie maken korter werk van taaie ingrediënten. De accessoireset is uitgebreid — check wel of je alles gaat gebruiken voordat je het duurste model koopt.
+Kies de **[Braun MultiQuick 9 MQ9195X](https://www.amazon.nl/s?k=Braun+MultiQuick+9+MQ9195X&tag=kieskeukennl-21)** als je veel kookt, graag nieuwe recepten probeert en het maximale uit een handmixer wilt halen. De 1200 watt motor en ActiveBlade-technologie maken korter werk van taaie ingrediënten. De accessoireset is uitgebreid — check wel of je alles gaat gebruiken voordat je het duurste model koopt.
 
-Kies de **Philips Daily Collection HR2530** als je alleen af en toe een cake bakt, slagroom klopt of pannenkoekenbeslag maakt. Simpel, compact en goedkoop. Verwacht geen wonderen met zwaar brooddeeg maar voor lichte taken is hij ruim voldoende.
+Kies de **[Philips Daily Collection HR2530](https://www.amazon.nl/dp/B07VV4NZW5?tag=kieskeukennl-21)** als je alleen af en toe een cake bakt, slagroom klopt of pannenkoekenbeslag maakt. Simpel, compact en goedkoop. Verwacht geen wonderen met zwaar brooddeeg maar voor lichte taken is hij ruim voldoende.
 
-Kies de **KitchenAid Cordless Hand Mixer 5KHMB732** als je een hekel hebt aan snoeren, vaak op verschillende plekken in de keuken werkt en waarde hecht aan design. De accu gaat lang genoeg mee voor de meeste klussen, maar voor urenlang bakken is dit niet de beste keuze.
+Kies de **[KitchenAid Cordless Hand Mixer 5KHMB732](https://www.amazon.nl/dp/B06XDPNQ1R?tag=kieskeukennl-21)** als je een hekel hebt aan snoeren, vaak op verschillende plekken in de keuken werkt en waarde hecht aan design. De accu gaat lang genoeg mee voor de meeste klussen, maar voor urenlang bakken is dit niet de beste keuze.
 
-Kies de **Sage the Control Grip BSB510** als je voornamelijk soepen, sauzen en smoothies maakt en de staafmixer belangrijker vindt dan de kloppers. De ergonomische grip en variabele snelheid maken hem prettiger in gebruik dan de standaard staafmixer.
+Kies de **[Sage the Control Grip BSB510](https://www.amazon.nl/s?k=Sage+Control+Grip+BSB510&tag=kieskeukennl-21)** als je voornamelijk soepen, sauzen en smoothies maakt en de staafmixer belangrijker vindt dan de kloppers. De ergonomische grip en variabele snelheid maken hem prettiger in gebruik dan de standaard staafmixer.
 
 ## Beste keuze per budget
 

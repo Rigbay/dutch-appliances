@@ -80,7 +80,7 @@ Een goede heteluchtoven is het kloppend hart van de keuken. In 2026 zijn ovens s
 
 ## Beste keuze per categorie
 
-**Beste allround:** Bosch Serie 8 HBA574BS0 -- 4D Hotair, PerfectBake-sensor, pyrolytische zelfreiniging.
+**Beste allround:** [Bosch Serie 8 HBA574BS0](https://www.amazon.nl/s?k=Bosch+Serie+8+HBA574BS0&tag=kieskeukennl-21) -- 4D Hotair, PerfectBake-sensor, pyrolytische zelfreiniging.
 
 **Beste slimme oven:** Samsung Bespoke AI NV7B4545ZAK -- camera herkent gerechten en stelt automatisch tijd en temperatuur in.
 

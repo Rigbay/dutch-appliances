@@ -146,7 +146,7 @@ Zelfs als je je eigen tijd op minimumloon waardeert (€14/uur in 2026), bespaar
 
 ## Beste Keuze per Situatie
 
-### Voor Gezinnen — Bosch Serie 8 SMV88TD36E
+### Voor Gezinnen — [Bosch Serie 8 SMV88TD36E](https://www.amazon.nl/s?k=Bosch+Serie+8+SMV88TD36E&tag=kieskeukennl-21)
 
 De **Bosch Serie 8 SMV88TD36E** is de meest aanbevolen vaatwasser van 2026. De Zeolith droogtechnologie (een mineraal dat vocht absorbeert en omzet in warme droge lucht) zorgt dat ook plastic bakjes kurkdroog uit de machine komen — geen druppel water zichtbaar. De 42 dB geluidsproductie is fluisterstil — je hoort 'm niet draaien in een open keuken. Met WiFi en Home Connect app krijg je een melding als hij klaar is en kun je het programma starten wanneer de stroom het goedkoopst is. De prijs is fors (€1000-€1400) maar de prestaties rechtvaardigen elke euro.
 

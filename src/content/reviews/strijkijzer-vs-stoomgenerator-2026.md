@@ -98,7 +98,7 @@ De **Philips Azur 8000 Series DST8040** is het topmodel onder de strijkijzers. D
 
 ### Beste Prestaties — Stoomgenerator (ca. €250 — €350)
 
-De **Philips PerfectCare 7000 Series PSG7150/80** is de best beoordeelde stoomgenerator van 2026. De OptimaleTemp technologie stelt automatisch de perfecte temperatuur en stoomhoeveelheid in — je hoeft nooit meer stoffen te sorteren of de temperatuur aan te passen. Je kunt zijde strijken direct na jeans zonder iets om te schakelen en zonder risico op schroeivlekken. Het 1,8 liter reservoir is afneembaar en eenvoudig bij te vullen onder de kraan. De stoomdruk van 7 bar betekent dat de stoom dwars door dikke stoffen heen gaat.
+De **[Philips PerfectCare 7000 Series PSG7150/80](https://www.amazon.nl/s?k=Philips+PerfectCare+7000+Series+PSG7150/80&tag=kieskeukennl-21)** is de best beoordeelde stoomgenerator van 2026. De OptimaleTemp technologie stelt automatisch de perfecte temperatuur en stoomhoeveelheid in — je hoeft nooit meer stoffen te sorteren of de temperatuur aan te passen. Je kunt zijde strijken direct na jeans zonder iets om te schakelen en zonder risico op schroeivlekken. Het 1,8 liter reservoir is afneembaar en eenvoudig bij te vullen onder de kraan. De stoomdruk van 7 bar betekent dat de stoom dwars door dikke stoffen heen gaat.
 
 ### Beste Budget — Strijkijzer (ca. €40 — €80)
 

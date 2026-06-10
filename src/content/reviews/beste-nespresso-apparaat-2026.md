@@ -82,13 +82,13 @@ In deze gids duiken we diep in de wereld van Nespresso. We bespreken de nieuwste
 
 ## Snel advies
 
-* Kies de **Nespresso Vertuo Pop** als je een **kleine keuken hebt en een eenvoudige, snelle koffiebereiding zoekt**: **compact design en intuïtieve bediening**.
-* Kies de **Nespresso Lattissima One by De'Longhi** als je **graag melkspecialiteiten drinkt, maar het simpel wilt houden**: **geïntegreerde melkopschuimer met één druk op de knop**.
-* Kies de **Nespresso Creatista Plus by Sage** als je **een barista-ervaring thuis wilt met de controle over je melkschuim**: **professionele stoompijp voor perfect latte art**.
+* Kies de **[Nespresso Vertuo Pop](https://www.amazon.nl/s?k=Nespresso+Vertuo+Pop&tag=kieskeukennl-21)** als je een **kleine keuken hebt en een eenvoudige, snelle koffiebereiding zoekt**: **compact design en intuïtieve bediening**.
+* Kies de **[Nespresso Lattissima One](https://www.amazon.nl/s?k=Nespresso+Lattissima+One&tag=kieskeukennl-21) by De'Longhi** als je **graag melkspecialiteiten drinkt, maar het simpel wilt houden**: **geïntegreerde melkopschuimer met één druk op de knop**.
+* Kies de **[Nespresso Creatista Plus by Sage](https://www.amazon.nl/s?k=Nespresso+Creatista+Plus+by+Sage&tag=kieskeukennl-21)** als je **een barista-ervaring thuis wilt met de controle over je melkschuim**: **professionele stoompijp voor perfect latte art**.
 
 ## Beste keuze per budget
 
-### Beste koop: Nespresso Essenza Mini by De'Longhi
+### Beste koop: [Nespresso Essenza Mini](https://www.amazon.nl/s?k=Nespresso+Essenza+Mini&tag=kieskeukennl-21) by De'Longhi
 
 De Nespresso Essenza Mini is al jaren een bestseller en dat is niet zonder reden. Dit compacte apparaat biedt de essentiële Nespresso-ervaring tegen een zeer aantrekkelijke prijs. Het is de perfecte instap in de wereld van Nespresso voor wie op zoek is naar eenvoud en betrouwbaarheid.
 

@@ -74,7 +74,7 @@ Let op: laminaat en hout verdragen geen overmatig vocht. Voor die vloeren is de 
 
 ## Snel advies
 
-**Vileda Turbo Easy Wring & Go** — Beste handmatige vloerwisser van 2026: geïntegreerd wringsysteem in de emmer, microvezeldoek vangt 99% van bacteriën. Prijsindicatie: EUR 30-50.
+**[Vileda Turbo Easy Wring & Go](https://www.amazon.nl/s?k=Vileda+Turbo+Easy+Wring+Go&tag=kieskeukennl-21)** — Beste handmatige vloerwisser van 2026: geïntegreerd wringsysteem in de emmer, microvezeldoek vangt 99% van bacteriën. Prijsindicatie: EUR 30-50.
 
 **Bissell SpinWave Expert** — Elektrische dweil met roterende koppen voor diepe reiniging. Prijsindicatie: EUR 100-140.
 

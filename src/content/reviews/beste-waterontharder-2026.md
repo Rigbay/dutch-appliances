@@ -82,7 +82,7 @@ Let op: een waterontharder vraagt om maandelijks onderhoud (zout bijvullen). De 
 
 ## Beste keuze per budget
 
-**Beste allround:** **AquaCell Premium 15** (€800-1100). Beste waterontharder voor 2026: 15 liter hars, geschikt voor 4-6 personen, elektronische aansturing, Dutch Design.
+**Beste allround:** **[AquaCell Premium 15](https://www.amazon.nl/s?k=AquaCell+Premium+waterontharder&tag=kieskeukennl-21)** (€800-1100). Beste waterontharder voor 2026: 15 liter hars, geschikt voor 4-6 personen, elektronische aansturing, Dutch Design.
 
 **Beste prijs-kwaliteit:** **Ionac Waterontharder 15L** (€600-800). Degelijke mechanische ontharder voor 3-5 personen. 15L hars, by-pass kraan, eenvoudig onderhoud. 10 jaar garantie.
 
