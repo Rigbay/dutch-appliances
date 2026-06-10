@@ -93,7 +93,7 @@ Een kruimeldief is niet bedoeld als hoofdstofzuiger. Gebruik hem voor snelle opr
 
 ## Beste keuze per budget
 
-**Beste premium:** **Dyson V12s Detect Slim Submarine** (€200-250). Krachtigste draadloze kruimeldief 2026: laserdetectie, 2 accu's, verwisselbare kop voor dweilen. Piezo-sensor telt stofdeeltjes.
+**Beste premium:** **[Dyson V12s Detect Slim Submarine](https://www.amazon.nl/s?k=Dyson+V12s+Detect+Slim+Submarine&tag=kieskeukennl-21)** (€200-250). Krachtigste draadloze kruimeldief 2026: laserdetectie, 2 accu's, verwisselbare kop voor dweilen. Piezo-sensor telt stofdeeltjes.
 
 **Beste allround:** **Philips PowerPro Compact FC9142** (€80-110). Lichtgewicht (1.4kg), 30 min accuduur, 2-in-1 als handstofzuiger en steelstofzuiger. onze [steelstofzuiger gids](/beste-steelstofzuiger-2026/). onze [steelstofzuiger draadloze stofzuiger gids](/steelstofzuiger-vs-draadloze-stofzuiger-2026/). HEPA-filter.
 

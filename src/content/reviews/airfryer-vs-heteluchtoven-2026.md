@@ -94,11 +94,11 @@ Het beste voorbeeld: frietjes. In een airfryer zijn ze in 18 minuten goudbruin e
 
 ### Beste Koop — Airfryer (ca. €90 — €160)
 
-De **Tefal Easy Fry & Grill XXL EY8018** combineert airfryen met grillen in één apparaat. De grillplaat bovenop geeft vlees en groenten mooie grillstrepen, terwijl de airfry-functie friet en snacks knapperig maakt. Voor kleine huishoudens die willen experimenteren met airfryen zonder meteen een dure Philips te kopen, is dit de slimste instap. De 6,5 liter mand is ruim genoeg voor 3-4 personen en de bediening is intuïtief.
+De **[Tefal Easy Fry & Grill XXL EY8018](https://www.amazon.nl/s?k=Tefal+Easy+Fry+Grill+XXL+EY8018&tag=kieskeukennl-21)** combineert airfryen met grillen in één apparaat. De grillplaat bovenop geeft vlees en groenten mooie grillstrepen, terwijl de airfry-functie friet en snacks knapperig maakt. Voor kleine huishoudens die willen experimenteren met airfryen zonder meteen een dure Philips te kopen, is dit de slimste instap. De 6,5 liter mand is ruim genoeg voor 3-4 personen en de bediening is intuïtief.
 
 ### Beste Prestaties — Airfryer (ca. €130 — €180)
 
-De **Philips Airfryer 5000 Series XXL HD9280** is de benchmark. Philips heeft de Rapid Air technologie uitgevonden en na jaren doorontwikkeling is dit het meest verfijnde model. De XXL-mand (1,2 kg / 7,3 liter) voedt een gezin van 4. De NutriU-app geeft toegang tot honderden recepten specifiek voor airfryer. Het resultaat is consistent knapperig en gelijkmatig gaar — je hoeft niet halverwege te schudden.
+De **[Philips Airfryer 5000 Series XXL HD9280](https://www.amazon.nl/s?k=Philips+Airfryer+5000+Series+XXL+HD9280&tag=kieskeukennl-21)** is de benchmark. Philips heeft de Rapid Air technologie uitgevonden en na jaren doorontwikkeling is dit het meest verfijnde model. De XXL-mand (1,2 kg / 7,3 liter) voedt een gezin van 4. De NutriU-app geeft toegang tot honderden recepten specifiek voor airfryer. Het resultaat is consistent knapperig en gelijkmatig gaar — je hoeft niet halverwege te schudden.
 
 ### Beste Prestaties — Heteluchtoven (ca. €700 — €900)
 

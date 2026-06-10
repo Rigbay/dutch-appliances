@@ -93,7 +93,7 @@ De **Tefal Wok Excellence 30cm** is de beste allround wokpan voor thuis: antiaan
 
 ## Beste keuze per budget
 
-**Beste allround:** **Tefal Wok Excellence 30cm** (€35-50). Beste wokpan 2026: 30cm, titanium antiaanbak, thermosignaal warmte-indicator, inductiebodem. Makkelijk schoonmaken.
+**Beste allround:** **[Tefal Wok Excellence 30cm](https://www.amazon.nl/s?k=Tefal+Wok+Excellence+30cm&tag=kieskeukennl-21)** (€35-50). Beste wokpan 2026: 30cm, titanium antiaanbak, thermosignaal warmte-indicator, inductiebodem. Makkelijk schoonmaken.
 
 **Beste rvs:** **BK Wok 28cm** (€45-65). Rvs wok met aluminium kern voor gelijkmatige warmteverdeling. 28cm, inductiegeschikt, vaatwasserbestendig.
 

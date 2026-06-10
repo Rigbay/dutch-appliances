@@ -95,9 +95,9 @@ Dolce Gusto (van Nescafé) is gebouwd voor variatie. Naast espresso en lungo maa
 
 ### Beste Koop — Dolce Gusto (ca. €50 — €85)
 
-De **Krups Dolce Gusto Infinissima** is veruit de populairste instapmachine. Met een slank, futuristisch design, een royale 1,2 liter watertank en bediening met één knop maak je in 30 seconden een kop koffie of een latte. De prijs ligt rond de €65, wat hem de goedkoopste manier maakt om een cupsysteem in huis te halen. Voor kleine huishoudens of wie vooral af en toe een lekkere koffie wil zonder gedoe, is dit de slimste keuze.
+De **[Krups Dolce Gusto Infinissima](https://www.amazon.nl/s?k=Krups+Dolce+Gusto+Infinissima&tag=kieskeukennl-21)** is veruit de populairste instapmachine. Met een slank, futuristisch design, een royale 1,2 liter watertank en bediening met één knop maak je in 30 seconden een kop koffie of een latte. De prijs ligt rond de €65, wat hem de goedkoopste manier maakt om een cupsysteem in huis te halen. Voor kleine huishoudens of wie vooral af en toe een lekkere koffie wil zonder gedoe, is dit de slimste keuze.
 
-### Beste Prestaties — Nespresso Vertuo Next (ca. €120 — €180)
+### Beste Prestaties — [Nespresso Vertuo Next](https://www.amazon.nl/s?k=Nespresso+Vertuo+Next&tag=kieskeukennl-21) (ca. €120 — €180)
 
 De **Nespresso Vertuo Next** lost het grootste nadeel van het Nespresso Origineel systeem op: je kunt eindelijk ook een grote mok koffie zetten. De machine herkent via een barcode precies welke capsule erin zit en past daar automatisch de zetparameters op aan. Het resultaat is een perfecte crèmelaag bovenop — geen schuim, maar echte crema. Met WiFi-connectiviteit en automatische capsule-bestelling via de Nespresso-app is dit de meest complete thuis-barista ervaring voor minder dan €200. Ook de beste keuze als je van Nespresso-waardige koffie houdt maar weleens een Americano of lungo wilt zonder twee capsules te gebruiken.
 

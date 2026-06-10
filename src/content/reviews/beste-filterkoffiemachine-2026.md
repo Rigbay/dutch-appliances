@@ -77,10 +77,10 @@ Of je nu een drukke ouder bent die snel een kan koffie nodig heeft, een enthousi
 
 ## Snel Advies
 
-* **Kies de Moccamaster KBGV Select** als je een **onverwoestbare klassieker zoekt die consistent uitstekende koffie zet voor een gemiddeld huishouden**: **onovertroffen duurzaamheid en een perfect gecontroleerde zetmethode**.
-* **Kies de Technivorm Moccamaster Cup-One** als je **vooral één kop koffie per keer zet en de hoogste kwaliteit wilt zonder verspilling**: **ultieme controle over de zetmethode voor één persoon en een compact design**.
-* **Kies de Philips Grind & Brew 5000 Series HD5120/00** als je **gemak en versgemalen koffie waardeert zonder veel moeite, voor gezinnen of kantoren die grote hoeveelheden zetten**: **geïntegreerde molen voor maximale versheid en een ruime capaciteit**.
-* **Kies de Wilfa Svart Presisjon WSP-1B** als je **een budgetbewuste keuze wilt met indrukwekkende prestaties voor specialty koffie, en bereid bent tot handmatige controle**: **uitstekende prijs-kwaliteitverhouding voor beginnende specialty koffiedrinkers met een focus op controle**.
+* **Kies de [Moccamaster KBGV Select](https://www.amazon.nl/s?k=Moccamaster+KBGV+Select&tag=kieskeukennl-21)** als je een **onverwoestbare klassieker zoekt die consistent uitstekende koffie zet voor een gemiddeld huishouden**: **onovertroffen duurzaamheid en een perfect gecontroleerde zetmethode**.
+* **Kies de Technivorm [Moccamaster Cup-One](https://www.amazon.nl/s?k=Moccamaster+Cup-One&tag=kieskeukennl-21)** als je **vooral één kop koffie per keer zet en de hoogste kwaliteit wilt zonder verspilling**: **ultieme controle over de zetmethode voor één persoon en een compact design**.
+* **Kies de [Philips Grind & Brew 5000](https://www.amazon.nl/s?k=Philips+Grind+&+Brew+5000&tag=kieskeukennl-21) Series HD5120/00** als je **gemak en versgemalen koffie waardeert zonder veel moeite, voor gezinnen of kantoren die grote hoeveelheden zetten**: **geïntegreerde molen voor maximale versheid en een ruime capaciteit**.
+* **Kies de [Wilfa Svart Presisjon WSP-1B](https://www.amazon.nl/s?k=Wilfa+Svart+Presisjon+WSP-1B&tag=kieskeukennl-21)** als je **een budgetbewuste keuze wilt met indrukwekkende prestaties voor specialty koffie, en bereid bent tot handmatige controle**: **uitstekende prijs-kwaliteitverhouding voor beginnende specialty koffiedrinkers met een focus op controle**.
 
 ## Beste Keuze per Budget
 

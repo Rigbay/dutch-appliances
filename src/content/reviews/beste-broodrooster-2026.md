@@ -78,15 +78,15 @@ Deze gids is gebaseerd op productspecificaties, gebruikerservaringen en actuele 
 
 ## Snel advies
 
-Kies de **Sage the Smart Toast STTR875** als je dagelijks toast eet en waarde hecht aan precieze controle. Het motorische zakmechanisme voorkomt dat je toast ongelijk kleurt doordat hij handmatig ongelijk wordt neergelaten, en het display toont een aftellende timer zodat je precies weet wanneer je ontbijt klaar is. De prijs is stevig, maar de bouwkwaliteit en garantie rechtvaardigen dat voor frequente gebruikers.
+Kies de **[Sage the Smart Toast STTR875](https://www.amazon.nl/s?k=Sage+Smart+Toast+STTR875&tag=kieskeukennl-21)** als je dagelijks toast eet en waarde hecht aan precieze controle. Het motorische zakmechanisme voorkomt dat je toast ongelijk kleurt doordat hij handmatig ongelijk wordt neergelaten, en het display toont een aftellende timer zodat je precies weet wanneer je ontbijt klaar is. De prijs is stevig, maar de bouwkwaliteit en garantie rechtvaardigen dat voor frequente gebruikers.
 
-Kies de **Philips Viva Collection HD2640** als je een betrouwbare middenklasse broodrooster wilt zonder gekke dingen. Hij heeft acht bruiningsstanden, een ontdooistand en een opwarmfunctie — precies wat de meeste mensen nodig hebben. De behuizing is compact genoeg voor een gemiddeld Nederlands aanrecht en de kruimellade is eenvoudig leeg te maken.
+Kies de **[Philips Viva Collection HD2640](https://www.amazon.nl/s?k=Philips+Viva+Collection+HD2640&tag=kieskeukennl-21)** als je een betrouwbare middenklasse broodrooster wilt zonder gekke dingen. Hij heeft acht bruiningsstanden, een ontdooistand en een opwarmfunctie — precies wat de meeste mensen nodig hebben. De behuizing is compact genoeg voor een gemiddeld Nederlands aanrecht en de kruimellade is eenvoudig leeg te maken.
 
-Kies de **Bosch ComfortLine TAT6A003** als budget je belangrijkste criterium is, maar je niet wilt inleveren op basisfunctionaliteit. De roestvrijstalen behuizing ziet er duurder uit dan hij is, het ingebouwde broodjesrek is handig en hij roostert brood consistent genoeg voor dagelijks gebruik.
+Kies de **[Bosch ComfortLine TAT6A003](https://www.amazon.nl/s?k=Bosch+ComfortLine+TAT6A003&tag=kieskeukennl-21)** als budget je belangrijkste criterium is, maar je niet wilt inleveren op basisfunctionaliteit. De roestvrijstalen behuizing ziet er duurder uit dan hij is, het ingebouwde broodjesrek is handig en hij roostert brood consistent genoeg voor dagelijks gebruik.
 
-Kies de **SMEG TSF02** als je aanrecht onderdeel is van je interieur. Deze broodrooster is een designobject in pastelkleuren dat gasten altijd opmerken. Functioneel is hij basic — zes standen, ontdooien, bagel — maar hij doet wat hij moet doen met Italiaanse flair. Betaal dit model niet voor de techniek maar voor het uiterlijk.
+Kies de **[SMEG TSF02](https://www.amazon.nl/s?k=SMEG+TSF02&tag=kieskeukennl-21)** als je aanrecht onderdeel is van je interieur. Deze broodrooster is een designobject in pastelkleuren dat gasten altijd opmerken. Functioneel is hij basic — zes standen, ontdooien, bagel — maar hij doet wat hij moet doen met Italiaanse flair. Betaal dit model niet voor de techniek maar voor het uiterlijk.
 
-Kies de **Dualit Classic NewGen** als je het beste wilt wat er is en bereid bent daar flink voor te betalen. Dit Britse icoon wordt nog handmatig geassembleerd, is volledig repareerbaar met losse onderdelen en gaat bij goed onderhoud tientallen jaren mee. Een investering, geen wegwerpartikel.
+Kies de **[Dualit Classic NewGen](https://www.amazon.nl/s?k=Dualit+Classic+NewGen&tag=kieskeukennl-21)** als je het beste wilt wat er is en bereid bent daar flink voor te betalen. Dit Britse icoon wordt nog handmatig geassembleerd, is volledig repareerbaar met losse onderdelen en gaat bij goed onderhoud tientallen jaren mee. Een investering, geen wegwerpartikel.
 
 ## Beste keuze per budget
 

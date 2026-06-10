@@ -80,7 +80,7 @@ De **Roborock Qrevo Curv** is de beste allrounder van 2026: hij kan over drempel
 
 ## Beste keuze per budget
 
-**Beste allround:** **Roborock Qrevo Curv** (€900-1100). Beste schoonmaakrobot 2026: adaptChassis verhoogt over obstakels tot 4cm, FlexiArm Design voor randen, 18.000Pa zuigkracht.
+**Beste allround:** **[Roborock Qrevo Curv](https://www.amazon.nl/s?k=Roborock+Qrevo+Curv&tag=kieskeukennl-21)** (€900-1100). Beste schoonmaakrobot 2026: adaptChassis verhoogt over obstakels tot 4cm, FlexiArm Design voor randen, 18.000Pa zuigkracht.
 
 **Beste dweilprestaties:** **Dreame X50 Ultra** (€800-1000). Geavanceerde dweilfunctie met heet water (70°C) voor vette vlekken. Lidar-navigatie, zelfreinigend dock.
 

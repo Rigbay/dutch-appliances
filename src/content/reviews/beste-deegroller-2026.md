@@ -71,11 +71,11 @@ Een goede deegroller maakt het verschil tussen frustratie en bakplezier. Of je n
 
 ## Snel advies
 
-Kies de **OXO Good Grips Deegroller** als je een klassieke houten roller zoekt die prettig ligt en jaren meegaat. Het taps toelopende ontwerp geeft je goede controle en de prijs is redelijk. Dit is de beste keuze voor de meeste thuisbakkers.
+Kies de **[OXO Good Grips Deegroller](https://www.amazon.nl/s?k=OXO+Good+Grips+deegroller&tag=kieskeukennl-21)** als je een klassieke houten roller zoekt die prettig ligt en jaren meegaat. Het taps toelopende ontwerp geeft je goede controle en de prijs is redelijk. Dit is de beste keuze voor de meeste thuisbakkers.
 
-Kies de **RSVP Endurance Marble Deegroller** als je vaak boterdeeg maakt. Het koele marmer zorgt dat de boter niet smelt tijdens het rollen — essentieel voor bladerdeeg, taartbodems en koekjes.
+Kies de **[RSVP Endurance Marble Deegroller](https://www.amazon.nl/s?k=RSVP+Marble+deegroller&tag=kieskeukennl-21)** als je vaak boterdeeg maakt. Het koele marmer zorgt dat de boter niet smelt tijdens het rollen — essentieel voor bladerdeeg, taartbodems en koekjes.
 
-Kies de **Joseph Joseph Adjustable Deegroller** als je nog niet veel bakervaring hebt. De instelbare ringen garanderen een gelijkmatige dikte zonder dat je het zelf hoeft te inschatten.
+Kies de **[Joseph Joseph Adjustable Deegroller](https://www.amazon.nl/s?k=Joseph+Joseph+Adjustable+deegroller&tag=kieskeukennl-21)** als je nog niet veel bakervaring hebt. De instelbare ringen garanderen een gelijkmatige dikte zonder dat je het zelf hoeft te inschatten.
 
 ## Beste keuze per categorie
 

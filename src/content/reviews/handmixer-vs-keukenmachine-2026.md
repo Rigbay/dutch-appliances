@@ -102,7 +102,7 @@ Een handmixer en een keukenmachine lijken op elkaar: ze kloppen, mixen en kneden
 
 ### Beste Budget (EUR 25-60): Starten Met Bakken
 
-**Philips Handmixer HR3741/00** (EUR 25-35) is het perfecte instapmodel — licht, compact en krachtig genoeg voor cakebeslag, pannenkoeken en slagroom. **Russell Hobbs Desire Handmixer 24632** (EUR 40-60) voegt design en een handige opslagdoos toe.
+**[Philips Handmixer HR3741/00](https://www.amazon.nl/s?k=Philips+Handmixer+HR3741/00&tag=kieskeukennl-21)** (EUR 25-35) is het perfecte instapmodel — licht, compact en krachtig genoeg voor cakebeslag, pannenkoeken en slagroom. **Russell Hobbs Desire Handmixer 24632** (EUR 40-60) voegt design en een handige opslagdoos toe.
 
 In deze prijsklasse krijg je géén keukenmachine die de naam waardig is. Goedkope keukenmachines onder EUR 100 hebben zwakke motoren die vastlopen op brooddeeg — bewaar je geld of ga voor de handmixer.
 

@@ -81,7 +81,7 @@ De **Le Creuset Braadpan 24cm** is voor wie jaren plezier wil van een braadpan: 
 
 ## Beste keuze per budget
 
-**Beste premium:** **Le Creuset Braadpan 24cm** (€150-200). De klassieker: geëmailleerd gietijzer, 24cm, 4.2L, ovenbestendig tot 260°C. 30 jaar garantie, levenslange investering. Verkrijgbaar in 15+ kleuren.
+**Beste premium:** **[Le Creuset Braadpan 24cm](https://www.amazon.nl/s?k=Le+Creuset+braadpan+24cm&tag=kieskeukennl-21)** (€150-200). De klassieker: geëmailleerd gietijzer, 24cm, 4.2L, ovenbestendig tot 260°C. 30 jaar garantie, levenslange investering. Verkrijgbaar in 15+ kleuren.
 
 **Beste Frans:** **Staub Braadpan 24cm** (€120-170). Franse gietijzeren braadpan: zwart email, zelf-bevochtigend deksel, 24cm, geschikt voor alle warmtebronnen. Net als Le Creuset, maar mat zwart.
 

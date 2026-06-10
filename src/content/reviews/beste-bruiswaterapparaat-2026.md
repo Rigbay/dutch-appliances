@@ -105,11 +105,11 @@ Of je nu een fervente bubbeldrinker bent die dagelijks liters consumeert, of af 
 
 ## Beste per budget
 
-### Beste koop: SodaStream Terra
+### Beste koop: [SodaStream Terra](https://www.amazon.nl/s?k=sodastream+terra&tag=kieskeukennl-21)
 
 De SodaStream Terra is de onbetwiste kampioen als het gaat om de beste prijs-kwaliteitverhouding. Voor een zeer schappelijke prijs haal je een apparaat in huis dat alles kan wat je van een goede soda maker mag verwachten. Hij is eenvoudig in gebruik: je klikt de herbruikbare fles met water erin, drukt een paar keer op de knop en klaar. De Terra heeft een strak, modern design dat in elke keuken past, zonder te veel poespas. De bediening is intuïtief en vereist geen ingewikkelde handleiding. De herbruikbare flessen zijn BPA-vrij en gaan lang mee, en de CO2-cilinders zijn breed verkrijgbaar en relatief voordelig te ruilen. Minpuntjes? Het is geen apparaat dat je keuken zal revolutioneren qua design, en de hoeveelheid bubbels is weliswaar goed, maar niet altijd zo intens als bij duurdere modellen. Maar voor de prijs die je betaalt, krijg je ongelooflijk veel waar voor je geld. Dit is het perfecte instapmodel voor iedereen die serieus twijfelt over de overstap naar een thuisbruiser.
 
-### Beste prestaties: Aarke Carbonator III
+### Beste prestaties: [Aarke Carbonator III](https://www.amazon.nl/s?k=aarke+carbonator+iii&tag=kieskeukennl-21)
 
 Als je op zoek bent naar het summum van bruiswaterapparaten, dan is de Aarke Carbonator III het apparaat voor jou. Dit is geen keukenapparaat meer, dit is een designobject. Gemaakt van hoogwaardig roestvrij staal, voelt en oogt hij ongelooflijk premium. De bediening is een genot: een soepele hendel waarmee je de hoeveelheid bubbels nauwkeurig kunt doseren. Je voelt de kwaliteit bij elke beweging. De Carbonator III levert consistent perfect bruiswater, van licht sprankelend tot intens bruisend. Ook het vullen van de CO2-cilinder is een fluitje van een cent. Het nadeel? De prijs. Dit is de duurste optie in deze gids, en dat voel je in je portemonnee. Ook de herbruikbare flessen zijn niet altijd de goedkoopste om te vervangen. Maar als je bereid bent te investeren in kwaliteit, duurzaamheid en esthetiek, dan is de Aarke Carbonator III de investering meer dan waard. Het is een apparaat dat je met trots op je aanrecht zet en jarenlang plezier van zult hebben.
 

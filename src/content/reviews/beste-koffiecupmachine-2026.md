@@ -94,7 +94,7 @@ Welk systeem past bij jou? Nespresso voor sterke espresso, Dolce Gusto voor melk
 
 ## Beste keuze per budget
 
-**Beste allround:** **Nespresso Vertuo Pop Deluxe** (€99-130). De beste cupmachine voor 2026: 5 cups-maten, 230ml tot 414ml, centrifugaaltechnologie voor dikke crema.
+**Beste allround:** **[Nespresso Vertuo Pop Deluxe](https://www.amazon.nl/s?k=Nespresso+Vertuo+Pop+Deluxe&tag=kieskeukennl-21)** (€99-130). De beste cupmachine voor 2026: 5 cups-maten, 230ml tot 414ml, centrifugaaltechnologie voor dikke crema.
 
 **Meest flexibel:** **Philips Senseo Switch** (€80-110). Unieke pad-cup hybride: switch tussen pads, cups en filterkoffie in één apparaat. Flexibelste keuze.
 

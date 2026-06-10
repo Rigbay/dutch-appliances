@@ -93,7 +93,7 @@ De **Tefal Ingenio Excellence** is voor de meeste huishoudens de beste keuze: ee
 
 ## Beste keuze per budget
 
-**Beste allround:** **Tefal Ingenio Excellence** (€35-50). Beste koekenpan 2026: 28cm, titanium antiaanbaklaag, thermosignaal warmte-indicator, verwisselbare handgreep (ook ovenbestendig). De allrounder voor elke dag.
+**Beste allround:** **[Tefal Ingenio Excellence](https://www.amazon.nl/s?k=Tefal+Ingenio+Excellence+koekenpan&tag=kieskeukennl-21)** (€35-50). Beste koekenpan 2026: 28cm, titanium antiaanbaklaag, thermosignaal warmte-indicator, verwisselbare handgreep (ook ovenbestendig). De allrounder voor elke dag.
 
 **Beste rvs:** **BK Cookmaster 6000** (€50-70). BK's beste: 28cm rvs met 5-laags opbouw, inductiegeschikt, vaatwasserbestendig. Voor wie geen antiaanbak wil.
 
