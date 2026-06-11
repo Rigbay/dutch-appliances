@@ -1,7 +1,7 @@
 ---
 title: 'Broodrooster vs. Tosti-ijzer 2026: Welke Past Bij Jouw Ontbijt- en Lunchroutine?'
 slug: broodrooster-vs-tosti-ijzer-2026
-description: Broodrooster vs. Tosti-ijzer 2026 vergeleken: gebruiksgemak, veelzijdigheid, prijs en schoonmaakgemak. Eerlijke keuzehulp met Amazon NL affiliate links.
+description: "Broodrooster vs. Tosti-ijzer 2026 vergeleken: gebruiksgemak, veelzijdigheid, prijs en schoonmaakgemak. Eerlijke keuzehulp met Amazon NL affiliate links."
 category: keuken
 rating: 4.4
 priceRange: EUR 20-220
