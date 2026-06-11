@@ -169,8 +169,12 @@ Twijfel je? Stel jezelf dan twee vragen: drink ik groene of witte thee (dan heb 
 
 Deze pagina bevat Amazon affiliate links. Als je via deze links iets koopt, ontvangen wij een kleine commissie — zonder dat jij meer betaalt. De rangschikking is gebaseerd op specificaties, prijs-kwaliteitverhouding en gebruikerservaringen, niet op commissiehoogte.
 
-## Gerelateerde artikelen
 
-- [Beste koffiemachine 2026: van bonen tot kop voor iedere koffiedrinker](/beste-koffiemachine-2026/)
-- [Beste stoomoven 2026: gezond koken met stoom](/beste-stoomoven-2026/)
-- [Beste broodrooster 2026: van crocant tot Brunch](/beste-broodrooster-2026/)
+## Gerelateerde koopgidsen
+
+- [Bekijk Beste pizza oven 2026: thuis pizza bakken als een pizzaiolo](/dutch-appliances/beste-pizza-oven-2026/)
+- [Bekijk Beste Elektrische Grill 2026: Top 5 Tafelgrills voor Binnen, Balkon & Terras](/dutch-appliances/beste-elektrische-grill-2026/)
+- [Bekijk Beste magnetron 2026: solo, grill en combi vergeleken](/dutch-appliances/beste-magnetron-2026/)
+- [Bekijk Beste broodrooster 2026: van crocant tot Brunch](/dutch-appliances/beste-broodrooster-2026/)
+
+*Deze links verwijzen naar gerelateerde koopgidsen op onze site.*

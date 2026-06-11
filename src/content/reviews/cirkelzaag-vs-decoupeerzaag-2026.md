@@ -147,6 +147,17 @@ Een cirkelzaag is gevaarlijker: het zaagblad draait op hoge snelheid en is deels
 
 **Festool Carvex PSBC 420 Li Decoupeerzaag** — Premium keuze voor fijnwerk: LED-verlichting, perfecte stofafzuiging, exacte snijlijn. De Rolls-Royce onder de decoupeerzagen. Prijsindicatie: EUR 200-250. [Bekijk beste prijs →](https://www.amazon.nl/s?k=Festool+Carvex+PSBC+420+Li&tag=kieskeukennl-21)
 
+
+## Gerelateerde koopgidsen
+
+- [Bekijk Beste cirkelzaag 2026: welke zaagmachine zaagt zuiver en veilig?](/dutch-appliances/beste-cirkelzaag-2026/)
+- [Bekijk Beste accu boormachine 2026: klussen zonder snoer](/dutch-appliances/beste-accu-boormachine-2026/)
+- [Bekijk Beste multitool 2026: oscillatiegereedschap voor zagen schuren en snijden](/dutch-appliances/beste-multitool-2026/)
+- [Bekijk Beste haakse slijper 2026: welke slijptol kies je voor metaal en steen?](/dutch-appliances/beste-haakse-slijper-2026/)
+
+*Deze links verwijzen naar gerelateerde koopgidsen op onze site.*
+
+
 ## Welke past bij jou?
 
 *   **Begin met een cirkelzaag als** je vooral plaatmateriaal zaagt, laminaat legt, of meubels bouwt met rechte lijnen. De Makita HS7601J/2 (EUR 130-170) is een uitstekende instapper die je jaren plezier geeft.

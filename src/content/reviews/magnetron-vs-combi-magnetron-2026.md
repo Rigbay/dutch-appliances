@@ -154,6 +154,17 @@ De gebruikskosten zijn afhankelijk van de frequentie en intensiteit van het gebr
     *   *Oven/Grillfunctie:* Als je deze functies wekelijks gebruikt (bijvoorbeeld 2x 30 minuten op 1800W), komen hier nog eens **€20 - €40** per jaar bij.
     *   *Totaal:* De jaarlijkse gebruikskosten van een combi-magnetron liggen gemiddeld tussen de **€35 - €65**, afhankelijk van het gebruik van de ovenfuncties.
 
+
+## Gerelateerde koopgidsen
+
+- [Bekijk Beste Elektrische Grill 2026: Top 5 Tafelgrills voor Binnen, Balkon & Terras](/dutch-appliances/beste-elektrische-grill-2026/)
+- [Bekijk Beste Friteuses 2026: De Ultieme Gids voor Friet en Snacks](/dutch-appliances/beste-friteuse-2026/)
+- [Bekijk Beste magnetron 2026: solo, grill en combi vergeleken](/dutch-appliances/beste-magnetron-2026/)
+- [Bekijk Sapcentrifuge vs. Slowjuicer 2026: Welke Past Bij Jouw Gezonde Levensstijl?](/dutch-appliances/sapcentrifuge-vs-slowjuicer-2026/)
+
+*Deze links verwijzen naar gerelateerde koopgidsen op onze site.*
+
+
 ## Verborgen nadelen
 
 Fabrikanten prijzen vaak de voordelen aan, maar er zijn
