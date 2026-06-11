@@ -147,10 +147,12 @@ Heb je geen oven en overweeg je een losse heteluchtoven of combi-magnetron? Kijk
 | **Inventum MN338CS Combi** | Combi Hetelucht | 44L | 150-220 | Compact, magnetron + oven in één | 4.3 |
 | **Tefal Easy Fry & Grill XXL EY8018** | Airfryer + Grill | 6,5L | 90-160 | Prijs-kwaliteit, grill-liefhebbers | 4.5 |
 
-## Gerelateerde artikelen
 
-- [Beste airfryers 2026: welke heteluchtfriteuse past bij jouw keuken?](/beste-airfryer-2026/)
-- [Airfryer vs oven: wanneer kies je voor welke?](/airfryer-vs-oven-2026/)
-- [Airfryer vs friteuse: friet zonder frituurpan?](/airfryer-vs-friteuse-2026/)
-- [Beste oven-magnetron combi 2026: twee apparaten in één](/beste-oven-magnetron-combi-2026/)
-- [Beste compacte airfryers 2026: klein maar krachtig](/beste-compacte-airfryer-2026/)
+## Gerelateerde koopgidsen
+
+- [Bekijk Airfryer vs. Oven 2026: Welke is echt gezonder en zuiniger?](/dutch-appliances/airfryer-vs-oven-2026/)
+- [Bekijk Airfryer vs. Magnetron 2026: Welke is Beter voor Jouw Keuken?](/dutch-appliances/airfryer-vs-magnetron-2026/)
+- [Bekijk De Beste Airfryers Onder €100 in 2026: Lekker en Betaalbaar Bakken!](/dutch-appliances/beste-airfryer-onder-100-euro-2026/)
+- [Bekijk Compacte Airfryers 2026: Heerlijk Gefrituurd, Zonder Keukenstress!](/dutch-appliances/beste-compacte-airfryer-2026/)
+
+*Deze links verwijzen naar gerelateerde koopgidsen op onze site.*

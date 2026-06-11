@@ -146,10 +146,12 @@ Twijfel je tussen cups of bonen? Lees dan onze [bonen vs cups vergelijking](/kof
 | **Krups Dolce Gusto Infinissima** | Dolce Gusto | Alles-in-één | 50-85 | Budget, design, kleine huishoudens | 4.3 |
 | **Nespresso Lattissima One** | Nespresso Origineel | Met melkopschuimer | 200-280 | Melkspecialiteiten zonder aparte opschuimer | 4.7 |
 
-## Gerelateerde artikelen
 
-- [Beste Nespresso-apparaten 2026: Origineel, Vertuo en premium Creatista vergeleken](/beste-nespresso-apparaat-2026/)
-- [Beste koffiecupmachines 2026: alle systemen vergeleken](/beste-koffiecupmachine-2026/)
-- [Koffiemachine bonen vs cups: wat is voordeliger?](/koffiemachine-bonen-vs-cups-2026/)
-- [Espresso vs filterkoffie: wat past bij jouw smaak?](/espresso-vs-filterkoffie-2026/)
-- [Beste volautomatische koffiemachines 2026](/beste-volautomatische-koffiemachine-2026/)
+## Gerelateerde koopgidsen
+
+- [Bekijk Beste koffiecupmachine 2026: Nespresso, Dolce Gusto of Senseo?](/dutch-appliances/beste-koffiecupmachine-2026/)
+- [Bekijk Bonen vs. Cups Koffiemachine 2026: Welke koffie past bij jou?](/dutch-appliances/koffiemachine-bonen-vs-cups-2026/)
+- [Bekijk De Beste Koffiemachines met Bonenmaler: Jouw Gids voor Perfecte Koffie in](/dutch-appliances/beste-koffiemachine-bonen-2026/)
+- [Bekijk Beste espressapparaat 2026: 7 modellen voor de perfecte espresso thuis](/dutch-appliances/beste-espresso-apparaat-2026/)
+
+*Deze links verwijzen naar gerelateerde koopgidsen op onze site.*
