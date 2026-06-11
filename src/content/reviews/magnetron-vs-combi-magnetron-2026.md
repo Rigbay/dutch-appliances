@@ -1,7 +1,7 @@
 ---
 title: 'Magnetron vs. Combi-Magnetron 2026: Is Een Combi de Meerprijs Waard?'
 slug: magnetron-vs-combi-magnetron-2026
-description: Magnetron vs. Combi-Magnetron 2026 vergeleken: prijs, functies, energieverbruik en verborgen nadelen. Ontdek of een combi-magnetron de meerprijs waard is met Amazon NL affiliate links.
+description: "Magnetron vs. Combi-Magnetron 2026 vergeleken: prijs, functies, energieverbruik en nadelen. Is een combi-magnetron de meerprijs waard? Eerlijke keuzehulp."
 category: keuken
 rating: 4.4
 priceRange: EUR 15-400
