@@ -1,0 +1,192 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const allReviews = await getCollection('reviews', ({ data }) => !data.draft);
+
+// Extract all comparison ("vs") articles
+const vsArticles = allReviews
+  .filter(r => r.data.slug.includes('-vs-'))
+  .sort((a, b) => (b.data.rating || 0) - (a.data.rating || 0));
+
+const categoryMeta: Record<string, { label: string; emoji: string; desc: string }> = {
+  keuken: { label: 'Keuken', emoji: '🍳', desc: 'Airfryers, koffiemachines, kookplaten, ovens, blenders en meer.' },
+  schoonmaken: { label: 'Schoonmaken', emoji: '🧹', desc: 'Stofzuigers, robotstofzuigers, steelstofzuigers en reinigers.' },
+  huishoudelijk: { label: 'Huishoudelijk', emoji: '🏠', desc: 'Wasmachines, drogers, airco\'s, strijkijzers en vaatwassers.' },
+  tuin: { label: 'Tuin', emoji: '🌿', desc: 'Grasmaaiers, barbecues, gereedschap en buitenapparaten.' },
+};
+
+// Group by category
+const byCategory: Record<string, typeof vsArticles> = {};
+for (const a of vsArticles) {
+  const cat = a.data.category;
+  if (!byCategory[cat]) byCategory[cat] = [];
+  byCategory[cat].push(a);
+}
+
+// Build FAQ structured data from comparison articles
+const faqItems = vsArticles.slice(0, 20).map(a => ({
+  '@type': 'Question',
+  name: a.data.title.replace(/^['']|['']$/g, '').replace(/\d{4}$/, '').trim() + ' — wat is beter?',
+  acceptedAnswer: {
+    '@type': 'Answer',
+    text: a.data.description || `Vergelijk ${a.data.title} op prijs, prestaties, voor- en nadelen. Lees onze volledige koopgids voor de beste keuze in 2026.`,
+  },
+}));
+
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faqItems,
+};
+
+// ItemList schema for the comparison hub
+const itemListSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'ItemList',
+  itemListElement: vsArticles.map((a, i) => ({
+    '@type': 'ListItem',
+    position: i + 1,
+    url: `https://rigbay.github.io/dutch-appliances/${a.data.slug}/`,
+    name: a.data.title,
+  })),
+};
+
+const structuredData = [faqSchema, itemListSchema];
+
+const categoryKeys = Object.keys(categoryMeta).filter(k => byCategory[k] && byCategory[k].length > 0);
+---
+
+<BaseLayout
+  title="Apparaten Vergelijken 2026: Alle 51 Vergelijkingen op een Rij | Beste Apparaten"
+  description="Twijfel je tussen twee apparaten? Vergelijk airfryer vs friteuse, inductie vs gas, robotstofzuiger vs stofzuiger en 48 andere directe vergelijkingen. Filter op categorie, vind de beste keuze."
+  canonicalUrl="https://rigbay.github.io/dutch-appliances/vergelijkingen/"
+  structuredData={structuredData}
+>
+  <!-- Hero -->
+  <section class="mx-auto max-w-6xl px-4 py-10 sm:px-6 lg:px-8">
+    <p class="text-sm font-bold uppercase tracking-[0.16em] text-leaf">Direct Vergelijken</p>
+    <h1 class="mt-3 font-serif text-4xl font-semibold text-ink sm:text-5xl">
+      Alle {vsArticles.length} apparaat-vergelijkingen op een rij
+    </h1>
+    <p class="mt-4 max-w-3xl text-lg leading-8 text-muted">
+      Twijfel je tussen twee apparaten? Hier vind je al onze directe vergelijkingen — van airfryer vs friteuse tot inductie vs gas en robotstofzuiger vs gewone stofzuiger. Filter op categorie, sorteer op rating, en klik door naar de volledige koopgids met Amazon-link prijzen en eerlijke minpunten.
+    </p>
+
+    <!-- Category filter tabs -->
+    <nav class="mt-8 flex flex-wrap gap-2" aria-label="Filter op categorie">
+      <a href="#alle" class="rounded border border-[#dfe8e5] bg-leaf px-4 py-2 text-sm font-semibold text-white hover:bg-[#1f514b] transition">
+        📋 Alle ({vsArticles.length})
+      </a>
+      {categoryKeys.map(key => (
+        <a href={`#${key}`} class="rounded border border-[#dfe8e5] px-4 py-2 text-sm font-semibold text-leaf hover:bg-[#edf4f2] transition">
+          {categoryMeta[key].emoji} {categoryMeta[key].label} ({byCategory[key].length})
+        </a>
+      ))}
+    </nav>
+  </section>
+
+  <!-- All comparisons table -->
+  <section id="alle" class="mx-auto max-w-6xl px-4 pb-6 sm:px-6 lg:px-8">
+    <h2 class="font-serif text-2xl font-semibold text-ink mb-4">Alle {vsArticles.length} vergelijkingen</h2>
+    <div class="overflow-x-auto rounded border border-[#e8e1d7]">
+      <table class="min-w-full text-sm">
+        <thead class="bg-linen">
+          <tr>
+            <th class="px-4 py-3 text-left font-semibold text-ink">Vergelijking</th>
+            <th class="px-4 py-3 text-left font-semibold text-ink hidden sm:table-cell">Categorie</th>
+            <th class="px-4 py-3 text-center font-semibold text-ink">Rating</th>
+            <th class="px-4 py-3 text-left font-semibold text-ink hidden md:table-cell">Prijs</th>
+            <th class="px-4 py-3 text-left font-semibold text-ink hidden lg:table-cell">Leestijd</th>
+          </tr>
+        </thead>
+        <tbody class="divide-y divide-[#e8e1d7]">
+          {vsArticles.map((a) => {
+            const d = a.data;
+            const cat = categoryMeta[d.category] || { label: d.category, emoji: '📦' };
+            return (
+              <tr class="hover:bg-[#faf8f5] transition">
+                <td class="px-4 py-3">
+                  <a href={`/${d.slug}/`} class="font-semibold text-leaf hover:text-[#1f514b] hover:underline">
+                    {d.title.replace(/^['']|['']$/g, '').replace(/\s*\d{4}\s*$/, '').trim()}
+                  </a>
+                  <p class="mt-0.5 text-xs text-muted line-clamp-1 hidden sm:block">{d.description}</p>
+                </td>
+                <td class="px-4 py-3 hidden sm:table-cell">
+                  <span class="inline-flex items-center gap-1 rounded bg-[#edf4f2] px-2 py-0.5 text-xs font-medium text-leaf">
+                    {cat.emoji} {cat.label}
+                  </span>
+                </td>
+                <td class="px-4 py-3 text-center">
+                  <span class="inline-flex items-center gap-1 rounded bg-[#fef9e7] px-2 py-0.5 text-xs font-bold text-[#b7950b]">
+                    ★ {d.rating.toFixed(1)}
+                  </span>
+                </td>
+                <td class="px-4 py-3 text-xs text-muted hidden md:table-cell">{d.priceRange}</td>
+                <td class="px-4 py-3 text-xs text-muted hidden lg:table-cell">{d.readingTime}</td>
+              </tr>
+            );
+          })}
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- Per-category sections -->
+  {categoryKeys.map(key => {
+    const items = byCategory[key];
+    const meta = categoryMeta[key];
+    return (
+      <section id={key} class="mx-auto max-w-6xl px-4 py-8 sm:px-6 lg:px-8 border-t border-[#e8e1d7]">
+        <div class="mb-4">
+          <p class="text-sm font-bold uppercase tracking-[0.16em] text-leaf">{meta.emoji} {meta.label}</p>
+          <h2 class="mt-1 font-serif text-2xl font-semibold text-ink">
+            {meta.label} vergelijkingen ({items.length})
+          </h2>
+          <p class="mt-1 text-muted">{meta.desc}</p>
+        </div>
+        <div class="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
+          {items.map((a) => {
+            const d = a.data;
+            return (
+              <a href={`/${d.slug}/`} class="group rounded border border-[#e6ded2] bg-paper p-4 shadow-sm transition hover:-translate-y-0.5 hover:shadow-soft">
+                <div class="flex items-start justify-between gap-2">
+                  <h3 class="font-serif text-base font-semibold text-ink group-hover:text-leaf transition leading-snug">
+                    {d.title.replace(/^['']|['']$/g, '').replace(/\s*\d{4}\s*$/, '').trim()}
+                  </h3>
+                  <span class="shrink-0 rounded bg-[#fef9e7] px-2 py-0.5 text-xs font-bold text-[#b7950b]">
+                    ★ {d.rating.toFixed(1)}
+                  </span>
+                </div>
+                <p class="mt-1.5 text-xs text-muted line-clamp-2">{d.description}</p>
+                <div class="mt-3 flex flex-wrap items-center gap-2 text-xs text-muted">
+                  <span>{d.priceRange}</span>
+                  <span>·</span>
+                  <span>{d.readingTime}</span>
+                </div>
+              </a>
+            );
+          })}
+        </div>
+      </section>
+    );
+  })}
+
+  <!-- SEO footer -->
+  <section class="mx-auto max-w-6xl px-4 py-10 sm:px-6 lg:px-8 border-t border-[#e8e1d7]">
+    <div class="max-w-3xl rounded bg-linen p-6">
+      <h2 class="font-serif text-2xl font-semibold text-ink">Waarom directe vergelijkingen?</h2>
+      <p class="mt-3 text-muted leading-relaxed">
+        De meeste kopers twijfelen tussen twee (of drie) apparaten. Een airfryer of een friteuse? Inductie of gas? Robotstofzuiger of gewone stofzuiger? Onze vergelijkingsartikelen zetten specificaties, prijzen, voor- en nadelen direct naast elkaar — zodat je in één oogopslag ziet wat voor jou de beste keuze is. Ieder artikel bevat actuele Amazon.nl-prijzen en eerlijke minpunten, niet alleen de voordelen.
+      </p>
+      <p class="mt-3 text-muted leading-relaxed">
+        Alle links naar Amazon.nl zijn affiliate links (tag: kieskeukennl-21). We ontvangen een kleine commissie als je via onze link koopt, zonder extra kosten voor jou. Dit helpt ons om de site advertentievrij te houden en onafhankelijke koopgidsen te blijven schrijven.
+      </p>
+      <div class="mt-4 flex flex-wrap gap-3">
+        <a href="/alle-apparaten/" class="text-sm font-semibold text-leaf hover:text-[#1f514b]">← Alle apparaten overzicht</a>
+        <a href="/top-15/" class="text-sm font-semibold text-leaf hover:text-[#1f514b]">← Top 15 van 2026</a>
+        <a href="/budget/" class="text-sm font-semibold text-leaf hover:text-[#1f514b]">← Budget onder €100</a>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
