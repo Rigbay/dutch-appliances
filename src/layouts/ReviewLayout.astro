@@ -10,9 +10,16 @@ import ComparisonTable from '../components/ComparisonTable.astro';
 interface Props {
   review: CollectionEntry<'reviews'>;
   relatedArticles: CollectionEntry<'reviews'>[];
+  sameCategoryComparisons?: CollectionEntry<'reviews'>[];
+  sameCategoryGuides?: CollectionEntry<'reviews'>[];
 }
 
-const { review, relatedArticles } = Astro.props;
+const {
+  review,
+  relatedArticles,
+  sameCategoryComparisons = [],
+  sameCategoryGuides = []
+} = Astro.props;
 const data = review.data;
 const site = Astro.site ?? new URL('https://rigbay.github.io/dutch-appliances');
 const canonical = new URL(`/${data.slug}/`, site).toString();
@@ -22,6 +29,7 @@ const categoryLabel = {
   schoonmaken: 'Schoonmaken',
   tuin: 'Tuin'
 }[data.category];
+const categoryUrl = `/categorie/${data.category}/`;
 
 const bestProduct = data.products[0];
 const extractAsin = (url: string): string => {
@@ -214,6 +222,63 @@ const articleSchema = {
     <div class="prose-review mx-auto mt-10 max-w-3xl">
       <slot />
     </div>
+
+    <section class="mt-14 rounded border border-[#dfe8e5] bg-[#f3faf7] p-6">
+      <div class="flex flex-col gap-3 md:flex-row md:items-end md:justify-between">
+        <div>
+          <p class="text-sm font-bold uppercase tracking-[0.16em] text-leaf">Slimme vervolgstap</p>
+          <h2 class="mt-2 font-serif text-3xl font-semibold text-ink">Vergelijk verder voordat je koopt</h2>
+          <p class="mt-2 max-w-3xl text-sm leading-6 text-muted">
+            Veel bezoekers komen via één product binnen, maar twijfelen eigenlijk tussen twee apparaattypes of prijsklassen.
+            Gebruik deze interne keuzehulpen om de beste match voor je huishouden te vinden.
+          </p>
+        </div>
+        <div class="flex flex-wrap gap-2 text-sm font-bold">
+          <a href="/vergelijken/" class="rounded bg-leaf px-3 py-2 text-white hover:bg-[#1f514b]">Alle X vs Y vergelijkingen</a>
+          <a href="/apparaat-kiezen/" class="rounded border border-leaf px-3 py-2 text-leaf hover:bg-[#edf4f2]">Beslisboom openen</a>
+          <a href={categoryUrl} class="rounded border border-[#cbbda9] px-3 py-2 text-ink hover:bg-paper">Meer in {categoryLabel}</a>
+        </div>
+      </div>
+
+      <div class="mt-6 grid gap-4 lg:grid-cols-2">
+        {sameCategoryComparisons.length > 0 && (
+          <div class="rounded border border-[#e6ded2] bg-paper p-5">
+            <h3 class="font-serif text-xl font-semibold text-ink">Populaire vergelijkingen in {categoryLabel}</h3>
+            <ul class="mt-4 space-y-3 text-sm">
+              {sameCategoryComparisons.map((article) => (
+                <li>
+                  <a href={`/${article.data.slug}/`} class="font-semibold text-leaf hover:text-[#1f514b]">
+                    {article.data.title}
+                  </a>
+                  <p class="mt-1 text-muted">{article.data.description}</p>
+                </li>
+              ))}
+            </ul>
+          </div>
+        )}
+
+        {sameCategoryGuides.length > 0 && (
+          <div class="rounded border border-[#e6ded2] bg-paper p-5">
+            <h3 class="font-serif text-xl font-semibold text-ink">Beste koopgidsen naast deze review</h3>
+            <ul class="mt-4 space-y-3 text-sm">
+              {sameCategoryGuides.map((article) => (
+                <li class="flex items-start justify-between gap-3">
+                  <div>
+                    <a href={`/${article.data.slug}/`} class="font-semibold text-leaf hover:text-[#1f514b]">
+                      {article.data.title}
+                    </a>
+                    <p class="mt-1 text-muted">{article.data.priceRange} · {article.data.readingTime}</p>
+                  </div>
+                  <span class="shrink-0 rounded bg-[#edf4f2] px-2 py-0.5 text-xs font-bold text-leaf">
+                    {article.data.rating.toFixed(1)}/5
+                  </span>
+                </li>
+              ))}
+            </ul>
+          </div>
+        )}
+      </div>
+    </section>
 
     <!-- FAQ section with FAQPage structured data -->
     {data.faq && data.faq.length >= 3 && (

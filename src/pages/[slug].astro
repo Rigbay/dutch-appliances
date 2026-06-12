@@ -16,8 +16,24 @@ const allReviews = await getCollection('reviews', ({ data }) => !data.draft);
 const relatedArticles = (review.data.related || [])
   .map((slug: string) => allReviews.find((entry: any) => entry.data.slug === slug))
   .filter(Boolean);
+const sameCategoryArticles = allReviews.filter((entry: any) =>
+  entry.data.slug !== review.data.slug && entry.data.category === review.data.category
+);
+const sameCategoryComparisons = sameCategoryArticles
+  .filter((entry: any) => entry.data.slug.includes('-vs-'))
+  .sort((a: any, b: any) => b.data.rating - a.data.rating)
+  .slice(0, 4);
+const sameCategoryGuides = sameCategoryArticles
+  .filter((entry: any) => !entry.data.slug.includes('-vs-'))
+  .sort((a: any, b: any) => b.data.rating - a.data.rating)
+  .slice(0, 4);
 ---
 
-<ReviewLayout review={review} relatedArticles={relatedArticles}>
+<ReviewLayout
+  review={review}
+  relatedArticles={relatedArticles}
+  sameCategoryComparisons={sameCategoryComparisons}
+  sameCategoryGuides={sameCategoryGuides}
+>
   <Content />
 </ReviewLayout>
