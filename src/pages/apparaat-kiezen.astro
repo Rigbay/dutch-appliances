@@ -1,0 +1,317 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const reviews = await getCollection('reviews', ({ data }) => !data.draft);
+const bySlug = new Map<string, any>(reviews.map((review: any) => [review.data.slug, review]));
+
+const getArticle = (slug: string): any => {
+  const article = bySlug.get(slug);
+  if (!article) {
+    throw new Error(`Missing article for apparaat-kiezen: ${slug}`);
+  }
+  return article;
+};
+
+const extractAsin = (url: string): string => {
+  const match = url.match(/\/dp\/([A-Z0-9]+)/);
+  return match ? match[1] : '';
+};
+
+const useCases = [
+  {
+    group: 'Keuken',
+    intent: 'Snel avondeten zonder frituurvet',
+    primarySlug: 'beste-airfryer-2026',
+    compareSlug: 'airfryer-vs-oven-2026',
+    budgetSlug: 'beste-airfryer-onder-100-euro-2026',
+    advice: 'Kies een airfryer als snelheid en krokante snacks belangrijker zijn dan grote ovenschalen. Voor gezinnen is inhoud belangrijker dan het hoogste wattage.',
+    avoid: 'Te kleine manden en modellen zonder duidelijke temperatuurregeling.',
+    badge: 'Meest geklikt'
+  },
+  {
+    group: 'Keuken',
+    intent: 'Goede koffie met weinig gedoe',
+    primarySlug: 'beste-volautomatische-koffiemachine-2026',
+    compareSlug: 'koffiemachine-bonen-vs-cups-2026',
+    budgetSlug: 'beste-koffiemachine-onder-200-euro-2026',
+    advice: 'Bonenmachines winnen op smaak en prijs per kopje; cups winnen op gemak. Reken vooral door hoeveel koppen je per dag drinkt.',
+    avoid: 'Een luxe machine zonder automatische reiniging als je weinig onderhoud wilt.'
+  },
+  {
+    group: 'Schoonmaken',
+    intent: 'Minder vaak zelf stofzuigen',
+    primarySlug: 'beste-robotstofzuiger-2026',
+    compareSlug: 'robotstofzuiger-vs-stofzuiger-2026',
+    budgetSlug: 'beste-steelstofzuiger-2026',
+    advice: 'Een robotstofzuiger is ideaal voor dagelijks onderhoud; combineer met een steelstofzuiger voor trappen, banken en hoeken.',
+    avoid: 'Goedkope robots zonder slimme navigatie in huizen met veel meubels.',
+    badge: 'Sterke affiliate-intentie'
+  },
+  {
+    group: 'Schoonmaken',
+    intent: 'Dierenharen en allergieën aanpakken',
+    primarySlug: 'beste-stofzuiger-tegen-dierenharen-2026',
+    compareSlug: 'stofzuiger-met-zak-vs-zakloos-2026',
+    budgetSlug: 'beste-stofzuiger-voor-allergie-2026',
+    advice: 'Let op een turboborstel, HEPA-filter en makkelijk leegmaken. Met zak is vaak hygiënischer; zakloos is goedkoper in gebruik.',
+    avoid: 'Alleen naar zuigkracht in watt kijken — mondstuk en filtering maken meer verschil.'
+  },
+  {
+    group: 'Huishoudelijk',
+    intent: 'Wassen en drogen met lagere energiekosten',
+    primarySlug: 'condensdroger-vs-warmtepompdroger-2026',
+    compareSlug: 'wasmachine-vs-wasdroger-combi-2026',
+    budgetSlug: 'beste-wasmachine-2026',
+    advice: 'Een warmtepompdroger kost meer bij aankoop, maar is meestal de slimste keuze als je meerdere keren per week droogt.',
+    avoid: 'Een was-droogcombi als je vaak grote ladingen achter elkaar wilt draaien.'
+  },
+  {
+    group: 'Keuken',
+    intent: 'Overstappen naar zuiniger koken',
+    primarySlug: 'inductie-vs-gasfornuis-2026',
+    compareSlug: 'inductie-vs-keramisch-2026',
+    budgetSlug: 'beste-inductiekookplaat-2026',
+    advice: 'Inductie is snel, veilig en efficiënt. Controleer wel of je meterkast, pannen en aansluitwaarde passen bij je keuze.',
+    avoid: 'Een 1-fase kookplaat kopen zonder te checken of je meerdere pitten tegelijk op hoog vermogen gebruikt.'
+  },
+  {
+    group: 'Zomer',
+    intent: 'Een koeler huis in warme weken',
+    primarySlug: 'beste-airconditioner-2026',
+    compareSlug: 'airconditioner-vs-ventilator-2026',
+    budgetSlug: 'mobiele-airco-vs-split-airco-2026',
+    advice: 'Een ventilator voelt koeler, een airco verlaagt echt de temperatuur. Voor slaapkamers telt geluidsniveau minstens zo zwaar als koelvermogen.',
+    avoid: 'Mobiele airco’s zonder goede raamafdichting — dan koel je vooral de straat.'
+  },
+  {
+    group: 'Tuin',
+    intent: 'Minder werk aan gazon en tuin',
+    primarySlug: 'beste-robotgrasmaaier-2026',
+    compareSlug: 'robotgrasmaaier-vs-grasmaaier-2026',
+    budgetSlug: 'beste-heggenschaar-2026',
+    advice: 'Een robotmaaier is vooral sterk bij regelmatig maaien van overzichtelijke gazons. Voor ruwe stukken blijft een gewone maaier praktischer.',
+    avoid: 'Een robotmaaier kiezen zonder naar helling, randafwerking en installatiegemak te kijken.'
+  }
+].map((item) => {
+  const primary = getArticle(item.primarySlug);
+  const compare = getArticle(item.compareSlug);
+  const budget = getArticle(item.budgetSlug);
+  const product = primary.data.products[0];
+  return {
+    ...item,
+    primary,
+    compare,
+    budget,
+    product,
+    asin: extractAsin(product.affiliateLink)
+  };
+});
+
+const categoryCounts = useCases.reduce((acc: Record<string, number>, item) => {
+  acc[item.group] = (acc[item.group] || 0) + 1;
+  return acc;
+}, {});
+
+const itemListSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'ItemList',
+  name: 'Apparaat kiezen per situatie 2026',
+  description: 'Koopgerichte keuzehulp voor Nederlandse huishoudens: welk apparaat past bij welke situatie, met alternatieven en vergelijkingen.',
+  numberOfItems: useCases.length,
+  itemListElement: useCases.map((item, index) => ({
+    '@type': 'ListItem',
+    position: index + 1,
+    name: item.intent,
+    url: `https://rigbay.github.io/dutch-appliances/${item.primary.data.slug}/`
+  }))
+};
+
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: [
+    {
+      '@type': 'Question',
+      name: 'Welk huishoudelijk apparaat moet ik als eerste vervangen?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'Begin met het apparaat dat je het vaakst gebruikt of dat de meeste energie kost. Voor veel huishoudens zijn dat de wasdroger, stofzuiger, koffiemachine of kookplaat.'
+      }
+    },
+    {
+      '@type': 'Question',
+      name: 'Is duurder altijd beter bij keukenapparaten?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'Nee. Duurdere apparaten bieden vaak meer gemak, inhoud of bouwkwaliteit, maar de beste keuze hangt af van gebruiksfrequentie, ruimte en onderhoud. Een budgetmodel kan prima zijn bij incidenteel gebruik.'
+      }
+    },
+    {
+      '@type': 'Question',
+      name: 'Waar moet ik op letten voordat ik via een affiliate link koop?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'Controleer actuele prijs, levertijd, garantievoorwaarden, retourtermijn en of het model past bij je huishouden. Affiliate links veranderen de prijs voor jou niet.'
+      }
+    }
+  ]
+};
+---
+
+<BaseLayout
+  title="Welk apparaat kiezen? Praktische keuzehulp per situatie 2026 | Beste Apparaten"
+  description="Weet je niet welk apparaat je nodig hebt? Vergelijk per situatie de slimste keuze: airfryer, koffiemachine, robotstofzuiger, warmtepompdroger, inductie en meer."
+  structuredData={[itemListSchema, faqSchema]}
+>
+  <section class="border-b border-[#e8e1d7] bg-linen">
+    <div class="mx-auto max-w-6xl px-4 py-12 sm:px-6 lg:px-8">
+      <p class="text-sm font-bold uppercase tracking-[0.16em] text-leaf">Koopgerichte keuzehulp</p>
+      <h1 class="mt-3 max-w-4xl font-serif text-4xl font-semibold leading-tight text-ink sm:text-5xl">
+        Welk apparaat past bij jouw situatie?
+      </h1>
+      <p class="mt-5 max-w-3xl text-lg leading-8 text-muted">
+        Start niet bij een merk, maar bij je probleem: sneller koken, minder stofzuigen, lagere energiekosten of een koeler huis.
+        Deze pagina stuurt bezoekers door naar de best passende koopgidsen en vergelijkingen met hoge koopintentie.
+      </p>
+      <div class="mt-6 flex flex-wrap gap-2">
+        {Object.entries(categoryCounts).map(([name, count]) => (
+          <a href={`#${name.toLowerCase()}`} class="rounded border border-[#dfe8e5] bg-paper px-4 py-2 text-sm font-bold text-leaf hover:bg-[#edf4f2]">
+            {name} ({count})
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="mx-auto max-w-6xl px-4 py-10 sm:px-6 lg:px-8">
+    <div class="rounded border border-[#dfe8e5] bg-[#f3faf7] p-6">
+      <div class="grid gap-5 md:grid-cols-3">
+        <div>
+          <p class="text-sm font-bold uppercase tracking-[0.16em] text-leaf">Stap 1</p>
+          <h2 class="mt-2 font-serif text-2xl font-semibold text-ink">Kies je situatie</h2>
+          <p class="mt-2 text-sm leading-6 text-muted">Gebruik de tabel hieronder als snelle beslisboom voor veel voorkomende Nederlandse huishoudens.</p>
+        </div>
+        <div>
+          <p class="text-sm font-bold uppercase tracking-[0.16em] text-leaf">Stap 2</p>
+          <h2 class="mt-2 font-serif text-2xl font-semibold text-ink">Lees de vergelijking</h2>
+          <p class="mt-2 text-sm leading-6 text-muted">Iedere route linkt naar een directe vergelijking of koopgids met pluspunten, minpunten en alternatieven.</p>
+        </div>
+        <div>
+          <p class="text-sm font-bold uppercase tracking-[0.16em] text-leaf">Stap 3</p>
+          <h2 class="mt-2 font-serif text-2xl font-semibold text-ink">Check de actuele prijs</h2>
+          <p class="mt-2 text-sm leading-6 text-muted">Productknoppen gebruiken affiliate links. Je betaalt niets extra; Beste Apparaten kan commissie ontvangen.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="mx-auto max-w-6xl px-4 py-8 sm:px-6 lg:px-8">
+    <h2 class="font-serif text-3xl font-semibold text-ink">Snelle beslisboom: beste apparaat per behoefte</h2>
+    <p class="mt-3 max-w-3xl text-muted">
+      De beste keuze is niet altijd het duurste model. Hieronder vind je per gebruikssituatie de slimste startpagina, een verdiepende vergelijking en een budget- of alternatiefpad.
+    </p>
+    <div class="mt-6 overflow-x-auto rounded border border-[#e8e1d7]">
+      <table class="min-w-full text-sm">
+        <thead>
+          <tr class="bg-[#f8f5f0] text-left">
+            <th class="p-3 font-semibold">Situatie</th>
+            <th class="p-3 font-semibold">Start hier</th>
+            <th class="p-3 font-semibold">Vergelijking</th>
+            <th class="p-3 font-semibold">Budget / alternatief</th>
+          </tr>
+        </thead>
+        <tbody>
+          {useCases.map((item, index) => (
+            <tr class={index % 2 === 0 ? 'bg-white' : 'bg-[#faf8f3]'}>
+              <td class="p-3 align-top">
+                <span class="font-semibold text-ink">{item.intent}</span>
+                <span class="mt-1 block text-xs text-muted">{item.group}</span>
+              </td>
+              <td class="p-3 align-top">
+                <a href={`/${item.primary.data.slug}/`} class="font-bold text-leaf hover:text-[#1f514b]">{item.primary.data.featuredProduct}</a>
+              </td>
+              <td class="p-3 align-top">
+                <a href={`/${item.compare.data.slug}/`} class="text-ink underline decoration-[#cbbda9] underline-offset-4 hover:text-leaf">{item.compare.data.title}</a>
+              </td>
+              <td class="p-3 align-top">
+                <a href={`/${item.budget.data.slug}/`} class="text-ink underline decoration-[#cbbda9] underline-offset-4 hover:text-leaf">{item.budget.data.featuredProduct}</a>
+              </td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  {['Keuken', 'Schoonmaken', 'Huishoudelijk', 'Zomer', 'Tuin'].map((group) => {
+    const items = useCases.filter((item) => item.group === group);
+    if (items.length === 0) return null;
+    return (
+      <section id={group.toLowerCase()} class="mx-auto max-w-6xl border-t border-[#e8e1d7] px-4 py-10 sm:px-6 lg:px-8">
+        <h2 class="font-serif text-3xl font-semibold text-ink">{group}: beste routes naar aankoop</h2>
+        <div class="mt-6 grid gap-5 md:grid-cols-2">
+          {items.map((item) => (
+            <article class="rounded border border-[#e6ded2] bg-paper p-5 shadow-sm">
+              <div class="flex flex-wrap items-start justify-between gap-3">
+                <div>
+                  <p class="text-sm font-bold uppercase tracking-[0.14em] text-leaf">{item.intent}</p>
+                  <h3 class="mt-2 font-serif text-2xl font-semibold text-ink">{item.product.name}</h3>
+                </div>
+                {item.badge && <span class="rounded bg-[#edf4f2] px-2.5 py-1 text-xs font-bold text-leaf">{item.badge}</span>}
+              </div>
+              <p class="mt-4 leading-7 text-muted">{item.advice}</p>
+              <p class="mt-3 text-sm leading-6 text-muted"><strong class="text-ink">Let op:</strong> {item.avoid}</p>
+              <div class="mt-5 flex flex-wrap gap-2">
+                <a href={`/${item.primary.data.slug}/`} class="rounded bg-leaf px-4 py-2 text-sm font-bold text-white hover:bg-[#1f514b]">
+                  Lees koopgids →
+                </a>
+                <a href={item.product.affiliateLink} rel="nofollow sponsored" target="_blank" class="rounded bg-[#232f3e] px-4 py-2 text-sm font-bold text-white hover:bg-[#131921]">
+                  Bekijk actuele prijs
+                </a>
+                <a href={`/${item.compare.data.slug}/`} class="rounded border border-leaf bg-white px-4 py-2 text-sm font-bold text-leaf hover:bg-[#edf4f2]">
+                  Vergelijk alternatieven
+                </a>
+              </div>
+            </article>
+          ))}
+        </div>
+      </section>
+    );
+  })}
+
+  <section class="mx-auto max-w-6xl border-t border-[#e8e1d7] px-4 py-10 sm:px-6 lg:px-8">
+    <div class="grid gap-6 lg:grid-cols-[1fr_1fr]">
+      <div class="rounded border border-[#e6ded2] bg-paper p-6">
+        <h2 class="font-serif text-3xl font-semibold text-ink">Wanneer kies je budget?</h2>
+        <p class="mt-3 leading-7 text-muted">
+          Kies budget als je het apparaat weinig gebruikt, nog niet zeker weet of de productcategorie bij je past, of vooral basisfuncties nodig hebt. Start dan bij onze <a href="/budget/" class="font-semibold text-leaf underline hover:text-[#1f514b]">budget apparaten onder €100</a>.
+        </p>
+      </div>
+      <div class="rounded border border-[#e6ded2] bg-paper p-6">
+        <h2 class="font-serif text-3xl font-semibold text-ink">Wanneer kies je premium?</h2>
+        <p class="mt-3 leading-7 text-muted">
+          Kies premium bij dagelijks gebruik, hoge energiekosten, allergieën, grotere gezinnen of wanneer onderhoudsgemak belangrijk is. Bekijk ook de <a href="/top-15/" class="font-semibold text-leaf underline hover:text-[#1f514b]">top 15 apparaten van 2026</a>.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <section class="mx-auto max-w-6xl border-t border-[#e8e1d7] px-4 py-10 sm:px-6 lg:px-8">
+    <h2 class="font-serif text-3xl font-semibold text-ink">Veelgestelde vragen</h2>
+    <div class="mt-6 grid gap-4 md:grid-cols-3">
+      <details class="rounded border border-[#e6ded2] bg-paper p-4">
+        <summary class="cursor-pointer font-semibold text-ink">Welk apparaat moet ik eerst vervangen?</summary>
+        <p class="mt-3 text-sm leading-6 text-muted">Begin met het apparaat dat je het vaakst gebruikt of dat het meeste energie kost. Een droger, stofzuiger, koffiemachine of kookplaat levert meestal sneller merkbaar voordeel op dan een apparaat dat maar af en toe aan staat.</p>
+      </details>
+      <details class="rounded border border-[#e6ded2] bg-paper p-4">
+        <summary class="cursor-pointer font-semibold text-ink">Is duurder altijd beter?</summary>
+        <p class="mt-3 text-sm leading-6 text-muted">Nee. Duurder betekent vaak meer inhoud, comfort of bouwkwaliteit, maar niet automatisch beter voor jouw huishouden. Gebruik onze vergelijkingen om te zien welk voordeel je echt gebruikt.</p>
+      </details>
+      <details class="rounded border border-[#e6ded2] bg-paper p-4">
+        <summary class="cursor-pointer font-semibold text-ink">Zijn de prijslinks affiliate links?</summary>
+        <p class="mt-3 text-sm leading-6 text-muted">Ja, waar mogelijk gebruiken we affiliate links. Dat kost jou niets extra en helpt de site onderhouden. Controleer altijd actuele prijs, garantie en levertijd bij de winkel.</p>
+      </details>
+    </div>
+  </section>
+</BaseLayout>
