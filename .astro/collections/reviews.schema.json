@@ -126,6 +126,27 @@
           "minItems": 2,
           "maxItems": 6
         },
+        "faq": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "q": {
+                "type": "string"
+              },
+              "a": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "q",
+              "a"
+            ],
+            "additionalProperties": false
+          },
+          "minItems": 3,
+          "maxItems": 6
+        },
         "draft": {
           "type": "boolean",
           "default": false
