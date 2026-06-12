@@ -47,6 +47,12 @@ products:
     bestFor: "Gemak"
     rating: 4.5
     affiliateLink: "https://www.amazon.nl/s?k=BWT+Waterontharder&tag=kieskeukennl-21"
+  - name: "WPRO Ontkalker voor koffiezetapparaten"
+    verdict: "Logische goedkope onderhoudskeuze voor wie vooral losse apparaten kalkvrij wil houden in plaats van de hele woning te ontharden."
+    priceRange: "EUR 8-20"
+    bestFor: "Periodiek apparaatonderhoud"
+    rating: 3.8
+    affiliateLink: "https://www.amazon.nl/s?k=WPRO+Ontkalker+koffiezetapparaat&tag=kieskeukennl-21"
 related:
   - "beste-elektrische-kachel-2026"
   - "beste-waterontharder-2026"

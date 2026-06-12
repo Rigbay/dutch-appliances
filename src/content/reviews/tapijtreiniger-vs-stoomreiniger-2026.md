@@ -47,6 +47,12 @@ products:
     bestFor: "Gemak"
     rating: 4.3
     affiliateLink: "https://www.amazon.nl/s?k=Bissell+Vac+&+Steam+Combireiniger&tag=kieskeukennl-21"
+  - name: "Kärcher SE 3-18 Compact Tapijtreiniger"
+    verdict: "Handige keuze voor auto's, banken en kleinere tapijtoppervlakken wanneer je dieper wilt reinigen dan met stoom alleen."
+    priceRange: "EUR 140-220"
+    bestFor: "Banken, auto-interieur en kleine tapijten"
+    rating: 4.2
+    affiliateLink: "https://www.amazon.nl/s?k=Kärcher+SE+3-18+Compact+Tapijtreiniger&tag=kieskeukennl-21"
 related:
   - "beste-tapijtreiniger-2026"
   - "beste-stoomreiniger-2026"

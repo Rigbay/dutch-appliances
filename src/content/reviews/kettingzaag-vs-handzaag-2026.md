@@ -47,6 +47,12 @@ products:
     bestFor: "Zware snoeiwerkzaamheden, hout zagen, brandhout maken, intensief gebruik."
     rating: 4.5
     affiliateLink: "https://www.amazon.nl/s?k=Makita+DUC353Z+Twin+18V+LXT+Accu+kettingzaag&tag=kieskeukennl-21"
+  - name: "Gardena Combisystem Snoeizaag 300 P"
+    verdict: "Praktische handzaag voor veilig snoeien vanaf de grond of met telescoopsteel, zonder accu, olie of gehoorbescherming."
+    priceRange: "EUR 35-55"
+    bestFor: "Veilig snoeiwerk boven schouderhoogte"
+    rating: 4.1
+    affiliateLink: "https://www.amazon.nl/s?k=Gardena+Combisystem+Snoeizaag+300+P&tag=kieskeukennl-21"
 related:
   - "beste-heggenschaar-2026"
   - "beste-bosmaaier-2026"

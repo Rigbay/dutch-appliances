@@ -50,6 +50,12 @@ products:
     bestFor: "Gemak, flexibiliteit"
     rating: 4.0
     affiliateLink: "https://www.amazon.nl/s?k=Honeywell+HZ-220E+Keramische+Ventilator+Kachel&tag=kieskeukennl-21"
+  - name: "Princess Smart Infraroodpaneel 700W"
+    verdict: "Betaalbaar infraroodpaneel voor vaste bijverwarming in een werk- of slaapkamer, met stillere warmte dan een ventilatorkachel."
+    priceRange: "EUR 120 - EUR 180"
+    bestFor: "Stille vaste bijverwarming"
+    rating: 4.1
+    affiliateLink: "https://www.amazon.nl/s?k=Princess+Smart+Infraroodpaneel+700W&tag=kieskeukennl-21"
 related:
   - "beste-elektrische-kachel-2026"
   - "beste-waterontharder-2026"
