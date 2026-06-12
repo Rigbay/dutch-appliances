@@ -1,229 +1,301 @@
 #!/usr/bin/env python3
-"""Generate 5 new KiesKeuken comparison articles via Gemini API.
-Topics: magnetron vs combi, stofzuiger vs kruimeldief, strijkijzer vs handstomer,
-broodrooster vs tosti-ijzer, soepmaker vs staafmixer."""
-import json, urllib.request, urllib.error, os, sys
+"""Generate 5 new comparison articles using Gemini API for KiesKeuken.
+Outputs to src/content/reviews/ in canonical clone /home/cls/kieskeuken
+"""
 
-# Load API key
-KEY_FILE = os.path.expanduser("~/.hermes/.env")
-API_KEY = None
-with open(KEY_FILE) as f:
+import os, sys, json, time
+
+# Load env
+env_path = os.path.expanduser("~/.hermes/.env")
+env = {}
+with open(env_path) as f:
     for line in f:
-        if line.startswith("GEMINI_API_KEY="):
-            API_KEY = line.split("=", 1)[1].strip().strip('"').strip("'")
-            break
+        line = line.strip()
+        if line and not line.startswith("#") and "=" in line:
+            k, v = line.split("=", 1)
+            env[k.strip()] = v.strip().strip('"').strip("'")
 
-if not API_KEY:
-    print("FATAL: No GEMINI_API_KEY found")
+GEMINI_KEY = env.get("GEMINI_API_KEY")
+if not GEMINI_KEY:
+    print("FATAL: No GEMINI_API_KEY")
     sys.exit(1)
 
-print(f"API key loaded, length={len(API_KEY)}")
+MODEL = "gemini-2.5-flash"
 
-def call_gemini(prompt, max_tokens=4000):
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key={API_KEY}"
-    body = json.dumps({
-        "contents": [{"parts": [{"text": prompt}]}],
-        "generationConfig": {"temperature": 0.5, "maxOutputTokens": max_tokens, "topP": 0.95}
-    }).encode()
-    req = urllib.request.Request(url, data=body, headers={"Content-Type": "application/json"})
-    try:
-        with urllib.request.urlopen(req, timeout=120) as resp:
-            data = json.loads(resp.read())
-            return data["candidates"][0]["content"]["parts"][0]["text"]
-    except urllib.error.HTTPError as e:
-        return f"HTTP {e.code}: {e.read().decode()[:500]}"
-    except Exception as e:
-        return f"Error: {e}"
-
-def build_prompt(cat1, cat2, category, cat1_dutch, cat2_dutch, anchor_slugs=None):
-    anchor_text = ""
-    if anchor_slugs:
-        anchor_text = "GERELATEERDE BESTAANDE ARTIKELEN (waar mogelijk naar verwijzen met /slug/):\n" + "\n".join(f"  - {s}" for s in anchor_slugs)
-
-    return f"""Je bent een Nederlandse redacteur voor KiesKeuken / Beste Apparaten (rigbay.github.io/dutch-appliances/), de beste Nederlandse site voor het vergelijken van huishoudelijke apparaten.
-
-Schrijf een COMPLEET vergelijkingsartikel: "{cat1_dutch} vs. {cat2_dutch} 2026".
-
-CATEGORIE: {category}
-
-{anchor_text}
-
-FORMAAT — exact deze structuur:
-1. # Titel (H1 bovenaan) — "{cat1_dutch} vs. {cat2_dutch} 2026: [pakkende ondertitel]"
-2. ## Inleiding (2-3 alinea's, herkenbare situatieschets waar de lezer zich in vindt)
-3. ## Snel advies (3 aanbevelingen: beste algemeen, beste budget, beste premium — elk 2 zinnen)
-4. ## De ultieme vergelijking op 6 aspecten: functionaliteit, gebruiksgemak, prijs, energieverbruik, onderhoud, duurzaamheid — elk aspect met concrete voor- en nadelen
-5. ## Prijsvergelijking (reele prijsranges in euro's, aanschaf + gebruikskosten op jaarbasis)
-6. ## Verborgen nadelen (eerlijke minpunten die fabrikanten niet vermelden — minimaal 3 per type, specifiek en concreet)
-7. ## Voor wie is welke? (5-6 gebruikersscenario's: "Jij bent een... kies dan een..." met motivatie)
-8. ## Top 5 producten (echte producten — per product: naam **vet**, verdict 1-2 zinnen, priceRange, bestFor label, rating 3.5-5.0)
-9. ## Conclusie: welke past bij jou? (kort, direct, geen "kortom")
-10. ## Veelgestelde vragen (4 FAQ's met volledige antwoorden van 3-5 zinnen elk)
-
-BELANGRIJKE REGELS:
-- Schrijf in vloeiend, natuurlijk Nederlands (NL-NL, niet Vlaams)
-- Gebruik concrete prijzen in euro's (EUR X-Y)
-- Alle producten moeten echt bestaande modellen zijn van bekende merken
-- Product-URLs exact: https://www.amazon.nl/s?k=[productnaam+modelnummer]&tag=kieskeukennl-21
-- Minimaal 5 producten in de Top 5 sectie
-- Eerlijk en kritisch over nadelen — geen marketingtaal, geen "in dit artikel bespreken we"
-- H2 (##) voor hoofdsecties, H3 (###) voor subsecties
-- Verwijs naar gerelateerde artikelen met [linktekst](/slug/) als het natuurlijk past
-- GEEN markdown code fences (```) om het artikel heen sturen
-- Minimaal 1000 woorden, maximaal 1800 woorden
-- Sluit het artikel af met de FAQ — geen "tot slot" of andere afsluitende paragraaf na de FAQ
-
-Stuur ALLEEN het complete artikel terug, beginnend met # titel. Geen uitleg ervoor of erna."""
-
-articles = [
+COMPARISONS = [
     {
-        "cat1": "magnetron", "cat2": "combi-magnetron", "category": "keuken",
-        "cat1_dutch": "Magnetron", "cat2_dutch": "Combi-Magnetron",
-        "title": "Magnetron vs. Combi-Magnetron 2026: Is Een Combi de Meerprijs Waard?",
-        "slug": "magnetron-vs-combi-magnetron-2026",
-        "desc": "Magnetron vs. Combi-Magnetron 2026 vergeleken: prijs, functies, energieverbruik en verborgen nadelen. Ontdek of een combi-magnetron de meerprijs waard is met Amazon NL affiliate links.",
-        "related": ["beste-magnetron-2026", "beste-combi-magnetron-2026", "beste-oven-2026", "oven-vs-magnetron-2026", "airfryer-vs-magnetron-2026", "beste-airfryer-2026"],
-        "anchors": ["beste-magnetron-2026", "oven-vs-magnetron-2026"]
+        "slug": "ijsmachine-vs-diepvries-zelf-maken-2026",
+        "title": "IJsmachine vs. Zelf IJs Maken in de Diepvries: Wat Is Lekkerder én Makkelijker?",
+        "category": "keuken",
+        "price_range": "EUR 25-300",
+        "reading_time": "9 min",
+        "products_keywords": [
+            "Cuisinart ICE30BCE ijsmachine",
+            "Magimix Gelato Expert",
+            "Ninja Creami NC300",
+            "Unold 48870 ijsmachine",
+            "Princess IJsmachine",
+            "Silikomart ijslolly vormen"
+        ],
+        "related": [
+            "beste-ijsmachine-2026",
+            "beste-keukenmachine-2026",
+            "beste-blender-2026",
+            "beste-gourmetstel-2026",
+            "beste-bruiswaterapparaat-2026"
+        ]
     },
     {
-        "cat1": "stofzuiger", "cat2": "kruimeldief", "category": "schoonmaken",
-        "cat1_dutch": "Stofzuiger", "cat2_dutch": "Kruimeldief",
-        "title": "Stofzuiger vs. Kruimeldief 2026: Heb Je Beide Nodig Of Is Eén Genoeg?",
-        "slug": "stofzuiger-vs-kruimeldief-2026",
-        "desc": "Stofzuiger vs. Kruimeldief 2026 vergeleken: gebruiksgemak, zuigkracht, prijs en batterijduur. Eerlijke keuzehulp of je beide apparaten nodig hebt met Amazon NL affiliate links.",
-        "related": ["beste-stofzuiger-2026", "beste-steelstofzuiger-2026", "beste-robotstofzuiger-2026", "stofzuiger-vs-steelstofzuiger-2026", "robotstofzuiger-vs-stofzuiger-2026", "steelstofzuiger-vs-draadloze-stofzuiger-2026"],
-        "anchors": ["beste-stofzuiger-2026", "beste-steelstofzuiger-2026", "stofzuiger-vs-steelstofzuiger-2026"]
+        "slug": "pizza-oven-vs-gewone-oven-2026",
+        "title": "Pizza Oven vs. Gewone Oven 2026: Heb Je een Aparte Pizza Oven Nodig voor Restaurantkwaliteit?",
+        "category": "keuken",
+        "price_range": "EUR 80-800",
+        "reading_time": "10 min",
+        "products_keywords": [
+            "Ooni Koda 12 pizza oven",
+            "Sage the Pizzaiolo",
+            "G3 Ferrari Delizia pizza oven",
+            "Ariete 909 pizza oven",
+            "Lidl Silvercrest pizza oven",
+            "Roccbox Gozney pizza oven"
+        ],
+        "related": [
+            "beste-pizza-oven-2026",
+            "beste-oven-2026",
+            "beste-airfryer-2026",
+            "beste-bakplaat-2026",
+            "oven-vs-magnetron-2026"
+        ]
     },
     {
-        "cat1": "strijkijzer", "cat2": "handstomer", "category": "huishoudelijk",
-        "cat1_dutch": "Strijkijzer", "cat2_dutch": "Handstomer",
-        "title": "Strijkijzer vs. Handstomer 2026: Wat Is Beter Voor Kreukvrije Kleding?",
-        "slug": "strijkijzer-vs-handstomer-2026",
-        "desc": "Strijkijzer vs. Handstomer 2026 vergeleken: resultaat, gebruiksgemak, prijs en geschiktheid per stofsoort. Ontdek welke past bij jouw kledingkast met Amazon NL affiliate links.",
-        "related": ["beste-strijkijzer-2026", "strijkijzer-vs-stoomgenerator-2026", "beste-stoomgenerator-2026", "beste-wasmachine-2026", "beste-wasdroger-2026"],
-        "anchors": ["beste-strijkijzer-2026", "strijkijzer-vs-stoomgenerator-2026"]
+        "slug": "rijstkoker-vs-pan-2026",
+        "title": "Rijstkoker vs. Rijst Koken in een Pan 2026: Wat Geeft Het Beste Resultaat?",
+        "category": "keuken",
+        "price_range": "EUR 15-250",
+        "reading_time": "8 min",
+        "products_keywords": [
+            "Yum Asia Panda rijstkoker",
+            "Cuckoo CR-0631 rijstkoker",
+            "Russell Hobbs 19750 rijstkoker",
+            "Reishunger digitale rijstkoker",
+            "Tefal RK302E rijstkoker",
+            "BK kookpan inductie"
+        ],
+        "related": [
+            "beste-rijstkoker-2026",
+            "beste-koekenpan-2026",
+            "beste-pannenset-2026",
+            "beste-stoomoven-2026",
+            "beste-slowcooker-2026"
+        ]
     },
     {
-        "cat1": "broodrooster", "cat2": "tosti-ijzer", "category": "keuken",
-        "cat1_dutch": "Broodrooster", "cat2_dutch": "Tosti-ijzer",
-        "title": "Broodrooster vs. Tosti-ijzer 2026: Welke Past Bij Jouw Ontbijt- en Lunchroutine?",
-        "slug": "broodrooster-vs-tosti-ijzer-2026",
-        "desc": "Broodrooster vs. Tosti-ijzer 2026 vergeleken: gebruiksgemak, veelzijdigheid, prijs en schoonmaakgemak. Eerlijke keuzehulp met Amazon NL affiliate links.",
-        "related": ["tosti-ijzer-vs-broodrooster-2026", "beste-broodrooster-2026", "beste-tosti-ijzer-2026", "airfryer-vs-oven-2026", "beste-airfryer-2026"],
-        "anchors": ["tosti-ijzer-vs-broodrooster-2026", "beste-broodrooster-2026"]
+        "slug": "tuinverwarming-vs-vuurkorf-2026",
+        "title": "Tuinverwarming vs. Vuurkorf 2026: Wat Verwarmt Je Terras Beter en Goedkoper?",
+        "category": "tuin",
+        "price_range": "EUR 30-400",
+        "reading_time": "9 min",
+        "products_keywords": [
+            "Eurom Golden 2000 terrasverwarmer",
+            "Sunred elektronische terrasverwarmer",
+            "Primus Kinjia vuurkorf",
+            "OutdoorChef vuurschaal",
+            "Blumfeldt Heatwave terrasverwarmer",
+            "Vonroc terrasverwarmer"
+        ],
+        "related": [
+            "beste-tuinverwarming-2026",
+            "beste-barbecue-2026",
+            "beste-elektrische-kachel-2026",
+            "gasbarbecue-vs-houtskoolbarbecue-2026",
+            "beste-tuinverlichting-2026"
+        ]
     },
     {
-        "cat1": "soepmaker", "cat2": "staafmixer", "category": "keuken",
-        "cat1_dutch": "Soepmaker", "cat2_dutch": "Staafmixer",
-        "title": "Soepmaker vs. Staafmixer 2026: Wat Heb Je Echt Nodig Voor Perfecte Soep?",
-        "slug": "soepmaker-vs-staafmixer-2026",
-        "desc": "Soepmaker vs. Staafmixer 2026 vergeleken: resultaat, gebruiksgemak, veelzijdigheid en prijs. Ontdek of een soepmaker de investering waard is met Amazon NL affiliate links.",
-        "related": ["beste-staafmixer-2026", "beste-blender-2026", "beste-soepmaker-2026", "staafmixer-vs-blender-2026", "blender-vs-staafmixer-vs-keukenmachine-2026", "beste-keukenmachine-2026"],
-        "anchors": ["beste-staafmixer-2026", "staafmixer-vs-blender-2026"]
-    },
+        "slug": "ontvochtiger-vs-luchtreiniger-2026",
+        "title": "Ontvochtiger vs. Luchtreiniger 2026: Welke Heb Je Nodig voor een Gezond Binnenklimaat?",
+        "category": "huishoudelijk",
+        "price_range": "EUR 80-600",
+        "reading_time": "10 min",
+        "products_keywords": [
+            "Philips Air Performer 8000",
+            "Pro Breeze 12L ontvochtiger",
+            "MeacoDry Arete One ontvochtiger",
+            "Xiaomi Smart Air Purifier 4 Pro",
+            "Dyson Purifier Hot+Cool Formaldehyde",
+            "Eurom D-Lux ontvochtiger"
+        ],
+        "related": [
+            "beste-ontvochtiger-2026",
+            "beste-luchtreiniger-2026",
+            "beste-luchtbevochtiger-2026",
+            "luchtreiniger-vs-luchtbevochtiger-2026",
+            "beste-airconditioner-2026"
+        ]
+    }
 ]
 
-OUTPUT_DIR = "src/content/reviews"
-os.makedirs(OUTPUT_DIR, exist_ok=True)
+PROMPT_TEMPLATE = """Je bent een ervaren Nederlandse content-schrijver voor KiesKeuken.nl, een affiliate-koopgids website over huishoudelijke apparaten. Schrijf een SEO-geoptimaliseerd Markdown-artikel in het Nederlands dat twee apparaten met elkaar vergelijkt.
 
-for i, art in enumerate(articles):
-    print(f"\n{'='*60}")
-    print(f"GENERATING [{i+1}/5]: {art['title']}")
-    print(f"{'='*60}")
+**VERGELIJKING:** {title}
+**CATEGORIE:** {category}
+**PRIJSRANGE:** {price_range}
+**LEESTIJD:** {reading_time}
 
-    prompt = build_prompt(
-        art["cat1"], art["cat2"], art["category"],
-        art["cat1_dutch"], art["cat2_dutch"],
-        art["anchors"]
-    )
-    body = call_gemini(prompt, max_tokens=4096)
+Schrijf het artikel als Markdown met de volgende structuur:
 
-    if body.startswith("HTTP") or body.startswith("Error"):
-        print(f"FAILED: {body[:300]}")
-        continue
+## Snel Advies: Welk Apparaat Past Bij Jou?
+[3 specifieke aanbevelingen: beste keuze met modelnaam, voordelen, en prijsindicatie]
 
-    # Clean up
-    body = body.strip()
-    if body.startswith("```"):
-        parts = body.split("```")
-        body = parts[1] if len(parts) >= 3 else body
-        if body.startswith("markdown"):
-            body = body[8:]
-    body = body.strip()
+## Beste Keuze per Budget
+### Beste Koop (ca. EUR [range])
+### Beste Prestaties (ca. EUR [range])
+### Beste Budget (ca. EUR [range])
+[Per budget-niveau: 2 producten, specifieke modelnamen, prijsrange, sterke/zwakke punten]
 
-    # Verify it starts with #
-    if not body.startswith("#"):
-        print(f"WARNING: Body doesn't start with # — prepending title")
-        body = f"# {art['title']}\n\n{body}"
+## Waar Op Letten?
+[3-4 subsecties over de belangrijkste vergelijkingscriteria. Gebruik '### ' koppen]
 
-    # Build frontmatter
-    fm = f"""---
-title: '{art["title"]}'
-slug: {art["slug"]}
-description: {art["desc"]}
-category: {art["category"]}
-rating: 4.4
-priceRange: EUR 15-400
-pros:
-- Eerlijke vergelijking op 6 praktische aspecten
-- Concrete prijsvergelijking inclusief jaarlijkse gebruikskosten
-- Specifieke productaanbevelingen met Amazon NL links
-- Verborgen nadelen die fabrikanten liever niet vermelden
-cons:
-- Prijzen veranderen regelmatig, check actuele aanbiedingen
-- Persoonlijke voorkeur bepaalt uiteindelijk de beste keuze
-- Sommige modellen alleen online verkrijgbaar
-affiliateLinks:
-- https://www.amazon.nl/s?k={art["cat1"]}&tag=kieskeukennl-21
-modelYear: 2026
-featuredProduct: Zie snel advies hieronder
-readingTime: 10 min
-date: '2026-06-11'
-products:
-- name: Beste allround keuze
-  verdict: Meest uitgebalanceerde prijs-kwaliteitverhouding
-  priceRange: EUR 50-200
-  bestFor: Allround gebruik
-  rating: 4.5
-  affiliateLink: https://www.amazon.nl/s?k={art["cat1"]}+{art["cat2"]}&tag=kieskeukennl-21
-- name: Beste budget keuze
-  verdict: Beste instapmodel met prima prestaties
-  priceRange: EUR 15-60
-  bestFor: Budgetbewuste kopers
-  rating: 4.2
-  affiliateLink: https://www.amazon.nl/s?k={art["cat1"]}+budget&tag=kieskeukennl-21
-- name: Premium model
-  verdict: Meeste functies en beste bouwkwaliteit
-  priceRange: EUR 150-400
-  bestFor: Veeleisende gebruikers
-  rating: 4.6
-  affiliateLink: https://www.amazon.nl/s?k={art["cat1"]}+premium&tag=kieskeukennl-21
-- name: Compacte keuze
-  verdict: Beste voor kleine keukens of beperkte opbergruimte
-  priceRange: EUR 30-80
-  bestFor: Kleine huishoudens
-  rating: 4.3
-  affiliateLink: https://www.amazon.nl/s?k={art["cat1"]}+compact&tag=kieskeukennl-21
-- name: Meest veelzijdige keuze
-  verdict: Meeste accessoires en extra functies inbegrepen
-  priceRange: EUR 60-250
-  bestFor: Veelzijdig gebruik
-  rating: 4.4
-  affiliateLink: https://www.amazon.nl/s?k={art["cat1"]}+accessoires&tag=kieskeukennl-21
-related:
+## Vergelijkingstabel: [Apparaat] vs [Apparaat] 2026
+[Markdown tabel met 6-8 producten, kolommen: Model | Type | Prijs | Beste voor | Rating]
+
+## Minpunten per Apparaattype
+[Eerlijke nadelen]
+
+## FAQ
+[6-8 vragen in format:
+### Vraag?
+Antwoord in 3-5 zinnen.]
+
+## Conclusie
+[Samenvatting wie welk apparaat moet kopen]
+
+**REGELS:**
+- Nederlands, natuurlijk, geen vertaalde Engelse zinsconstructies
+- Gebruik concrete modelnamen en realistische prijzen (EUR)
+- Affiliate links naar Amazon NL met tag kieskeukennl-21: format is https://www.amazon.nl/s?k=ModelNaam&tag=kieskeukennl-21
+- Minimaal 800 woorden, maximaal 2000
+- Gebruik **vet** voor productnamen
+- Geen overdreven marketingtaal — eerlijk over nadelen
+- Prijzen in euro's: EUR XX-YY
+- Sluit af met een gerelateerde-artikelen sectie met 4-5 interne links
+- EINDE van het artikel: alleen de Markdown, geen uitleg ervoor of erna
+
+Producten om te gebruiken (zoek op Amazon NL, tag kieskeukennl-21):
+{products_keywords}
 """
-    for r in art["related"]:
-        fm += f"- {r}\n"
-    fm += "draft: false\n---\n\n"
 
-    full_article = fm + body
+import urllib.request, urllib.error
 
-    filepath = os.path.join(OUTPUT_DIR, f'{art["slug"]}.md')
-    with open(filepath, "w") as f:
-        f.write(full_article)
+def call_gemini(prompt, retries=3):
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent?key={GEMINI_KEY}"
+    body = json.dumps({
+        "contents": [{"parts": [{"text": prompt}]}],
+        "generationConfig": {"temperature": 0.7, "maxOutputTokens": 8192}
+    }).encode()
+    
+    for attempt in range(retries):
+        try:
+            req = urllib.request.Request(url, data=body, headers={"Content-Type": "application/json"})
+            with urllib.request.urlopen(req, timeout=120) as resp:
+                data = json.loads(resp.read())
+                text = data["candidates"][0]["content"]["parts"][0]["text"]
+                return text
+        except Exception as e:
+            print(f"  Attempt {attempt+1}/{retries} failed: {e}")
+            if attempt < retries - 1:
+                time.sleep(3)
+    return None
 
-    wc = len(body.split())
-    print(f"DONE: {filepath} ({wc} words, {len(full_article)} chars)")
+def build_frontmatter(comp, description):
+    """Build YAML frontmatter for the comparison article."""
+    keywords = comp["products_keywords"]
+    affiliate_links = "\n".join([f"  - https://www.amazon.nl/s?k={kw.replace(' ', '+')}&tag=kieskeukennl-21" for kw in keywords])
+    related_links = "\n".join([f"  - {r}" for r in comp["related"]])
+    
+    fm = f"""---
+title: '{comp["title"]}'
+slug: {comp["slug"]}
+description: "{description}"
+category: {comp["category"]}
+rating: 4.4
+priceRange: {comp["price_range"]}
+pros:
+  - Eerlijke vergelijking op 6 praktische aspecten
+  - Concrete prijsvergelijking inclusief gebruikskosten
+  - Specifieke productaanbevelingen met Amazon NL links
+  - Verborgen nadelen die fabrikanten liever niet vermelden
+cons:
+  - Prijzen veranderen regelmatig, check actuele aanbiedingen
+  - Persoonlijke voorkeur bepaalt uiteindelijk de beste keuze
+  - Sommige modellen alleen online verkrijgbaar
+affiliateLinks:
+{affiliate_links}
+modelYear: 2026
+featuredProduct: {keywords[0].split('  ')[0] if '  ' not in keywords[0] else keywords[0].split('  ')[0]}
+readingTime: {comp["reading_time"]}
+date: '2026-06-11'
+related:
+{related_links}
+draft: false
+faq: []"""
+    return fm
 
-print("\n" + "="*60)
-print("ALL 5 ARTICLES GENERATED")
+def extract_description(text):
+    """Extract a short description from article body."""
+    # Find the first section after the title
+    lines = text.strip().split('\n')
+    # Skip the title line and blank lines
+    for i, line in enumerate(lines):
+        if line.startswith('# '):
+            # Take the next paragraph
+            for j in range(i+1, min(i+20, len(lines))):
+                para = lines[j].strip()
+                if para and not para.startswith('#') and not para.startswith('-') and not para.startswith('|'):
+                    # Clean: remove markdown formatting, limit to 180 chars
+                    para = para.replace('**', '').replace('*', '').strip()
+                    if len(para) > 175:
+                        para = para[:175].rsplit(' ', 1)[0] + '.'
+                    return para[:180]
+    return "Vergelijk twee populaire apparaten: prijs, gebruiksgemak, en verborgen nadelen. Eerlijke keuzehulp met Amazon NL affiliate links."
+
+def main():
+    output_dir = "/home/cls/kieskeuken/src/content/reviews"
+    os.makedirs(output_dir, exist_ok=True)
+    
+    for i, comp in enumerate(COMPARISONS):
+        slug = comp["slug"]
+        filepath = os.path.join(output_dir, f"{slug}.md")
+        if os.path.exists(filepath):
+            print(f"[{i+1}/{len(COMPARISONS)}] SKIP {slug} — already exists")
+            continue
+        
+        print(f"[{i+1}/{len(COMPARISONS)}] Generating: {slug}")
+        prompt = PROMPT_TEMPLATE.format(
+            title=comp["title"],
+            category=comp["category"],
+            price_range=comp["price_range"],
+            reading_time=comp["reading_time"],
+            products_keywords="\n".join(f"- {kw}" for kw in comp["products_keywords"])
+        )
+        
+        text = call_gemini(prompt)
+        if not text:
+            print(f"  FAILED after retries")
+            continue
+        
+        description = extract_description(text)
+        fm = build_frontmatter(comp, description)
+        
+        full_article = fm + "\n---\n\n" + text.strip()
+        
+        with open(filepath, 'w') as f:
+            f.write(full_article)
+        
+        print(f"  Wrote {len(full_article)} chars to {filepath}")
+        time.sleep(2)  # Rate limit
+    
+    print("\nDone!")
+
+if __name__ == "__main__":
+    main()
