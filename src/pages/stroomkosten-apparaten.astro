@@ -1,0 +1,326 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const reviews = await getCollection('reviews', ({ data }) => !data.draft);
+const bySlug = new Map<string, any>(reviews.map((review: any) => [review.data.slug, review]));
+
+const getArticle = (slug: string): any => {
+  const article = bySlug.get(slug);
+  if (!article) {
+    throw new Error(`Missing article for stroomkosten-apparaten: ${slug}`);
+  }
+  return article;
+};
+
+const electricityPrice = 0.30;
+const formatEuro = (value: number) => `€${Math.round(value)}`;
+const annualCost = (kwh: number) => Math.round(kwh * electricityPrice);
+
+const rows = [
+  {
+    appliance: 'Warmtepompdroger',
+    situation: '3–4 droogbeurten per week',
+    kwhPerYear: 190,
+    compareText: 'Condensdroger: vaak 500–600 kWh/jaar',
+    slug: 'condensdroger-vs-warmtepompdroger-2026',
+    relatedSlug: 'beste-wasdroger-2026',
+    verdict: 'Beste bespaarstap als je vaak droogt: hogere aanschaf, veel lagere stroomkosten.',
+    priority: 'Hoog'
+  },
+  {
+    appliance: 'Koelkast-vriezer combinatie',
+    situation: '24/7 aan, gezinshuishouden',
+    kwhPerYear: 160,
+    compareText: 'Oud model: vaak 250–350 kWh/jaar',
+    slug: 'beste-koelkast-vriezer-combinatie-2026',
+    relatedSlug: 'koelkast-vs-koelvriescombinatie-2026',
+    verdict: 'Omdat hij altijd aan staat, loont een zuinig model ook zonder dagelijks gebruiksgedoe.',
+    priority: 'Hoog'
+  },
+  {
+    appliance: 'Vaatwasser',
+    situation: '5 programma’s per week',
+    kwhPerYear: 230,
+    compareText: 'Eco-programma bespaart vooral bij volle ladingen',
+    slug: 'beste-vaatwasser-2026',
+    relatedSlug: 'vaatwasser-vs-handafwas-2026',
+    verdict: 'Kies op eco-programma, indeling en droogresultaat; niet alleen op laagste aanschafprijs.',
+    priority: 'Hoog'
+  },
+  {
+    appliance: 'Mobiele airco',
+    situation: 'Warme weken, slaapkamer of werkkamer',
+    kwhPerYear: 300,
+    compareText: 'Ventilator: vaak 15–40 kWh/jaar',
+    slug: 'mobiele-airco-vs-split-airco-2026',
+    relatedSlug: 'airconditioner-vs-ventilator-2026',
+    verdict: 'Koelt echt, maar zonder goede raamafdichting lopen stroomkosten snel op.',
+    priority: 'Seizoen'
+  },
+  {
+    appliance: 'Inductiekookplaat',
+    situation: 'Dagelijks koken',
+    kwhPerYear: 175,
+    compareText: 'Keramisch verliest meer warmte; gas rekent anders af',
+    slug: 'inductie-vs-gasfornuis-2026',
+    relatedSlug: 'inductie-vs-keramisch-2026',
+    verdict: 'Efficiënt en snel, maar check aansluiting, pannen en piekvermogen vóór aankoop.',
+    priority: 'Hoog'
+  },
+  {
+    appliance: 'Airfryer',
+    situation: '3 snelle maaltijden/snacks per week',
+    kwhPerYear: 85,
+    compareText: 'Oven voor kleine porties: vaak 150–220 kWh/jaar',
+    slug: 'airfryer-vs-oven-2026',
+    relatedSlug: 'beste-airfryer-2026',
+    verdict: 'Voor kleine porties meestal zuiniger en sneller dan een grote oven voorverwarmen.',
+    priority: 'Slim'
+  },
+  {
+    appliance: 'Quooker / kokendwaterkraan',
+    situation: 'Stand-by plus dagelijks kokend water',
+    kwhPerYear: 160,
+    compareText: 'Waterkoker: vaak 20–40 kWh/jaar',
+    slug: 'waterkoker-vs-quooker-2026',
+    relatedSlug: 'beste-waterkoker-2026',
+    verdict: 'Koop dit voor gemak en uitstraling, niet omdat het de goedkoopste stroomkeuze is.',
+    priority: 'Gemak'
+  },
+  {
+    appliance: 'Wasmachine',
+    situation: '4 wasbeurten per week',
+    kwhPerYear: 150,
+    compareText: 'Lage temperatuur en volle trommel maken groot verschil',
+    slug: 'beste-wasmachine-2026',
+    relatedSlug: 'wasmachine-vs-wasdroger-2026',
+    verdict: 'Let op energieklasse, trommelinhoud en korte eco-programma’s die je echt gebruikt.',
+    priority: 'Middel'
+  },
+  {
+    appliance: 'Luchtreiniger',
+    situation: 'Dagelijks gebruik in woon- of slaapkamer',
+    kwhPerYear: 180,
+    compareText: 'Luchtbevochtiger: ander doel, vaak lager vermogen',
+    slug: 'luchtreiniger-vs-luchtbevochtiger-2026',
+    relatedSlug: 'beste-luchtreiniger-2026',
+    verdict: 'Kijk naar geluidsniveau en automatische stand; anders blijft hij in de praktijk uit.',
+    priority: 'Specifiek'
+  },
+  {
+    appliance: 'Robotstofzuiger',
+    situation: 'Dagelijks onderhoud harde vloeren',
+    kwhPerYear: 35,
+    compareText: 'Gewone stofzuiger gebruikt korter, maar vraagt handwerk',
+    slug: 'robotstofzuiger-vs-stofzuiger-2026',
+    relatedSlug: 'beste-robotstofzuiger-2026',
+    verdict: 'Niet de grootste stroompost, wel een hoge gemakswinst als je vaak stofzuigt.',
+    priority: 'Gemak'
+  }
+].map((row) => {
+  const article = getArticle(row.slug);
+  const related = getArticle(row.relatedSlug);
+  return {
+    ...row,
+    article,
+    related,
+    costPerYear: annualCost(row.kwhPerYear),
+    topProduct: related.data.products?.[0] || article.data.products?.[0]
+  };
+});
+
+const sortedRows = [...rows].sort((a, b) => b.costPerYear - a.costPerYear);
+const highImpact = sortedRows.filter((row) => row.costPerYear >= 50);
+
+const itemListSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'ItemList',
+  name: 'Stroomkosten huishoudelijke apparaten 2026',
+  description: 'Vergelijking van geschatte jaarlijkse stroomkosten voor veelgebruikte huishoudelijke apparaten in Nederlandse huishoudens.',
+  numberOfItems: rows.length,
+  itemListElement: sortedRows.map((row, index) => ({
+    '@type': 'ListItem',
+    position: index + 1,
+    name: row.appliance,
+    description: `${row.kwhPerYear} kWh per jaar, ongeveer ${formatEuro(row.costPerYear)} bij €${electricityPrice.toFixed(2)} per kWh`,
+    url: `https://rigbay.github.io/dutch-appliances/${row.article.data.slug}/`
+  }))
+};
+
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: [
+    {
+      '@type': 'Question',
+      name: 'Welke huishoudelijke apparaten verbruiken de meeste stroom?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'Apparaten die verwarmen, koelen of 24/7 aan staan hebben meestal de grootste impact: wasdroger, airco, vaatwasser, koelkast-vriezer, elektrische kookplaat en luchtreiniger bij intensief gebruik.'
+      }
+    },
+    {
+      '@type': 'Question',
+      name: 'Is een airfryer zuiniger dan een oven?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'Voor kleine porties is een airfryer meestal zuiniger omdat de kookruimte kleiner is en minder lang hoeft voor te verwarmen. Voor grote ovenschalen of meerdere bakplaten blijft een oven praktischer.'
+      }
+    },
+    {
+      '@type': 'Question',
+      name: 'Wanneer verdient een zuinige wasdroger zich terug?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'Als je meerdere keren per week droogt, kan een warmtepompdroger jaarlijks tientallen euro’s besparen ten opzichte van een condensdroger. De exacte terugverdientijd hangt af van aanschafprijs, stroomprijs en gebruik.'
+      }
+    }
+  ]
+};
+---
+
+<BaseLayout
+  title="Stroomkosten Apparaten 2026: Verbruik per Jaar Vergelijken | Beste Apparaten"
+  description="Welke apparaten verbruiken de meeste stroom? Vergelijk geschatte jaarlijkse kosten van airfryer, droger, koelkast, vaatwasser, airco, inductie en meer."
+  canonicalUrl="https://rigbay.github.io/dutch-appliances/stroomkosten-apparaten/"
+  structuredData={[itemListSchema, faqSchema]}
+>
+  <section class="border-b border-[#e8e1d7] bg-linen">
+    <div class="mx-auto max-w-6xl px-4 py-12 sm:px-6 lg:px-8">
+      <p class="text-sm font-bold uppercase tracking-[0.16em] text-leaf">Energie & koopkeuze</p>
+      <h1 class="mt-3 max-w-4xl font-serif text-4xl font-semibold leading-tight text-ink sm:text-5xl">
+        Stroomkosten van huishoudelijke apparaten in 2026
+      </h1>
+      <p class="mt-5 max-w-3xl text-lg leading-8 text-muted">
+        Een goedkoop apparaat kan duur worden als het veel stroom gebruikt. Deze gids vergelijkt de geschatte jaarlijkse kosten
+        van veelgekochte apparaten en linkt direct door naar de koopgidsen waar energieverbruik echt invloed heeft op je keuze.
+      </p>
+      <div class="mt-6 grid gap-4 sm:grid-cols-3">
+        <div class="rounded border border-[#e6ded2] bg-paper p-4">
+          <p class="text-sm text-muted">Rekenprijs</p>
+          <p class="mt-1 font-serif text-2xl font-semibold text-ink">€{electricityPrice.toFixed(2)} / kWh</p>
+        </div>
+        <div class="rounded border border-[#e6ded2] bg-paper p-4">
+          <p class="text-sm text-muted">Vergeleken apparaten</p>
+          <p class="mt-1 font-serif text-2xl font-semibold text-ink">{rows.length}</p>
+        </div>
+        <div class="rounded border border-[#e6ded2] bg-paper p-4">
+          <p class="text-sm text-muted">Hoogste prioriteit</p>
+          <p class="mt-1 font-serif text-2xl font-semibold text-ink">{highImpact.length} keuzes</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="mx-auto max-w-6xl px-4 py-10 sm:px-6 lg:px-8">
+    <div class="rounded border border-[#dfe8e5] bg-[#f3faf7] p-6">
+      <h2 class="font-serif text-3xl font-semibold text-ink">Snelle conclusie</h2>
+      <p class="mt-3 max-w-3xl text-muted">
+        Begin bij apparaten die verwarmen, koelen of continu aan staan. Een zuinige droger, koelkast, vaatwasser of airco
+        heeft meer financiële impact dan kleine keukenapparaten die je maar kort gebruikt. Voor comfortapparaten zoals een
+        Quooker of robotstofzuiger telt gemak vaak zwaarder dan puur stroomverbruik.
+      </p>
+      <div class="mt-5 flex flex-wrap gap-2">
+        <a href="/energiezuinige-apparaten/" class="rounded bg-leaf px-4 py-2 text-sm font-bold text-white hover:bg-[#1f514b]">Bekijk energiezuinige apparaten</a>
+        <a href="/budget/" class="rounded border border-leaf px-4 py-2 text-sm font-bold text-leaf hover:bg-white">Budgetkeuzes onder €100</a>
+        <a href="/apparaat-kiezen/" class="rounded border border-[#cbbda9] px-4 py-2 text-sm font-bold text-ink hover:bg-paper">Keuzehulp per situatie</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="mx-auto max-w-6xl px-4 py-8 sm:px-6 lg:px-8">
+    <div class="mb-6">
+      <p class="text-sm font-bold uppercase tracking-[0.16em] text-leaf">Vergelijkingstabel</p>
+      <h2 class="mt-2 font-serif text-3xl font-semibold text-ink">Geschatte stroomkosten per apparaat</h2>
+      <p class="mt-2 max-w-3xl text-muted">
+        De bedragen zijn indicaties op basis van normaal huishoudelijk gebruik. Werkelijke kosten hangen af van model, programma,
+        gezinssamenstelling en je actuele energiecontract.
+      </p>
+    </div>
+
+    <div class="overflow-x-auto rounded border border-[#e8e1d7]">
+      <table class="min-w-full text-sm">
+        <thead>
+          <tr class="bg-[#f8f5f0] text-left">
+            <th class="p-3 font-semibold">Apparaat</th>
+            <th class="p-3 font-semibold">Gebruikssituatie</th>
+            <th class="p-3 font-semibold">kWh/jaar</th>
+            <th class="p-3 font-semibold">Kosten/jaar</th>
+            <th class="p-3 font-semibold">Vergelijk met</th>
+            <th class="p-3 font-semibold">Gids</th>
+          </tr>
+        </thead>
+        <tbody>
+          {sortedRows.map((row, index) => (
+            <tr class={index % 2 === 0 ? 'bg-white' : 'bg-[#faf8f3]'}>
+              <td class="p-3 font-medium text-ink">
+                {row.appliance}
+                <span class="ml-2 rounded bg-[#edf4f2] px-2 py-0.5 text-xs font-bold text-leaf">{row.priority}</span>
+              </td>
+              <td class="p-3 text-muted">{row.situation}</td>
+              <td class="p-3 font-mono text-muted">{row.kwhPerYear}</td>
+              <td class="p-3 font-bold text-ink">{formatEuro(row.costPerYear)}</td>
+              <td class="p-3 text-muted">{row.compareText}</td>
+              <td class="p-3">
+                <a href={`/${row.article.data.slug}/`} class="whitespace-nowrap rounded bg-leaf px-3 py-1.5 text-xs font-bold text-white hover:bg-[#1f514b]">
+                  Lees gids →
+                </a>
+              </td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <section class="mx-auto max-w-6xl px-4 py-10 sm:px-6 lg:px-8">
+    <div class="grid gap-5 md:grid-cols-2">
+      {sortedRows.map((row) => (
+        <article class="rounded border border-[#e6ded2] bg-paper p-5 shadow-sm">
+          <div class="flex items-start justify-between gap-3">
+            <div>
+              <p class="text-xs font-bold uppercase tracking-[0.14em] text-leaf">{row.priority} · {formatEuro(row.costPerYear)} per jaar</p>
+              <h3 class="mt-2 font-serif text-xl font-semibold text-ink">{row.appliance}: wanneer slim vervangen?</h3>
+            </div>
+            <span class="rounded bg-white px-2.5 py-1 text-xs font-bold text-muted">{row.kwhPerYear} kWh</span>
+          </div>
+          <p class="mt-3 text-sm leading-6 text-muted">{row.verdict}</p>
+          <div class="mt-4 flex flex-wrap gap-2">
+            <a href={`/${row.article.data.slug}/`} class="rounded bg-leaf px-3 py-1.5 text-xs font-bold text-white hover:bg-[#1f514b]">
+              Vergelijk opties
+            </a>
+            <a href={`/${row.related.data.slug}/`} class="rounded border border-leaf px-3 py-1.5 text-xs font-bold text-leaf hover:bg-white">
+              Beste modellen
+            </a>
+            {row.topProduct?.affiliateLink && (
+              <a href={row.topProduct.affiliateLink} rel="nofollow sponsored" target="_blank" class="rounded border border-[#cbbda9] px-3 py-1.5 text-xs font-bold text-ink hover:bg-white">
+                Actuele prijs bekijken
+              </a>
+            )}
+          </div>
+        </article>
+      ))}
+    </div>
+  </section>
+
+  <section class="mx-auto max-w-6xl px-4 py-10 sm:px-6 lg:px-8">
+    <div class="max-w-3xl">
+      <h2 class="font-serif text-3xl font-semibold text-ink">Hoe gebruik je deze tabel?</h2>
+      <div class="mt-4 space-y-4 text-muted">
+        <p>
+          Kijk eerst naar apparaten met hoge kosten per jaar én hoge gebruiksfrequentie. Een apparaat dat dagelijks draait,
+          hoeft niet extreem veel vermogen te hebben om toch duur te worden. Daarom wegen koelkast, vaatwasser, droger en airco zwaar.
+        </p>
+        <p>
+          Gebruik daarna de gelinkte koopgidsen om de praktische keuze te maken. Energieklasse is belangrijk, maar niet het enige:
+          geluid, inhoud, onderhoud, retourvoorwaarden en beschikbare ruimte bepalen of je het apparaat ook echt prettig gebruikt.
+        </p>
+        <p>
+          Wil je vooral besparen bij aankoop? Combineer deze pagina met onze <a href="/budget/" class="font-bold text-leaf hover:underline">budgetgids</a>.
+          Wil je minder twijfelen tussen twee opties? Start dan bij <a href="/vergelijken/" class="font-bold text-leaf hover:underline">alle directe vergelijkingen</a>.
+        </p>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

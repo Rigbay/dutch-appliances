@@ -5,6 +5,7 @@ import ArticleCard from '../components/ArticleCard.astro';
 
 const reviews = (await getCollection('reviews', ({ data }) => !data.draft))
   .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+const comparisonCount = reviews.filter((review) => review.data.slug.includes('-vs-')).length;
 
 const categories = [
   { href: '/categorie/keuken/', label: 'Keuken', text: 'Airfryers, koffiemachines, waterkokers, broodroosters, magnetrons en stoomovens.' },
@@ -15,9 +16,10 @@ const categories = [
 
 const keuzehulpen = [
   { href: '/apparaat-kiezen/', label: 'Welk apparaat kiezen?', text: 'Nieuwe beslisboom per situatie: snel avondeten, minder stofzuigen, energie besparen, zomerkoeling en tuinwerk.' },
+  { href: '/stroomkosten-apparaten/', label: 'Stroomkosten per apparaat', text: 'Nieuwe energiekosten-tabel: droger, koelkast, vaatwasser, airco, inductie, airfryer en meer doorgerekend per jaar.' },
   { href: '/alle-apparaten/', label: 'Alle apparaten in één overzicht', text: 'Het complete overzicht: alle 171 koopgidsen in één scannable tabel per categorie.' },
   { href: '/top-15/', label: 'Top 15 apparaten van 2026', text: 'Snelle shortlist voor bezoekers die meteen de populairste keuzes willen zien.' },
-  { href: '/vergelijkingen/', label: '🆚 Alle 51 apparaat-vergelijkingen', text: 'Directe vergelijkingen: airfryer vs friteuse, inductie vs gas, robotstofzuiger vs stofzuiger en 48 meer. Filter op categorie.' },
+  { href: '/vergelijkingen/', label: `🆚 Alle ${comparisonCount} apparaat-vergelijkingen`, text: 'Directe vergelijkingen: airfryer vs friteuse, inductie vs gas, robotstofzuiger vs stofzuiger en meer. Filter op categorie.' },
   { href: '/vergelijking/', label: 'Alle apparaten per productgroep', text: 'Het overzicht met alle koopgidsen per categorie en productgroep, met context.' },
   { href: '/budget/', label: 'Budget apparaten onder €100', text: '60+ beste budgetkeuzes voor elk huishouden — van airfryer tot waterkoker, onder €100.' },
   { href: '/zomer-apparaten/', label: '☀️ Zomer apparaten 2026', text: 'Alles voor de zomer: barbecues, airco\'s, ijsmachines, tuingereedschap en meer — met kooptips en checklist.' }
@@ -53,7 +55,7 @@ const keuzehulpen = [
           </div>
           <div class="flex items-center justify-between gap-4 border-b border-[#eee7dd] pb-3">
             <dt class="text-muted">Directe vergelijkingen</dt>
-            <dd class="font-bold text-ink">51</dd>
+            <dd class="font-bold text-ink">{comparisonCount}</dd>
           </div>
           <div class="flex items-center justify-between gap-4">
             <dt class="text-muted">Affiliate partner</dt>
