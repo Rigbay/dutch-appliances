@@ -1,0 +1,260 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const allReviews = await getCollection('reviews', ({ data }) => !data.draft);
+const reviewsBySlug = new Map(allReviews.map((review) => [review.data.slug, review]));
+
+const pick = (slugs: string[]) => slugs
+  .map((slug) => reviewsBySlug.get(slug))
+  .filter(Boolean);
+
+const situations = [
+  {
+    id: 'gezin',
+    emoji: '👨‍👩‍👧‍👦',
+    label: 'Druk gezin',
+    intent: 'snel koken, grote was, minder schoonmaaktijd',
+    budget: '€80-€1.200',
+    advice: 'Kies apparaten die tijd besparen zonder dagelijks onderhoud toe te voegen: een grote airfryer of airfryer-oven, vaatwasser, robotstofzuiger en warmtepompdroger leveren meestal de meeste rust op.',
+    slugs: ['beste-airfryer-met-twee-manden-2026', 'beste-vaatwasser-2026', 'beste-robotstofzuiger-2026', 'condensdroger-vs-warmtepompdroger-2026', 'beste-wasmachine-2026']
+  },
+  {
+    id: 'kleine-keuken',
+    emoji: '🏙️',
+    label: 'Kleine keuken of appartement',
+    intent: 'compact, multifunctioneel, weinig aanrechtruimte',
+    budget: '€30-€600',
+    advice: 'Vermijd dubbele functies. Een compacte airfryer, combi-magnetron, staafmixer en koffiecupmachine doen veel werk per vierkante centimeter en zijn makkelijker op te bergen.',
+    slugs: ['beste-compacte-airfryer-2026', 'magnetron-vs-combi-magnetron-2026', 'staafmixer-vs-blender-2026', 'beste-koffiecupmachine-2026', 'beste-waterkoker-2026']
+  },
+  {
+    id: 'student-starter',
+    emoji: '🎒',
+    label: 'Student of starter',
+    intent: 'goedkoop beginnen, weinig miskopen, basis op orde',
+    budget: '€20-€250',
+    advice: 'Begin met betaalbare apparaten die je meerdere keren per week gebruikt. De beste eerste aankopen zijn meestal een waterkoker, budget-airfryer, kruimeldief/steelstofzuiger en eenvoudige koffiemachine.',
+    slugs: ['beste-airfryer-onder-100-euro-2026', 'beste-waterkoker-2026', 'beste-kruimeldief-draadloos-2026', 'beste-koffiemachine-onder-200-euro-2026', 'broodrooster-vs-tosti-ijzer-2026']
+  },
+  {
+    id: 'huisdieren',
+    emoji: '🐾',
+    label: 'Huisdieren in huis',
+    intent: 'dierenhaar, geurtjes, vaker stofzuigen',
+    budget: '€80-€900',
+    advice: 'De winst zit in herhaling: een robotstofzuiger voor dagelijks haar, een krachtige stofzuiger voor banken en randen, en een luchtreiniger als geur of allergie meespeelt.',
+    slugs: ['beste-stofzuiger-tegen-dierenharen-2026', 'robotstofzuiger-vs-stofzuiger-2026', 'beste-robotstofzuiger-2026', 'beste-luchtreiniger-2026', 'stofzuiger-met-zak-vs-zakloos-2026']
+  },
+  {
+    id: 'allergie',
+    emoji: '🌿',
+    label: 'Allergie of gevoelige luchtwegen',
+    intent: 'minder stof, pollen en droge lucht',
+    budget: '€60-€700',
+    advice: 'Let vooral op HEPA-filtering, gesloten stofopvang en luchtkwaliteit. Een stofzuiger met goede filtratie plus luchtreiniger is vaak effectiever dan één duur apparaat.',
+    slugs: ['beste-stofzuiger-voor-allergie-2026', 'luchtreiniger-vs-luchtbevochtiger-2026', 'beste-luchtreiniger-2026', 'beste-luchtbevochtiger-2026', 'beste-stoomreiniger-2026']
+  },
+  {
+    id: 'energie-besparen',
+    emoji: '⚡',
+    label: 'Energie besparen',
+    intent: 'lagere stroomkosten, slimmer verwarmen en drogen',
+    budget: '€40-€1.500',
+    advice: 'De grootste besparing komt van apparaten die veel uren draaien: droger, koelkast, verwarming en koken. Reken terugverdientijd uit voordat je puur op energielabel koopt.',
+    slugs: ['condensdroger-vs-warmtepompdroger-2026', 'elektrische-kachel-vs-infraroodpaneel-2026', 'inductie-vs-gasfornuis-2026', 'beste-koelkast-vriezer-combinatie-2026', 'airfryer-vs-oven-2026']
+  },
+  {
+    id: 'zomer',
+    emoji: '☀️',
+    label: 'Zomer, hitte en buiten koken',
+    intent: 'koelen, barbecue, ijs maken, tuin gebruiken',
+    budget: '€25-€1.500',
+    advice: 'Koeling is comfort, buiten koken is plezier. Combineer een realistische airco-keuze met ventilatie, barbecue of elektrische grill en eventueel een ijsmachine voor warme dagen.',
+    slugs: ['airconditioner-vs-ventilator-2026', 'mobiele-airco-vs-split-airco-2026', 'gasbarbecue-vs-houtskoolbarbecue-2026', 'barbecue-vs-elektrische-grill-2026', 'ijsmachine-vs-diepvries-zelf-maken-2026']
+  },
+  {
+    id: 'tuin-klussen',
+    emoji: '🛠️',
+    label: 'Tuin en klussen',
+    intent: 'onderhoud, maaien, zagen, snoeien',
+    budget: '€40-€1.200',
+    advice: 'Koop niet het zwaarste apparaat, maar het apparaat dat past bij je tuinoppervlak en onderhoudsfrequentie. Voor kleine tuinen wint licht en wendbaar bijna altijd van maximaal vermogen.',
+    slugs: ['robotgrasmaaier-vs-grasmaaier-2026', 'elektrische-grasmaaier-vs-benzine-grasmaaier-2026', 'heggenschaar-vs-bosmaaier-2026', 'cirkelzaag-vs-decoupeerzaag-2026', 'kettingzaag-vs-handzaag-2026']
+  }
+];
+
+const situationCards = situations.map((situation) => ({
+  ...situation,
+  articles: pick(situation.slugs)
+}));
+
+const allLinkedArticles = situationCards.flatMap((situation) => situation.articles);
+const uniqueLinkedArticles = [...new Map(allLinkedArticles.map((article: any) => [article.data.slug, article])).values()];
+
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: [
+    {
+      '@type': 'Question',
+      name: 'Welke apparaten moet ik als eerste kopen voor een nieuw huishouden?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'Begin met apparaten die je dagelijks gebruikt: waterkoker of koffiemachine, airfryer of oven, stofzuiger en wasmachine. Voeg pas daarna luxe of situatie-specifieke apparaten toe zoals robotstofzuiger, ijsmachine of tuinmachines.'
+      }
+    },
+    {
+      '@type': 'Question',
+      name: 'Welke apparaten besparen echt tijd in een druk gezin?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'Voor gezinnen leveren een vaatwasser, grote airfryer, robotstofzuiger en warmtepompdroger meestal de meeste tijdwinst op. Ze verminderen dagelijks terugkerende taken: koken, afwassen, stofzuigen en was drogen.'
+      }
+    },
+    {
+      '@type': 'Question',
+      name: 'Wat is de slimste keuze voor een kleine keuken?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'Kies compacte of multifunctionele apparaten: een compacte airfryer, combi-magnetron, staafmixer en koffiecupmachine. Vermijd apparaten met dubbele functies die veel kastruimte innemen.'
+      }
+    },
+    {
+      '@type': 'Question',
+      name: 'Welke apparaten helpen het meest tegen dierenhaar of allergie?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'Een stofzuiger met sterke borstel en goede HEPA-filtering is de basis. Voor dagelijks dierenhaar helpt een robotstofzuiger; bij pollen, stof of geurtjes kan een luchtreiniger extra verschil maken.'
+      }
+    }
+  ]
+};
+
+const itemListSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'ItemList',
+  name: 'Beste apparaten per situatie 2026',
+  description: 'Keuzehulp voor Nederlandse huishoudens: beste apparaten per situatie, van druk gezin en kleine keuken tot allergie, huisdieren, energie besparen, zomer en tuin.',
+  numberOfItems: uniqueLinkedArticles.length,
+  itemListElement: uniqueLinkedArticles.map((article: any, idx: number) => ({
+    '@type': 'ListItem',
+    position: idx + 1,
+    item: {
+      '@type': 'Article',
+      name: article.data.title,
+      url: `https://rigbay.github.io/dutch-appliances/${article.data.slug}/`
+    }
+  }))
+};
+---
+
+<BaseLayout
+  title="Beste apparaten per situatie 2026: gezin, student, allergie, energie besparen"
+  description="Welke apparaten passen bij jouw huishouden? Vergelijk de beste keuzes voor gezin, kleine keuken, student, huisdieren, allergie, energie besparen, zomer en tuin."
+  canonicalUrl="https://rigbay.github.io/dutch-appliances/apparaten-per-situatie/"
+  structuredData={[faqSchema, itemListSchema]}
+>
+  <section class="border-b border-[#e8e1d7] bg-linen">
+    <div class="mx-auto max-w-6xl px-4 py-12 sm:px-6 lg:px-8">
+      <p class="text-sm font-bold uppercase tracking-[0.16em] text-leaf">Keuzehulp per huishouden</p>
+      <h1 class="mt-3 max-w-4xl font-serif text-4xl font-semibold leading-tight text-ink sm:text-5xl">
+        Beste apparaten per situatie: wat past bij jouw huis in 2026?
+      </h1>
+      <p class="mt-4 max-w-3xl text-lg leading-8 text-muted">
+        Niet iedereen heeft dezelfde apparaten nodig. Een druk gezin koopt anders dan een student, een huis met dierenhaar vraagt iets anders dan een kleine keuken, en energie besparen begint bij de apparaten die de meeste uren draaien. Gebruik deze pagina als snelle route naar de juiste koopgidsen.
+      </p>
+      <div class="mt-6 flex flex-wrap gap-2">
+        {situationCards.map((situation) => (
+          <a href={`#${situation.id}`} class="rounded border border-[#dfe8e5] bg-white px-4 py-2 text-sm font-semibold text-leaf hover:bg-[#edf4f2] transition">
+            {situation.emoji} {situation.label}
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="mx-auto max-w-6xl px-4 py-10 sm:px-6 lg:px-8">
+    <div class="grid gap-5 md:grid-cols-2 lg:grid-cols-4">
+      {situationCards.map((situation) => (
+        <a href={`#${situation.id}`} class="rounded border border-[#e6ded2] bg-paper p-5 shadow-sm transition hover:-translate-y-0.5 hover:shadow-soft">
+          <span class="text-3xl">{situation.emoji}</span>
+          <h2 class="mt-3 font-serif text-xl font-semibold text-ink">{situation.label}</h2>
+          <p class="mt-2 text-sm leading-6 text-muted">{situation.intent}</p>
+          <p class="mt-3 text-xs font-bold uppercase tracking-[0.14em] text-leaf">Budget: {situation.budget}</p>
+        </a>
+      ))}
+    </div>
+  </section>
+
+  {situationCards.map((situation) => (
+    <section id={situation.id} class="border-t border-[#e8e1d7]">
+      <div class="mx-auto grid max-w-6xl gap-8 px-4 py-10 sm:px-6 lg:grid-cols-[0.85fr_1.15fr] lg:px-8">
+        <div>
+          <p class="text-sm font-bold uppercase tracking-[0.16em] text-leaf">{situation.emoji} {situation.intent}</p>
+          <h2 class="mt-3 font-serif text-3xl font-semibold text-ink">{situation.label}</h2>
+          <p class="mt-4 leading-7 text-muted">{situation.advice}</p>
+          <dl class="mt-5 grid gap-3 rounded border border-[#e6ded2] bg-linen p-4 text-sm">
+            <div class="flex items-center justify-between gap-4">
+              <dt class="text-muted">Indicatief budget</dt>
+              <dd class="font-bold text-ink">{situation.budget}</dd>
+            </div>
+            <div class="flex items-center justify-between gap-4 border-t border-[#e1d8ca] pt-3">
+              <dt class="text-muted">Aanbevolen gidsen</dt>
+              <dd class="font-bold text-leaf">{situation.articles.length}</dd>
+            </div>
+          </dl>
+        </div>
+
+        <div class="grid gap-4">
+          {situation.articles.map((article: any, idx: number) => {
+            const d = article.data;
+            return (
+              <a href={`/${d.slug}/`} class="group rounded border border-[#e6ded2] bg-paper p-5 shadow-sm transition hover:-translate-y-0.5 hover:shadow-soft">
+                <div class="flex items-start justify-between gap-3">
+                  <div>
+                    <p class="text-xs font-bold uppercase tracking-[0.14em] text-muted">Stap {idx + 1} · {d.category}</p>
+                    <h3 class="mt-2 font-serif text-xl font-semibold leading-tight text-ink group-hover:text-leaf">{d.title}</h3>
+                    <p class="mt-2 text-sm leading-6 text-muted">{d.description}</p>
+                  </div>
+                  <span class="shrink-0 rounded bg-[#edf4f2] px-2.5 py-1 text-sm font-bold text-leaf">{d.rating.toFixed(1)}/5</span>
+                </div>
+                <div class="mt-4 flex flex-wrap items-center gap-2 text-xs text-muted">
+                  <span class="rounded bg-linen px-2.5 py-1">{d.priceRange}</span>
+                  <span class="rounded bg-linen px-2.5 py-1">{d.readingTime}</span>
+                  <span class="font-bold text-leaf">Lees koopgids →</span>
+                </div>
+              </a>
+            );
+          })}
+        </div>
+      </div>
+    </section>
+  ))}
+
+  <section class="mx-auto max-w-6xl px-4 py-10 sm:px-6 lg:px-8 border-t border-[#e8e1d7]">
+    <div class="rounded border border-[#dfe8e5] bg-[#f3faf7] p-6">
+      <p class="text-sm font-bold uppercase tracking-[0.16em] text-leaf">Snelle beslisregels</p>
+      <h2 class="mt-2 font-serif text-3xl font-semibold text-ink">Koop niet meer apparaten — koop de juiste volgorde</h2>
+      <div class="mt-6 grid gap-5 md:grid-cols-3">
+        <div class="rounded bg-paper p-5">
+          <h3 class="font-semibold text-ink">1. Dagelijks gebruik eerst</h3>
+          <p class="mt-2 text-sm leading-6 text-muted">Apparaten die je elke dag gebruikt verdienen eerder budget dan apparaten voor één feestdag per jaar. Denk aan koffie, koken, schoonmaken en was.</p>
+        </div>
+        <div class="rounded bg-paper p-5">
+          <h3 class="font-semibold text-ink">2. Meet ruimte én onderhoud</h3>
+          <p class="mt-2 text-sm leading-6 text-muted">Een goedkoop apparaat wordt duur als het te groot is, lastig schoonmaakt of in de kast blijft staan. Compact en simpel wint vaak.</p>
+        </div>
+        <div class="rounded bg-paper p-5">
+          <h3 class="font-semibold text-ink">3. Reken energie terug</h3>
+          <p class="mt-2 text-sm leading-6 text-muted">Bij drogers, koelkasten, verwarming en airco telt stroomverbruik echt. Gebruik onze <a href="/stroomkosten-apparaten/" class="text-leaf underline hover:text-[#1f514b]">stroomkosten-tabel</a> voor de rekensom.</p>
+        </div>
+      </div>
+      <div class="mt-6 flex flex-wrap gap-3">
+        <a href="/apparaat-kiezen/" class="rounded bg-leaf px-5 py-2.5 text-sm font-bold text-white hover:bg-[#1f514b]">Open de beslisboom →</a>
+        <a href="/alle-apparaten/" class="rounded border border-leaf bg-white px-5 py-2.5 text-sm font-bold text-leaf hover:bg-[#edf4f2]">Bekijk alle apparaten →</a>
+        <a href="/vergelijken/" class="rounded border border-[#cbbda9] px-5 py-2.5 text-sm font-bold text-ink hover:bg-paper">Vergelijk X vs Y →</a>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
