@@ -1,0 +1,436 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const allReviews = await getCollection('reviews', ({ data }) => !data.draft);
+
+// Brand-to-review mapping: which articles feature which brands
+const brandMap = {
+  'Miele': allReviews.filter(r => {
+    const t = (r.data.title + ' ' + r.data.description + ' ' + (r.body || '')).toLowerCase();
+    return t.includes('miele');
+  }),
+  'Siemens': allReviews.filter(r => {
+    const t = (r.data.title + ' ' + r.data.description + ' ' + (r.body || '')).toLowerCase();
+    return t.includes('siemens');
+  }),
+  'Bosch': allReviews.filter(r => {
+    const t = (r.data.title + ' ' + r.data.description + ' ' + (r.body || '')).toLowerCase();
+    return t.includes('bosch');
+  }),
+  'Philips': allReviews.filter(r => {
+    const t = (r.data.title + ' ' + r.data.description + ' ' + (r.body || '')).toLowerCase();
+    return t.includes('philips');
+  }),
+  'Samsung': allReviews.filter(r => {
+    const t = (r.data.title + ' ' + r.data.description + ' ' + (r.body || '')).toLowerCase();
+    return t.includes('samsung');
+  }),
+  'LG': allReviews.filter(r => {
+    const t = (r.data.title + ' ' + r.data.description + ' ' + (r.body || '')).toLowerCase();
+    return t.includes('lg ');
+  }),
+  'AEG': allReviews.filter(r => {
+    const t = (r.data.title + ' ' + r.data.description + ' ' + (r.body || '')).toLowerCase();
+    return t.includes('aeg');
+  }),
+  'Inventum': allReviews.filter(r => {
+    const t = (r.data.title + ' ' + r.data.description + ' ' + (r.body || '')).toLowerCase();
+    return t.includes('inventum');
+  }),
+  'Princess': allReviews.filter(r => {
+    const t = (r.data.title + ' ' + r.data.description + ' ' + (r.body || '')).toLowerCase();
+    return t.includes('princess');
+  }),
+  'Tefal': allReviews.filter(r => {
+    const t = (r.data.title + ' ' + r.data.description + ' ' + (r.body || '')).toLowerCase();
+    return t.includes('tefal');
+  }),
+  'Ninja': allReviews.filter(r => {
+    const t = (r.data.title + ' ' + r.data.description + ' ' + (r.body || '')).toLowerCase();
+    return t.includes('ninja');
+  }),
+  'De\'Longhi': allReviews.filter(r => {
+    const t = (r.data.title + ' ' + r.data.description + ' ' + (r.body || '')).toLowerCase();
+    return t.includes('de\'longhi') || t.includes('delonghi');
+  }),
+  'Jura': allReviews.filter(r => {
+    const t = (r.data.title + ' ' + r.data.description + ' ' + (r.body || '')).toLowerCase();
+    return t.includes('jura');
+  }),
+  'KitchenAid': allReviews.filter(r => {
+    const t = (r.data.title + ' ' + r.data.description + ' ' + (r.body || '')).toLowerCase();
+    return t.includes('kitchenaid');
+  }),
+  'Dyson': allReviews.filter(r => {
+    const t = (r.data.title + ' ' + r.data.description + ' ' + (r.body || '')).toLowerCase();
+    return t.includes('dyson');
+  }),
+  'Kärcher': allReviews.filter(r => {
+    const t = (r.data.title + ' ' + r.data.description + ' ' + (r.body || '')).toLowerCase();
+    return t.includes('kärcher') || t.includes('karcher');
+  }),
+};
+
+// Brand tiers
+const premiumBrands = ['Miele', 'Siemens', 'Bosch', 'Jura', 'KitchenAid', 'Dyson'];
+const middenBrands = ['Philips', 'Samsung', 'LG', 'AEG', 'De\'Longhi', 'Ninja', 'Kärcher'];
+const budgetBrands = ['Inventum', 'Princess', 'Tefal'];
+
+// Category-specific brand recommendations
+const categoryBrands = [
+  {
+    category: 'Koelkasten & Vriezers',
+    icon: '🧊',
+    premium: 'Liebherr, Miele, Siemens',
+    midden: 'Bosch, Samsung, LG',
+    budget: 'Inventum, Beko, Whirlpool',
+    tip: 'Liebherr is de onbetwiste koning in koeling — Duits, gespecialiseerd, en extreem betrouwbaar. Miele en Siemens bieden topkwaliteit met 5+ jaar garantie. Voor middenklasse is Bosch de sweet spot: degelijk, zuinig, en goed verkrijgbaar.',
+    links: ['/beste-koelkast-2026/', '/beste-vriezer-2026/', '/beste-amerikaanse-koelkast-2026/']
+  },
+  {
+    category: 'Wasmachines & Drogers',
+    icon: '👕',
+    premium: 'Miele, Siemens, Bosch',
+    midden: 'AEG, Samsung, LG',
+    budget: 'Beko, Indesit, Whirlpool',
+    tip: 'Miele wasmachines gaan 20+ jaar mee — de initiële meerprijs verdien je dubbel terug in levensduur. Bosch en Siemens delen dezelfde fabriek en technologie. Voor warmtepompdrogers is AEG de referentie met hun ProTex-systeem.',
+    links: ['/beste-wasmachine-2026/', '/beste-wasdroger-2026/', '/condensdroger-vs-warmtepompdroger-2026/']
+  },
+  {
+    category: 'Vaatwassers',
+    icon: '🍽️',
+    premium: 'Miele, Siemens, Bosch',
+    midden: 'AEG, Samsung',
+    budget: 'Beko, Inventum, Whirlpool',
+    tip: 'Bosch vaatwassers zijn de populairste keuze in Nederland — stil, zuinig, en uitstekende prijs-kwaliteit. Miele is stiller en duurzamer maar kost 2-3x zoveel. Let op: Bosch Serie 6 en 8 hebben Zeolith-drogen, wat plastic bakjes wél droog maakt.',
+    links: ['/beste-vaatwasser-2026/', '/vaatwasser-vs-handafwas-2026/']
+  },
+  {
+    category: 'Koffiemachines',
+    icon: '☕',
+    premium: 'Jura, Miele, Siemens',
+    midden: 'De\'Longhi, Philips, Sage',
+    budget: 'Nespresso, Senseo, Tefal',
+    tip: 'Jura is de gouden standaard voor volautomaten — Zwitsers, 15+ jaar meegaand, perfecte espresso. De\'Longhi biedt 90% van de kwaliteit voor 50% van de prijs. Voor bonenmalers: Sage (Breville) is de referentie onder €300.',
+    links: ['/beste-koffiemachine-2026/', '/beste-volautomatische-koffiemachine-2026/', '/beste-koffiemachine-bonen-2026/', '/beste-koffiemachine-onder-200-euro-2026/']
+  },
+  {
+    category: 'Airfryers & Friteuses',
+    icon: '🍟',
+    premium: 'Philips, Ninja',
+    midden: 'Tefal, Princess, Inventum',
+    budget: 'Tristar, Domoclip',
+    tip: 'Philips is de uitvinder van de airfryer en nog steeds de referentie — de XXL-serie met Rapid Air-technologie geeft het krokanter resultaat. Ninja is de grote uitdager met dual-zone modellen (twee manden, twee temperaturen). Tefal biedt de beste combi airfryer-ovens.',
+    links: ['/beste-airfryer-2026/', '/beste-airfryer-met-twee-manden-2026/', '/beste-airfryer-oven-combi-2026/', '/beste-airfryer-onder-100-euro-2026/']
+  },
+  {
+    category: 'Stofzuigers',
+    icon: '🧹',
+    premium: 'Dyson, Miele, Philips',
+    midden: 'Samsung, Bosch, Rowenta',
+    budget: 'Inventum, Tristar, Bissell',
+    tip: 'Dyson is de innovator — cycloontechnologie, snoerloos, en herkenbaar design. Maar Miele-stofzuigers met zak gaan langer mee en filteren beter (HEPA 13). Voor robotstofzuigers: Roborock en iRobot zijn de referenties, niet de traditionele merken.',
+    links: ['/beste-stofzuiger-2026/', '/beste-robotstofzuiger-2026/', '/beste-draadloze-stofzuiger-2026/', '/beste-stofzuiger-tegen-dierenharen-2026/']
+  },
+  {
+    category: 'Kookplaten & Ovens',
+    icon: '🍳',
+    premium: 'Miele, Siemens, Bosch',
+    midden: 'AEG, Samsung, LG',
+    budget: 'Inventum, Etna, Whirlpool',
+    tip: 'Inductie is de standaard in 2026. Siemens en Bosch bieden de beste prijs-kwaliteit met flexInductie-zones. Miele heeft de snelste opwarming. Voor ovens: Siemens met 4D hetelucht is de referentie — gelijkmatige warmte op elk niveau.',
+    links: ['/beste-inductiekookplaat-2026/', '/beste-gasfornuis-2026/', '/inductie-vs-gasfornuis-2026/', '/beste-stoomoven-2026/']
+  },
+  {
+    category: 'Tuingereedschap',
+    icon: '🌿',
+    premium: 'Stihl, Husqvarna, Makita',
+    midden: 'Bosch, Gardena, Kärcher',
+    budget: 'Einhell, Black+Decker, Wolf-Garten',
+    tip: 'Stihl en Husqvarna zijn de professionele keuze voor kettingzagen en bosmaaiers — benzine of accu, gebouwd voor dagelijks gebruik. Voor consumenten: Bosch (accu-gereedschap) en Kärcher (hogedrukreinigers) zijn de referenties. Gardena is koning in tuinslangen en sproeiers.',
+    links: ['/beste-kettingzaag-2026/', '/beste-bosmaaier-2026/', '/beste-hogedrukreiniger-2026/', '/beste-robotgrasmaaier-2026/']
+  }
+];
+
+// Brand comparison table data
+const brandProfiles = [
+  { brand: 'Miele', land: 'Duitsland', sinds: 1899, garantie: '2-5 jaar', segment: 'Premium', kenmerk: 'Langste levensduur, stilste werking, beste service', prijs: '€€€€' },
+  { brand: 'Siemens', land: 'Duitsland', sinds: 1847, garantie: '2-5 jaar', segment: 'Premium', kenmerk: 'Innovatieve technologie, strak design, flexInductie', prijs: '€€€' },
+  { brand: 'Bosch', land: 'Duitsland', sinds: 1886, garantie: '2-5 jaar', segment: 'Premium-Midden', kenmerk: 'Beste prijs-kwaliteit, Zeolith-drogen, stil', prijs: '€€€' },
+  { brand: 'Philips', land: 'Nederland', sinds: 1891, garantie: '2 jaar', segment: 'Midden', kenmerk: 'Airfryer-uitvinder, breed assortiment, goede service', prijs: '€€' },
+  { brand: 'Samsung', land: 'Zuid-Korea', sinds: 1938, garantie: '2 jaar', segment: 'Midden', kenmerk: 'Smart features, Family Hub koelkasten, design', prijs: '€€€' },
+  { brand: 'LG', land: 'Zuid-Korea', sinds: 1947, garantie: '2 jaar', segment: 'Midden', kenmerk: 'Inverter-motoren, 10 jaar garantie op compressor', prijs: '€€' },
+  { brand: 'AEG', land: 'Duitsland', sinds: 1887, garantie: '2 jaar', segment: 'Midden', kenmerk: 'ProTex-drogers, stoomovens, degelijk Duits design', prijs: '€€€' },
+  { brand: 'De\'Longhi', land: 'Italië', sinds: 1902, garantie: '2 jaar', segment: 'Midden', kenmerk: 'Beste prijs-kwaliteit koffiemachines, Magnifica-serie', prijs: '€€' },
+  { brand: 'Jura', land: 'Zwitserland', sinds: 1931, garantie: '2-3 jaar', segment: 'Premium', kenmerk: 'Beste volautomaten, 15+ jaar levensduur, perfecte espresso', prijs: '€€€€' },
+  { brand: 'Dyson', land: 'Verenigd Koninkrijk', sinds: 1991, garantie: '2 jaar', segment: 'Premium', kenmerk: 'Cycloontechnologie, snoerloos, innovatief design', prijs: '€€€€' },
+  { brand: 'Ninja', land: 'Verenigde Staten', sinds: 2009, garantie: '2 jaar', segment: 'Midden', kenmerk: 'Dual-zone airfryers, krachtige blenders, snel populair', prijs: '€€' },
+  { brand: 'Kärcher', land: 'Duitsland', sinds: 1935, garantie: '2 jaar', segment: 'Midden', kenmerk: 'Referentie in hogedrukreinigers, stoomreinigers, dweilrobots', prijs: '€€' },
+  { brand: 'Inventum', land: 'Nederland', sinds: 1908, garantie: '2 jaar', segment: 'Budget', kenmerk: 'Nederlands merk, betaalbaar, breed assortiment', prijs: '€' },
+  { brand: 'Princess', land: 'Nederland', sinds: 1994, garantie: '2 jaar', segment: 'Budget', kenmerk: 'Scherpe prijzen, compacte airfryers, citruspersen', prijs: '€' },
+  { brand: 'Tefal', land: 'Frankrijk', sinds: 1956, garantie: '2 jaar', segment: 'Budget-Midden', kenmerk: 'Pannen-gigant, airfryer-ovens, stoomstrijkijzers', prijs: '€' },
+];
+---
+
+<BaseLayout
+  title="Beste Merken Huishoudelijke Apparaten 2026: Van Miele tot Inventum"
+  description="Vergelijk de beste merken voor koelkasten, wasmachines, airfryers, stofzuigers en meer. Premium, middenklasse en budget — met Amazon NL koopadvies (kieskeukennl-21)."
+  canonicalUrl="https://rigbay.github.io/dutch-appliances/beste-merken/"
+>
+  <div class="max-w-4xl mx-auto px-4 py-12">
+
+    <!-- HERO -->
+    <h1 class="text-4xl md:text-5xl font-serif font-semibold mb-6 leading-tight">
+      Beste Merken Huishoudelijke Apparaten 2026: Welk Merk Past bij Jou?
+    </h1>
+    <p class="text-lg md:text-xl text-muted mb-4 leading-relaxed">
+      Miele, Bosch, Siemens, Philips, Samsung — de keuze is enorm. Maar welk merk is écht het beste voor <em>jouw</em> situatie? In deze gids vergelijken we <strong>15 topmerken</strong> op kwaliteit, prijs, garantie en gebruikerservaringen. Per apparaatcategorie vertellen we welk merk de referentie is — en waarom.
+    </p>
+    <p class="text-muted mb-8">
+      Alle links verwijzen naar <strong>Amazon NL</strong>. Via onze links ontvangen wij een commissie zonder extra kosten voor jou. <em>Tag: kieskeukennl-21</em>.
+    </p>
+
+    <!-- QUICK STATS -->
+    <div class="grid grid-cols-2 md:grid-cols-4 gap-4 mb-12">
+      <div class="bg-[#f0f7f4] rounded p-4 text-center">
+        <p class="text-3xl font-bold text-leaf">15</p>
+        <p class="text-xs text-muted mt-1">merken vergeleken</p>
+      </div>
+      <div class="bg-[#f0f7f4] rounded p-4 text-center">
+        <p class="text-3xl font-bold text-leaf">8</p>
+        <p class="text-xs text-muted mt-1">apparaatcategorieën</p>
+      </div>
+      <div class="bg-[#f0f7f4] rounded p-4 text-center">
+        <p class="text-3xl font-bold text-leaf">20+</p>
+        <p class="text-xs text-muted mt-1">jaar levensduur (Miele)</p>
+      </div>
+      <div class="bg-[#f0f7f4] rounded p-4 text-center">
+        <p class="text-3xl font-bold text-leaf">{allReviews.length}</p>
+        <p class="text-xs text-muted mt-1">koopgidsen met merkinfo</p>
+      </div>
+    </div>
+
+    <!-- INHOUDSOPGAVE -->
+    <nav class="bg-[#f8f5f0] p-6 rounded mb-12" aria-label="Inhoudsopgave">
+      <h2 class="text-lg font-semibold mb-3">📋 Inhoudsopgave</h2>
+      <ul class="grid grid-cols-1 md:grid-cols-2 gap-2 text-sm">
+        <li><a href="#tiers" class="text-leaf hover:underline">→ Premium, Middenklasse &amp; Budget: de 3 niveaus</a></li>
+        <li><a href="#tabel" class="text-leaf hover:underline">→ Merken-vergelijkingstabel (15 merken)</a></li>
+        {categoryBrands.map(c => (
+          <li><a href={`#${c.category.toLowerCase().replace(/[ &]/g, '-').replace(/[^a-z0-9-]/g, '')}`} class="text-leaf hover:underline">→ {c.icon} {c.category}</a></li>
+        ))}
+        <li><a href="#faq" class="text-leaf hover:underline">→ Veelgestelde Vragen (FAQ)</a></li>
+      </ul>
+    </nav>
+
+    <!-- BRAND TIERS -->
+    <section id="tiers" class="mb-12">
+      <h2 class="text-3xl font-serif font-semibold mb-4 border-b pb-2">🏆 Premium, Middenklasse &amp; Budget: De 3 Niveaus</h2>
+      <p class="text-muted mb-6">
+        Niet elk huishouden heeft hetzelfde budget. We delen merken in drie niveaus — niet om te oordelen, maar om je te helpen kiezen wat bij jouw situatie past.
+      </p>
+
+      <div class="space-y-6">
+        <!-- Premium -->
+        <div class="bg-white border border-[#e8e1d7] rounded p-6">
+          <div class="flex items-start gap-4">
+            <span class="text-3xl">👑</span>
+            <div>
+              <h3 class="text-xl font-semibold text-ink mb-2">Premium — Investeren in Kwaliteit</h3>
+              <p class="text-sm text-muted mb-3"><strong>Merken:</strong> {premiumBrands.join(', ')}</p>
+              <p class="text-sm text-muted leading-relaxed mb-3">
+                Deze merken kosten meer bij aanschaf, maar gaan <strong>significant langer mee</strong> (15-20+ jaar), zijn stiller, energiezuiniger, en bieden betere garantie en service. Een Miele-wasmachine van €1.200 die 20 jaar meegaat is per jaar goedkoper dan een budgetmodel van €400 dat na 6 jaar stuk is.
+              </p>
+              <p class="text-sm text-muted leading-relaxed">
+                <strong>Voor wie?</strong> Huiseigenaren die investeren in de lange termijn. Gezinnen die apparaten intensief gebruiken. Mensen die stilte en betrouwbaarheid belangrijker vinden dan de laagste aanschafprijs.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Middenklasse -->
+        <div class="bg-white border border-[#e8e1d7] rounded p-6">
+          <div class="flex items-start gap-4">
+            <span class="text-3xl">⭐</span>
+            <div>
+              <h3 class="text-xl font-semibold text-ink mb-2">Middenklasse — De Sweet Spot</h3>
+              <p class="text-sm text-muted mb-3"><strong>Merken:</strong> {middenBrands.join(', ')}</p>
+              <p class="text-sm text-muted leading-relaxed mb-3">
+                Dit is waar de meeste Nederlanders kopen — en terecht. Je krijgt <strong>80-90% van de premium-kwaliteit voor 50-60% van de prijs</strong>. Een Bosch-vaatwasser of Philips-airfryer presteert uitstekend en gaat 10-15 jaar mee. De middenklasse is de sweet spot voor prijs-kwaliteit.
+              </p>
+              <p class="text-sm text-muted leading-relaxed">
+                <strong>Voor wie?</strong> De meeste huishoudens. Wie kwaliteit wil zonder de hoofdprijs. Wie moderne functies belangrijk vindt (smart features, app-bediening) — Samsung en LG blinken hierin uit.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Budget -->
+        <div class="bg-white border border-[#e8e1d7] rounded p-6">
+          <div class="flex items-start gap-4">
+            <span class="text-3xl">💰</span>
+            <div>
+              <h3 class="text-xl font-semibold text-ink mb-2">Budget — Betaalbaar &amp; Functioneel</h3>
+              <p class="text-sm text-muted mb-3"><strong>Merken:</strong> {budgetBrands.join(', ')}</p>
+              <p class="text-sm text-muted leading-relaxed mb-3">
+                Budgetmerken doen wat ze moeten doen — zonder franje. Een Inventum-waterkoker kookt water, een Princess-airfryer bakt friet. De levensduur is korter (5-8 jaar) en de materialen zijn minder luxe, maar voor <strong>starters, studenten en tweede huishoudens</strong> is dit vaak de verstandigste keuze.
+              </p>
+              <p class="text-sm text-muted leading-relaxed">
+                <strong>Voor wie?</strong> Studenten, starters, vakantiehuizen, mensen die een apparaat weinig gebruiken. Ook handig als tijdelijk apparaat terwijl je spaart voor een premium-model.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- BRAND COMPARISON TABLE -->
+    <section id="tabel" class="mb-12">
+      <h2 class="text-3xl font-serif font-semibold mb-4 border-b pb-2">📊 Merken-Vergelijkingstabel</h2>
+      <p class="text-muted mb-6">
+        In één oogopslag: herkomst, historie, garantie, segment en het kenmerkende voordeel van elk merk.
+      </p>
+      <div class="overflow-x-auto">
+        <table class="w-full text-sm border-collapse">
+          <thead>
+            <tr class="bg-[#f0f7f4] text-left">
+              <th class="p-3 font-semibold border-b border-[#e8e1d7]">Merk</th>
+              <th class="p-3 font-semibold border-b border-[#e8e1d7]">Land</th>
+              <th class="p-3 font-semibold border-b border-[#e8e1d7]">Sinds</th>
+              <th class="p-3 font-semibold border-b border-[#e8e1d7]">Garantie</th>
+              <th class="p-3 font-semibold border-b border-[#e8e1d7]">Segment</th>
+              <th class="p-3 font-semibold border-b border-[#e8e1d7]">Kenmerk</th>
+              <th class="p-3 font-semibold border-b border-[#e8e1d7]">Prijs</th>
+            </tr>
+          </thead>
+          <tbody>
+            {brandProfiles.map(b => (
+              <tr class="border-b border-[#eee7dd] hover:bg-[#fafaf7]">
+                <td class="p-3 font-medium text-ink">{b.brand}</td>
+                <td class="p-3 text-muted">{b.land}</td>
+                <td class="p-3 text-muted">{b.sinds}</td>
+                <td class="p-3 text-muted">{b.garantie}</td>
+                <td class="p-3">
+                  <span class={`inline-block px-2 py-0.5 rounded text-xs font-medium ${
+                    b.segment === 'Premium' ? 'bg-[#f0e6d3] text-[#8b6914]' :
+                    b.segment.includes('Premium') ? 'bg-[#f0e6d3] text-[#8b6914]' :
+                    b.segment === 'Midden' || b.segment.includes('Midden') ? 'bg-[#e8f0e8] text-leaf' :
+                    'bg-[#f5f0e8] text-[#8b7355]'
+                  }`}>{b.segment}</span>
+                </td>
+                <td class="p-3 text-muted text-xs leading-relaxed">{b.kenmerk}</td>
+                <td class="p-3 text-muted">{b.prijs}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <p class="text-xs text-muted mt-3">
+        Prijsindicatie: € = budget (€20-150), €€ = midden (€100-500), €€€ = premium-midden (€300-1.200), €€€€ = premium (€500-2.500+). Prijzen variëren per productcategorie.
+      </p>
+    </section>
+
+    <!-- CATEGORY-SPECIFIC BRAND GUIDES -->
+    {categoryBrands.map(c => (
+      <section id={c.category.toLowerCase().replace(/[ &]/g, '-').replace(/[^a-z0-9-]/g, '')} class="mb-12">
+        <h2 class="text-3xl font-serif font-semibold mb-4 border-b pb-2">{c.icon} {c.category} — Welk Merk is het Beste?</h2>
+        <div class="bg-white border border-[#e8e1d7] rounded p-6">
+          <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-5">
+            <div class="bg-[#f0e6d3] rounded p-4">
+              <p class="text-xs font-bold uppercase tracking-wider text-[#8b6914] mb-1">Premium</p>
+              <p class="text-sm font-medium text-ink">{c.premium}</p>
+            </div>
+            <div class="bg-[#e8f0e8] rounded p-4">
+              <p class="text-xs font-bold uppercase tracking-wider text-leaf mb-1">Middenklasse</p>
+              <p class="text-sm font-medium text-ink">{c.midden}</p>
+            </div>
+            <div class="bg-[#f5f0e8] rounded p-4">
+              <p class="text-xs font-bold uppercase tracking-wider text-[#8b7355] mb-1">Budget</p>
+              <p class="text-sm font-medium text-ink">{c.budget}</p>
+            </div>
+          </div>
+          <p class="text-sm text-muted leading-relaxed mb-4">{c.tip}</p>
+          <div class="flex flex-wrap gap-2">
+            {c.links.map(link => (
+              <a href={link} class="inline-block px-3 py-1.5 bg-leaf text-white text-sm rounded hover:bg-[#1f514b] transition-colors">
+                Bekijk koopgids →
+              </a>
+            ))}
+          </div>
+        </div>
+      </section>
+    ))}
+
+    <!-- FAQ -->
+    <section id="faq" class="mb-12">
+      <h2 class="text-3xl font-serif font-semibold mb-4 border-b pb-2">❓ Veelgestelde Vragen over Apparatenmerken</h2>
+      <div class="space-y-3">
+        <details class="bg-white border border-[#e8e1d7] rounded p-4 group">
+          <summary class="font-semibold cursor-pointer text-ink">Is Miele écht beter dan Bosch of Siemens?</summary>
+          <p class="mt-3 text-muted text-sm leading-relaxed">
+            Ja — maar het verschil is kleiner dan de prijs suggereert. Miele test elk apparaat op 20 jaar gebruik, gebruikt zwaardere materialen (dikkere trommels, betere lagers), en is gemiddeld 3-5 dB stiller. Bosch en Siemens delen dezelfde BSH-fabrieken en bieden ~90% van de kwaliteit voor ~60% van de prijs. Voor de meeste mensen is Bosch/Siemens de betere keuze. Miele is voor wie het allerbeste wil en bereid is daarvoor te betalen.
+          </p>
+        </details>
+        <details class="bg-white border border-[#e8e1d7] rounded p-4 group">
+          <summary class="font-semibold cursor-pointer text-ink">Welk merk airfryer is het beste?</summary>
+          <p class="mt-3 text-muted text-sm leading-relaxed">
+            <strong>Philips</strong> is de uitvinder en nog steeds de referentie — de Rapid Air-technologie geeft het meest krokanter resultaat. <strong>Ninja</strong> is de beste keuze voor gezinnen dankzij de dual-zone modellen (twee onafhankelijke manden). <strong>Tefal</strong> blinkt uit in airfryer-ovens (grotere capaciteit, grillfunctie). Zie onze <a href="/beste-airfryer-2026/" class="underline">beste airfryer gids</a> voor de complete vergelijking.
+          </p>
+        </details>
+        <details class="bg-white border border-[#e8e1d7] rounded p-4 group">
+          <summary class="font-semibold cursor-pointer text-ink">Zijn Samsung en LG goede witgoedmerken?</summary>
+          <p class="mt-3 text-muted text-sm leading-relaxed">
+            Ja — maar met een andere focus. Samsung en LG komen uit de elektronica-wereld en blinken uit in <strong>smart features</strong> (WiFi, app-bediening, Family Hub-schermen op koelkasten). Qua pure was- en koelprestaties zijn ze vergelijkbaar met Bosch/AEG. LG geeft 10 jaar garantie op de inverter-compressor van koelkasten — dat is marktleidend. Minder geschikt als je geen smart features wilt.
+          </p>
+        </details>
+        <details class="bg-white border border-[#e8e1d7] rounded p-4 group">
+          <summary class="font-semibold cursor-pointer text-ink">Wat is het beste Nederlandse merk huishoudelijke apparaten?</summary>
+          <p class="mt-3 text-muted text-sm leading-relaxed">
+            <strong>Philips</strong> is het grootste en bekendste Nederlandse merk — wereldwijd marktleider in airfryers, scheerapparaten en tandenborstels. <strong>Inventum</strong> is een oer-Hollands merk (sinds 1908) dat betaalbare witgoed en kleine apparaten maakt. <strong>Princess</strong> (sinds 1994) richt zich op compacte, betaalbare keukenapparaten. Geen van deze is premium, maar ze bieden uitstekende prijs-kwaliteit voor Nederlandse huishoudens.
+          </p>
+        </details>
+        <details class="bg-white border border-[#e8e1d7] rounded p-4 group">
+          <summary class="font-semibold cursor-pointer text-ink">Hoe belangrijk is merkgarantie bij apparaten?</summary>
+          <p class="mt-3 text-muted text-sm leading-relaxed">
+            Heel belangrijk. Standaard EU-garantie is 2 jaar, maar premium-merken bieden vaak 5 jaar (Miele, Siemens, Bosch op bepaalde onderdelen). LG geeft 10 jaar op koelkast-compressoren. Een langere garantie zegt iets over het vertrouwen van de fabrikant in het product. Check ook of er een <strong>service-monteur bij jou in de buurt</strong> beschikbaar is — bij budgetmerken is dat niet altijd het geval.
+          </p>
+        </details>
+        <details class="bg-white border border-[#e8e1d7] rounded p-4 group">
+          <summary class="font-semibold cursor-pointer text-ink">Welk merk stofzuiger gaat het langst mee?</summary>
+          <p class="mt-3 text-muted text-sm leading-relaxed">
+            <strong>Miele</strong> stofzuigers met zak gaan routinematig 15-20 jaar mee — de motoren zijn overgedimensioneerd en onderdelen blijven tientallen jaren beschikbaar. <strong>Dyson</strong> snoerloze stofzuigers zijn innovatief maar de accu's degraderen na 3-5 jaar (vervangbaar, €80-120). Voor robotstofzuigers zijn <strong>Roborock</strong> en <strong>iRobot (Roomba)</strong> de referenties — niet de traditionele stofzuigermerken.
+          </p>
+        </details>
+      </div>
+    </section>
+
+    <!-- CTA -->
+    <div class="bg-[#f0f7f4] rounded-lg p-8 text-center border border-[#c5e0d0]">
+      <h2 class="font-serif text-2xl font-semibold text-ink">Klaar om het beste merk voor jou te kiezen?</h2>
+      <p class="text-muted mb-5 max-w-lg mx-auto">
+        Blader door onze {allReviews.length} koopgidsen — elk artikel vertelt je welke merken het beste scoren in die categorie. Alle links naar Amazon NL met actuele prijzen.
+      </p>
+      <div class="flex flex-wrap justify-center gap-3">
+        <a href="/alle-apparaten/" class="inline-block rounded bg-leaf px-5 py-3 text-sm font-bold text-white hover:bg-[#1f514b] transition">Alle {allReviews.length} apparaten →</a>
+        <a href="/keukenapparaten-koopgids/" class="inline-block rounded border border-leaf px-5 py-3 text-sm font-bold text-leaf hover:bg-[#f0f7f4] transition">Keukenapparaten Koopgids →</a>
+        <a href="/middenklasse/" class="inline-block rounded border border-leaf px-5 py-3 text-sm font-bold text-leaf hover:bg-[#f0f7f4] transition">Middenklasse €100–€300 →</a>
+        <a href="/energiezuinige-apparaten/" class="inline-block rounded border border-leaf px-5 py-3 text-sm font-bold text-leaf hover:bg-[#f0f7f4] transition">Energiezuinige Apparaten →</a>
+      </div>
+    </div>
+
+    <!-- SCHEMA -->
+    <script type="application/ld+json" set:html={JSON.stringify({
+      '@context': 'https://schema.org',
+      '@type': 'Article',
+      'headline': 'Beste Merken Huishoudelijke Apparaten 2026: Van Miele tot Inventum',
+      'description': 'Vergelijk de beste merken voor koelkasten, wasmachines, airfryers, stofzuigers en meer. Premium, middenklasse en budget — met Amazon NL koopadvies.',
+      'author': { '@type': 'Organization', 'name': 'Beste Apparaten' },
+      'publisher': { '@type': 'Organization', 'name': 'Beste Apparaten', 'url': 'https://rigbay.github.io/dutch-appliances/' },
+      'datePublished': '2026-06-15',
+      'dateModified': '2026-06-15',
+      'mainEntityOfPage': { '@type': 'WebPage', '@id': 'https://rigbay.github.io/dutch-appliances/beste-merken/' }
+    })} />
+
+  </div>
+</BaseLayout>
