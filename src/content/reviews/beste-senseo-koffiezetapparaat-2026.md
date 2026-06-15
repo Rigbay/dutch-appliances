@@ -187,9 +187,9 @@ Wie echter iets meer flexibiliteit wenst, kan beter kijken naar de **Philips Sen
 
 ## Gerelateerde koopgidsen
 
-- [Bekijk De Beste Volautomatische Koffiemachines: Bonen tot Kopje met Eén Knop in 2026](/dutch-appliances/beste-volautomatische-koffiemachine-2026/)
-- [Bekijk De Ultieme Koopgids: Jouw Weg naar de Perfecte Koffiemolen in 2026](/dutch-appliances/beste-koffiemolen-2026/)
-- [Bekijk beste koffiemelkopschuimers van 2026](/dutch-appliances/beste-koffiemelkopschuimer-2026/)
-- [Bekijk Beste koffiecupmachine 2026: Nespresso, Dolce Gusto of Senseo?](/dutch-appliances/beste-koffiecupmachine-2026/)
+- [Bekijk De Beste Volautomatische Koffiemachines: Bonen tot Kopje met Eén Knop in 2026](/beste-volautomatische-koffiemachine-2026/)
+- [Bekijk De Ultieme Koopgids: Jouw Weg naar de Perfecte Koffiemolen in 2026](/beste-koffiemolen-2026/)
+- [Bekijk beste koffiemelkopschuimers van 2026](/beste-koffiemelkopschuimer-2026/)
+- [Bekijk Beste koffiecupmachine 2026: Nespresso, Dolce Gusto of Senseo?](/beste-koffiecupmachine-2026/)
 
 *Deze links verwijzen naar gerelateerde koopgidsen op onze site.*

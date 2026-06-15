@@ -115,14 +115,14 @@ De **Tefal Wok Excellence 30cm** is de beste allround wokpan voor thuis: antiaan
 
 De beste wokpan voor de meeste Nederlanders is de **Tefal Wok Excellence 30cm**: breed, antiaanbak en geschikt voor inductie. Wie op gas kookt en authentiek wil wokken, kiest de **De Buyer Wok 32cm**.
 
-*Dit artikel bevat affiliate links. Als je via deze links een aankoop doet, ontvangen wij een kleine commissie zonder extra kosten voor jou. Lees ook onze andere [keuken artikelen](/) en vergelijk meer keukenapparaten.*  [onze 'beste keukenmes set 2026: kookmessen voor de thuiskok'](/dutch-appliances/beste-keukenmes-set-2026/)
+*Dit artikel bevat affiliate links. Als je via deze links een aankoop doet, ontvangen wij een kleine commissie zonder extra kosten voor jou. Lees ook onze andere [keuken artikelen](/) en vergelijk meer keukenapparaten.*  [onze 'beste keukenmes set 2026: kookmessen voor de thuiskok'](/beste-keukenmes-set-2026/)
 
 
 ## Gerelateerde koopgidsen
 
-- [Bekijk Beste bakplaat 2026: gourmetten, grillen en bakken aan tafel](/dutch-appliances/beste-bakplaat-2026/)
-- [Bekijk Beste snijplank 2026: 5 snijplanken voor elke keuken](/dutch-appliances/beste-snijplank-2026/)
-- [Bekijk Beste pannenset 2026: complete sets voor elke keuken](/dutch-appliances/beste-pannenset-2026/)
-- [Bekijk Beste deegroller 2026: 5 beste deegrollers voor perfect deeg](/dutch-appliances/beste-deegroller-2026/)
+- [Bekijk Beste bakplaat 2026: gourmetten, grillen en bakken aan tafel](/beste-bakplaat-2026/)
+- [Bekijk Beste snijplank 2026: 5 snijplanken voor elke keuken](/beste-snijplank-2026/)
+- [Bekijk Beste pannenset 2026: complete sets voor elke keuken](/beste-pannenset-2026/)
+- [Bekijk Beste deegroller 2026: 5 beste deegrollers voor perfect deeg](/beste-deegroller-2026/)
 
 *Deze links verwijzen naar gerelateerde koopgidsen op onze site.*

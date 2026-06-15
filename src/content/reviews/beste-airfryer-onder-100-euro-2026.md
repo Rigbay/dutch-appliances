@@ -63,7 +63,7 @@ related:
 
 # De Beste Airfryers Onder €100 in 2026: Lekker en Betaalbaar Bakken!
 
-De airfryer is niet meer weg te denken uit de moderne keuken. onze [airfryer magnetron gids](/airfryer-vs-magnetron-2026/). onze [airfryer oven gids](/airfryer-vs-oven-2026/). onze [airfryer gids](/beste-airfryer-2026/). Lees ook onze [airfryer friteuse gids](/airfryer-vs-friteuse-2026/), [airfryer magnetron gids](/airfryer-vs-magnetron-2026/), [airfryer oven gids](/airfryer-vs-oven-2026/), [airfryer gids](/beste-airfryer-2026/), en [airfryer met twee manden gids](/beste-airfryer-met-twee-manden-2026/). Het apparaat belooft knapperige frietjes, sappige kip en heerlijke snacks, allemaal met een fractie van het vet dat je in een traditionele friteuse gebruikt.  [onze 'koekenpan vs. braadpan: welke pan gebruik je wanneer? vergelijking 2026'](/dutch-appliances/koekenpan-vs-braadpan-2026/) Maar de aanschaf van zo'n keukenwonder kan best een investering zijn. Gelukkig is dat niet altijd nodig! Ook met een kleiner budget kun je genieten van de voordelen van airfryer-koken. In deze koopgids duiken we in de wereld van de betaalbare airfryers en helpen we je de beste keuze te maken voor minder dan €100.
+De airfryer is niet meer weg te denken uit de moderne keuken. onze [airfryer magnetron gids](/airfryer-vs-magnetron-2026/). onze [airfryer oven gids](/airfryer-vs-oven-2026/). onze [airfryer gids](/beste-airfryer-2026/). Lees ook onze [airfryer friteuse gids](/airfryer-vs-friteuse-2026/), [airfryer magnetron gids](/airfryer-vs-magnetron-2026/), [airfryer oven gids](/airfryer-vs-oven-2026/), [airfryer gids](/beste-airfryer-2026/), en [airfryer met twee manden gids](/beste-airfryer-met-twee-manden-2026/). Het apparaat belooft knapperige frietjes, sappige kip en heerlijke snacks, allemaal met een fractie van het vet dat je in een traditionele friteuse gebruikt.  [onze 'koekenpan vs. braadpan: welke pan gebruik je wanneer? vergelijking 2026'](/koekenpan-vs-braadpan-2026/) Maar de aanschaf van zo'n keukenwonder kan best een investering zijn. Gelukkig is dat niet altijd nodig! Ook met een kleiner budget kun je genieten van de voordelen van airfryer-koken. In deze koopgids duiken we in de wereld van de betaalbare airfryers en helpen we je de beste keuze te maken voor minder dan €100.
 
 We begrijpen dat je niet per se een fortuin wilt uitgeven om kennis te maken met de airfryer. Misschien ben je nieuwsgierig naar de hype, heb je een kleine keuken, of ben je gewoon een prijsbewuste consument. Goed nieuws: er zijn uitstekende opties beschikbaar die niet misstaan in je keuken en die je portemonnee sparen. Deze modellen bieden vaak de basisfuncties die je nodig hebt om de meest populaire gerechten te bereiden, zonder de toeters en bellen die de prijs opdrijven. Van snelle snacks tot het opwarmen van restjes, een budgetvriendelijke airfryer kan een echte aanwinst zijn.
 
@@ -128,9 +128,9 @@ Bij het kiezen is het belangrijk om te kijken naar je eigen behoeften: hoeveel m
 
 ## Gerelateerde koopgidsen
 
-- [Bekijk beste luxe airfryers boven €200 van 2026](/dutch-appliances/beste-luxe-airfryer-2026/)
-- [Bekijk Airfryer vs. Frituurpan: De Ultieme Keuze voor Friet en Snacks in 2026](/dutch-appliances/airfryer-vs-friteuse-2026/)
-- [Bekijk De Ultieme Koopgids Airfryer-Oven Combinaties 2026: Slim Bakken, Braden en](/dutch-appliances/beste-airfryer-oven-combi-2026/)
-- [Bekijk Airfryer vs Heteluchtoven 2026: Heb Je Beide Nodig Of Is Eén Genoeg?](/dutch-appliances/airfryer-vs-heteluchtoven-2026/)
+- [Bekijk beste luxe airfryers boven €200 van 2026](/beste-luxe-airfryer-2026/)
+- [Bekijk Airfryer vs. Frituurpan: De Ultieme Keuze voor Friet en Snacks in 2026](/airfryer-vs-friteuse-2026/)
+- [Bekijk De Ultieme Koopgids Airfryer-Oven Combinaties 2026: Slim Bakken, Braden en](/beste-airfryer-oven-combi-2026/)
+- [Bekijk Airfryer vs Heteluchtoven 2026: Heb Je Beide Nodig Of Is Eén Genoeg?](/airfryer-vs-heteluchtoven-2026/)
 
 *Deze links verwijzen naar gerelateerde koopgidsen op onze site.*

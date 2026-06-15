@@ -187,7 +187,7 @@ De specificaties op papier vertellen niet het hele verhaal. Er zijn diverse 'onz
 | Etna Inductie (bv. WI562IN) | 4 | 7.2 | 300-500 | Budgetbewust, starter op inductie | 4.3 | [Amazon.nl](https://www.amazon.nl/s?k=Etna+Inductie&tag=kieskeukennl-21) |
 | Inventum IKG6015 | 4 | 6.0 | 200-300 | Zeer budgetbewust, extra kookzone | 4.0 | [Amazon.nl](https://www.amazon.nl/s?k=Inventum+IKG6015&tag=kieskeukennl-21) |
 | Tefal Everyday Induction (D) | 1 (draagbaar) | 2.0 | 70-100 | Studenten, camper, tijdelijke oplossing | 4.2 | [Amazon.nl](https://www.amazon.nl/s?k=Tefal+Everyday+Induction&tag=kieskeukennl-21) |
-| Miele KM 7464 FR (voorbeeld) | 4 (flexzones) | 7.3 | 1200-1600 | Premium, hoogwaardige afwerking, lange levensduur | 4.9 | (Niet standaard in tabel wegens hogere prijsklasse) |  [onze 'beste broodmachine 2026: 7 modellen voor zelfgebakken brood thuis'](/dutch-appliances/beste-broodmachine-2026/)
+| Miele KM 7464 FR (voorbeeld) | 4 (flexzones) | 7.3 | 1200-1600 | Premium, hoogwaardige afwerking, lange levensduur | 4.9 | (Niet standaard in tabel wegens hogere prijsklasse) |  [onze 'beste broodmachine 2026: 7 modellen voor zelfgebakken brood thuis'](/beste-broodmachine-2026/)
 
 *(Let op: prijzen zijn indicatief en kunnen variëren. 'D' staat voor Draagbaar)*
 
@@ -200,9 +200,9 @@ Echter, als design en de allernieuwste snufjes uw prioriteit zijn, en het budget
 
 ## Gerelateerde koopgidsen
 
-- [Bekijk Beste afzuigkap 2026: Schone keukenlucht voor elk huishouden](/dutch-appliances/beste-afzuigkap-2026/)
-- [Bekijk Beste inductieset 2026: inductie pannenset voor elk budget](/dutch-appliances/beste-inductieset-2026/)
-- [Bekijk Inductie vs. Keramische Kookplaat 2026: Snelheid vs. Budget — Wat Past bij](/dutch-appliances/inductie-vs-keramisch-2026/)
-- [Bekijk Inductie vs. Gasfornuis 2026: De ultieme kookplaatvergelijking](/dutch-appliances/inductie-vs-gasfornuis-2026/)
+- [Bekijk Beste afzuigkap 2026: Schone keukenlucht voor elk huishouden](/beste-afzuigkap-2026/)
+- [Bekijk Beste inductieset 2026: inductie pannenset voor elk budget](/beste-inductieset-2026/)
+- [Bekijk Inductie vs. Keramische Kookplaat 2026: Snelheid vs. Budget — Wat Past bij](/inductie-vs-keramisch-2026/)
+- [Bekijk Inductie vs. Gasfornuis 2026: De ultieme kookplaatvergelijking](/inductie-vs-gasfornuis-2026/)
 
 *Deze links verwijzen naar gerelateerde koopgidsen op onze site.*

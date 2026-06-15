@@ -162,9 +162,9 @@ Investeer in een goede stofzuiger en je investeert in een schoner, gezonder en a
 
 ## Gerelateerde koopgidsen
 
-- [Bekijk Beste stofzuiger 2026: welke zuiger past bij jouw huis?](/dutch-appliances/beste-stofzuiger-2026/)
-- [Bekijk Stofzuiger vs. Kruimeldief 2026: Heb Je Beide Nodig Of Is Eén Genoeg?](/dutch-appliances/stofzuiger-vs-kruimeldief-2026/)
-- [Bekijk Beste kruimeldief draadloos 2026: draadloze handstofzuiger voor snelle schoonmaak](/dutch-appliances/beste-kruimeldief-draadloos-2026/)
-- [Bekijk beste steelstofzuigers van 2026](/dutch-appliances/beste-steelstofzuiger-2026/)
+- [Bekijk Beste stofzuiger 2026: welke zuiger past bij jouw huis?](/beste-stofzuiger-2026/)
+- [Bekijk Stofzuiger vs. Kruimeldief 2026: Heb Je Beide Nodig Of Is Eén Genoeg?](/stofzuiger-vs-kruimeldief-2026/)
+- [Bekijk Beste kruimeldief draadloos 2026: draadloze handstofzuiger voor snelle schoonmaak](/beste-kruimeldief-draadloos-2026/)
+- [Bekijk beste steelstofzuigers van 2026](/beste-steelstofzuiger-2026/)
 
 *Deze links verwijzen naar gerelateerde koopgidsen op onze site.*

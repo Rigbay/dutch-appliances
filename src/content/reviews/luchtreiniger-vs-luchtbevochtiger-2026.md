@@ -137,9 +137,9 @@ Voor de meeste Nederlandse huishoudens is de prioriteit helder: in het voorjaar 
 
 ## Gerelateerde koopgidsen
 
-- [Bekijk Airconditioner vs. Ventilator: Wat Heb Je Nodig Voor Verkoeling in 2026?](/dutch-appliances/airconditioner-vs-ventilator-2026/)
-- [Bekijk Airconditioner vs. Luchtkoeler 2026: Welke Houdt Jouw Huis Koel deze Zomer?](/dutch-appliances/airconditioner-vs-luchtkoeler-2026/)
-- [Bekijk Mobiele Airco vs. Split-Unit Airco 2026: Wat Past Bij Jouw Situatie?](/dutch-appliances/mobiele-airco-vs-split-airco-2026/)
-- [Bekijk Beste Airco 2026: Verkoeling in Huis Zonder Dure Installatie](/dutch-appliances/beste-airconditioner-2026/)
+- [Bekijk Airconditioner vs. Ventilator: Wat Heb Je Nodig Voor Verkoeling in 2026?](/airconditioner-vs-ventilator-2026/)
+- [Bekijk Airconditioner vs. Luchtkoeler 2026: Welke Houdt Jouw Huis Koel deze Zomer?](/airconditioner-vs-luchtkoeler-2026/)
+- [Bekijk Mobiele Airco vs. Split-Unit Airco 2026: Wat Past Bij Jouw Situatie?](/mobiele-airco-vs-split-airco-2026/)
+- [Bekijk Beste Airco 2026: Verkoeling in Huis Zonder Dure Installatie](/beste-airconditioner-2026/)
 
 *Deze links verwijzen naar gerelateerde koopgidsen op onze site.*

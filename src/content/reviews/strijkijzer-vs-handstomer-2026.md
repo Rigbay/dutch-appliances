@@ -113,9 +113,9 @@ De laatste jaren heeft de handstomer echter een stevige opmars gemaakt. Compact,
 
 ## Gerelateerde koopgidsen
 
-- [Bekijk Strijkijzer vs Stoomgenerator 2026: Wat Is De Beste Keuze Voor Jouw Wasgoed?](/dutch-appliances/strijkijzer-vs-stoomgenerator-2026/)
-- [Bekijk Beste Strijkijzers en Stoomgeneratoren 2026: Kreukvrij Wasgoed voor Elk Huishouden](/dutch-appliances/beste-strijkijzer-2026/)
-- [Bekijk Beste esparettomachine 2026: 5 esparettomachines voor stoomresultaat](/dutch-appliances/beste-esparettomachine-2026/)
+- [Bekijk Strijkijzer vs Stoomgenerator 2026: Wat Is De Beste Keuze Voor Jouw Wasgoed?](/strijkijzer-vs-stoomgenerator-2026/)
+- [Bekijk Beste Strijkijzers en Stoomgeneratoren 2026: Kreukvrij Wasgoed voor Elk Huishouden](/beste-strijkijzer-2026/)
+- [Bekijk Beste esparettomachine 2026: 5 esparettomachines voor stoomresultaat](/beste-esparettomachine-2026/)
 
 *Deze links verwijzen naar gerelateerde koopgidsen op onze site.*
 

@@ -81,17 +81,17 @@ Een goede decoupeerzaag is onmisbaar in de gereedschapskist van zowel de profess
 | **Makita 4350FCT** | Vaste werkplek | Zwaar gebruik | EUR 120-160 |
 | **Black+Decker BDCJS18** | Budgetklusser | Incidenteel klussen | EUR 50-80 |
 | **Einhell TC-JS 800/1** | Zwaar werk | Budget | EUR 40-60 |
-| **Festool Carvex PSBC 420 Li** | Accu-systeem | Fijn werk | EUR 200-250 |  [onze 'cirkelzaag vs. decoupeerzaag: welke zaag voor welke klus in 2026?'](/dutch-appliances/cirkelzaag-vs-decoupeerzaag-2026/)
+| **Festool Carvex PSBC 420 Li** | Accu-systeem | Fijn werk | EUR 200-250 |  [onze 'cirkelzaag vs. decoupeerzaag: welke zaag voor welke klus in 2026?'](/cirkelzaag-vs-decoupeerzaag-2026/)
 
 Prijzen zijn indicatief. Check actuele prijzen op Amazon NL via de onderstaande kooplinks.
 
 
 ## Gerelateerde koopgidsen
 
-- [Bekijk Beste multitool 2026: oscillatiegereedschap voor zagen schuren en snijden](/dutch-appliances/beste-multitool-2026/)
-- [Bekijk Beste accu boormachine 2026: klussen zonder snoer](/dutch-appliances/beste-accu-boormachine-2026/)
-- [Bekijk Cirkelzaag vs. Decoupeerzaag: Welke Zaag Voor Welke Klus in 2026?](/dutch-appliances/cirkelzaag-vs-decoupeerzaag-2026/)
-- [Bekijk Beste haakse slijper 2026: welke slijptol kies je voor metaal en steen?](/dutch-appliances/beste-haakse-slijper-2026/)
+- [Bekijk Beste multitool 2026: oscillatiegereedschap voor zagen schuren en snijden](/beste-multitool-2026/)
+- [Bekijk Beste accu boormachine 2026: klussen zonder snoer](/beste-accu-boormachine-2026/)
+- [Bekijk Cirkelzaag vs. Decoupeerzaag: Welke Zaag Voor Welke Klus in 2026?](/cirkelzaag-vs-decoupeerzaag-2026/)
+- [Bekijk Beste haakse slijper 2026: welke slijptol kies je voor metaal en steen?](/beste-haakse-slijper-2026/)
 
 *Deze links verwijzen naar gerelateerde koopgidsen op onze site.*
 

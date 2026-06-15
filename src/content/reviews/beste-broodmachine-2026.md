@@ -222,15 +222,15 @@ Voor de avontuurlijke thuisbakker die graag experimenteert met verschillende soo
 | Kenwood BM580              | 90 - 130    | Stijlvolle keuken, goede balans                 | 4.0         |
 | Severin BM 3995            | 60 - 85     | Kleine keuken, compacte oplossing                | 4.0         |
 | Inventum BM810             | 55 - 80     | Absolute beginner                               | 3.5         |
-| Gastroback 40964           | 120 - 160   | Avontuurlijke bakker, veel programma's          | 4.5         |  [onze 'beste pastamachine 2026: 5 pastamachines voor verse pasta thuis'](/dutch-appliances/beste-pastamachine-2026/)
+| Gastroback 40964           | 120 - 160   | Avontuurlijke bakker, veel programma's          | 4.5         |  [onze 'beste pastamachine 2026: 5 pastamachines voor verse pasta thuis'](/beste-pastamachine-2026/)
 
 
 ## Gerelateerde koopgidsen
 
-- [Bekijk Magnetron vs. Combi-Magnetron 2026: Is Een Combi de Meerprijs Waard?](/dutch-appliances/magnetron-vs-combi-magnetron-2026/)
-- [Bekijk Beste rijstkoker 2026: 7 modellen voor perfecte rijst elke keer](/dutch-appliances/beste-rijstkoker-2026/)
-- [Bekijk Beste magnetron 2026: solo, grill en combi vergeleken](/dutch-appliances/beste-magnetron-2026/)
-- [Bekijk De Ultieme Koopgids: Verse Sappen Thuis met de Beste Sapcentrifuges en Slowjuicers](/dutch-appliances/beste-sapcentrifuge-2026/)
+- [Bekijk Magnetron vs. Combi-Magnetron 2026: Is Een Combi de Meerprijs Waard?](/magnetron-vs-combi-magnetron-2026/)
+- [Bekijk Beste rijstkoker 2026: 7 modellen voor perfecte rijst elke keer](/beste-rijstkoker-2026/)
+- [Bekijk Beste magnetron 2026: solo, grill en combi vergeleken](/beste-magnetron-2026/)
+- [Bekijk De Ultieme Koopgids: Verse Sappen Thuis met de Beste Sapcentrifuges en Slowjuicers](/beste-sapcentrifuge-2026/)
 
 *Deze links verwijzen naar gerelateerde koopgidsen op onze site.*
 

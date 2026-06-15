@@ -200,9 +200,9 @@ Investeer verstandig in een molen die aansluit bij jouw wensen en verwachtingen.
 
 ## Gerelateerde koopgidsen
 
-- [Bekijk Koffiemachines Onder €200: Jouw Dagelijkse Dosis Genot in 2026](/dutch-appliances/beste-koffiemachine-onder-200-euro-2026/)
-- [Bekijk De Beste Koffiemachines met Bonenmaler: Jouw Gids voor Perfecte Koffie in](/dutch-appliances/beste-koffiemachine-bonen-2026/)
-- [Bekijk beste filterkoffiemachines van 2026](/dutch-appliances/beste-filterkoffiemachine-2026/)
-- [Bekijk De Beste Volautomatische Koffiemachines: Bonen tot Kopje met Eén Knop in 2026](/dutch-appliances/beste-volautomatische-koffiemachine-2026/)
+- [Bekijk Koffiemachines Onder €200: Jouw Dagelijkse Dosis Genot in 2026](/beste-koffiemachine-onder-200-euro-2026/)
+- [Bekijk De Beste Koffiemachines met Bonenmaler: Jouw Gids voor Perfecte Koffie in](/beste-koffiemachine-bonen-2026/)
+- [Bekijk beste filterkoffiemachines van 2026](/beste-filterkoffiemachine-2026/)
+- [Bekijk De Beste Volautomatische Koffiemachines: Bonen tot Kopje met Eén Knop in 2026](/beste-volautomatische-koffiemachine-2026/)
 
 *Deze links verwijzen naar gerelateerde koopgidsen op onze site.*
