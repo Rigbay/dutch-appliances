@@ -1,4 +1,5 @@
 ---
+
 title: 'Airconditioner vs. Luchtkoeler 2026: Welke Houdt Jouw Huis Koel deze Zomer?'
 slug: airconditioner-vs-luchtkoeler-2026
 description: 'Vergelijk airconditioner vs luchtkoeler in 2026. Eerlijke koopgids met
@@ -66,6 +67,15 @@ related:
 - beste-elektrische-kachel-2026
 - beste-luchtbevochtiger-2026
 draft: false
+faq:
+- q: 'Wat is het fundamentele verschil tussen een mobiele airco en een luchtkoeler?'
+  a: 'Een mobiele airco koelt actief door warmte te onttrekken aan de binnenlucht en deze via een afvoerslang naar buiten af te voeren, vergelijkbaar met een koelkast. Een luchtkoeler werkt op basis van verdampingskoeling: het blaast lucht door een vochtig paneel, waardoor water verdampt en warmte aan de lucht onttrekt. Dit resulteert in een verfrissende, vochtige bries.'
+- q: 'Wanneer moet ik kiezen voor een mobiele airco in plaats van een luchtkoeler?'
+  a: 'Kies een mobiele airco als u absolute controle over de temperatuur wilt, in een zeer warme en vochtige regio woont, en bereid bent te investeren in hogere aanschaf- en energiekosten. Een airco garandeert een gegarandeerd lagere temperatuur en verlaagt de luchtvochtigheid, wat ideaal is voor maximale koelkracht.'
+- q: 'Is een luchtkoeler effectief in de Nederlandse zomer, gezien de luchtvochtigheid?'
+  a: 'Een luchtkoeler is het meest effectief in droge klimaten en biedt een verfrissende bries en lichte temperatuurdaling. In vochtige Nederlandse omstandigheden kan het effect beperkt zijn en zelfs leiden tot een toename van de luchtvochtigheid. Dit kan het gevoel van benauwdheid versterken, terwijl een airco de luchtvochtigheid juist verlaagt.'
+- q: 'Wat zijn de verschillen in energieverbruik en installatie tussen beide apparaten?'
+  a: 'Mobiele airconditioners verbruiken aanzienlijk meer energie (bijv. 1000-1350 Watt) en vereisen een afvoerslang naar buiten en condenswaterafvoer. Luchtkoelers zijn veel energiezuiniger (bijv. 75-110 Watt), hebben geen afvoerslang nodig, maar moeten wel regelmatig met water worden bijgevuld.'
 ---
 
 Oké, hier is de koopgids voor consumenten, geschreven vanuit het perspectief van een Nederlandse consumentenjournalist, gericht op juni 2026.
