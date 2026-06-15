@@ -1,4 +1,5 @@
 ---
+
 title: "elektrische kachel versus infraroodpaneel — wat is de beste bijverwarming voor jouw huis?"
 slug: "elektrische-kachel-vs-infraroodpaneel-2026"
 description: "Vergelijk elektrische kachel vs infraroodpaneel in 2026. Ontdek de voor- en nadelen, prijsvergelijking en welke het beste bij jouw situatie past."
@@ -62,6 +63,7 @@ related:
   - "beste-luchtreiniger-2026"
   - "beste-ontvochtiger-2026"
 draft: false
+
 ---
 
 ## Inleiding
@@ -168,3 +170,9 @@ Echter, voor een meer duurzame, efficiënte en comfortabele bijverwarming die de
 - [Beste elektrische kachel 2026](/beste-elektrische-kachel-2026/)
 - [Beste airconditioner 2026](/beste-airconditioner-2026/)
 - [Beste waterontharder 2026](/beste-waterontharder-2026/)
+
+**Lees ook:**
+- [Beste Elektrische Kachels 2026: Bijverwarming Zonder CV](/beste-elektrische-kachel-2026/)
+- [Beste Airco 2026: Verkoeling in Huis Zonder Dure Installatie](/beste-airconditioner-2026/)
+- [Airconditioner vs. Ventilator: Wat Heb Je Nodig Voor Verkoeling in 2026?](/airconditioner-vs-ventilator-2026/)
+- [Beste Luchtbevochtiger 2026: voor een gezond binnenklimaat en minder droge](/beste-luchtbevochtiger-2026/)
