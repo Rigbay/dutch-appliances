@@ -1,0 +1,494 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const allReviews = await getCollection('reviews', ({ data }) => !data.draft);
+
+function extractMinPrice(priceRange: string): number {
+  const nums = priceRange.match(/\d+/g);
+  if (!nums || nums.length === 0) return 9999;
+  return parseInt(nums[0], 10);
+}
+
+function extractMaxPrice(priceRange: string): number {
+  const nums = priceRange.match(/\d+/g);
+  if (!nums || nums.length < 2) return 0;
+  return parseInt(nums[nums.length - 1], 10);
+}
+
+interface MidRangeItem {
+  title: string;
+  slug: string;
+  rating: number;
+  category: string;
+  minPrice: number;
+  maxPrice: number;
+  priceRange: string;
+  featuredProduct: string;
+  description: string;
+  readingTime: string;
+  modelYear: string;
+  bestProductName: string;
+  bestProductLink: string;
+}
+
+const categoryLabels: Record<string, { label: string; emoji: string; desc: string }> = {
+  keuken: { label: 'Keuken', emoji: '🍳', desc: 'Airfryers, koffiemachines, kookplaten, ovens, blenders, keukenmachines en meer.' },
+  schoonmaken: { label: 'Schoonmaken', emoji: '🧹', desc: 'Stofzuigers, robotstofzuigers, steelstofzuigers, stoomreinigers en dweilrobots.' },
+  huishoudelijk: { label: 'Huishoudelijk', emoji: '🏠', desc: 'Wasmachines, drogers, airco\'s, strijkijzers, vaatwassers en luchtreinigers.' },
+  tuin: { label: 'Tuin', emoji: '🌿', desc: 'Grasmaaiers, barbecues, robotmaaiers, hogedrukreinigers en tuingereedschap.' },
+};
+
+const midRangeItems: MidRangeItem[] = allReviews
+  .map(r => {
+    const minPrice = extractMinPrice(r.data.priceRange);
+    const maxPrice = extractMaxPrice(r.data.priceRange);
+    const bestProduct = r.data.products?.[0];
+    return {
+      title: r.data.title,
+      slug: r.data.slug,
+      rating: r.data.rating || 0,
+      category: r.data.category || 'overig',
+      minPrice,
+      maxPrice,
+      priceRange: r.data.priceRange,
+      featuredProduct: r.data.featuredProduct || 'Beste keuze',
+      description: r.data.description || '',
+      readingTime: r.data.readingTime || '',
+      modelYear: r.data.modelYear || '2026',
+      bestProductName: bestProduct?.name || '',
+      bestProductLink: bestProduct?.affiliateLink || '',
+    };
+  })
+  .filter(item => item.minPrice >= 100 && item.minPrice <= 300)
+  .sort((a, b) => b.rating - a.rating);
+
+// Group by category
+const byCategory: Record<string, MidRangeItem[]> = {};
+for (const item of midRangeItems) {
+  const cat = item.category;
+  if (!byCategory[cat]) byCategory[cat] = [];
+  byCategory[cat].push(item);
+}
+
+const categoryKeys = Object.keys(categoryLabels).filter(k => byCategory[k] && byCategory[k].length > 0);
+
+// Price bracket breakdown
+const brackets = [
+  { label: '€100 – €150', min: 100, max: 150, emoji: '💰' },
+  { label: '€150 – €200', min: 150, max: 200, emoji: '💵' },
+  { label: '€200 – €300', min: 200, max: 300, emoji: '🏷️' },
+];
+
+const byBracket = brackets.map(b => ({
+  ...b,
+  items: midRangeItems.filter(i => i.minPrice >= b.min && i.minPrice < b.max),
+})).filter(b => b.items.length > 0);
+
+// FAQ structured data
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: [
+    {
+      '@type': 'Question',
+      name: 'Welke huishoudelijke apparaten in de middenklasse (€100-€300) zijn de beste koop in 2026?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'In de middenklasse (€100-€300) scoren airfryers, robotstofzuigers, volautomatische koffiemachines, steelstofzuigers en inductiekookplaten het hoogst. Deze prijsklasse biedt de beste prijs-kwaliteitverhouding — u krijgt geavanceerde functies zonder premium prijzen. Onze gidsen vergelijken de beste modellen met actuele Amazon NL-prijzen.',
+      },
+    },
+    {
+      '@type': 'Question',
+      name: 'Is de middenklasse (€100-€300) de sweet spot voor huishoudelijke apparaten?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'Ja, voor de meeste apparaten is €100-€300 de sweet spot. U krijgt betrouwbare merken, goede materialen, energiezuinige motoren en praktische functies — zonder te betalen voor luxe features die u misschien niet gebruikt. Budgetmodellen onder €100 zijn prima voor licht gebruik; premium boven €300 loont vooral bij dagelijks intensief gebruik.',
+      },
+    },
+    {
+      '@type': 'Question',
+      name: 'Wat is het verschil tussen een budget airfryer (€50) en een middenklasse airfryer (€100-€200)?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'Een middenklasse airfryer heeft meestal een grotere mand (5-7L vs 2-4L), betere temperatuurregeling, stillere motor, en extra functies zoals dual-zone of bakaccessoires. Voor gezinnen of dagelijks gebruik is de meerprijs het waard. Voor 1-2 personen kan een budgetmodel volstaan.',
+      },
+    },
+    {
+      '@type': 'Question',
+      name: 'Hoe verdient Beste Apparaten geld met deze aanbevelingen?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'Beste Apparaten gebruikt affiliate links naar Amazon.nl (tag: kieskeukennl-21). Als u via onze link koopt, ontvangen wij een kleine commissie — zonder extra kosten voor u. Dit heeft geen invloed op onze aanbevelingen; we benoemen eerlijk voor- én nadelen van elk apparaat.',
+      },
+    },
+    {
+      '@type': 'Question',
+      name: 'Welke merken domineren de middenklasse in 2026?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'In de middenklasse (€100-€300) zijn Philips, Bosch, Siemens, De\'Longhi, Dyson, Tefal, Rowenta, Kärcher, Black+Decker en Russell Hobbs de meest vertegenwoordigde merken. Deze merken bieden consistente kwaliteit, goede garantie en brede beschikbaarheid van onderdelen in Nederland.',
+      },
+    },
+  ],
+};
+
+const itemListSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'ItemList',
+  name: 'Beste Middenklasse Apparaten €100-€300 — 2026',
+  description: `${midRangeItems.length} beste huishoudelijke apparaten in de middenklasse (€100-€300). Airfryers, stofzuigers, koffiemachines, wasmachines en meer met Amazon NL affiliate links.`,
+  numberOfItems: midRangeItems.length,
+  itemListElement: midRangeItems.slice(0, 30).map((item, idx) => ({
+    '@type': 'ListItem',
+    position: idx + 1,
+    item: {
+      '@type': 'Product',
+      name: item.title,
+      url: `https://rigbay.github.io/dutch-appliances/${item.slug}/`,
+    },
+  })),
+};
+---
+
+<BaseLayout
+  title="Beste Middenklasse Apparaten 2026: Top {midRangeItems.length} keuzes €100-€300 | Beste Apparaten"
+  description="De sweet spot voor huishoudelijke apparaten: {midRangeItems.length} beste keuzes tussen €100 en €300. Airfryers, stofzuigers, koffiemachines, wasmachines en meer met Amazon NL affiliate links (kieskeukennl-21)."
+  canonicalUrl="https://rigbay.github.io/dutch-appliances/middenklasse/"
+  structuredData={[faqSchema, itemListSchema]}
+>
+  <!-- HERO -->
+  <section class="border-b border-[#e8e1d7] bg-gradient-to-b from-linen to-paper">
+    <div class="mx-auto max-w-6xl px-4 py-12 sm:px-6 lg:px-8">
+      <p class="text-sm font-bold uppercase tracking-[0.16em] text-leaf">Middenklasse koopgidsen</p>
+      <h1 class="mt-3 font-serif text-4xl font-semibold text-ink sm:text-5xl">
+        Beste apparaten tussen €100 en €300 in 2026
+      </h1>
+      <p class="mt-4 max-w-3xl text-lg leading-8 text-muted">
+        De middenklasse is de sweet spot voor huishoudelijke apparaten. U krijgt betrouwbare merken, energiezuinige motoren en praktische functies — zonder de premium prijs. We hebben <strong>{midRangeItems.length} apparaten</strong> in deze prijsklasse vergeleken op kwaliteit, gebruikerservaringen en prijs-kwaliteitverhouding.
+      </p>
+      <p class="mt-3 text-sm text-muted">
+        Alle links verwijzen naar <strong>Amazon NL</strong> met affiliate tag kieskeukennl-21. U betaalt niets extra; wij ontvangen een kleine commissie die onafhankelijke reviews mogelijk maakt.
+      </p>
+
+      <!-- Quick stats -->
+      <div class="mt-6 grid gap-4 sm:grid-cols-4">
+        <div class="rounded border border-[#e6ded2] bg-paper p-4 text-center">
+          <p class="text-3xl font-bold text-leaf">{midRangeItems.length}</p>
+          <p class="text-xs text-muted mt-1">middenklasse koopgidsen</p>
+        </div>
+        <div class="rounded border border-[#e6ded2] bg-paper p-4 text-center">
+          <p class="text-3xl font-bold text-leaf">{categoryKeys.length}</p>
+          <p class="text-xs text-muted mt-1">categorieën</p>
+        </div>
+        <div class="rounded border border-[#e6ded2] bg-paper p-4 text-center">
+          <p class="text-3xl font-bold text-leaf">€100–300</p>
+          <p class="text-xs text-muted mt-1">sweet spot prijsklasse</p>
+        </div>
+        <div class="rounded border border-[#e6ded2] bg-paper p-4 text-center">
+          <p class="text-3xl font-bold text-leaf">4.0+</p>
+          <p class="text-xs text-muted mt-1">minimale rating</p>
+        </div>
+      </div>
+
+      <!-- Category quick nav -->
+      <nav class="mt-6 flex flex-wrap gap-2" aria-label="Filter op categorie">
+        <a href="#alle" class="rounded border border-[#dfe8e5] bg-leaf px-4 py-2 text-sm font-semibold text-white hover:bg-[#1f514b] transition">
+          📋 Alle ({midRangeItems.length})
+        </a>
+        {categoryKeys.map(key => (
+          <a href={`#${key}`} class="rounded border border-[#dfe8e5] px-4 py-2 text-sm font-semibold text-leaf hover:bg-[#edf4f2] transition">
+            {categoryLabels[key].emoji} {categoryLabels[key].label} ({byCategory[key].length})
+          </a>
+        ))}
+      </nav>
+    </div>
+  </section>
+
+  <!-- WHY MID-RANGE -->
+  <section class="mx-auto max-w-6xl px-4 py-10 sm:px-6 lg:px-8">
+    <div class="rounded border border-[#dfe8e5] bg-[#f3faf7] p-6">
+      <h2 class="font-serif text-3xl font-semibold text-ink">Waarom de middenklasse?</h2>
+      <div class="mt-4 grid gap-5 md:grid-cols-3">
+        <div>
+          <h3 class="font-semibold text-ink">🏆 Beste prijs-kwaliteit</h3>
+          <p class="mt-2 text-sm leading-6 text-muted">
+            In de middenklasse krijgt u 80-90% van de prestaties van premium modellen voor 40-60% van de prijs. De extra functies van duurdere modellen zijn vaak nice-to-have, niet need-to-have.
+          </p>
+        </div>
+        <div>
+          <h3 class="font-semibold text-ink">🔧 Betere materialen</h3>
+          <p class="mt-2 text-sm leading-6 text-muted">
+            Waar budgetmodellen vaak plastic onderdelen en kortere garantie hebben, biedt de middenklasse roestvrij staal, stillere motoren en 2-5 jaar garantie. Dit vertaalt zich in langere levensduur.
+          </p>
+        </div>
+        <div>
+          <h3 class="font-semibold text-ink">⚡ Energiezuiniger</h3>
+          <p class="mt-2 text-sm leading-6 text-muted">
+            Middenklasse apparaten hebben vrijwel altijd energielabel B of beter. Over 5-10 jaar gebruik bespaart u tientallen tot honderden euro's ten opzichte van budgetmodellen met label D of E.
+          </p>
+        </div>
+      </div>
+      <div class="mt-5 flex flex-wrap gap-3">
+        <a href="/budget/" class="text-sm font-semibold text-leaf hover:text-[#1f514b]">← Bekijk budgetopties onder €100</a>
+        <a href="/top-15/" class="text-sm font-semibold text-leaf hover:text-[#1f514b]">← Bekijk de top 15 (incl. premium)</a>
+        <a href="/energiezuinige-apparaten/" class="text-sm font-semibold text-leaf hover:text-[#1f514b]">← Energiezuinige alternatieven</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ALL MID-RANGE TABLE -->
+  <section id="alle" class="mx-auto max-w-6xl px-4 py-8 sm:px-6 lg:px-8">
+    <h2 class="font-serif text-3xl font-semibold text-ink mb-2">Alle {midRangeItems.length} middenklasse koopgidsen</h2>
+    <p class="text-muted mb-6">Sorteer op rating, filter op categorie. Klik door naar de volledige gids met Amazon-link prijzen, plus- en minpunten.</p>
+    <div class="overflow-x-auto rounded border border-[#e8e1d7]">
+      <table class="min-w-full text-sm">
+        <thead>
+          <tr class="bg-[#f8f5f0] text-left">
+            <th class="p-3 font-semibold">Apparaat</th>
+            <th class="p-3 font-semibold hidden sm:table-cell">Categorie</th>
+            <th class="p-3 font-semibold">Prijs v.a.</th>
+            <th class="p-3 font-semibold">Rating</th>
+            <th class="p-3 font-semibold hidden md:table-cell">Beste keuze</th>
+            <th class="p-3 font-semibold">Gids</th>
+          </tr>
+        </thead>
+        <tbody>
+          {midRangeItems.map((item, idx) => {
+            const cat = categoryLabels[item.category] || { label: item.category, emoji: '📦' };
+            return (
+              <tr class={idx % 2 === 0 ? 'bg-white' : 'bg-[#faf8f3]'}>
+                <td class="p-3 font-medium max-w-xs">
+                  <a href={`/${item.slug}/`} class="text-ink hover:text-leaf transition">
+                    {item.title}
+                  </a>
+                </td>
+                <td class="p-3 text-muted hidden sm:table-cell">
+                  <span class="inline-flex items-center gap-1 rounded bg-[#edf4f2] px-2 py-0.5 text-xs font-medium text-leaf">
+                    {cat.emoji} {cat.label}
+                  </span>
+                </td>
+                <td class="p-3 font-semibold text-leaf">€{item.minPrice}</td>
+                <td class="p-3">
+                  <span class="inline-flex items-center gap-1 rounded bg-[#fef9e7] px-2 py-0.5 text-xs font-bold text-[#b7950b]">
+                    ★ {item.rating.toFixed(1)}
+                  </span>
+                </td>
+                <td class="p-3 text-muted text-xs max-w-[160px] hidden md:table-cell">{item.bestProductName || item.featuredProduct}</td>
+                <td class="p-3">
+                  <a href={`/${item.slug}/`} class="inline-block rounded bg-leaf px-3 py-1.5 text-xs font-bold text-white hover:bg-[#1f514b] transition whitespace-nowrap">
+                    Lees gids →
+                  </a>
+                </td>
+              </tr>
+            );
+          })}
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- BY PRICE BRACKET -->
+  {
+    byBracket.map(bracket => (
+      <section class="mx-auto max-w-6xl px-4 py-8 sm:px-6 lg:px-8 border-t border-[#e8e1d7]">
+        <h2 class="font-serif text-3xl font-semibold text-ink">
+          {bracket.emoji} {bracket.label} <span class="text-lg font-normal text-muted">({bracket.items.length} apparaten)</span>
+        </h2>
+        <p class="mt-2 text-muted mb-5">
+          {bracket.min === 100 ? 'De instap in de middenklasse. Prima apparaten met basisfuncties van betrouwbare merken — ideaal voor wie meer wil dan budget maar geen toeters en bellen nodig heeft.' :
+           bracket.min === 150 ? 'De core middenklasse. Hier vindt u de meeste keuze: apparaten met extra functies, betere materialen en stillere motoren. De sweet spot voor dagelijks gebruik.' :
+           'De bovenkant van de middenklasse. Apparaten die qua prestaties dicht bij premium komen, maar zonder het absolute topsegment-prijskaartje. Voor veeleisende gebruikers.'}
+        </p>
+        <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+          {bracket.items.map(item => (
+            <a href={`/${item.slug}/`} class="group rounded border border-[#e6ded2] bg-paper p-5 shadow-sm transition hover:-translate-y-0.5 hover:shadow-soft">
+              <div class="flex items-start justify-between gap-2">
+                <h3 class="font-serif text-base font-semibold text-ink group-hover:text-leaf transition leading-snug line-clamp-2">
+                  {item.title}
+                </h3>
+                <span class="shrink-0 rounded bg-[#fef9e7] px-2 py-0.5 text-xs font-bold text-[#b7950b]">
+                  ★ {item.rating.toFixed(1)}
+                </span>
+              </div>
+              <p class="mt-2 text-xs text-muted line-clamp-2">{item.description}</p>
+              <div class="mt-3 flex flex-wrap items-center gap-2 text-xs text-muted">
+                <span class="font-semibold text-leaf">€{item.minPrice}–€{item.maxPrice}</span>
+                <span>·</span>
+                <span>{item.readingTime}</span>
+                <span>·</span>
+                <span>{item.modelYear}</span>
+              </div>
+              {item.bestProductName && (
+                <p class="mt-2 text-xs text-muted">
+                  <strong>Topkeuze:</strong> {item.bestProductName}
+                </p>
+              )}
+            </a>
+          ))}
+        </div>
+      </section>
+    ))
+  }
+
+  <!-- PER CATEGORY DEEP DIVE -->
+  {categoryKeys.map(key => {
+    const items = byCategory[key];
+    const meta = categoryLabels[key];
+    return (
+      <section id={key} class="mx-auto max-w-6xl px-4 py-10 sm:px-6 lg:px-8 border-t border-[#e8e1d7]">
+        <div class="mb-6">
+          <p class="text-sm font-bold uppercase tracking-[0.16em] text-leaf">{meta.emoji} {meta.label}</p>
+          <h2 class="mt-1 font-serif text-3xl font-semibold text-ink">
+            Beste {meta.label.toLowerCase()} in de middenklasse ({items.length} gidsen)
+          </h2>
+          <p class="mt-2 text-muted">{meta.desc}</p>
+        </div>
+        <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+          {items.map(item => (
+            <a href={`/${item.slug}/`} class="group rounded border border-[#e6ded2] bg-paper p-5 shadow-sm transition hover:-translate-y-0.5 hover:shadow-soft">
+              <div class="flex items-start justify-between gap-2">
+                <h3 class="font-serif text-base font-semibold text-ink group-hover:text-leaf transition leading-snug line-clamp-2">
+                  {item.title}
+                </h3>
+                <span class="shrink-0 rounded bg-[#fef9e7] px-2 py-0.5 text-xs font-bold text-[#b7950b]">
+                  ★ {item.rating.toFixed(1)}
+                </span>
+              </div>
+              <p class="mt-2 text-xs text-muted line-clamp-2">{item.description}</p>
+              <div class="mt-3 flex flex-wrap items-center gap-2 text-xs text-muted">
+                <span class="font-semibold text-leaf">{item.priceRange}</span>
+                <span>·</span>
+                <span>{item.readingTime}</span>
+              </div>
+              {item.bestProductName && (
+                <p class="mt-2 text-xs text-muted">
+                  <strong>Topkeuze:</strong> {item.bestProductName}
+                </p>
+              )}
+            </a>
+          ))}
+        </div>
+      </section>
+    );
+  })}
+
+  <!-- COMPARISON: BUDGET vs MID-RANGE vs PREMIUM -->
+  <section class="mx-auto max-w-6xl px-4 py-10 sm:px-6 lg:px-8 border-t border-[#e8e1d7]">
+    <h2 class="font-serif text-3xl font-semibold text-ink mb-6">Budget, middenklasse of premium — wat past bij jou?</h2>
+    <div class="overflow-x-auto rounded border border-[#e8e1d7]">
+      <table class="min-w-full text-sm">
+        <thead>
+          <tr class="bg-[#f8f5f0] text-left">
+            <th class="p-3 font-semibold">Kenmerk</th>
+            <th class="p-3 font-semibold">Budget (&lt;€100)</th>
+            <th class="p-3 font-semibold bg-[#f3faf7]">Middenklasse (€100–300)</th>
+            <th class="p-3 font-semibold">Premium (&gt;€300)</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr class="bg-white">
+            <td class="p-3 font-medium">Materialen</td>
+            <td class="p-3 text-muted">Veel plastic, basis afwerking</td>
+            <td class="p-3 bg-[#fafdfb] font-medium text-leaf">RVS, betere coatings, steviger</td>
+            <td class="p-3 text-muted">Hoogwaardig RVS, gietijzer, design</td>
+          </tr>
+          <tr class="bg-[#faf8f3]">
+            <td class="p-3 font-medium">Garantie</td>
+            <td class="p-3 text-muted">1–2 jaar</td>
+            <td class="p-3 bg-[#fafdfb] font-medium text-leaf">2–5 jaar</td>
+            <td class="p-3 text-muted">5–10 jaar</td>
+          </tr>
+          <tr class="bg-white">
+            <td class="p-3 font-medium">Energielabel</td>
+            <td class="p-3 text-muted">C–E</td>
+            <td class="p-3 bg-[#fafdfb] font-medium text-leaf">A–C</td>
+            <td class="p-3 text-muted">A–B</td>
+          </tr>
+          <tr class="bg-[#faf8f3]">
+            <td class="p-3 font-medium">Geluidsniveau</td>
+            <td class="p-3 text-muted">Hoorbaar, vaak luider</td>
+            <td class="p-3 bg-[#fafdfb] font-medium text-leaf">Stil tot acceptabel</td>
+            <td class="p-3 text-muted">Fluisterstil</td>
+          </tr>
+          <tr class="bg-white">
+            <td class="p-3 font-medium">Functies</td>
+            <td class="p-3 text-muted">Basis, handmatig</td>
+            <td class="p-3 bg-[#fafdfb] font-medium text-leaf">Programma's, timers, displays</td>
+            <td class="p-3 text-muted">App-bediening, AI, auto-detectie</td>
+          </tr>
+          <tr class="bg-[#faf8f3]">
+            <td class="p-3 font-medium">Levensduur</td>
+            <td class="p-3 text-muted">3–5 jaar</td>
+            <td class="p-3 bg-[#fafdfb] font-medium text-leaf">7–12 jaar</td>
+            <td class="p-3 text-muted">10–20 jaar</td>
+          </tr>
+          <tr class="bg-white">
+            <td class="p-3 font-medium">Beste voor</td>
+            <td class="p-3 text-muted">Studenten, licht gebruik, tweede huis</td>
+            <td class="p-3 bg-[#fafdfb] font-medium text-leaf">Gezinnen, dagelijks gebruik, meeste huishoudens</td>
+            <td class="p-3 text-muted">Intensief gebruik, designliefhebbers, professionals</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="mt-4 text-sm text-muted">
+      💡 <strong>Vuistregel:</strong> Voor 80% van de Nederlandse huishoudens is de middenklasse de beste keuze. U krijgt betrouwbare kwaliteit zonder te betalen voor functies die u zelden gebruikt.
+    </p>
+  </section>
+
+  <!-- FAQ -->
+  <section class="mx-auto max-w-6xl px-4 py-10 sm:px-6 lg:px-8 border-t border-[#e8e1d7]">
+    <h2 class="font-serif text-3xl font-semibold text-ink mb-8">Veelgestelde vragen over middenklasse apparaten</h2>
+    <div class="grid gap-4 md:grid-cols-2">
+      <div class="rounded border border-[#e8e1d7] bg-paper p-5">
+        <h3 class="font-semibold text-ink">Welke apparaten zijn de beste koop tussen €100-€300?</h3>
+        <p class="mt-2 text-sm text-muted leading-relaxed">
+          Airfryers (Philips, Tefal), robotstofzuigers (Roborock, iRobot), volautomatische koffiemachines (De'Longhi, Philips), steelstofzuigers (Dyson, Samsung) en inductiekookplaten (Bosch, Siemens) scoren het hoogst in deze prijsklasse. Bekijk onze <a href="/alle-apparaten/" class="text-leaf underline hover:text-[#1f514b]">complete tabel</a> voor alle opties.
+        </p>
+      </div>
+      <div class="rounded border border-[#e8e1d7] bg-paper p-5">
+        <h3 class="font-semibold text-ink">Is een apparaat van €200 echt twee keer zo goed als een van €100?</h3>
+        <p class="mt-2 text-sm text-muted leading-relaxed">
+          Meestal niet twee keer zo goed, maar wel merkbaar beter: stiller, duurzamer, meer functies, betere garantie. De sprong van €50 naar €150 is groter dan van €150 naar €300. De middenklasse levert de grootste kwaliteitssprong per euro.
+        </p>
+      </div>
+      <div class="rounded border border-[#e8e1d7] bg-paper p-5">
+        <h3 class="font-semibold text-ink">Wanneer is premium (€300+) wél de betere keuze?</h3>
+        <p class="mt-2 text-sm text-muted leading-relaxed">
+          Premium loont bij dagelijks intensief gebruik (bijv. 5+ koppen koffie per dag), bij apparaten die 24/7 aanstaan (koelkast, airco), of als design, geluidsniveau en app-bediening belangrijk voor u zijn. Bekijk onze <a href="/top-15/" class="text-leaf underline hover:text-[#1f514b]">top 15</a> voor de beste premium keuzes.
+        </p>
+      </div>
+      <div class="rounded border border-[#e8e1d7] bg-paper p-5">
+        <h3 class="font-semibold text-ink">Hoe actueel zijn de prijzen op deze pagina?</h3>
+        <p class="mt-2 text-sm text-muted leading-relaxed">
+          De prijsranges zijn indicatief op basis van het 2026 modeljaar. Actuele Amazon NL-prijzen vindt u via de affiliate links in elke koopgids. Prijzen schommelen — gebruik een prijs-tracker zoals Keepa voor het beste koopmoment.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA -->
+  <section class="mx-auto max-w-6xl px-4 py-10 sm:px-6 lg:px-8 border-t border-[#e8e1d7]">
+    <div class="rounded-lg bg-[#f0f7f4] p-8 text-center border border-[#c5e0d0]">
+      <h2 class="font-serif text-2xl font-semibold text-ink">Klaar om de beste middenklasse deal te vinden?</h2>
+      <p class="text-muted mb-5 max-w-lg mx-auto">
+        Blader door onze {midRangeItems.length} middenklasse koopgidsen — allemaal met actuele Amazon NL prijzen, eerlijke minpunten en duidelijke vergelijkingen.
+      </p>
+      <div class="flex flex-wrap justify-center gap-3">
+        <a href="/alle-apparaten/" class="inline-block rounded bg-leaf px-5 py-3 text-sm font-bold text-white hover:bg-[#1f514b] transition">
+          Alle {allReviews.length} apparaten in één tabel →
+        </a>
+        <a href="/vergelijkingen/" class="inline-block rounded border border-leaf px-5 py-3 text-sm font-bold text-leaf hover:bg-[#f0f7f4] transition">
+          Directe vergelijkingen →
+        </a>
+        <a href="/keukenapparaten-koopgids/" class="inline-block rounded border border-leaf px-5 py-3 text-sm font-bold text-leaf hover:bg-[#f0f7f4] transition">
+          Keukenapparaten koopgids →
+        </a>
+        <a href="/budget/" class="inline-block rounded border border-[#cbbda9] px-5 py-3 text-sm font-bold text-ink hover:bg-paper transition">
+          Budget onder €100 →
+        </a>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
