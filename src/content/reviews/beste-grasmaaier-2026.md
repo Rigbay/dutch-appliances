@@ -1,4 +1,5 @@
 ---
+
 title: beste grasmaaiers van 2026
 slug: beste-grasmaaier-2026
 description: Vergelijk de beste grasmaaiers van 2026 voor Nederlandse tuinen tot 600m².
@@ -64,6 +65,15 @@ related:
 - beste-robotgrasmaaier-2026
 - beste-bosmaaier-2026
 - beste-verticuteermachine-2026
+faq:
+- q: 'Welke grasmaaier is geschikt voor een middelgrote tuin?'
+  a: 'Voor een middelgrote tuin (tot 500-600 m²) zijn zowel elektrische als benzinemaaiers geschikte opties. De Bosch UniversalRotak 550 is een krachtige elektrische keuze, terwijl de Einhell GC-PM 46/2 S B&S een betaalbare zelfrijdende benzinemaaier is. Voor topkwaliteit en mulching is de Gardena PowerMax 42 E een uitstekende elektrische optie.'
+- q: 'Wat zijn de voordelen van een zelfrijdende benzinemaaier?'
+  a: 'Een zelfrijdende benzinemaaier, zoals de Einhell GC-PM 46/2 S B&S, vergemakkelijkt het maaien aanzienlijk doordat u de machine niet zelf hoeft te duwen. Dit is vooral prettig bij grotere tuinen of op hellend terrein. Ze zijn vaak uitgerust met krachtige motoren en bieden veel bewegingsvrijheid zonder stroomkabel.'
+- q: 'Is een elektrische grasmaaier geschikt voor langer gras?'
+  a: 'Ja, krachtige elektrische grasmaaiers kunnen zeker overweg met langer gras. Modellen zoals de Bosch UniversalRotak 550 (1800W) en de Gardena PowerMax 42 E (1700W) zijn specifiek ontworpen om efficiënt en met gemak te maaien, zelfs als het gras iets hoger of dichter is geworden. Let op het wattage van de motor voor de beste prestaties.'
+- q: 'Wat is mulchen en welke grasmaaier biedt dit?'
+  a: 'Mulchen is een functie waarbij het gemaaide gras zeer fijn wordt versnipperd en terug op het gazon wordt verspreid. Dit dient als natuurlijke bemesting, voedt het gras en vermindert de noodzaak om grasafval op te ruimen. De Gardena PowerMax 42 E is een voorbeeld van een elektrische grasmaaier die deze handige mulchfunctie biedt.'
 ---
 
 
