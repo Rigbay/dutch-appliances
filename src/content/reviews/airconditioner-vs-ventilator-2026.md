@@ -152,10 +152,10 @@ Een airco onttrekt vocht aan de lucht — comfortabeler bij hoge luchtvochtighei
 
 ## Gerelateerde koopgidsen
 
-- [Bekijk Beste Airco 2026: Verkoeling in Huis Zonder Dure Installatie](/dutch-appliances/beste-airconditioner-2026/)
-- [Bekijk Beste Ontvochtiger 2026: Stop Vocht, Schimmel en Muffe Lucht — Vergelijk Topmodellen](/dutch-appliances/beste-ontvochtiger-2026/)
-- [Bekijk Beste Luchtreinigers 2026: Verkoeling en Zuivere Lucht tegen Fijnstof, Pollen](/dutch-appliances/beste-luchtreiniger-2026/)
-- [Bekijk Mobiele Airco vs. Split-Unit Airco 2026: Wat Past Bij Jouw Situatie?](/dutch-appliances/mobiele-airco-vs-split-airco-2026/)
+- [Bekijk Beste Airco 2026: Verkoeling in Huis Zonder Dure Installatie](/beste-airconditioner-2026/)
+- [Bekijk Beste Ontvochtiger 2026: Stop Vocht, Schimmel en Muffe Lucht — Vergelijk Topmodellen](/beste-ontvochtiger-2026/)
+- [Bekijk Beste Luchtreinigers 2026: Verkoeling en Zuivere Lucht tegen Fijnstof, Pollen](/beste-luchtreiniger-2026/)
+- [Bekijk Mobiele Airco vs. Split-Unit Airco 2026: Wat Past Bij Jouw Situatie?](/mobiele-airco-vs-split-airco-2026/)
 
 *Deze links verwijzen naar gerelateerde koopgidsen op onze site.*
 

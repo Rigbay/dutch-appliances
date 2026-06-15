@@ -124,9 +124,9 @@ Om je een concreet overzicht te geven, hebben we zes populaire modellen uitgelic
 
 ## Gerelateerde koopgidsen
 
-- [Bekijk Beste Kruiwagens & Tuintransportkarren 2026: Til- en Sleepwerk Makkelijk Gemaakt](/dutch-appliances/beste-kruiwagen-2026/)
-- [Bekijk Beste Bladblazer 2026: Krachtig en Stil Bladeren Opruimen — Accu, Benzine](/dutch-appliances/beste-bladblazer-2026/)
-- [Bekijk beste heggenscharen van 2026](/dutch-appliances/beste-heggenschaar-2026/)
-- [Bekijk Beste kettingzagen 2026](/dutch-appliances/beste-kettingzaag-2026/)
+- [Bekijk Beste Kruiwagens & Tuintransportkarren 2026: Til- en Sleepwerk Makkelijk Gemaakt](/beste-kruiwagen-2026/)
+- [Bekijk Beste Bladblazer 2026: Krachtig en Stil Bladeren Opruimen — Accu, Benzine](/beste-bladblazer-2026/)
+- [Bekijk beste heggenscharen van 2026](/beste-heggenschaar-2026/)
+- [Bekijk Beste kettingzagen 2026](/beste-kettingzaag-2026/)
 
 *Deze links verwijzen naar gerelateerde koopgidsen op onze site.*

@@ -155,9 +155,9 @@ Bij de aanschaf van een filterkoffiemachine zijn er naast de prijs en de merknaa
 
 ## Gerelateerde koopgidsen
 
-- [Bekijk Nespresso vs Dolce Gusto 2026: Welk Koffiecup Systeem Past Bij Jou?](/dutch-appliances/nespresso-vs-dolce-gusto-2026/)
-- [Bekijk De Ultieme Koopgids: Jouw Weg naar de Perfecte Koffiemolen in 2026](/dutch-appliances/beste-koffiemolen-2026/)
-- [Bekijk Espresso vs. Filterkoffie 2026: Welke Zetmethode Past bij Jouw Smaak?](/dutch-appliances/espresso-vs-filterkoffie-2026/)
-- [Bekijk beste Nespresso-apparaten van 2026](/dutch-appliances/beste-nespresso-apparaat-2026/)
+- [Bekijk Nespresso vs Dolce Gusto 2026: Welk Koffiecup Systeem Past Bij Jou?](/nespresso-vs-dolce-gusto-2026/)
+- [Bekijk De Ultieme Koopgids: Jouw Weg naar de Perfecte Koffiemolen in 2026](/beste-koffiemolen-2026/)
+- [Bekijk Espresso vs. Filterkoffie 2026: Welke Zetmethode Past bij Jouw Smaak?](/espresso-vs-filterkoffie-2026/)
+- [Bekijk beste Nespresso-apparaten van 2026](/beste-nespresso-apparaat-2026/)
 
 *Deze links verwijzen naar gerelateerde koopgidsen op onze site.*

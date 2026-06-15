@@ -110,7 +110,7 @@ Bio-elektrische Impedantie Analyse stuurt een zwak stroompje door je lichaam. Ve
 
 ## Gerelateerde koopgidsen
 
-- [Bekijk Beste Elektrische Deken 2026: Koopgids voor Warme Nachten](/dutch-appliances/beste-elektrische-deken-2026/)
-- [Bekijk Beste fohn 2026: top 6 haardrogers voor snel en gezond droog haar](/dutch-appliances/beste-fohn-2026/)
+- [Bekijk Beste Elektrische Deken 2026: Koopgids voor Warme Nachten](/beste-elektrische-deken-2026/)
+- [Bekijk Beste fohn 2026: top 6 haardrogers voor snel en gezond droog haar](/beste-fohn-2026/)
 
 *Deze links verwijzen naar gerelateerde koopgidsen op onze site.*

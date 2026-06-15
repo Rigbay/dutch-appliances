@@ -177,9 +177,9 @@ Voor wie bereid is te investeren in een apparaat dat meer kan dan alleen verwarm
 
 ## Gerelateerde koopgidsen
 
-- [Bekijk Beste ventilator 2026: 7 stille en krachtige opties vergeleken](/dutch-appliances/beste-ventilator-2026/)
-- [Bekijk Luchtreiniger vs. Luchtbevochtiger 2026: Wat Heb Je Nodig voor een Gezond](/dutch-appliances/luchtreiniger-vs-luchtbevochtiger-2026/)
-- [Bekijk Airconditioner vs. Luchtkoeler 2026: Welke Houdt Jouw Huis Koel deze Zomer?](/dutch-appliances/airconditioner-vs-luchtkoeler-2026/)
-- [Bekijk Beste Airco 2026: Verkoeling in Huis Zonder Dure Installatie](/dutch-appliances/beste-airconditioner-2026/)
+- [Bekijk Beste ventilator 2026: 7 stille en krachtige opties vergeleken](/beste-ventilator-2026/)
+- [Bekijk Luchtreiniger vs. Luchtbevochtiger 2026: Wat Heb Je Nodig voor een Gezond](/luchtreiniger-vs-luchtbevochtiger-2026/)
+- [Bekijk Airconditioner vs. Luchtkoeler 2026: Welke Houdt Jouw Huis Koel deze Zomer?](/airconditioner-vs-luchtkoeler-2026/)
+- [Bekijk Beste Airco 2026: Verkoeling in Huis Zonder Dure Installatie](/beste-airconditioner-2026/)
 
 *Deze links verwijzen naar gerelateerde koopgidsen op onze site.*

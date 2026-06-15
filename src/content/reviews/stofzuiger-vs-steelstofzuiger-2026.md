@@ -139,7 +139,7 @@ Niet elk huishouden heeft dezelfde stofzuiger nodig. We zetten de aanbevelingen 
 | Eengezinswoning (100-150 m², gemengd) | Traditioneel of high-end steelstofzuiger | Groter oppervlak vraagt om batterijduur of snoer |
 | Grote woning (>150 m², veel tapijt) | Traditionele stofzuiger | Consistent vermogen over grote oppervlakken |
 | Huishouden met huisdieren | Traditioneel (met zak) | Betere filtratie en harenopname — zie ook [haren stofzuigers](/beste-stofzuiger-tegen-dierenharen-2026/) |
-| Minimalistisch / snel schoonmaken | Steelstofzuiger | Dagelijkse kleine beurten zonder gedoe |  [onze 'robotstofzuiger vs steelstofzuiger 2026: welke past het beste bij jouw huishouden?'](/dutch-appliances/robotstofzuiger-vs-steelstofzuiger-2026/)
+| Minimalistisch / snel schoonmaken | Steelstofzuiger | Dagelijkse kleine beurten zonder gedoe |  [onze 'robotstofzuiger vs steelstofzuiger 2026: welke past het beste bij jouw huishouden?'](/robotstofzuiger-vs-steelstofzuiger-2026/)
 
 **Winnaar:** *Afhankelijk van woningtype*
 
@@ -199,9 +199,9 @@ Wil je het beste van beide werelden? Overweeg dan een [robotstofzuiger](/beste-r
 
 ## Gerelateerde koopgidsen
 
-- [Bekijk Beste draadloze stofzuiger 2026: steel en stick vergeleken](/dutch-appliances/beste-draadloze-stofzuiger-2026/)
-- [Bekijk Beste kruimeldief draadloos 2026: draadloze handstofzuiger voor snelle schoonmaak](/dutch-appliances/beste-kruimeldief-draadloos-2026/)
-- [Bekijk Stofzuiger vs. Kruimeldief 2026: Heb Je Beide Nodig Of Is Eén Genoeg?](/dutch-appliances/stofzuiger-vs-kruimeldief-2026/)
-- [Bekijk Beste stofzuiger 2026: welke zuiger past bij jouw huis?](/dutch-appliances/beste-stofzuiger-2026/)
+- [Bekijk Beste draadloze stofzuiger 2026: steel en stick vergeleken](/beste-draadloze-stofzuiger-2026/)
+- [Bekijk Beste kruimeldief draadloos 2026: draadloze handstofzuiger voor snelle schoonmaak](/beste-kruimeldief-draadloos-2026/)
+- [Bekijk Stofzuiger vs. Kruimeldief 2026: Heb Je Beide Nodig Of Is Eén Genoeg?](/stofzuiger-vs-kruimeldief-2026/)
+- [Bekijk Beste stofzuiger 2026: welke zuiger past bij jouw huis?](/beste-stofzuiger-2026/)
 
 *Deze links verwijzen naar gerelateerde koopgidsen op onze site.*

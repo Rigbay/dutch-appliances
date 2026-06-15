@@ -149,9 +149,9 @@ Twijfel je tussen cups of bonen? Lees dan onze [bonen vs cups vergelijking](/kof
 
 ## Gerelateerde koopgidsen
 
-- [Bekijk Beste koffiecupmachine 2026: Nespresso, Dolce Gusto of Senseo?](/dutch-appliances/beste-koffiecupmachine-2026/)
-- [Bekijk Bonen vs. Cups Koffiemachine 2026: Welke koffie past bij jou?](/dutch-appliances/koffiemachine-bonen-vs-cups-2026/)
-- [Bekijk De Beste Koffiemachines met Bonenmaler: Jouw Gids voor Perfecte Koffie in](/dutch-appliances/beste-koffiemachine-bonen-2026/)
-- [Bekijk Beste espressapparaat 2026: 7 modellen voor de perfecte espresso thuis](/dutch-appliances/beste-espresso-apparaat-2026/)
+- [Bekijk Beste koffiecupmachine 2026: Nespresso, Dolce Gusto of Senseo?](/beste-koffiecupmachine-2026/)
+- [Bekijk Bonen vs. Cups Koffiemachine 2026: Welke koffie past bij jou?](/koffiemachine-bonen-vs-cups-2026/)
+- [Bekijk De Beste Koffiemachines met Bonenmaler: Jouw Gids voor Perfecte Koffie in](/beste-koffiemachine-bonen-2026/)
+- [Bekijk Beste espressapparaat 2026: 7 modellen voor de perfecte espresso thuis](/beste-espresso-apparaat-2026/)
 
 *Deze links verwijzen naar gerelateerde koopgidsen op onze site.*

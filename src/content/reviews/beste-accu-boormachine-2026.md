@@ -104,9 +104,9 @@ Kies verstandig, want je kiest ook een accu-systeem. De **Bosch Professional GSR
 
 ## Gerelateerde koopgidsen
 
-- [Bekijk Beste decoupeerzaag 2026: welke figuurzaag zaagt strak en precies?](/dutch-appliances/beste-decoupeerzaag-2026/)
-- [Bekijk Beste schuurmachine 2026: vlakschuurder, bandschuurder of delta?](/dutch-appliances/beste-schuurmachine-2026/)
-- [Bekijk Beste multitool 2026: oscillatiegereedschap voor zagen schuren en snijden](/dutch-appliances/beste-multitool-2026/)
-- [Bekijk Cirkelzaag vs. Decoupeerzaag: Welke Zaag Voor Welke Klus in 2026?](/dutch-appliances/cirkelzaag-vs-decoupeerzaag-2026/)
+- [Bekijk Beste decoupeerzaag 2026: welke figuurzaag zaagt strak en precies?](/beste-decoupeerzaag-2026/)
+- [Bekijk Beste schuurmachine 2026: vlakschuurder, bandschuurder of delta?](/beste-schuurmachine-2026/)
+- [Bekijk Beste multitool 2026: oscillatiegereedschap voor zagen schuren en snijden](/beste-multitool-2026/)
+- [Bekijk Cirkelzaag vs. Decoupeerzaag: Welke Zaag Voor Welke Klus in 2026?](/cirkelzaag-vs-decoupeerzaag-2026/)
 
 *Deze links verwijzen naar gerelateerde koopgidsen op onze site.*

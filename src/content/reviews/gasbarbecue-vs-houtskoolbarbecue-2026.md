@@ -262,7 +262,7 @@ Naast de voor de hand liggende punten zijn er ook enkele minder bekende nadelen 
 *   **Smaakopoffering:** Hoewel je rookhout kunt toevoegen, zal de authentieke BBQ-smaak nooit helemaal geëvenaard worden. Fabrikanten benadrukken het gemak, maar de smaak is subjectief en voor puristen een verborgen nadeel.
 
 **Houtskoolbarbecue:**
-*   **Rookoverlast voor de buren:** De heerlijke geur van barbecueën is niet voor iedereen even prettig.  [onze 'mobiele airco vs. split-unit airco 2026: wat past bij jouw situatie?'](/dutch-appliances/mobiele-airco-vs-split-airco-2026/) De rook van een houtskoolbarbecue kan voor overlast zorgen bij je buren, vooral in dichtbebouwde gebieden. Dit kan leiden tot irritaties. *   **Asafvoer en milieubelasting:** Het afvoeren van hete as is een risicovolle en rommelige taak. Daarnaast is niet alle houtskool even duurzaam geproduceerd. Goedkope houtskool kan afkomstig zijn van illegale houtkap en bijdragen aan ontbossing. Dit is een verborgen ethisch en milieunadeel. *   **Weersgevoeligheid:** Een houtskoolbarbecue is gevoeliger voor wind en regen. Wind kan de temperatuur onstabiel maken en kolen sneller verbruiken, terwijl regen het aansteken bemoeilijkt en de temperatuur kan doen dalen. *   **Onvoorspelbaarheid van kolenkwaliteit:** De kwaliteit van houtskool varieert enorm. Goedkope houtskool brandt vaak snel op, geeft veel as en kan chemicaliën bevatten. Dit beïnvloedt zowel de smaak als de prestaties, iets wat je pas merkt tijdens het barbecueën.
+*   **Rookoverlast voor de buren:** De heerlijke geur van barbecueën is niet voor iedereen even prettig.  [onze 'mobiele airco vs. split-unit airco 2026: wat past bij jouw situatie?'](/mobiele-airco-vs-split-airco-2026/) De rook van een houtskoolbarbecue kan voor overlast zorgen bij je buren, vooral in dichtbebouwde gebieden. Dit kan leiden tot irritaties. *   **Asafvoer en milieubelasting:** Het afvoeren van hete as is een risicovolle en rommelige taak. Daarnaast is niet alle houtskool even duurzaam geproduceerd. Goedkope houtskool kan afkomstig zijn van illegale houtkap en bijdragen aan ontbossing. Dit is een verborgen ethisch en milieunadeel. *   **Weersgevoeligheid:** Een houtskoolbarbecue is gevoeliger voor wind en regen. Wind kan de temperatuur onstabiel maken en kolen sneller verbruiken, terwijl regen het aansteken bemoeilijkt en de temperatuur kan doen dalen. *   **Onvoorspelbaarheid van kolenkwaliteit:** De kwaliteit van houtskool varieert enorm. Goedkope houtskool brandt vaak snel op, geeft veel as en kan chemicaliën bevatten. Dit beïnvloedt zowel de smaak als de prestaties, iets wat je pas merkt tijdens het barbecueën.
 
 ---
 
@@ -289,10 +289,10 @@ Op basis van alle aspecten die we hebben vergeleken, kunnen we een duidelijk bee
 
 ## Gerelateerde koopgidsen
 
-- [Bekijk Beste Kruiwagens & Tuintransportkarren 2026: Til- en Sleepwerk Makkelijk Gemaakt](/dutch-appliances/beste-kruiwagen-2026/)
-- [Bekijk Beste Tuinverlichting 2026: Verlicht je Gazon en Terras met Stijl en Efficiëntie](/dutch-appliances/beste-tuinverlichting-2026/)
-- [Bekijk Stoomreiniger vs. Hogedrukreiniger 2026: Welke Kies Je voor Binnen of Buiten?](/dutch-appliances/stoomreiniger-vs-hogedrukreiniger-2026/)
-- [Bekijk Beste Tuingereedschap Sets 2026: Complete Startersets voor Elke Tuin](/dutch-appliances/beste-tuingereedschap-set-2026/)
+- [Bekijk Beste Kruiwagens & Tuintransportkarren 2026: Til- en Sleepwerk Makkelijk Gemaakt](/beste-kruiwagen-2026/)
+- [Bekijk Beste Tuinverlichting 2026: Verlicht je Gazon en Terras met Stijl en Efficiëntie](/beste-tuinverlichting-2026/)
+- [Bekijk Stoomreiniger vs. Hogedrukreiniger 2026: Welke Kies Je voor Binnen of Buiten?](/stoomreiniger-vs-hogedrukreiniger-2026/)
+- [Bekijk Beste Tuingereedschap Sets 2026: Complete Startersets voor Elke Tuin](/beste-tuingereedschap-set-2026/)
 
 *Deze links verwijzen naar gerelateerde koopgidsen op onze site.*
 

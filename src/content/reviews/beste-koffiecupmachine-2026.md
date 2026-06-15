@@ -121,9 +121,9 @@ De beste koffiecupmachine hangt af van welk systeem je verkiest. Voor de breedst
 
 ## Gerelateerde koopgidsen
 
-- [Bekijk Koffiemachines Onder €200: Jouw Dagelijkse Dosis Genot in 2026](/dutch-appliances/beste-koffiemachine-onder-200-euro-2026/)
-- [Bekijk Beste koffiemachine 2026: van bonen tot kop voor iedere koffiedrinker](/dutch-appliances/beste-koffiemachine-2026/)
-- [Bekijk De Beste Volautomatische Koffiemachines: Bonen tot Kopje met Eén Knop in 2026](/dutch-appliances/beste-volautomatische-koffiemachine-2026/)
-- [Bekijk Koffiemachine vs. Senseo 2026: Welk Koffiesysteem Past bij Jou?](/dutch-appliances/koffiemachine-vs-senseo-2026/)
+- [Bekijk Koffiemachines Onder €200: Jouw Dagelijkse Dosis Genot in 2026](/beste-koffiemachine-onder-200-euro-2026/)
+- [Bekijk Beste koffiemachine 2026: van bonen tot kop voor iedere koffiedrinker](/beste-koffiemachine-2026/)
+- [Bekijk De Beste Volautomatische Koffiemachines: Bonen tot Kopje met Eén Knop in 2026](/beste-volautomatische-koffiemachine-2026/)
+- [Bekijk Koffiemachine vs. Senseo 2026: Welk Koffiesysteem Past bij Jou?](/koffiemachine-vs-senseo-2026/)
 
 *Deze links verwijzen naar gerelateerde koopgidsen op onze site.*

@@ -182,9 +182,9 @@ Onderhoudstips: Spoel direct na gebruik, droog de garde goed af en bewaar op een
 
 ## Gerelateerde koopgidsen
 
-- [Bekijk beste Nespresso-apparaten van 2026](/dutch-appliances/beste-nespresso-apparaat-2026/)
-- [Bekijk Koffiemachine vs. Senseo 2026: Welk Koffiesysteem Past bij Jou?](/dutch-appliances/koffiemachine-vs-senseo-2026/)
-- [Bekijk De Ultieme Koopgids: Jouw Weg naar de Perfecte Koffiemolen in 2026](/dutch-appliances/beste-koffiemolen-2026/)
-- [Bekijk Beste koffiecupmachine 2026: Nespresso, Dolce Gusto of Senseo?](/dutch-appliances/beste-koffiecupmachine-2026/)
+- [Bekijk beste Nespresso-apparaten van 2026](/beste-nespresso-apparaat-2026/)
+- [Bekijk Koffiemachine vs. Senseo 2026: Welk Koffiesysteem Past bij Jou?](/koffiemachine-vs-senseo-2026/)
+- [Bekijk De Ultieme Koopgids: Jouw Weg naar de Perfecte Koffiemolen in 2026](/beste-koffiemolen-2026/)
+- [Bekijk Beste koffiecupmachine 2026: Nespresso, Dolce Gusto of Senseo?](/beste-koffiecupmachine-2026/)
 
 *Deze links verwijzen naar gerelateerde koopgidsen op onze site.*

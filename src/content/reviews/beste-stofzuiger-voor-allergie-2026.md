@@ -147,9 +147,9 @@ Investeer in uw gezondheid en leefkwaliteit. Een goede stofzuiger is meer dan ee
 
 ## Gerelateerde koopgidsen
 
-- [Bekijk Beste draadloze stofzuiger 2026: steel en stick vergeleken](/dutch-appliances/beste-draadloze-stofzuiger-2026/)
-- [Bekijk beste steelstofzuigers van 2026](/dutch-appliances/beste-steelstofzuiger-2026/)
-- [Bekijk De Beste Stofzuigers Tegen Dierenharen in 2026: Een Complete Gids voor Huisdierbezitters](/dutch-appliances/beste-stofzuiger-tegen-dierenharen-2026/)
-- [Bekijk Beste stofzuiger 2026: welke zuiger past bij jouw huis?](/dutch-appliances/beste-stofzuiger-2026/)
+- [Bekijk Beste draadloze stofzuiger 2026: steel en stick vergeleken](/beste-draadloze-stofzuiger-2026/)
+- [Bekijk beste steelstofzuigers van 2026](/beste-steelstofzuiger-2026/)
+- [Bekijk De Beste Stofzuigers Tegen Dierenharen in 2026: Een Complete Gids voor Huisdierbezitters](/beste-stofzuiger-tegen-dierenharen-2026/)
+- [Bekijk Beste stofzuiger 2026: welke zuiger past bij jouw huis?](/beste-stofzuiger-2026/)
 
 *Deze links verwijzen naar gerelateerde koopgidsen op onze site.*

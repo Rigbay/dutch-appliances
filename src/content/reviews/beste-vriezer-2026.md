@@ -178,9 +178,9 @@ Maar wat als je budget beperkter is, of je simpelweg niet zoveel ruimte nodig he
 
 ## Gerelateerde koopgidsen
 
-- [Bekijk Beste Koelkast-Vriezer Combinaties 2026: Slimme Keuzes voor Elk Huishouden](/dutch-appliances/beste-koelkast-vriezer-combinatie-2026/)
-- [Bekijk Beste ijsmachine 2026: 7 modellen voor zelfgemaakt roomijs en sorbet](/dutch-appliances/beste-ijsmachine-2026/)
-- [Bekijk Koelkast vs. Koelkast-Vriezer Combinatie: Welke Past Bij Jouw Keuken in 2026?](/dutch-appliances/koelkast-vs-koelvriescombinatie-2026/)
-- [Bekijk Beste Koelkasten 2026: Energiezuinig, Ruim en Betrouwbaar voor Elk Huishouden](/dutch-appliances/beste-koelkast-2026/)
+- [Bekijk Beste Koelkast-Vriezer Combinaties 2026: Slimme Keuzes voor Elk Huishouden](/beste-koelkast-vriezer-combinatie-2026/)
+- [Bekijk Beste ijsmachine 2026: 7 modellen voor zelfgemaakt roomijs en sorbet](/beste-ijsmachine-2026/)
+- [Bekijk Koelkast vs. Koelkast-Vriezer Combinatie: Welke Past Bij Jouw Keuken in 2026?](/koelkast-vs-koelvriescombinatie-2026/)
+- [Bekijk Beste Koelkasten 2026: Energiezuinig, Ruim en Betrouwbaar voor Elk Huishouden](/beste-koelkast-2026/)
 
 *Deze links verwijzen naar gerelateerde koopgidsen op onze site.*

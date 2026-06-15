@@ -155,7 +155,7 @@ Om u een beter overzicht te geven, hebben we de belangrijkste modellen in een ha
 
 | Product                  | Inhoud (m²) | Vermogen (Watt) | Prijs (EUR) | Beste voor                                                                         | Score (1-5) |
 |--------------------------|-------------|-----------------|-------------|------------------------------------------------------------------------------------|-------------|
-| Husqvarna Automower 405X | 600         | N.v.t.  [onze 'elektrische grasmaaier vs benzine grasmaaier 2026: welke maait jouw gazon het best?'](/dutch-appliances/elektrische-grasmaaier-vs-benzine-grasmaaier-2026/) (elektrisch)| 1500-2000   | Middelgrote tot grote, licht complexe gazons met hellingen                           | 4.8         |
+| Husqvarna Automower 405X | 600         | N.v.t.  [onze 'elektrische grasmaaier vs benzine grasmaaier 2026: welke maait jouw gazon het best?'](/elektrische-grasmaaier-vs-benzine-grasmaaier-2026/) (elektrisch)| 1500-2000   | Middelgrote tot grote, licht complexe gazons met hellingen                           | 4.8         |
 | Worx Landroid M500       | 500         | N.v.t. (elektrisch)| 700-900     | Middelgrote, eenvoudige gazons, goede prijs-kwaliteit                               | 4.5         |
 | Gardena Sileno City 500  | 500         | N.v.t. (elektrisch)| 500-700     | Kleine tot middelgrote, eenvoudige gazons, stedelijke omgevingen, stil               | 4.3         |
 | McCulloch Rob S600       | 600         | N.v.t. (elektrisch)| 600-800     | Middelgrote gazons, betrouwbare allrounder                                         | 4.2         |
@@ -175,9 +175,9 @@ Voor wie een echt groot gazon heeft en de nodige robuustheid eist, biedt de **St
 
 ## Gerelateerde koopgidsen
 
-- [Bekijk De Beste Verticuteermachines voor een Gezond en Mosvrij Gazon in 2026](/dutch-appliances/beste-verticuteermachine-2026/)
-- [Bekijk Elektrische Grasmaaier Vs Benzine Grasmaaier 2026: Welke Maait Jouw Gazon Het Best?](/dutch-appliances/elektrische-grasmaaier-vs-benzine-grasmaaier-2026/)
-- [Bekijk Robotgrasmaaier vs. Gewone Grasmaaier 2026: Automatisch Maaien of Zelf Doen?](/dutch-appliances/robotgrasmaaier-vs-grasmaaier-2026/)
-- [Bekijk beste grasmaaiers van 2026](/dutch-appliances/beste-grasmaaier-2026/)
+- [Bekijk De Beste Verticuteermachines voor een Gezond en Mosvrij Gazon in 2026](/beste-verticuteermachine-2026/)
+- [Bekijk Elektrische Grasmaaier Vs Benzine Grasmaaier 2026: Welke Maait Jouw Gazon Het Best?](/elektrische-grasmaaier-vs-benzine-grasmaaier-2026/)
+- [Bekijk Robotgrasmaaier vs. Gewone Grasmaaier 2026: Automatisch Maaien of Zelf Doen?](/robotgrasmaaier-vs-grasmaaier-2026/)
+- [Bekijk beste grasmaaiers van 2026](/beste-grasmaaier-2026/)
 
 *Deze links verwijzen naar gerelateerde koopgidsen op onze site.*

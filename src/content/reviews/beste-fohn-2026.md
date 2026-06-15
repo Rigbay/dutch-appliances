@@ -93,7 +93,7 @@ Een goede fohn is een van de meest gebruikte apparaten in de badkamer. In 2026 g
 
 ## Waar let je op?
 
-1. **AC vs DC-motor:** AC krachtiger en duurzamer, DC lichter. 2. **Ionische technologie:** Minder pluis, meer glans. 3. **Temperatuurregeling:** Cold shot is onmisbaar. 4. **Opzetstukken:** Diffuser voor krullen, concentrator voor stijlen. 5. **Gewicht:** Onder 500g voor thuisgebruik is prima.  [onze 'beste persoonsweegschaal 2026: slimme weegschalen voor gewicht, spiermassa](/dutch-appliances/beste-persoonsweegschaal-2026/)
+1. **AC vs DC-motor:** AC krachtiger en duurzamer, DC lichter. 2. **Ionische technologie:** Minder pluis, meer glans. 3. **Temperatuurregeling:** Cold shot is onmisbaar. 4. **Opzetstukken:** Diffuser voor krullen, concentrator voor stijlen. 5. **Gewicht:** Onder 500g voor thuisgebruik is prima.  [onze 'beste persoonsweegschaal 2026: slimme weegschalen voor gewicht, spiermassa](/beste-persoonsweegschaal-2026/)
 
 ---
 
@@ -102,7 +102,7 @@ Een goede fohn is een van de meest gebruikte apparaten in de badkamer. In 2026 g
 
 ## Gerelateerde koopgidsen
 
-- [Bekijk Beste Elektrische Deken 2026: Koopgids voor Warme Nachten](/dutch-appliances/beste-elektrische-deken-2026/)
-- [Bekijk Beste persoonsweegschaal 2026: slimme weegschalen voor gewicht, spiermassa](/dutch-appliances/beste-persoonsweegschaal-2026/)
+- [Bekijk Beste Elektrische Deken 2026: Koopgids voor Warme Nachten](/beste-elektrische-deken-2026/)
+- [Bekijk Beste persoonsweegschaal 2026: slimme weegschalen voor gewicht, spiermassa](/beste-persoonsweegschaal-2026/)
 
 *Deze links verwijzen naar gerelateerde koopgidsen op onze site.*

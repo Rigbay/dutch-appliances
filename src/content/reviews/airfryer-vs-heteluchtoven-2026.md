@@ -150,9 +150,9 @@ Heb je geen oven en overweeg je een losse heteluchtoven of combi-magnetron? Kijk
 
 ## Gerelateerde koopgidsen
 
-- [Bekijk Airfryer vs. Oven 2026: Welke is echt gezonder en zuiniger?](/dutch-appliances/airfryer-vs-oven-2026/)
-- [Bekijk Airfryer vs. Magnetron 2026: Welke is Beter voor Jouw Keuken?](/dutch-appliances/airfryer-vs-magnetron-2026/)
-- [Bekijk De Beste Airfryers Onder €100 in 2026: Lekker en Betaalbaar Bakken!](/dutch-appliances/beste-airfryer-onder-100-euro-2026/)
-- [Bekijk Compacte Airfryers 2026: Heerlijk Gefrituurd, Zonder Keukenstress!](/dutch-appliances/beste-compacte-airfryer-2026/)
+- [Bekijk Airfryer vs. Oven 2026: Welke is echt gezonder en zuiniger?](/airfryer-vs-oven-2026/)
+- [Bekijk Airfryer vs. Magnetron 2026: Welke is Beter voor Jouw Keuken?](/airfryer-vs-magnetron-2026/)
+- [Bekijk De Beste Airfryers Onder €100 in 2026: Lekker en Betaalbaar Bakken!](/beste-airfryer-onder-100-euro-2026/)
+- [Bekijk Compacte Airfryers 2026: Heerlijk Gefrituurd, Zonder Keukenstress!](/beste-compacte-airfryer-2026/)
 
 *Deze links verwijzen naar gerelateerde koopgidsen op onze site.*

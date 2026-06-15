@@ -125,7 +125,7 @@ Een traditionele oven (elektrisch) verbruikt 2-3 kWh. Een magnetron verbruikt me
 
 ## 🏠 Welke past bij jouw huishouden?
 
-- **Al wonen of kamerstudent:** een combimagnetron is meestal voldoende (opwarmen, eenvoudige maaltijden, kleine porties).  [onze 'beste oven-magnetron combi 2026: 2-in-1 apparaat voor kleine keukens'](/dutch-appliances/beste-oven-magnetron-combi-2026/) - **Gezin met kinderen:** een oven is onmisbaar. Kinderen willen pizza's, koekjes, schotel-gerechten — de oven doet dat betrouwbaar. - **Gastronomie-geek:** overweeg een combimagnetron met grill- en heteluchtfunctie voor de flexibiliteit van twee in één. - **Budget beperkt:** een losse magnetron (EUR 50-150) + een kleine oven (EUR 150-300) kost vaak minder dan een goede combimagnetron.
+- **Al wonen of kamerstudent:** een combimagnetron is meestal voldoende (opwarmen, eenvoudige maaltijden, kleine porties).  [onze 'beste oven-magnetron combi 2026: 2-in-1 apparaat voor kleine keukens'](/beste-oven-magnetron-combi-2026/) - **Gezin met kinderen:** een oven is onmisbaar. Kinderen willen pizza's, koekjes, schotel-gerechten — de oven doet dat betrouwbaar. - **Gastronomie-geek:** overweeg een combimagnetron met grill- en heteluchtfunctie voor de flexibiliteit van twee in één. - **Budget beperkt:** een losse magnetron (EUR 50-150) + een kleine oven (EUR 150-300) kost vaak minder dan een goede combimagnetron.
 
 ---
 
@@ -148,9 +148,9 @@ A: Een airfryer is geen magnetron — hij gebruikt hete lucht. onze [airfryer fr
 
 ## Gerelateerde koopgidsen
 
-- [Bekijk Beste stoomoven 2026: gezond koken met stoom](/dutch-appliances/beste-stoomoven-2026/)
-- [Bekijk Beste Keukenweegschalen 2026: Nauwkeurig Wegen voor Bakken en Koken](/dutch-appliances/beste-keukenweegschaal-2026/)
-- [Bekijk Beste waterkoker 2026: snel, stil en stijlvol kokend water](/dutch-appliances/beste-waterkoker-2026/)
-- [Bekijk Beste broodrooster 2026: van crocant tot Brunch](/dutch-appliances/beste-broodrooster-2026/)
+- [Bekijk Beste stoomoven 2026: gezond koken met stoom](/beste-stoomoven-2026/)
+- [Bekijk Beste Keukenweegschalen 2026: Nauwkeurig Wegen voor Bakken en Koken](/beste-keukenweegschaal-2026/)
+- [Bekijk Beste waterkoker 2026: snel, stil en stijlvol kokend water](/beste-waterkoker-2026/)
+- [Bekijk Beste broodrooster 2026: van crocant tot Brunch](/beste-broodrooster-2026/)
 
 *Deze links verwijzen naar gerelateerde koopgidsen op onze site.*

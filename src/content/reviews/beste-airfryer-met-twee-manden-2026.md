@@ -141,9 +141,9 @@ Investeer in een model dat past bij de grootte van je gezin en de beschikbare ru
 
 ## Gerelateerde koopgidsen
 
-- [Bekijk beste luxe airfryers boven €200 van 2026](/dutch-appliances/beste-luxe-airfryer-2026/)
-- [Bekijk Airfryer vs. Oven 2026: Welke is echt gezonder en zuiniger?](/dutch-appliances/airfryer-vs-oven-2026/)
-- [Bekijk De Beste Airfryers Onder €100 in 2026: Lekker en Betaalbaar Bakken!](/dutch-appliances/beste-airfryer-onder-100-euro-2026/)
-- [Bekijk De Ultieme Koopgids Airfryer-Oven Combinaties 2026: Slim Bakken, Braden en](/dutch-appliances/beste-airfryer-oven-combi-2026/)
+- [Bekijk beste luxe airfryers boven €200 van 2026](/beste-luxe-airfryer-2026/)
+- [Bekijk Airfryer vs. Oven 2026: Welke is echt gezonder en zuiniger?](/airfryer-vs-oven-2026/)
+- [Bekijk De Beste Airfryers Onder €100 in 2026: Lekker en Betaalbaar Bakken!](/beste-airfryer-onder-100-euro-2026/)
+- [Bekijk De Ultieme Koopgids Airfryer-Oven Combinaties 2026: Slim Bakken, Braden en](/beste-airfryer-oven-combi-2026/)
 
 *Deze links verwijzen naar gerelateerde koopgidsen op onze site.*

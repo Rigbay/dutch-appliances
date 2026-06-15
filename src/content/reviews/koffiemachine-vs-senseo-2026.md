@@ -132,7 +132,7 @@ Geen discussie mogelijk: versgemalen bonen zetten de beste koffie. Het verschil 
 | **Philips Senseo Select CSA240/60** | Pads | 1-2 tegelijk | 70-100 | Gezinnen, meer functies | 4.3 |
 | **Moccamaster KBG Select Filter**| Filter | 10 kopjes/kan | 200-260 | Filterkoffie puristen | 4.7 |
 | **Melitta Caffeo Solo & Milk**| Volautomaat | 1-2 tegelijk | 330-430 | Compacte volautomaat met melk | 4.5 |
-| **Krups Nespresso Inissia XN1005** | Capsules | 1 tegelijk | 70-100 | Gemak, espressoliefhebbers | 4.4 |  [onze 'espresso vs. filterkoffie 2026: welke zetmethode past bij jouw smaak?'](/dutch-appliances/espresso-vs-filterkoffie-2026/)
+| **Krups Nespresso Inissia XN1005** | Capsules | 1 tegelijk | 70-100 | Gemak, espressoliefhebbers | 4.4 |  [onze 'espresso vs. filterkoffie 2026: welke zetmethode past bij jouw smaak?'](/espresso-vs-filterkoffie-2026/)
 
 ## Conclusie: Welke Koffiezetter Past bij Jou?
 
@@ -145,9 +145,9 @@ En vergeet de derde optie niet: filterkoffie. De **Moccamaster KBG Select** maak
 
 ## Gerelateerde koopgidsen
 
-- [Bekijk beste Nespresso-apparaten van 2026](/dutch-appliances/beste-nespresso-apparaat-2026/)
-- [Bekijk Beste Senseo en pad-koffiezetapparaten 2026: Snel en makkelijk genieten van](/dutch-appliances/beste-senseo-koffiezetapparaat-2026/)
-- [Bekijk Beste espressapparaat 2026: 7 modellen voor de perfecte espresso thuis](/dutch-appliances/beste-espresso-apparaat-2026/)
-- [Bekijk Beste koffiemachine 2026: van bonen tot kop voor iedere koffiedrinker](/dutch-appliances/beste-koffiemachine-2026/)
+- [Bekijk beste Nespresso-apparaten van 2026](/beste-nespresso-apparaat-2026/)
+- [Bekijk Beste Senseo en pad-koffiezetapparaten 2026: Snel en makkelijk genieten van](/beste-senseo-koffiezetapparaat-2026/)
+- [Bekijk Beste espressapparaat 2026: 7 modellen voor de perfecte espresso thuis](/beste-espresso-apparaat-2026/)
+- [Bekijk Beste koffiemachine 2026: van bonen tot kop voor iedere koffiedrinker](/beste-koffiemachine-2026/)
 
 *Deze links verwijzen naar gerelateerde koopgidsen op onze site.*

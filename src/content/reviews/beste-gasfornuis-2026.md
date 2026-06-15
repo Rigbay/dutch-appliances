@@ -120,9 +120,9 @@ Koken op gas blijft voor veel liefhebbers de voorkeur houden boven inductie. onz
 
 ## Gerelateerde koopgidsen
 
-- [Bekijk Inductie vs. Keramische Kookplaat 2026: Snelheid vs. Budget — Wat Past bij](/dutch-appliances/inductie-vs-keramisch-2026/)
-- [Bekijk Inductie vs. Gasfornuis 2026: De ultieme kookplaatvergelijking](/dutch-appliances/inductie-vs-gasfornuis-2026/)
-- [Bekijk Beste afzuigkap 2026: Schone keukenlucht voor elk huishouden](/dutch-appliances/beste-afzuigkap-2026/)
-- [Bekijk Beste inductieset 2026: inductie pannenset voor elk budget](/dutch-appliances/beste-inductieset-2026/)
+- [Bekijk Inductie vs. Keramische Kookplaat 2026: Snelheid vs. Budget — Wat Past bij](/inductie-vs-keramisch-2026/)
+- [Bekijk Inductie vs. Gasfornuis 2026: De ultieme kookplaatvergelijking](/inductie-vs-gasfornuis-2026/)
+- [Bekijk Beste afzuigkap 2026: Schone keukenlucht voor elk huishouden](/beste-afzuigkap-2026/)
+- [Bekijk Beste inductieset 2026: inductie pannenset voor elk budget](/beste-inductieset-2026/)
 
 *Deze links verwijzen naar gerelateerde koopgidsen op onze site.*
