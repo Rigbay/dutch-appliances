@@ -287,8 +287,8 @@ def main():
             print(f"  ✗ Error: {e}", file=sys.stderr)
             fail += 1
         
-        # Rate limit: 1 request per 2 seconds to avoid 429
-        time.sleep(2.5)
+        # Rate limit: 1 request per 5 seconds to avoid 429
+        time.sleep(5.0)
     
     # Summary
     summary = {
