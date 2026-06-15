@@ -1,4 +1,5 @@
 ---
+
 title: 'Beste Barbecues 2026: Vuur aan voor perfecte maaltijden buiten'
 slug: beste-barbecue-2026
 description: 'Vind de beste barbecue voor 2026! Gas, houtskool, elektrisch: complete
@@ -66,6 +67,15 @@ related:
 - beste-tuinverlichting-2026
 - beste-broodrooster-2026
 draft: false
+faq:
+- q: 'Welke barbecue past het beste bij mijn situatie: gas, houtskool of elektrisch?'
+  a: 'Kies een gasbarbecue voor snel gemak, precieze temperatuurcontrole en veelzijdigheid, ideaal voor grotere tuinen. Houtskoolbarbecues leveren de authentieke rooksmaak en zijn perfect voor culinaire experimenten. Een elektrische barbecue is ideaal voor balkons of stedelijke omgevingen zonder rookoverlast, en biedt gemak op kleinere schaal.'
+- q: 'Welke barbecue is geschikt voor een klein balkon of compacte tuin?'
+  a: 'Voor compacte ruimtes zijn elektrische barbecues of compacte gasbarbecues de beste keuze. Modellen zoals de Weber Q1400 Elektrische Barbecue of de Cadac Citi Chef 40 nemen minimale ruimte in en leveren toch volwaardige grillprestaties. Ze zijn rookarm of rookvrij, wat ideaal is voor stedelijke omgevingen.'
+- q: 'Ik wil de authentieke rooksmaak, welke barbecue moet ik kiezen?'
+  a: 'Voor de authentieke rooksmaak kiest u het beste een houtskoolbarbecue. Kamado barbecues, zoals de Kamado Joe Classic II, excelleren hierin en bieden tevens ongekende temperatuurbeheersing voor grillen, roken en slow-cooking. Een betaalbare optie die ook de traditionele houtskoolsmaak levert, is de Barbecook Loewy 40.'
+- q: 'Wat is een goede barbecue voor een beperkt budget?'
+  a: 'Met een beperkt budget is de Barbecook Loewy 40 Houtskoolbarbecue een uitstekende keuze, die authentiek grillplezier biedt voor slechts €89. Zoekt u een veelzijdige compacte gasbarbecue met een goede prijs-kwaliteitverhouding, dan is de Cadac Citi Chef 40 (€249) een absolute aanrader. Beide modellen bewijzen dat kwaliteit en betaalbaarheid hand in hand kunnen gaan.'
 ---
 
 # Beste Barbecues 2026: Vuur aan voor perfecte maaltijden buiten
