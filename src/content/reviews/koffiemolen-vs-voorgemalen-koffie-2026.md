@@ -1,7 +1,7 @@
 ---
 title: 'Koffiemolen vs. Voorgemalen Koffie 2026: Wat Is Lekkerder én Voordeliger?'
 slug: 'koffiemolen-vs-voorgemalen-koffie-2026'
-description: 'Twijfel je tussen een koffiemolen en voorgemalen koffie? Ontdek in onze 2026-vergelijking welke optie lekkerder, verser en voordeliger is voor jou. Bekijk onze koopgids op Amazon.nl! (tag: kieskeukennl-21)'
+description: 'Koffiemolen of voorgemalen koffie in 2026? Vergelijk versheid, smaak en kosten. Vind de beste keuze op Amazon.nl (tag: kieskeukennl-21).'
 category: 'keuken'
 rating: 4.5
 priceRange: 'EUR 30-300'
