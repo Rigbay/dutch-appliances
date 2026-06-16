@@ -1,7 +1,7 @@
 ---
 title: 'Koelkast vs. Amerikaanse Koelkast 2026: Welke Past Bij Jouw Keuken en Huishouden?'
 slug: 'koelkast-vs-amerikaanse-koelkast-2026'
-description: 'Ontdek de verschillen tussen een standaard koelkast en een Amerikaanse koelkast. Vind de beste keuze voor jouw keuken en huishouden met ons koopadvies op Amazon.nl (tag: kieskeukennl-21).'
+description: 'Standaard koelkast of Amerikaanse koelkast in 2026? Vergelijk ruimte, kosten en energieverbruik. Koopadvies op Amazon.nl (tag: kieskeukennl-21).'
 category: 'keuken'
 rating: 4.5
 priceRange: 'EUR 300-2500'

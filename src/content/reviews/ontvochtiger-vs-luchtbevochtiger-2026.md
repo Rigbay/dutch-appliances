@@ -73,7 +73,7 @@ faq:
 - q: 'Kan een ontvochtiger ook de lucht reinigen?'
   a: 'Sommige geavanceerde ontvochtigers, zoals de Meaco Arete One, hebben een ingebouwde luchtreinigingsfunctie met een HEPA-filter, maar dit is niet standaard voor alle modellen.'
 - q: 'Zijn luchtbevochtigers veilig voor babykamers?'
-  a: 'Ja, mits correct gebruikt en regelmatig gereinigd. Een te droge lucht kan ademhalingsproblemen bij baby's veroorzaken. Kies voor een model dat geen witte nevel produceert en makkelijk schoon te maken is om bacteriegroei te voorkomen.'
+  a: 'Ja, mits correct gebruikt en regelmatig gereinigd. Een te droge lucht kan ademhalingsproblemen bij babys veroorzaken. Kies voor een model dat geen witte nevel produceert en makkelijk schoon te maken is om bacteriegroei te voorkomen.'
 - q: 'Hoeveel stroom verbruikt een ontvochtiger of luchtbevochtiger?'
   a: 'Het stroomverbruik varieert sterk per model en capaciteit. Ontvochtigers verbruiken doorgaans meer stroom (gemiddeld 150-300W) dan luchtbevochtigers (gemiddeld 20-50W), vooral als ze continu draaien.'
 ---
@@ -89,129 +89,67 @@ Het fundamentele verschil zit in hun functie: een ontvochtiger haalt vocht uit d
 | Aspect | Ontvochtiger | Luchtbevochtiger |
 |--------|-------------|-------------|
 | Prijs | EUR 100-350 | EUR 40-250 |
-| Snelheid | Relatief snel vocht verwijderen | Relatief snel vocht toevoegen |
-| Resultaat/kwaliteit | Droog, frisser binnenklimaat, voorkomt schimmel | Comfortabeler binnenklimaat, vermindert droogteklachten |
-| Gebruiksgemak | Leeg reservoir, filter reinigen | Water bijvullen, filter/kalk reinigen |
-| Energieverbruik | Gemiddeld tot hoog (150-300W) | Laag tot gemiddeld (20-80W) |
-| Onderhoud | Regelmatig waterreservoir legen, filters schoonmaken | Dagelijks water bijvullen, wekelijks reinigen tegen kalk/bacteriën |
+| Functie | Verwijdert vocht uit de lucht | Voegt vocht toe aan de lucht |
+| Geschikt voor | Vochtige ruimtes, kelders, wasruimtes | Droge ruimtes, slaapkamers, babykamers |
+| Energieverbruik | 150-300W | 20-80W |
+| Onderhoud | Reservoir legen, filters reinigen | Water bijvullen, ontkalken |
+| Geluidsniveau | 35-55 dB | 25-40 dB |
 | Levensduur | 5-10 jaar | 3-7 jaar |
-| Geschikt voor | Vochtige ruimtes, kelders, wasruimtes, bij waterschade | Droge ruimtes, slaapkamers, babykamers, bij verkoudheid/allergieën |
+| Effect op gezondheid | Voorkomt schimmel en huisstofmijt | Voorkomt droge huid en luchtwegirritatie |
 
 ## Beste Ontvochtiger Modellen van 2026
 
-Voor wie kampt met overtollig vocht, zijn er uitstekende ontvochtigers op de markt die efficiënt en stil hun werk doen.
-*   De **Pro Breeze 12L/dag Ontvochtiger** (EUR 120-160) is een populaire keuze voor kleinere tot middelgrote ruimtes. Het apparaat is compact, gemakkelijk te verplaatsen en zeer effectief in het snel terugdringen van de luchtvochtigheid in bijvoorbeeld een slaapkamer of een vochtige wasruimte.
-*   Een stapje omhoog qua capaciteit is de **Qlima D 612 Ontvochtiger** (EUR 180-220). Dit robuuste model is perfect voor grotere oppervlakken zoals kelders, garages of ruime woonkamers waar vocht een hardnekkig probleem is. Het apparaat is duurzaam en ontworpen voor langdurig gebruik.
-*   De **Meaco Arete One 10L Ontvocht
+**Pro Breeze 12L/dag Ontvochtiger (EUR 120-160)** — Een compacte en effectieve ontvochtiger voor kleinere ruimtes. Ideaal voor slaapkamers en wasruimtes met een goede prijs-kwaliteitverhouding.
 
-Thinking...
-Okay, let's tackle this query. The user is a Dutch copywriter who needs to [K
-expand an article about dehumidifiers versus humidifiers. They provided a l[1D[K
-list of sections that are missing and want only those sections written in f[1D[K
-fluent, natural Dutch. The sections include a comparison table, when to cho[3D[K
-choose each appliance, long-term cost comparison, common mistakes, and a co[2D[K
-conclusion.
+**Qlima D 612 Ontvochtiger (EUR 180-220)** — Robuust model met grotere capaciteit, perfect voor vochtige kelders of grotere woonkamers waar vocht een hardnekkig probleem is.
 
-First, I need to make sure I understand each section's requirements. The ta[2D[K
-table has 8 rows: price, function, suitability, energy use, maintenance, no[2D[K
-noise level, lifespan, health effects. I need to fill these with accurate i[1D[K
-info. For example, dehumidifiers are for reducing humidity, while humidifie[9D[K
-humidifiers add moisture. Price ranges might be different, and energy use c[1D[K
-could vary based on the model.
+**Meaco Arete One 10L (EUR 170-210)** — Zeer energiezuinig en stil, met ingebouwde luchtreinigingsfunctie. De topkeuze voor allround gebruik in elk huis.
 
-Next, the "Wanneer Kies Je voor..." sections. For dehumidifiers, situations[10D[K
-situations like damp basements, mold, drying clothes indoors, and condensat[9D[K
-condensation on windows. For humidifiers, dry winter air, wooden floors/fur[10D[K
-floors/furniture, dry skin/airways, baby rooms. I should list these concise[7D[K
-concisely, maybe 3-4 points each.
+## Beste Luchtbevochtiger Modellen van 2026
 
-The long-term cost comparison needs to consider purchase price, energy cost[4D[K
-costs over 5 years, and maintenance like filters. Dehumidifiers might have [K
-higher initial costs but lower maintenance, while humidifiers might be chea[4D[K
-cheaper upfront but need more frequent filter replacements.
+**Philips Series 2000 HU2716/10 (EUR 130-170)** — Stijlvolle en efficiënte luchtbevochtiger die op natuurlijke wijze bevochtigt zonder witte nevel. Perfect voor slaap- en babykamers.
 
-Common mistakes: maybe not considering room size, ignoring maintenance, or [K
-using the wrong type for the problem. Need to list three of these.
+**Stadler Form Oskar (EUR 190-250)** — Designgerichte luchtbevochtiger met hoge capaciteit voor grotere, modern ingerichte ruimtes.
 
-The conclusion should recommend each appliance based on the situations ment[4D[K
-mentioned. Also, include the affiliate disclosure with the Amazon tag.
+**Duux Beam Mini (EUR 90-130)** — Compacte en stille ultrasone bevochtiger met strak design, perfect voor kleinere tot middelgrote ruimtes.
 
-I need to ensure the Dutch is natural and flows well. Avoid technical jargo[5D[K
-jargon but keep it informative. Check for any possible errors in the table [K
-data, like ensuring the energy use and noise levels are realistic. Also, ma[2D[K
-make sure the affiliate link is correctly formatted with the provided tag.
+## Wanneer Kies Je voor een Ontvochtiger?
 
-Wait, the user specified to use only the requested sections and not include[7D[K
-include frontmatter. So no markdown beyond the section headers and content.[8D[K
-content. Also, the affiliate disclosure is a separate section at the end. L[1D[K
-Let me structure each part step by step, ensuring all points are covered wi[2D[K
-without missing any.
-...done thinking.
+- **Vochtige kelder of kruipruimte.** Een ontvochtiger voorkomt schimmel en roest door de luchtvochtigheid onder controle te houden.
+- **Schimmelproblemen in badkamer of keuken.** Ontvochtigers verminderen de risico's op schimmelgroei in vochtige ruimtes.
+- **Was drogen binnen.** Verminder condens en voorkom schade aan muren en meubels door vochtige waslucht.
+- **Condens op ramen.** Hoge luchtvochtigheid leidt tot vochtige ramen en isolatieproblemen — een ontvochtiger lost dit op.
 
-## Vergelijkingstabel: Ontvochtiger vs. Luchtbevochtiger (2026)  
-| **Kenmerk**           | **Ontvochtiger**                          | **Luc[5D[K
-**Luchtbevochtiger**                      |  
-|-----------------------|-------------------------------------------|------|-----------------------|-------------------------------------------|-------------------------------------------|  
-| **Prijs**             | €200–€800 (afhankelijk van capaciteit)   | €150–€[6D[K
-€150–€600 (slechts 50% van ontvochtiger) |  
-| **Functie**           | Verlaagt luchtvochtigheid tot 30–50% RH   | Verho[5D[K
-Verhoogt luchtvochtigheid tot 40–60% RH   |  
-| **Geschikt voor**     | Kelders, badkamers, vochtige gebieden     | Winte[5D[K
-Winters in woningen, babykamers, kantoren |  
-| **Energieverbruik**   | 100–300 W (afhankelijk van capaciteit)    | 30–10[5D[K
-30–100 W (energiezuiniger)                |  
-| **Onderhoud**         | Filters vervangen elke 6–12 maanden      | Filter[6D[K
-Filters vervangen elke 3–6 maanden        |  
-| **Geluidsniveau**     | 35–55 dB (zoals een gesprek)             | 25–40 [K
-dB (zoals een klok)                 |  
-| **Levensduur**        | 5–10 jaar (afhankelijk van gebruik)       | 5–8 j[1D[K
-jaar (minder belastend)               |  
-| **Effect op gezondheid** | Vermindert schimmel, astma-aanvallen | Voorkom[7D[K
-Voorkomt droge huid, luchtwegen, houtverrotting |  
+## Wanneer Kies Je voor een Luchtbevochtiger?
 
-## Wanneer Kies Je voor een Ontvochtiger?  
-1. **Vochtige kelder**: Voorkom schimmel en roest door luchtvochtigheid ond[3D[K
-onder controle te houden.  
-2. **Schimmelproblemen**: Ontvochtigers verminderen de risico’s op schimmel[8D[K
-schimmelgroei in badkamers of kelders.  
-3. **Was drogen binnen**: Verminder condens en voorkom schade aan wasmachin[9D[K
-wasmachines of kleding.  
-4. **Condens op ramen**: Laag luchtvochtigheid voorkomt vochtige ramen en i[1D[K
-isolatieproblemen.  
+- **Droge lucht in de winter.** Verwarming droogt de lucht uit. Een luchtbevochtiger voorkomt droge huid en geïrriteerde luchtwegen.
+- **Houten vloeren of meubels.** Bescherm hout tegen uitdroging en barsten door de luchtvochtigheid op peil te houden.
+- **Droge huid of luchtwegklachten.** Vooral bij kinderen, ouderen en mensen met astma of allergieën is een goede luchtvochtigheid belangrijk.
+- **Babykamer.** Een te droge lucht kan ademhalingsproblemen bij baby's veroorzaken. Een luchtbevochtiger helpt.
 
-## Wanneer Kies Je voor een Luchtbevochtiger?  
-1. **Droge lucht in winter**: Voorkom droge huid en luchtwegen bij verwarmi[8D[K
-verwarming.  
-2. **Houten vloeren/meubels**: Bescherm hout tegen uitdroging en barsten.  [K
+## Kostenvergelijking op Lange Termijn
 
-3. **Droge huid/luchtwegen**: Verlaag risico’s op astma en irritaties bij k[1D[K
-kinderen of ouderen.  
-4. **Babykamer**: Voorkom droogheid in luchtwegen en huid van baby’s.  
+Over 5 jaar zien de totale kosten er zo uit:
 
-## Kostenvergelijking op Lange Termijn  
-Over 5 jaar bedragen de totale kosten (aanschaf + energie + onderhoud):  
-- **Ontvochtiger**: €1.200–€2.500 (hoge energiekosten bij hoge capaciteit, [K
-minder frequent onderhoud).  
-- **Luchtbevochtiger**: €800–€1.500 (lagere energiekosten, maar frequentere[11D[K
-frequentere filtervervanging).  
-**Let op**: De prijsvariatie hangt af van gebruik (bijv. kelder vs. woning)[7D[K
-woning) en model.  
+- **Ontvochtiger:** Aanschaf EUR 180 + energie (200W × 8 uur/dag × 200 dagen/jaar × 5 jaar × EUR 0,40) = EUR 180 + EUR 640 = **EUR 820 totaal**
+- **Luchtbevochtiger:** Aanschaf EUR 130 + energie (50W × 8 uur/dag × 150 dagen/jaar × 5 jaar × EUR 0,40) = EUR 130 + EUR 120 + filters EUR 60 = **EUR 310 totaal**
 
-## Veelgemaakte Fouten bij het Kiezen  
-1. **Onvoldoende capaciteit kiezen**: Een ontvochtiger met te lage capacite[8D[K
-capaciteit werkt ondoenlijk in grote ruimtes.  
-2. **Vergeten om filters te vervangen**: Verouderde filters verminderen eff[3D[K
-efficiëntie en kunnen schadelijk zijn (bijv. schimmel in lucht).  
-3. **Geen rekening houden met ruimte-gevoelige situaties**: Een luchtbevoch[11D[K
-luchtbevochtiger in een vochtige kelder verergert het probleem.  
+De luchtbevochtiger is duidelijk goedkoper in gebruik. Maar een ontvochtiger is vaak noodzakelijk — schimmelbestrijding en waterschade zijn vele malen duurder dan het apparaat zelf.
 
-## Conclusie  
-Kies een **ontvochtiger** als je vochtproblemen hebt (zoals schimmel of con[3D[K
-condens) of als je in een vochtige ruimte woont. Deze zijn essentieel voor [K
-gezondheid en voorkomen schade aan woningen. Voor **luchtbevochtigers** is [K
-de keuze aangeraden bij droge luchten in winters, bij het behouden van hout[4D[K
-houten meubels of bij gevoelige groepen zoals baby’s. Let op het evenwicht:[10D[K
-evenwicht: te veel vocht kan net zo schadelijk zijn als te weinig. Kies alt[3D[K
-altijd het juiste model voor je situatie.  
+## Veelgemaakte Fouten bij het Kiezen
 
-**Affiliate disclosure**: Amazon.nl tag kieskeukennl-21
+1. **Geen hygrometer gebruiken.** Zonder meting weet je niet of je lucht te droog of te vochtig is. Koop eerst een hygrometer van EUR 10-20 voordat je een apparaat aanschaft.
+
+2. **Verkeerde capaciteit kiezen.** Een ontvochtiger met te lage capaciteit werkt niet effectief in grote ruimtes. Check het aantal liters per dag dat het apparaat kan onttrekken.
+
+3. **Filters niet vervangen.** Verouderde filters verminderen de efficiëntie en kunnen zelf een bron van schimmel of bacteriën worden. Vervang filters volgens het schema van de fabrikant.
+
+## Conclusie
+
+Kies een ontvochtiger als je last hebt van vochtproblemen: schimmel, condens op ramen, muffe geur in de kelder, of als je was binnenshuis droogt. Een ontvochtiger is een investering in je gezondheid én in het behoud van je woning. De Meaco Arete One is de beste allround keuze voor de meeste huishoudens.
+
+Kies een luchtbevochtiger als je last hebt van droge lucht, vooral in de wintermaanden wanneer de verwarming aanstaat. Droge huid, geïrriteerde luchtwegen en krakende houten vloeren zijn duidelijke signalen. De Philips Series 2000 is een uitstekende keuze voor slaap- en babykamers.
+
+Twijfel je? Meet eerst met een hygrometer. Alles boven de 60% vraagt om een ontvochtiger, alles onder de 40% om een luchtbevochtiger. En ja, sommige huishoudens hebben beide nodig — een ontvochtiger voor de kelder en een luchtbevochtiger voor de slaapkamer.
+
+**Affiliate disclosure**: Links verwijzen naar Amazon.nl (tag: kieskeukennl-21). Kleine commissie bij aankoop, geen extra kosten voor jou. Rangschikking gebaseerd op productspecificaties, gebruikerservaringen en prijs-kwaliteitverhouding.
