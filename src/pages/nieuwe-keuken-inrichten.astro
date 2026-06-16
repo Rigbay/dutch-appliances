@@ -1,0 +1,610 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const allReviews = await getCollection('reviews', ({ data }) => !data.draft);
+
+// Core kitchen appliances for a new kitchen
+const keukenReviews = allReviews.filter(r => r.data.category === 'keuken');
+
+// Essential categories for outfitting a new kitchen
+const essentials = {
+  koeling: keukenReviews.filter(r => r.data.slug.includes('koelkast') || r.data.slug.includes('vriezer')),
+  koken: keukenReviews.filter(r => r.data.slug.includes('inductie') || r.data.slug.includes('kookplaat') || r.data.slug.includes('gasfornuis')),
+  oven: keukenReviews.filter(r => r.data.slug.includes('oven') || r.data.slug.includes('magnetron') || r.data.slug.includes('stoomoven')),
+  afzuiging: keukenReviews.filter(r => r.data.slug.includes('afzuigkap')),
+  vaat: keukenReviews.filter(r => r.data.slug.includes('vaatwasser')),
+  klein: keukenReviews.filter(r => r.data.slug.includes('waterkoker') || r.data.slug.includes('koffie') || r.data.slug.includes('broodrooster') || r.data.slug.includes('airfryer')),
+};
+
+// Budget tiers
+const budgetTiers = [
+  {
+    name: 'Budget',
+    range: '€2.500 – €4.000',
+    desc: 'Goede basiskwaliteit van merken als Bosch, Siemens instap, Whirlpool en Inventum. Functioneel, betrouwbaar, zonder luxe extra\'s.',
+    koelkast: 'Vrijstaande koel-vriescombinatie, 180-200 cm, energielabel C-D: €400-600',
+    kookplaat: 'Inductie 4-zones, 60 cm, basis: €250-400',
+    oven: 'Inbouw heteluchtoven, 60 cm: €300-450',
+    afzuigkap: 'Wandmodel 60 cm, recirculatie: €100-200',
+    vaatwasser: 'Vrijstaand of inbouw, 60 cm, energielabel C: €350-500',
+    klein: 'Waterkoker + koffiemachine + airfryer: €150-300',
+  },
+  {
+    name: 'Middenklasse',
+    range: '€4.000 – €7.000',
+    desc: 'De sweet spot. Merken als Bosch Serie 6, Siemens iQ500, AEG, Samsung. Energiezuiniger, stiller, betere materialen.',
+    koelkast: 'Vrijstaande of inbouw koel-vries, 180-200 cm, energielabel B-C, NoFrost: €600-1.000',
+    kookplaat: 'Inductie 4-zones flex, 60-80 cm, boost-functie: €500-800',
+    oven: 'Inbouw hetelucht + stoomfunctie, 60 cm, pyrolyse: €500-800',
+    afzuigkap: 'Wand- of plafondmodel, 60-90 cm, afvoer: €250-500',
+    vaatwasser: 'Inbouw, 60 cm, energielabel B, Zeolith-droging: €500-800',
+    klein: 'Volautomaat koffiemachine + luxe waterkoker + airfryer XL: €500-900',
+  },
+  {
+    name: 'Premium',
+    range: '€7.000 – €15.000+',
+    desc: 'Topmerken: Miele, Gaggenau, Quooker, Jura. Stil, energiezuinig, design, 5-10 jaar garantie.',
+    koelkast: 'Inbouw koel-vries of Amerikaanse koelkast, energielabel A-B, BioFresh: €1.500-3.000',
+    kookplaat: 'Inductie met geïntegreerde afzuiging, 80-90 cm, flexzones: €1.000-2.500',
+    oven: 'Inbouw combi-stoomoven + aparte compacte oven, pyrolyse: €1.000-2.500',
+    afzuigkap: 'Plafond- of downdraft, 90 cm, fluisterstil: €500-1.500',
+    vaatwasser: 'Inbouw, 60 cm, energielabel A, Miele: €800-1.500',
+    klein: 'Jura volautomaat + Quooker kokendwaterkraan + airfryer XXL: €1.500-3.000',
+  },
+];
+
+// Structured data
+const articleSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: 'Nieuwe Keuken Inrichten 2026: Complete Apparaten Gids & Budget Planner',
+  description: 'Alles wat je nodig hebt voor een nieuwe keuken in 2026: koelkast, kookplaat, oven, afzuigkap, vaatwasser en kleine apparaten. Budget, middenklasse en premium — met Amazon NL links (kieskeukennl-21).',
+  author: { '@type': 'Organization', 'name': 'Beste Apparaten' },
+  publisher: { '@type': 'Organization', 'name': 'Beste Apparaten', 'url': 'https://rigbay.github.io/dutch-appliances/' },
+  datePublished: '2026-06-16',
+  dateModified: '2026-06-16',
+  mainEntityOfPage: { '@type': 'WebPage', '@id': 'https://rigbay.github.io/dutch-appliances/nieuwe-keuken-inrichten/' },
+};
+
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: [
+    {
+      '@type': 'Question',
+      name: 'Wat kost een complete nieuwe keuken aan apparatuur in 2026?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'Budget: €2.500-4.000. Middenklasse: €4.000-7.000. Premium: €7.000-15.000+. Dit omvat koelkast, kookplaat, oven, afzuigkap, vaatwasser en kleine apparaten. De grootste kostenposten zijn de koelkast (€400-3.000) en kookplaat (€250-2.500).',
+      },
+    },
+    {
+      '@type': 'Question',
+      name: 'Welke apparaten heb ik nodig voor een nieuwe keuken?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'De 6 essentiële categorieën: 1) Koelkast of koel-vriescombinatie, 2) Kookplaat (inductie aanbevolen), 3) Oven of combi-magnetron, 4) Afzuigkap, 5) Vaatwasser, 6) Kleine apparaten (waterkoker, koffiemachine, airfryer). Optioneel: Quooker, wijnkoeler, stoomoven.',
+      },
+    },
+    {
+      '@type': 'Question',
+      name: 'Inbouw of vrijstaande keukenapparaten?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'Inbouw oogt strakker en geïntegreerd, maar is 20-40% duurder in aanschaf en lastiger te vervangen. Vrijstaand is flexibeler, goedkoper en makkelijker te vervangen. Voor koopwoningen is inbouw populair; voor huurwoningen is vrijstaand praktischer.',
+      },
+    },
+    {
+      '@type': 'Question',
+      name: 'Welk merk keukenapparaten is het beste?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'Premium: Miele, Gaggenau, Quooker. Middenklasse: Bosch Serie 6/8, Siemens iQ500/700, AEG. Budget: Bosch Serie 2/4, Whirlpool, Inventum, Etna. Lees onze complete merkenvergelijking op de Beste Merken pagina voor een gedetailleerde breakdown.',
+      },
+    },
+    {
+      '@type': 'Question',
+      name: 'Hoeveel stopcontacten heb ik nodig in een nieuwe keuken?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'Reken op minimaal 8-10 stopcontacten: 2 voor koffiehoek (machine + waterkoker), 2 voor werkblad (airfryer, mixer), 1 voor vaatwasser, 1 voor koelkast, 1 voor oven, 1 voor afzuigkap, 1 voor magnetron, plus 2-3 extra voor opladers en klein apparatuur. Kookplaat (inductie) heeft een eigen Perilex-aansluiting (3-fase) nodig.',
+      },
+    },
+  ],
+};
+---
+
+<BaseLayout
+  title="Nieuwe Keuken Inrichten 2026: Complete Apparaten Gids & Budget Planner"
+  description="Alles voor je nieuwe keuken: koelkast, kookplaat, oven, afzuigkap, vaatwasser en kleine apparaten. Budget, middenklasse en premium opties met Amazon NL links (kieskeukennl-21)."
+  canonicalUrl="https://rigbay.github.io/dutch-appliances/nieuwe-keuken-inrichten/"
+  structuredData={[articleSchema, faqSchema]}
+>
+  <div class="max-w-4xl mx-auto px-4 py-12">
+
+    <!-- HERO -->
+    <section class="mb-10">
+      <p class="text-sm font-bold uppercase tracking-[0.16em] text-leaf">Keukenplanning 2026</p>
+      <h1 class="mt-3 font-serif text-4xl font-semibold leading-tight text-ink sm:text-5xl">
+        Nieuwe Keuken Inrichten: Complete Apparaten Gids & Budget Planner
+      </h1>
+      <p class="mt-4 max-w-3xl text-lg leading-8 text-muted">
+        Een nieuwe keuken inrichten is spannend — maar ook overweldigend. Welke apparaten heb je écht nodig? Wat kost het? Inbouw of vrijstaand? Deze gids neemt je stap voor stap mee door alle keukenapparaten die je nodig hebt, met drie budgetniveaus en directe Amazon NL links naar de beste modellen van 2026.
+      </p>
+      <p class="mt-3 text-muted">
+        Alle links in deze gids zijn <strong>Amazon NL affiliate links</strong> (tag: kieskeukennl-21). Jij betaalt dezelfde prijs, wij ontvangen een kleine commissie — zonder extra kosten voor jou.
+      </p>
+
+      <!-- Quick stats -->
+      <div class="mt-8 grid grid-cols-2 sm:grid-cols-4 gap-4">
+        <div class="rounded bg-linen border border-[#e8e1d7] p-4 text-center">
+          <p class="text-2xl font-bold text-leaf">{keukenReviews.length}</p>
+          <p class="text-xs text-muted mt-1">Keuken koopgidsen</p>
+        </div>
+        <div class="rounded bg-linen border border-[#e8e1d7] p-4 text-center">
+          <p class="text-2xl font-bold text-leaf">3</p>
+          <p class="text-xs text-muted mt-1">Budgetniveaus</p>
+        </div>
+        <div class="rounded bg-linen border border-[#e8e1d7] p-4 text-center">
+          <p class="text-2xl font-bold text-leaf">6</p>
+          <p class="text-xs text-muted mt-1">Essentiële categorieën</p>
+        </div>
+        <div class="rounded bg-linen border border-[#e8e1d7] p-4 text-center">
+          <p class="text-2xl font-bold text-leaf">€2.500+</p>
+          <p class="text-xs text-muted mt-1">Vanaf budget</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- INHOUDSOPGAVE -->
+    <nav class="bg-[#f8f5f0] p-6 rounded mb-12" aria-label="Inhoudsopgave">
+      <h2 class="text-lg font-semibold mb-3">📋 Inhoudsopgave</h2>
+      <ul class="grid grid-cols-1 md:grid-cols-2 gap-2 text-sm">
+        <li><a href="#checklist" class="text-leaf hover:underline">→ Checklist: Wat heb je nodig?</a></li>
+        <li><a href="#budget" class="text-leaf hover:underline">→ Budget Planner: 3 Niveaus</a></li>
+        <li><a href="#koelkast" class="text-leaf hover:underline">→ 1. Koelkast & Vriezer</a></li>
+        <li><a href="#kookplaat" class="text-leaf hover:underline">→ 2. Kookplaat (Inductie)</a></li>
+        <li><a href="#oven" class="text-leaf hover:underline">→ 3. Oven & Magnetron</a></li>
+        <li><a href="#afzuigkap" class="text-leaf hover:underline">→ 4. Afzuigkap</a></li>
+        <li><a href="#vaatwasser" class="text-leaf hover:underline">→ 5. Vaatwasser</a></li>
+        <li><a href="#klein" class="text-leaf hover:underline">→ 6. Kleine Apparaten</a></li>
+        <li><a href="#inbouw-vs-vrijstaand" class="text-leaf hover:underline">→ Inbouw vs. Vrijstaand</a></li>
+        <li><a href="#planning" class="text-leaf hover:underline">→ Planningschecklist & Tips</a></li>
+        <li><a href="#faq" class="text-leaf hover:underline">→ Veelgestelde Vragen (FAQ)</a></li>
+      </ul>
+    </nav>
+
+    <!-- CHECKLIST -->
+    <section id="checklist" class="mb-12">
+      <h2 class="text-3xl font-serif font-semibold mb-4 border-b pb-2">✅ Checklist: Welke Apparaten Heb Je Nodig?</h2>
+      <p class="text-muted mb-6">
+        Dit zijn de 6 essentiële categorieën voor elke nieuwe keuken. Optionele extra's staan onderaan.
+      </p>
+
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+        <div class="border border-[#e8e1d7] rounded p-5 bg-white">
+          <h3 class="font-semibold text-lg">🍳 Essentieel (6 categorieën)</h3>
+          <ul class="mt-3 space-y-2 text-sm text-muted">
+            <li class="flex items-start gap-2">
+              <span class="text-leaf font-bold">1.</span>
+              <span><strong>Koelkast / koel-vriescombinatie</strong> — onmisbaar. Kies formaat op basis van huishoudgrootte.</span>
+            </li>
+            <li class="flex items-start gap-2">
+              <span class="text-leaf font-bold">2.</span>
+              <span><strong>Kookplaat</strong> — inductie is de standaard in 2026. 4 zones minimaal, 60-90 cm breed.</span>
+            </li>
+            <li class="flex items-start gap-2">
+              <span class="text-leaf font-bold">3.</span>
+              <span><strong>Oven / combi-magnetron</strong> — heteluchtoven 60 cm inbouw. Combi-magnetron als ruimtebesparing.</span>
+            </li>
+            <li class="flex items-start gap-2">
+              <span class="text-leaf font-bold">4.</span>
+              <span><strong>Afzuigkap</strong> — verplicht in nieuwbouw. Recirculatie of afvoer naar buiten.</span>
+            </li>
+            <li class="flex items-start gap-2">
+              <span class="text-leaf font-bold">5.</span>
+              <span><strong>Vaatwasser</strong> — bespaart water en tijd. 60 cm breed, inbouw of vrijstaand.</span>
+            </li>
+            <li class="flex items-start gap-2">
+              <span class="text-leaf font-bold">6.</span>
+              <span><strong>Kleine apparaten</strong> — waterkoker, koffiemachine, airfryer als minimumset.</span>
+            </li>
+          </ul>
+        </div>
+
+        <div class="border border-[#e8e1d7] rounded p-5 bg-white">
+          <h3 class="font-semibold text-lg">✨ Optionele Extra's</h3>
+          <ul class="mt-3 space-y-2 text-sm text-muted">
+            <li class="flex items-start gap-2">
+              <span class="text-leaf">•</span>
+              <span><strong>Quooker / kokendwaterkraan</strong> — direct kokend water, vervangt waterkoker. €800-1.500.</span>
+            </li>
+            <li class="flex items-start gap-2">
+              <span class="text-leaf">•</span>
+              <span><strong>Stoomoven</strong> — gezonder koken, naast gewone oven. €500-1.500.</span>
+            </li>
+            <li class="flex items-start gap-2">
+              <span class="text-leaf">•</span>
+              <span><strong>Wijnkoelkast</strong> — voor de liefhebber. €200-1.000.</span>
+            </li>
+            <li class="flex items-start gap-2">
+              <span class="text-leaf">•</span>
+              <span><strong>Koffiehoek-apparatuur</strong> — volautomaat, bonenmaler, melkopschuimer. €500-2.000.</span>
+            </li>
+            <li class="flex items-start gap-2">
+              <span class="text-leaf">•</span>
+              <span><strong>Keukenmachine</strong> — KitchenAid of Kenwood voor bakkers. €200-700.</span>
+            </li>
+            <li class="flex items-start gap-2">
+              <span class="text-leaf">•</span>
+              <span><strong>Afvalvermaler</strong> — onder de spoelbak, voor etensresten. €200-500.</span>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <!-- BUDGET PLANNER -->
+    <section id="budget" class="mb-12">
+      <h2 class="text-3xl font-serif font-semibold mb-4 border-b pb-2">💰 Budget Planner: 3 Niveaus voor Jouw Nieuwe Keuken</h2>
+      <p class="text-muted mb-6">
+        We hebben drie realistische budgetten samengesteld op basis van actuele Amazon NL prijzen (juni 2026). Alle genoemde prijzen zijn richtprijzen — klik door naar de specifieke koopgidsen voor exacte aanbevelingen en affiliate links.
+      </p>
+
+      {budgetTiers.map((tier, idx) => (
+        <div class="mb-8 border border-[#e8e1d7] rounded overflow-hidden">
+          <div class={`p-5 ${idx === 0 ? 'bg-[#f8f5f0]' : idx === 1 ? 'bg-[#edf4f2]' : 'bg-[#f3f0e8]'}`}>
+            <h3 class="font-serif text-2xl font-semibold text-ink">
+              {idx === 0 ? '🪙' : idx === 1 ? '🏆' : '👑'} {tier.name}: {tier.range}
+            </h3>
+            <p class="mt-2 text-muted">{tier.desc}</p>
+          </div>
+          <div class="p-5 bg-white">
+            <table class="w-full text-sm">
+              <thead>
+                <tr class="border-b border-[#e8e1d7] text-left">
+                  <th class="py-2 font-semibold text-ink">Apparaat</th>
+                  <th class="py-2 font-semibold text-ink">Aanbevolen</th>
+                  <th class="py-2 font-semibold text-ink text-right">Budget</th>
+                </tr>
+              </thead>
+              <tbody class="divide-y divide-[#e8e1d7]">
+                <tr>
+                  <td class="py-2.5 font-medium">🧊 Koelkast</td>
+                  <td class="py-2.5 text-muted">{tier.koelkast}</td>
+                  <td class="py-2.5 text-right font-bold text-leaf">{tier.koelkast.match(/€[\d.]+-[\d.]+/)?.[0] || '—'}</td>
+                </tr>
+                <tr>
+                  <td class="py-2.5 font-medium">🔥 Kookplaat</td>
+                  <td class="py-2.5 text-muted">{tier.kookplaat}</td>
+                  <td class="py-2.5 text-right font-bold text-leaf">{tier.kookplaat.match(/€[\d.]+-[\d.]+/)?.[0] || '—'}</td>
+                </tr>
+                <tr>
+                  <td class="py-2.5 font-medium">🍞 Oven</td>
+                  <td class="py-2.5 text-muted">{tier.oven}</td>
+                  <td class="py-2.5 text-right font-bold text-leaf">{tier.oven.match(/€[\d.]+-[\d.]+/)?.[0] || '—'}</td>
+                </tr>
+                <tr>
+                  <td class="py-2.5 font-medium">💨 Afzuigkap</td>
+                  <td class="py-2.5 text-muted">{tier.afzuigkap}</td>
+                  <td class="py-2.5 text-right font-bold text-leaf">{tier.afzuigkap.match(/€[\d.]+-[\d.]+/)?.[0] || '—'}</td>
+                </tr>
+                <tr>
+                  <td class="py-2.5 font-medium">🍽️ Vaatwasser</td>
+                  <td class="py-2.5 text-muted">{tier.vaatwasser}</td>
+                  <td class="py-2.5 text-right font-bold text-leaf">{tier.vaatwasser.match(/€[\d.]+-[\d.]+/)?.[0] || '—'}</td>
+                </tr>
+                <tr>
+                  <td class="py-2.5 font-medium">🥄 Klein apparatuur</td>
+                  <td class="py-2.5 text-muted">{tier.klein}</td>
+                  <td class="py-2.5 text-right font-bold text-leaf">{tier.klein.match(/€[\d.]+-[\d.]+/)?.[0] || '—'}</td>
+                </tr>
+                <tr class="bg-[#faf8f5] font-bold">
+                  <td class="py-3 text-ink">Totaal</td>
+                  <td class="py-3 text-muted text-xs">Excl. installatie, incl. BTW</td>
+                  <td class="py-3 text-right text-leaf text-base">{tier.range}</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      ))}
+
+      <div class="bg-[#f3faf7] border border-[#dfe8e5] rounded p-5 mt-6">
+        <p class="text-sm font-semibold text-leaf">💡 Bespaartip:</p>
+        <p class="mt-1 text-sm text-muted">
+          Keukenapparaten zijn vaak 15-30% goedkoper tijdens <strong>Black Friday</strong>, <strong>Amazon Prime Day</strong> (juli), en de <strong>januari-uitverkoop</strong>. Als je flexibel bent met timing, kun je een middenklasse keuken voor budgetprijs samenstellen. Gebruik een prijs-tracker zoals Keepa om prijsdalingen te spotten.
+        </p>
+      </div>
+    </section>
+
+    <!-- PER CATEGORY DEEP DIVES -->
+    <section id="koelkast" class="mb-12">
+      <h2 class="text-3xl font-serif font-semibold mb-4 border-b pb-2">🧊 1. Koelkast & Vriezer — Het Hart van je Keuken</h2>
+      <p class="text-muted mb-4">
+        De koelkast is de grootste kostenpost en het meest gebruikte apparaat. Een goede koelkast gaat 10-15 jaar mee — kies dus niet alleen op prijs, maar ook op energieverbruik (elk watt telt, 24/7 aan) en formaat.
+      </p>
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-3 mb-6">
+        {essentials.koeling.map(r => (
+          <a href={`/${r.data.slug}/`} class="block p-4 border border-[#e8e1d7] rounded hover:border-leaf hover:shadow-sm transition-all bg-white group">
+            <span class="text-sm font-medium text-leaf group-hover:underline">{r.data.title}</span>
+            <div class="flex items-center gap-3 mt-2 text-xs text-muted">
+              <span>⭐ {r.data.rating}</span>
+              <span>{r.data.priceRange}</span>
+              <span class="ml-auto text-leaf font-medium">Bekijk →</span>
+            </div>
+          </a>
+        ))}
+      </div>
+      <div class="bg-[#f8f5f0] p-4 rounded text-sm">
+        <p class="font-semibold text-ink">🔑 Belangrijkste keuzes:</p>
+        <ul class="mt-2 space-y-1 text-muted">
+          <li>• <strong>Formaat:</strong> 1-2 personen = 150-180 cm hoog. Gezin 3-4 = 180-200 cm. 5+ personen = Amerikaanse koelkast.</li>
+          <li>• <strong>NoFrost:</strong> Nooit meer ontdooien. Absolute aanrader, scheelt uren werk per jaar.</li>
+          <li>• <strong>Energielabel:</strong> Minimaal C, liever B of A. Een A-label bespaart €30-50 per jaar t.o.v. een E-label.</li>
+          <li>• <strong>Inbouw vs. vrijstaand:</strong> Inbouw is 30-50% duurder maar oogt strakker. Vrijstaand is flexibeler.</li>
+        </ul>
+      </div>
+    </section>
+
+    <section id="kookplaat" class="mb-12">
+      <h2 class="text-3xl font-serif font-semibold mb-4 border-b pb-2">🔥 2. Kookplaat — Inductie is de Standaard</h2>
+      <p class="text-muted mb-4">
+        In 2026 is inductie de onbetwiste winnaar: sneller dan gas, veiliger dan keramisch, en 90% energie-efficiënt (gas: 40%). Het enige nadeel: je hebt magnetische pannen nodig. Check je bestaande pannen met een magneet — plakt hij? Dan werkt hij op inductie.
+      </p>
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-3 mb-6">
+        {essentials.koken.map(r => (
+          <a href={`/${r.data.slug}/`} class="block p-4 border border-[#e8e1d7] rounded hover:border-leaf hover:shadow-sm transition-all bg-white group">
+            <span class="text-sm font-medium text-leaf group-hover:underline">{r.data.title}</span>
+            <div class="flex items-center gap-3 mt-2 text-xs text-muted">
+              <span>⭐ {r.data.rating}</span>
+              <span>{r.data.priceRange}</span>
+              <span class="ml-auto text-leaf font-medium">Bekijk →</span>
+            </div>
+          </a>
+        ))}
+      </div>
+      <div class="bg-[#f8f5f0] p-4 rounded text-sm">
+        <p class="font-semibold text-ink">🔑 Belangrijkste keuzes:</p>
+        <ul class="mt-2 space-y-1 text-muted">
+          <li>• <strong>Aantal zones:</strong> 4 zones is standaard. 5-6 zones (flex) voor fanatieke koks.</li>
+          <li>• <strong>Breedte:</strong> 60 cm past in de meeste keukens. 80-90 cm voor luxe keukens met kookeiland.</li>
+          <li>• <strong>Flexzones:</strong> Twee zones samenvoegen tot één grote — handig voor braadsledes en grillplaten.</li>
+          <li>• <strong>Geïntegreerde afzuiging:</strong> Bora en vergelijkbare merken. Scheelt een aparte afzuigkap, maar kost €1.500+ extra.</li>
+          <li>• <strong>Aansluiting:</strong> Inductie heeft een Perilex-stopcontact nodig (3-fase). Laat dit checken door een elektricien vóór aankoop.</li>
+        </ul>
+      </div>
+    </section>
+
+    <section id="oven" class="mb-12">
+      <h2 class="text-3xl font-serif font-semibold mb-4 border-b pb-2">🍞 3. Oven & Magnetron — De Werkpaarden</h2>
+      <p class="text-muted mb-4">
+        Een inbouw heteluchtoven (60 cm) is de standaard. Overweeg een combi-stoomoven als je van gezond koken houdt, of een combi-magnetron als je ruimte wilt besparen. Pyrolyse-reiniging (zelfreinigend op 500°C) is een luxe die het schoonmaken drastisch vereenvoudigt.
+      </p>
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-3 mb-6">
+        {essentials.oven.map(r => (
+          <a href={`/${r.data.slug}/`} class="block p-4 border border-[#e8e1d7] rounded hover:border-leaf hover:shadow-sm transition-all bg-white group">
+            <span class="text-sm font-medium text-leaf group-hover:underline">{r.data.title}</span>
+            <div class="flex items-center gap-3 mt-2 text-xs text-muted">
+              <span>⭐ {r.data.rating}</span>
+              <span>{r.data.priceRange}</span>
+              <span class="ml-auto text-leaf font-medium">Bekijk →</span>
+            </div>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <section id="afzuigkap" class="mb-12">
+      <h2 class="text-3xl font-serif font-semibold mb-4 border-b pb-2">💨 4. Afzuigkap — Frisse Lucht in je Keuken</h2>
+      <p class="text-muted mb-4">
+        Een afzuigkap is verplicht in Nederlandse nieuwbouw (Bouwbesluit). Kies tussen recirculatie (koolstoffilter, makkelijker te plaatsen) en afvoer naar buiten (effectiever, maar vereist een kanaal). Let op geluidsniveau: onder 60 dB is comfortabel, onder 50 dB is fluisterstil.
+      </p>
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-3 mb-6">
+        {essentials.afzuiging.map(r => (
+          <a href={`/${r.data.slug}/`} class="block p-4 border border-[#e8e1d7] rounded hover:border-leaf hover:shadow-sm transition-all bg-white group">
+            <span class="text-sm font-medium text-leaf group-hover:underline">{r.data.title}</span>
+            <div class="flex items-center gap-3 mt-2 text-xs text-muted">
+              <span>⭐ {r.data.rating}</span>
+              <span>{r.data.priceRange}</span>
+              <span class="ml-auto text-leaf font-medium">Bekijk →</span>
+            </div>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <section id="vaatwasser" class="mb-12">
+      <h2 class="text-3xl font-serif font-semibold mb-4 border-b pb-2">🍽️ 5. Vaatwasser — Tijd- en Waterbesparing</h2>
+      <p class="text-muted mb-4">
+        Een vaatwasser gebruikt minder water dan handafwas (10-15 liter vs. 40-60 liter per afwasbeurt). Moderne vaatwassers zijn fluisterstil (40-44 dB), hebben Zeolith-droging voor perfect droge borden, en passen in elk keukenontwerp.
+      </p>
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-3 mb-6">
+        {essentials.vaat.map(r => (
+          <a href={`/${r.data.slug}/`} class="block p-4 border border-[#e8e1d7] rounded hover:border-leaf hover:shadow-sm transition-all bg-white group">
+            <span class="text-sm font-medium text-leaf group-hover:underline">{r.data.title}</span>
+            <div class="flex items-center gap-3 mt-2 text-xs text-muted">
+              <span>⭐ {r.data.rating}</span>
+              <span>{r.data.priceRange}</span>
+              <span class="ml-auto text-leaf font-medium">Bekijk →</span>
+            </div>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <section id="klein" class="mb-12">
+      <h2 class="text-3xl font-serif font-semibold mb-4 border-b pb-2">🥄 6. Kleine Apparaten — Dagelijkse Gemakken</h2>
+      <p class="text-muted mb-4">
+        De finishing touch van je keuken. Een goede waterkoker, koffiemachine en airfryer zijn de minimumset voor de meeste Nederlandse huishoudens. Budgettip: kleine apparaten zijn de makkelijkste categorie om later uit te breiden — begin met de essentials en vul aan.
+      </p>
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-3 mb-6">
+        {essentials.klein.map(r => (
+          <a href={`/${r.data.slug}/`} class="block p-4 border border-[#e8e1d7] rounded hover:border-leaf hover:shadow-sm transition-all bg-white group">
+            <span class="text-sm font-medium text-leaf group-hover:underline">{r.data.title}</span>
+            <div class="flex items-center gap-3 mt-2 text-xs text-muted">
+              <span>⭐ {r.data.rating}</span>
+              <span>{r.data.priceRange}</span>
+              <span class="ml-auto text-leaf font-medium">Bekijk →</span>
+            </div>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <!-- INBOUW VS VRIJSTAAND -->
+    <section id="inbouw-vs-vrijstaand" class="mb-12 bg-[#f8f5f0] p-8 rounded">
+      <h2 class="text-2xl font-serif font-semibold mb-6">🔨 Inbouw vs. Vrijstaand: De Grote Keuze</h2>
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+        <div class="bg-white p-5 rounded border border-[#e8e1d7]">
+          <h3 class="font-semibold text-lg text-leaf">🏗️ Inbouwapparaten</h3>
+          <ul class="mt-3 space-y-2 text-sm text-muted">
+            <li class="flex items-start gap-2"><span class="text-leaf">✓</span> Strak, geïntegreerd design — alles achter frontpanelen</li>
+            <li class="flex items-start gap-2"><span class="text-leaf">✓</span> Hogere woningwaarde (voor koopwoningen)</li>
+            <li class="flex items-start gap-2"><span class="text-leaf">✓</span> Minder stofophoping tussen apparaten</li>
+            <li class="flex items-start gap-2"><span class="text-red-500">✗</span> 20-40% duurder in aanschaf</li>
+            <li class="flex items-start gap-2"><span class="text-red-500">✗</span> Vervanging is complexer (keukenfront moet matchen)</li>
+            <li class="flex items-start gap-2"><span class="text-red-500">✗</span> Minder flexibel bij verhuizing</li>
+          </ul>
+        </div>
+        <div class="bg-white p-5 rounded border border-[#e8e1d7]">
+          <h3 class="font-semibold text-lg text-leaf">🏠 Vrijstaande Apparaten</h3>
+          <ul class="mt-3 space-y-2 text-sm text-muted">
+            <li class="flex items-start gap-2"><span class="text-leaf">✓</span> Goedkoper — scheelt honderden euro's per apparaat</li>
+            <li class="flex items-start gap-2"><span class="text-leaf">✓</span> Makkelijk te vervangen, geen frontpaneel-match nodig</li>
+            <li class="flex items-start gap-2"><span class="text-leaf">✓</span> Meenemen bij verhuizing</li>
+            <li class="flex items-start gap-2"><span class="text-leaf">✓</span> Meer keuze — alle merken bieden vrijstaande modellen</li>
+            <li class="flex items-start gap-2"><span class="text-red-500">✗</span> Minder strak design, zichtbare apparaten</li>
+            <li class="flex items-start gap-2"><span class="text-red-500">✗</span> Meer stofnesten tussen en achter apparaten</li>
+          </ul>
+        </div>
+      </div>
+      <p class="mt-4 text-sm text-muted">
+        <strong>Advies:</strong> Voor koopwoningen is inbouw de norm en verhoogt het de waarde. Voor huurwoningen is vrijstaand praktischer. Mix & match kan ook: inbouw voor kookplaat, oven en vaatwasser; vrijstaand voor koelkast (makkelijker te vervangen).
+      </p>
+    </section>
+
+    <!-- PLANNING CHECKLIST -->
+    <section id="planning" class="mb-12">
+      <h2 class="text-3xl font-serif font-semibold mb-4 border-b pb-2">📐 Planningschecklist & Tips</h2>
+      <p class="text-muted mb-6">
+        Gebruik deze checklist vóór je apparaten bestelt. Een fout in de planning kost tijd, geld en frustratie.
+      </p>
+
+      <div class="space-y-4">
+        <div class="border border-[#e8e1d7] rounded p-5 bg-white">
+          <h3 class="font-semibold">📏 1. Meet Alles — Drie Keer</h3>
+          <ul class="mt-2 space-y-1 text-sm text-muted">
+            <li>• Nismaten voor inbouwapparaten (hoogte × breedte × diepte)</li>
+            <li>• Deuropeningen en gangen — past de koelkast erdoor?</li>
+            <li>• Loopruimte — 90-120 cm tussen aanrecht en eiland</li>
+            <li>• Hoogte werkblad — standaard 90-95 cm, maar aanpasbaar</li>
+          </ul>
+        </div>
+
+        <div class="border border-[#e8e1d7] rounded p-5 bg-white">
+          <h3 class="font-semibold">⚡ 2. Elektra & Aansluitingen</h3>
+          <ul class="mt-2 space-y-1 text-sm text-muted">
+            <li>• Perilex-aansluiting voor inductiekookplaat (3-fase, 400V) — laat checken door elektricien</li>
+            <li>• Minimaal 8-10 stopcontacten in de keuken (zie FAQ)</li>
+            <li>• Wateraansluiting en afvoer voor vaatwasser</li>
+            <li>• Afvoerkanaal voor afzuigkap (indien afvoer naar buiten)</li>
+            <li>• Aardlekschakelaar verplicht voor alle keukengroepen</li>
+          </ul>
+        </div>
+
+        <div class="border border-[#e8e1d7] rounded p-5 bg-white">
+          <h3 class="font-semibold">📦 3. Bestelvolgorde</h3>
+          <ul class="mt-2 space-y-1 text-sm text-muted">
+            <li>1. <strong>Grote apparaten eerst</strong> — koelkast, kookplaat, oven, vaatwasser. Deze bepalen de nismaten.</li>
+            <li>2. <strong>Afzuigkap</strong> — afhankelijk van kookplaatbreedte (minimaal even breed).</li>
+            <li>3. <strong>Kleine apparaten</strong> — als laatste, flexibel in planning.</li>
+            <li>4. <strong>Levering plannen</strong> — Amazon NL levert meestal binnen 1-3 dagen. Coördineer met keukeninstallateur.</li>
+          </ul>
+        </div>
+
+        <div class="border border-[#e8e1d7] rounded p-5 bg-white">
+          <h3 class="font-semibold">💶 4. Budget Tips</h3>
+          <ul class="mt-2 space-y-1 text-sm text-muted">
+            <li>• <strong>20% reserveren voor installatie</strong> — elektricien, loodgieter, montage. Reken €500-1.500.</li>
+            <li>• <strong>Seizoenskorting benutten</strong> — Black Friday (nov), Prime Day (jul), januari-uitverkoop.</li>
+            <li>• <strong>Outlet & refurbished</strong> — Amazon Warehouse Deals biedt retouren met 20-40% korting, volledige garantie.</li>
+            <li>• <strong>Setkorting vragen</strong> — sommige keukenzaken geven korting bij aankoop van 3+ apparaten van hetzelfde merk.</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <!-- FAQ -->
+    <section id="faq" class="mb-12">
+      <h2 class="text-2xl font-serif font-semibold mb-6">❓ Veelgestelde Vragen over Nieuwe Keuken Inrichten</h2>
+      <div class="space-y-4">
+        <details class="border border-[#e8e1d7] rounded p-4 bg-white">
+          <summary class="font-medium cursor-pointer text-leaf">Wat kost een complete nieuwe keuken aan apparatuur in 2026?</summary>
+          <p class="mt-3 text-sm text-muted leading-relaxed">
+            Budget: €2.500-4.000. Middenklasse: €4.000-7.000. Premium: €7.000-15.000+. Dit omvat koelkast, kookplaat, oven, afzuigkap, vaatwasser en kleine apparaten. De grootste kostenposten zijn de koelkast (€400-3.000) en kookplaat (€250-2.500). Installatiekosten komen hier nog bij (€500-1.500). Zie onze <a href="#budget" class="underline">budgetplanner</a> hierboven voor een gedetailleerde breakdown.
+          </p>
+        </details>
+
+        <details class="border border-[#e8e1d7] rounded p-4 bg-white">
+          <summary class="font-medium cursor-pointer text-leaf">Welke apparaten heb ik écht nodig voor een nieuwe keuken?</summary>
+          <p class="mt-3 text-sm text-muted leading-relaxed">
+            De 6 essentiële categorieën: koelkast, kookplaat, oven, afzuigkap, vaatwasser, en kleine apparaten (waterkoker, koffiemachine, airfryer). Optioneel: Quooker, stoomoven, wijnkoelkast, keukenmachine. Begin met de essentials — de rest kun je later toevoegen. Zie onze <a href="#checklist" class="underline">checklist</a> bovenaan deze pagina.
+          </p>
+        </details>
+
+        <details class="border border-[#e8e1d7] rounded p-4 bg-white">
+          <summary class="font-medium cursor-pointer text-leaf">Inbouw of vrijstaande keukenapparaten — wat is beter?</summary>
+          <p class="mt-3 text-sm text-muted leading-relaxed">
+            Inbouw oogt strakker en verhoogt woningwaarde, maar is 20-40% duurder en lastiger te vervangen. Vrijstaand is flexibeler, goedkoper en makkelijker mee te nemen bij verhuizing. Voor koopwoningen: inbouw. Voor huurwoningen: vrijstaand. Mix & match kan ook. Lees onze <a href="/vaatwasser-inbouw-vs-vrijstaand-2026/" class="underline">inbouw vs vrijstaand vaatwasser vergelijking</a> voor een specifiek voorbeeld.
+          </p>
+        </details>
+
+        <details class="border border-[#e8e1d7] rounded p-4 bg-white">
+          <summary class="font-medium cursor-pointer text-leaf">Welk merk keukenapparaten is het beste?</summary>
+          <p class="mt-3 text-sm text-muted leading-relaxed">
+            Premium: Miele, Gaggenau, Quooker (5-10 jaar garantie, stil, energiezuinig). Middenklasse: Bosch Serie 6/8, Siemens iQ500/700, AEG (beste prijs-kwaliteit). Budget: Bosch Serie 2/4, Whirlpool, Inventum, Etna (functioneel, betrouwbaar). Lees onze <a href="/beste-merken/" class="underline">complete merkenvergelijking</a> voor een gedetailleerde breakdown per categorie.
+          </p>
+        </details>
+
+        <details class="border border-[#e8e1d7] rounded p-4 bg-white">
+          <summary class="font-medium cursor-pointer text-leaf">Hoeveel stopcontacten heb ik nodig in een nieuwe keuken?</summary>
+          <p class="mt-3 text-sm text-muted leading-relaxed">
+            Minimaal 8-10 stopcontacten: 2 voor koffiehoek, 2 voor werkblad, 1 voor vaatwasser, 1 voor koelkast, 1 voor oven, 1 voor afzuigkap, 1 voor magnetron, plus 2-3 extra. De inductiekookplaat heeft een eigen Perilex-aansluiting (3-fase, 400V) nodig — dit is géén standaard stopcontact. Laat een elektricien de meterkast checken vóór aankoop.
+          </p>
+        </details>
+
+        <details class="border border-[#e8e1d7] rounded p-4 bg-white">
+          <summary class="font-medium cursor-pointer text-leaf">Kan ik keukenapparaten het beste online of in een winkel kopen?</summary>
+          <p class="mt-3 text-sm text-muted leading-relaxed">
+            Online (Amazon NL) is meestal 10-20% goedkoper dan fysieke keukenzaken, met snelle levering en 30 dagen retourrecht. Fysieke winkels bieden showroom-ervaring (apparaten zien en voelen) en soms setkorting bij aankoop van meerdere apparaten. Onze strategie: oriënteer in een showroom, koop online. Alle links op deze pagina zijn Amazon NL affiliate links (kieskeukennl-21) — zelfde prijs voor jou, kleine commissie voor ons.
+          </p>
+        </details>
+      </div>
+    </section>
+
+    <!-- CTA -->
+    <section class="mt-8 p-6 bg-leaf text-white rounded text-center">
+      <p class="text-lg font-semibold mb-2">Klaar om je nieuwe keuken te shoppen?</p>
+      <p class="text-sm opacity-90 mb-4">
+        Blader door onze {keukenReviews.length} keukenapparaat reviews en stel jouw perfecte keuken samen. Alle links naar Amazon NL — zelfde prijs voor jou, kleine commissie voor ons. Tag: kieskeukennl-21.
+      </p>
+      <div class="flex flex-wrap justify-center gap-3">
+        <a href="/keukenapparaten-koopgids/" class="inline-block px-5 py-2.5 bg-white text-leaf rounded font-bold hover:bg-[#f0ead6] transition-colors">
+          📋 Complete Keuken Koopgids →
+        </a>
+        <a href="/beste-merken/" class="inline-block px-5 py-2.5 bg-white text-leaf rounded font-bold hover:bg-[#f0ead6] transition-colors">
+          🏷️ Beste Merken Vergeleken →
+        </a>
+        <a href="/middenklasse/" class="inline-block px-5 py-2.5 bg-white text-leaf rounded font-bold hover:bg-[#f0ead6] transition-colors">
+          🏆 Middenklasse €100-€300 →
+        </a>
+        <a href="/budget/" class="inline-block px-5 py-2.5 bg-white text-leaf rounded font-bold hover:bg-[#f0ead6] transition-colors">
+          🪙 Budget onder €100 →
+        </a>
+      </div>
+    </section>
+
+  </div>
+</BaseLayout>
