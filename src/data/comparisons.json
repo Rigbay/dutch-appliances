@@ -13,6 +13,15 @@
           "featuredProduct": "Nespresso Vertuo Next"
         },
         {
+          "slug": "koelkast-vs-amerikaanse-koelkast-2026",
+          "title": "Koelkast vs. Amerikaanse Koelkast 2026: Welke Past Bij Jouw Keuken en Huishouden?",
+          "category": "keuken",
+          "rating": 4.5,
+          "verdict": "In dit artikel hebben we de belangrijkste verschillen tussen standaard koelkasten en Amerikaanse koelkasten besproken. Wij zijn ervan overtuigd dat de keuze tussen deze twee opties afhankelijk is van ",
+          "priceRange": "EUR 300-2500",
+          "featuredProduct": "Samsung American Fridge Freezer RS8000"
+        },
+        {
           "slug": "airfryer-vs-friteuse-2026",
           "title": "Airfryer vs. Frituurpan: De Ultieme Keuze voor Friet en Snacks in 2026",
           "category": "keuken",
@@ -47,6 +56,51 @@
           "verdict": "Het is een ochtendritueel dat miljoenen Nederlanders dagelijks uitvoeren: koffie zetten. onze filterkoffiemachine gids. Maar de manier waarop verschilt enorm. De één zweert bij een",
           "priceRange": "EUR 40-1500",
           "featuredProduct": "De'Longhi Dedica EC685"
+        },
+        {
+          "slug": "magnetron-vs-heteluchtoven-2026",
+          "title": "Magnetron vs. Heteluchtoven 2026: Welke Is Sneller, Welke Is Lekkerder?",
+          "category": "keuken",
+          "rating": 4.5,
+          "verdict": "De keuze tussen een magnetron en een heteluchtoven hangt af van je kookgewoonten, budget en prioriteiten. Als je vaak snel moet koken, is een magnetron de ideale keuze. Maar als je regelmatig grotere ",
+          "priceRange": "EUR 50-500",
+          "featuredProduct": "Samsung Combimagnetron MC28H5015"
+        },
+        {
+          "slug": "koffiemolen-vs-voorgemalen-koffie-2026",
+          "title": "Koffiemolen vs. Voorgemalen Koffie 2026: Wat Is Lekkerder én Voordeliger?",
+          "category": "keuken",
+          "rating": 4.5,
+          "verdict": "",
+          "priceRange": "EUR 30-300",
+          "featuredProduct": "Baratza Encore Koffiemolen"
+        },
+        {
+          "slug": "broodrooster-vs-tosti-ijzer-2026",
+          "title": "Broodrooster vs. Tosti-ijzer 2026: Welke Past Bij Jouw Ontbijt- en Lunchroutine?",
+          "category": "keuken",
+          "rating": 4.4,
+          "verdict": "De geur van vers geroosterd brood in de ochtend, of de verleidelijke aroma's van een warme, gesmolten tosti als snelle lunch; het zijn momenten die velen van ons koesteren. Maar wa",
+          "priceRange": "EUR 20-220",
+          "featuredProduct": "Zie snel advies hieronder"
+        },
+        {
+          "slug": "slowcooker-vs-snelkookpan-2026",
+          "title": "Slowcooker vs. Snelkookpan 2026: Langzaam Garen of Supersnel Koken?",
+          "category": "keuken",
+          "rating": 4.5,
+          "verdict": "Een slowcooker is de beste keuze als je tijd hebt voor langzaam koken, zoal\u001b[4D\u001b[K\nzoals bij stoofschotels of meal prep. De Tefal Secure 5 Neo is een uitsteke\u001b[8D\u001b[K\nuitstekende optie voor wie een mul",
+          "priceRange": "EUR 40-250",
+          "featuredProduct": "Instant Pot Duo"
+        },
+        {
+          "slug": "waterkoker-vs-fluitketel-2026",
+          "title": "Waterkoker vs. Fluitketel 2026: Wat Is Sneller, Stiller en Zuiniger?",
+          "category": "keuken",
+          "rating": 4.5,
+          "verdict": "Beide apparaten hebben hun eigen voordelen, afhankelijk van je behoeften. Voor snelheid en stilte is een waterkoker onmisbaar, terwijl een fluitketel ideaal is voor theehalen en koken. Kies op basis v",
+          "priceRange": "EUR 15-180",
+          "featuredProduct": "Philips Daily Collection Waterkoker"
         },
         {
           "slug": "airfryer-vs-heteluchtoven-2026",
@@ -103,6 +157,33 @@
           "featuredProduct": "Jura E8 / De'Longhi Magnifica Start"
         },
         {
+          "slug": "vaatwasser-inbouw-vs-vrijstaand-2026",
+          "title": "Inbouw vs. Vrijstaande Vaatwasser 2026: Welke Past in Jouw Keuken?",
+          "category": "keuken",
+          "rating": 4.5,
+          "verdict": "Als je een moderne keuken met een geïntegreerde uitstraling wilt, is een \u001b[2D\u001b[K",
+          "priceRange": "EUR 350-1500",
+          "featuredProduct": "Bosch Inbouw Vaatwasser Serie 6"
+        },
+        {
+          "slug": "airfryer-vs-elektrische-grill-2026",
+          "title": "Airfryer vs. Elektrische Grill 2026: Welke Is de Beste Allrounder voor Snel en Gezond Koken?",
+          "category": "keuken",
+          "rating": 4.5,
+          "verdict": "In de moderne keuken draait alles om efficiëntie, gezondheid en gebruiksgemak. Twee apparaten die hierin uitblinken en steeds populairder worden, zijn de airfryer en de elektrische",
+          "priceRange": "EUR 40-250",
+          "featuredProduct": "Ninja Foodi Dual Zone AF400EU"
+        },
+        {
+          "slug": "pizza-oven-vs-gewone-oven-2026",
+          "title": "Pizza Oven vs. Gewone Oven 2026: Heb Je een Aparte Pizza Oven Nodig voor Restaurantkwaliteit?",
+          "category": "keuken",
+          "rating": 4.5,
+          "verdict": "De vraag of je een aparte pizza oven nodig hebt voor restaurantkwaliteit pizza is duidelijk: ja, als je streeft naar de absolute topkwaliteit en authenticiteit. Een pizza oven, vooral een gas- of hout",
+          "priceRange": "EUR 80-800",
+          "featuredProduct": "Ooni Koda 12 pizza oven"
+        },
+        {
           "slug": "airfryer-vs-magnetron-2026",
           "title": "Airfryer vs. Magnetron 2026: Welke is Beter voor Jouw Keuken?",
           "category": "keuken",
@@ -139,6 +220,24 @@
           "featuredProduct": "Philips Airfryer XXL Premium"
         },
         {
+          "slug": "nespresso-vs-senseo-2026",
+          "title": "Nespresso vs. Senseo 2026: Welk Koffiepad-Systeem Past Bij Jouw Ochtendroutine?",
+          "category": "keuken",
+          "rating": 4.5,
+          "verdict": "De keuze tussen een Nespresso- en een Senseo-apparaat hangt sterk af van je persoonlijke voorkeur voor koffiesmaak, budget en gemak. Hoewel beide systemen bekend staan om hun gebru",
+          "priceRange": "EUR 60-400",
+          "featuredProduct": "Nespresso Vertuo Next"
+        },
+        {
+          "slug": "hakmolen-vs-keukenmachine-2026",
+          "title": "Hakmolen vs. Keukenmachine: Wanneer Is Een Kleine Hakker Genoeg? Vergelijking 2026",
+          "category": "keuken",
+          "rating": 4.4,
+          "verdict": "Hakmolen vs. Keukenmachine: Wanneer Is Een Kleine Hakker Genoeg? Vergelijking 2026",
+          "priceRange": "EUR 10-600",
+          "featuredProduct": "Bosch MSM 6M6200"
+        },
+        {
           "slug": "sapcentrifuge-vs-slowjuicer-2026",
           "title": "Sapcentrifuge vs. Slowjuicer 2026: Welke Past Bij Jouw Gezonde Levensstijl?",
           "category": "keuken",
@@ -148,6 +247,15 @@
           "featuredProduct": "Philips 3000 Series HR1921/20"
         },
         {
+          "slug": "magnetron-vs-combi-magnetron-2026",
+          "title": "Magnetron vs. Combi-Magnetron 2026: Is Een Combi de Meerprijs Waard?",
+          "category": "keuken",
+          "rating": 4.4,
+          "verdict": "De moderne keuken is een ware speeltuin van technologie, en de keuze voor het juiste apparaat kan soms overweldigend zijn. Een van de meest voorkomende dilemma's waar veel huishoud",
+          "priceRange": "EUR 15-400",
+          "featuredProduct": "Zie snel advies hieronder"
+        },
+        {
           "slug": "koelkast-vs-koelvriescombinatie-2026",
           "title": "Koelkast vs. Koelkast-Vriezer Combinatie: Welke Past Bij Jouw Keuken in 2026?",
           "category": "keuken",
@@ -155,6 +263,24 @@
           "verdict": "Koelkast vs. Koelkast-Vriezer Combinatie: Welke Past Bij Jouw Keuken in 2026?",
           "priceRange": "EUR 500-3500",
           "featuredProduct": "Samsung RF9000 Family Hub"
+        },
+        {
+          "slug": "ijsmachine-vs-diepvries-zelf-maken-2026",
+          "title": "IJsmachine vs. Zelf IJs Maken in de Diepvries: Wat Is Lekkerder én Makkelijker?",
+          "category": "keuken",
+          "rating": 4.5,
+          "verdict": "De keuze tussen een ijsmachine en zelf ijs maken in de diepvries hangt sterk af van je prioriteiten.",
+          "priceRange": "EUR 25-300",
+          "featuredProduct": "Cuisinart ICE30BCE ijsmachine"
+        },
+        {
+          "slug": "soepmaker-vs-staafmixer-2026",
+          "title": "Soepmaker vs. Staafmixer 2026: Wat Heb Je Echt Nodig Voor Perfecte Soep?",
+          "category": "keuken",
+          "rating": 4.4,
+          "verdict": "De geur van versgemaakte soep op een koude avond, een romige saus bij de pasta of een snelle smoothie voor onderweg; de moderne keuken biedt talloze mogelijkheden om heerlijke en g",
+          "priceRange": "EUR 15-400",
+          "featuredProduct": "Zie snel advies hieronder"
         },
         {
           "slug": "tosti-ijzer-vs-broodrooster-2026",
@@ -209,12 +335,39 @@
           "verdict": "Hier is een complete koopgids over inductie versus keramische kookplaten in 2026, geschreven vanuit het perspectief van een Nederlandse consumentenjournalist. onze inductiekookplaa",
           "priceRange": "EUR 40-1500",
           "featuredProduct": "Siemens EX875KVS1E Inductie"
+        },
+        {
+          "slug": "airfryer-vs-stoomoven-2026",
+          "title": "Airfryer vs. Stoomoven 2026: Welke Is Gezonder en Veelzijdiger?",
+          "category": "keuken",
+          "rating": 4.5,
+          "verdict": "De airfryer en stoomoven zijn geen concurrenten — ze vullen elkaar aan. De airfryer is de kampioen van snel, knapperig en betaalbaar: ideaal voor doordeweekse maaltijden, snacks en kleinere huishouden",
+          "priceRange": "EUR 70-500",
+          "featuredProduct": "Philips Airfryer XXL"
         }
       ]
     ],
     [
       "huishoudelijk",
       [
+        {
+          "slug": "strijkijzer-vs-handstomer-2026",
+          "title": "Strijkijzer vs. Handstomer 2026: Wat Is Beter Voor Kreukvrije Kleding?",
+          "category": "huishoudelijk",
+          "rating": 4.4,
+          "verdict": "In de wereld van kledingverzorging staan we regelmatig voor de keuze: hoe krijgen we onze kleding het snelst en meest effectief kreukvrij? Twee van de meest populaire tools voor de",
+          "priceRange": "EUR 15-400",
+          "featuredProduct": "Zie snel advies hieronder"
+        },
+        {
+          "slug": "ontvochtiger-vs-luchtbevochtiger-2026",
+          "title": "Ontvochtiger vs. Luchtbevochtiger 2026: Welke Heb Je Nodig voor een Gezond Binnenklimaat?",
+          "category": "huishoudelijk",
+          "rating": 4.5,
+          "verdict": "Kies een ontvochtiger als je last hebt van vochtproblemen: schimmel, condens op ramen, muffe geur in de kelder, of als je was binnenshuis droogt. Een ontvochtiger is een investering in je gezondheid é",
+          "priceRange": "EUR 40-400",
+          "featuredProduct": "Meaco Arete One 10L Ontvochtiger"
+        },
         {
           "slug": "airconditioner-vs-ventilator-2026",
           "title": "Airconditioner vs. Ventilator: Wat Heb Je Nodig Voor Verkoeling in 2026?",
@@ -232,6 +385,15 @@
           "verdict": "De stoomgenerator is de superieure strijkoplossing — sneller, makkelijker, betere resultaten. Maar dat betekent niet dat iedereen er een moet kopen. Als je een hekel hebt aan strijken en er zo min mog",
           "priceRange": "EUR 40-600",
           "featuredProduct": "Philips PerfectCare 7000 Series PSG7150/80"
+        },
+        {
+          "slug": "wasdroger-vs-droogrek-2026",
+          "title": "Wasdroger vs. Droogrek 2026: Wat Is Écht Goedkoper en Beter voor Je Was?",
+          "category": "huishoudelijk",
+          "rating": 4.5,
+          "verdict": "Wasmachines zijn een onmisbaar onderdeel van elke huishouding. Als je op zoek bent naar de beste wasdroger voor jouw situatie, kun je deze top-5 lijst gebruiken als basis. Onthoud dat de prijs en de s",
+          "priceRange": "EUR 15-1200",
+          "featuredProduct": "Miele T1 Warmtepompdroger"
         },
         {
           "slug": "mobiele-airco-vs-split-airco-2026",
@@ -286,6 +448,24 @@
           "verdict": "De was. Een eindeloze stroom die elk huishouden kent. En de grote vraag bij de aanschaf: kies je voor twee losse apparaten — een beste wasmachine en een aparte wasdroger — of ga je",
           "priceRange": "EUR 400-2000",
           "featuredProduct": "Miele WED665 WCS + TCF640 WP"
+        },
+        {
+          "slug": "elektrische-kachel-vs-infraroodpaneel-2026",
+          "title": "elektrische kachel versus infraroodpaneel — wat is de beste bijverwarming voor jouw huis?",
+          "category": "huishoudelijk",
+          "rating": 4.5,
+          "verdict": "De keuze tussen een elektrische kachel en een infraroodpaneel hangt sterk af van je specifieke behoeften en prioriteiten. Voor directe, snelle warmte en flexibiliteit in kleine ruimtes, of wanneer het",
+          "priceRange": "EUR 25-500+",
+          "featuredProduct": "Infraroodpaneel (lange termijn comfort) / Elektrische kachel (snel, budget)"
+        },
+        {
+          "slug": "waterontharder-vs-ontkalker-2026",
+          "title": "waterontharder versus ontkalker — wat is de beste oplossing tegen kalk in huis?",
+          "category": "huishoudelijk",
+          "rating": 4.5,
+          "verdict": "De keuze tussen een waterontharder en een ontkalker is geen kwestie van \"beter\" of \"slechter\", maar \"geschikter\" voor jouw specifieke situatie. Voor een duurzame, alomvattende oplossing die het hele h",
+          "priceRange": "EUR 5-3000+",
+          "featuredProduct": "Waterontharder (permanente oplossing) / Chemische Ontkalker (tijdelijke oplossing)"
         }
       ]
     ],
@@ -338,6 +518,15 @@
           "featuredProduct": "Kärcher SC 5 Stoomreiniger"
         },
         {
+          "slug": "tapijtreiniger-vs-stoomreiniger-2026",
+          "title": "tapijtreiniger versus stoomreiniger — welke reiniger maakt jouw vloeren en meubels écht schoon?",
+          "category": "schoonmaken",
+          "rating": 4.5,
+          "verdict": "Uiteindelijk is de keuze tussen een tapijtreiniger en een stoomreiniger een afweging tussen specialistische reiniging van textiel en brede desinfectie van diverse oppervlakken. Een tapijtreiniger is d",
+          "priceRange": "EUR 180-250",
+          "featuredProduct": "Bissell SpotClean Pro"
+        },
+        {
           "slug": "robotstofzuiger-vs-stofzuiger-2026",
           "title": "Robotstofzuiger vs. Gewone Stofzuiger 2026: Wat is slimmer voor jou?",
           "category": "schoonmaken",
@@ -354,12 +543,30 @@
           "verdict": "In 2026 is de keuze voor een nieuwe stofzuiger complexer dan ooit. Met de snelle technologische vooruitgang zijn de robotstofzuiger en de steelstofzuiger de meest populaire opties ",
           "priceRange": "EUR 150-1200",
           "featuredProduct": "Roborock Qrevo S / Dyson V15 Detect"
+        },
+        {
+          "slug": "stofzuiger-vs-kruimeldief-2026",
+          "title": "Stofzuiger vs. Kruimeldief 2026: Heb Je Beide Nodig Of Is Eén Genoeg?",
+          "category": "schoonmaken",
+          "rating": 4.4,
+          "verdict": "Stel je voor: je hebt net uitgebreid gekookt en er liggen overal kruimels op het aanrecht en de vloer. Of je komt thuis na een lange werkdag en ziet dat de kat weer haar haren heef",
+          "priceRange": "EUR 15-400",
+          "featuredProduct": "Zie snel advies hieronder"
         }
       ]
     ],
     [
       "tuin",
       [
+        {
+          "slug": "kettingzaag-vs-handzaag-2026",
+          "title": "kettingzaag versus handzaag — welk zaaggereedschap voor jouw klus?",
+          "category": "tuin",
+          "rating": 4.5,
+          "verdict": "De keuze tussen een kettingzaag en een handzaag hangt sterk af van de aard en frequentie van uw zaagklussen. Voor de Nederlandse tuinbezitter die regelmatig dikker hout moet verwerken, zoals het snoei",
+          "priceRange": "EUR 150-300",
+          "featuredProduct": "Elektrische kettingzaag (accu)"
+        },
         {
           "slug": "barbecue-vs-elektrische-grill-2026",
           "title": "Barbecue vs. Elektrische Grill 2026: Wat Past Bij Jouw Buitenleven?",
@@ -377,6 +584,15 @@
           "verdict": "Gasbarbecue vs. Houtskoolbarbecue 2026: De Grote Grillstrijd voor Jouw Perfecte Zomeravonden",
           "priceRange": "EUR 50-2000",
           "featuredProduct": "Weber Spirit II E-310 / Kamado Joe Classic"
+        },
+        {
+          "slug": "hogedrukreiniger-vs-tuinslang-2026",
+          "title": "Hogedrukreiniger vs. Tuinslang 2026: Wat Is de Beste Keuze voor Jouw Terras en Oprit?",
+          "category": "tuin",
+          "rating": 4.5,
+          "verdict": "Voor de meeste Nederlandse huishoudens is het antwoord: begin met een goede tuinslang, en koop een hogedrukreiniger zodra je merkt dat je tegen de limieten aanloopt. Een tuinslang van EUR 30-60 is alt",
+          "priceRange": "EUR 15-500",
+          "featuredProduct": "Kärcher K5 Premium"
         },
         {
           "slug": "elektrische-grasmaaier-vs-benzine-grasmaaier-2026",
@@ -404,9 +620,18 @@
           "verdict": "Cirkelzaag vs. Decoupeerzaag: Welke Zaag Voor Welke Klus in 2026?",
           "priceRange": "EUR 40-400",
           "featuredProduct": "Bosch Professional GKS 18V-57 G"
+        },
+        {
+          "slug": "heggenschaar-vs-bosmaaier-2026",
+          "title": "heggenschaar versus bosmaaier — welk tuingereedschap heb je nodig voor jouw tuin?",
+          "category": "tuin",
+          "rating": 4.5,
+          "verdict": "De keuze tussen een heggenschaar en een bosmaaier is geen 'of-of'-verhaal, maar eerder een kwestie van 'wat heb ik nodig?'. Voor de precieze, vormgevende taken in uw tuin is een heggenschaar onmisbaar",
+          "priceRange": "EUR 40 - 400",
+          "featuredProduct": "Heggenschaar (kleine tuin) / Bosmaaier (groot terrein)"
         }
       ]
     ]
   ],
-  "total": 43
+  "total": 68
 }
