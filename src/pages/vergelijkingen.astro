@@ -58,8 +58,8 @@ const categoryKeys = Object.keys(categoryMeta).filter(k => byCategory[k] && byCa
 ---
 
 <BaseLayout
-  title="Apparaten Vergelijken 2026: Alle 51 Vergelijkingen op een Rij | Beste Apparaten"
-  description="Twijfel je tussen twee apparaten? Vergelijk airfryer vs friteuse, inductie vs gas, robotstofzuiger vs stofzuiger en 48 andere directe vergelijkingen. Filter op categorie, vind de beste keuze."
+  title={`Apparaten Vergelijken 2026: Alle ${vsArticles.length} Vergelijkingen op een Rij | Beste Apparaten`}
+  description={`Twijfel je tussen twee apparaten? Vergelijk airfryer vs friteuse, inductie vs gas, robotstofzuiger vs stofzuiger en ${vsArticles.length - 3} andere directe vergelijkingen. Filter op categorie, vind de beste keuze.`}
   canonicalUrl="https://rigbay.github.io/dutch-appliances/vergelijkingen/"
   structuredData={structuredData}
 >
