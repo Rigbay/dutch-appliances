@@ -19,10 +19,10 @@ modelYear: 2026
 featuredProduct: ''
 readingTime: 7 min
 products:
-- name: Nadelen
-  verdict: Aanrader in keuken categorie
+- name: Panasonic SD-YR2550 Broodmachine
+  verdict: Veelzijdige broodmachine met automatische dispenser
   priceRange: €50-300
-  bestFor: Beste keuze keuken
+  bestFor: Dagelijks vers brood zonder handwerk
   rating: 4.0
   affiliateLink: https://www.amazon.nl/s?k=Panasonic+SD-YR2550+broodmachine&tag=kieskeukennl-21
 related:
