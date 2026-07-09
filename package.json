@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build && node scripts/fix-github-pages-base.cjs",
+    "build": "astro build",
     "postbuild": "node scripts/submit-indexnow.cjs",
     "preview": "astro preview",
     "astro": "astro"

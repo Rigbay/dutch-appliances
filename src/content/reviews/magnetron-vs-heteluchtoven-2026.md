@@ -157,10 +157,10 @@ Ten slotte is het belangrijk om de specificaties goed te bekijken voordat je koo
 
 ## Gerelateerde koopgidsen
 
-- [Bekijk Beste stoomoven 2026: gezond koken met stoom](/dutch-appliances/beste-stoomoven-2026/)
-- [Bekijk Beste afzuigkap 2026: Schone keukenlucht voor elk huishouden](/dutch-appliances/beste-afzuigkap-2026/)
-- [Bekijk Koffiemachine vs. Volautomatische Koffiemachine 2026: Welke Past Bij Jouw Koffieroutine?](/dutch-appliances/koffiemachine-vs-volautomatische-koffiemachine-2026/)
-- [Bekijk Beste gasfornuis 2026: koken op gas voor de liefhebber](/dutch-appliances/beste-gasfornuis-2026/)
+- [Bekijk Beste stoomoven 2026: gezond koken met stoom](/beste-stoomoven-2026/)
+- [Bekijk Beste afzuigkap 2026: Schone keukenlucht voor elk huishouden](/beste-afzuigkap-2026/)
+- [Bekijk Koffiemachine vs. Volautomatische Koffiemachine 2026: Welke Past Bij Jouw Koffieroutine?](/koffiemachine-vs-volautomatische-koffiemachine-2026/)
+- [Bekijk Beste gasfornuis 2026: koken op gas voor de liefhebber](/beste-gasfornuis-2026/)
 
 *Deze links verwijzen naar gerelateerde koopgidsen op onze site.*
 

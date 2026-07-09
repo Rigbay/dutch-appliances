@@ -43,7 +43,7 @@ const itemListSchema = {
     item: {
       '@type': 'Product',
       name: r.data.title,
-      url: `https://rigbay.github.io/dutch-appliances/${r.data.slug}/`,
+      url: `https://kieskeuken.nl/${r.data.slug}/`,
     },
   })),
 };
@@ -91,7 +91,7 @@ const faqSchema = {
 <BaseLayout
   title="Beste Keukenapparaten per Prijsklasse 2026: Budget, Middenklasse & Premium"
   description={`Vergelijk ${keukenGuides.length} keukenapparaten per prijsklasse: ${budget.length} budget (onder €100), ${midden.length} middenklasse (€100-300) en ${premium.length} premium (boven €300). Vind de beste airfryer, koffiemachine, blender en meer in jouw budget.`}
-  canonicalUrl="https://rigbay.github.io/dutch-appliances/prijsklassen/"
+  canonicalUrl="https://kieskeuken.nl/prijsklassen/"
   structuredData={[itemListSchema, faqSchema]}
 >
   <!-- HERO -->

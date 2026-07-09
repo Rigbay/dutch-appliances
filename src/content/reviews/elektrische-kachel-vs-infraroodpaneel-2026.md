@@ -169,7 +169,7 @@ Echter, voor een meer duurzame, efficiënte en comfortabele bijverwarming die de
 
 ## Gerelateerde koopgidsen
 
-- [Bekijk waterontharder versus ontkalker — wat is de beste oplossing tegen kalk in huis?](/dutch-appliances/waterontharder-vs-ontkalker-2026/)
+- [Bekijk waterontharder versus ontkalker — wat is de beste oplossing tegen kalk in huis?](/waterontharder-vs-ontkalker-2026/)
 
 *Deze links verwijzen naar gerelateerde koopgidsen op onze site.*
 

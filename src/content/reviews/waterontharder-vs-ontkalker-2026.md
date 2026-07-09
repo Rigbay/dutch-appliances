@@ -154,7 +154,7 @@ Wie echter huurt, een beperkt budget heeft, of slechts specifieke problemen wil 
 
 ## Gerelateerde koopgidsen
 
-- [Bekijk elektrische kachel versus infraroodpaneel — wat is de beste bijverwarming voor jouw huis?](/dutch-appliances/elektrische-kachel-vs-infraroodpaneel-2026/)
+- [Bekijk elektrische kachel versus infraroodpaneel — wat is de beste bijverwarming voor jouw huis?](/elektrische-kachel-vs-infraroodpaneel-2026/)
 
 *Deze links verwijzen naar gerelateerde koopgidsen op onze site.*
 

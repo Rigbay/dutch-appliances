@@ -21,7 +21,7 @@ const {
   sameCategoryGuides = []
 } = Astro.props;
 const data = review.data;
-const site = Astro.site ?? new URL('https://rigbay.github.io/dutch-appliances');
+const site = Astro.site ?? new URL('https://kieskeuken.nl');
 const canonical = new URL(`/${data.slug}/`, site).toString();
 const categoryLabel = {
   huishoudelijk: 'Huishoudelijk',

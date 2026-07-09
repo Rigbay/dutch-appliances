@@ -144,7 +144,7 @@ const itemListSchema = {
     position: index + 1,
     name: row.appliance,
     description: `${row.kwhPerYear} kWh per jaar, ongeveer ${formatEuro(row.costPerYear)} bij €${electricityPrice.toFixed(2)} per kWh`,
-    url: `https://rigbay.github.io/dutch-appliances/${row.article.data.slug}/`
+    url: `https://kieskeuken.nl/${row.article.data.slug}/`
   }))
 };
 
@@ -183,7 +183,7 @@ const faqSchema = {
 <BaseLayout
   title="Stroomkosten Apparaten 2026: Verbruik per Jaar Vergelijken | Beste Apparaten"
   description="Welke apparaten verbruiken de meeste stroom? Vergelijk geschatte jaarlijkse kosten van airfryer, droger, koelkast, vaatwasser, airco, inductie en meer."
-  canonicalUrl="https://rigbay.github.io/dutch-appliances/stroomkosten-apparaten/"
+  canonicalUrl="https://kieskeuken.nl/stroomkosten-apparaten/"
   structuredData={[itemListSchema, faqSchema]}
 >
   <section class="border-b border-[#e8e1d7] bg-linen">

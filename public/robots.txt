@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://rigbay.github.io/dutch-appliances/sitemap-index.xml
+Sitemap: https://kieskeuken.nl/sitemap-index.xml

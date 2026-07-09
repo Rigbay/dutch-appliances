@@ -19,7 +19,7 @@ const {
   structuredData
 } = Astro.props;
 
-const site = Astro.site ?? new URL('https://rigbay.github.io/dutch-appliances');
+const site = Astro.site ?? new URL('https://kieskeuken.nl');
 const canonical = canonicalUrl ?? new URL(Astro.url.pathname, site).toString();
 const ogImage = new URL('/og-default.svg', site).toString();
 

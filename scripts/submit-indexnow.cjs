@@ -8,7 +8,7 @@
  * and submits them in batches to the IndexNow protocol endpoints.
  * 
  * IndexNow key: 107f03c08e12ebfc07a124ba28b5dd6f
- * Site: https://rigbay.github.io/dutch-appliances
+ * Site: https://kieskeuken.nl
  */
 
 const https = require('https');
@@ -16,7 +16,7 @@ const fs = require('fs');
 const path = require('path');
 
 const KEY = '107f03c08e12ebfc07a124ba28b5dd6f';
-const BASE = 'https://rigbay.github.io/dutch-appliances';
+const BASE = 'https://kieskeuken.nl';
 const SITEMAP_PATH = path.join(__dirname, '..', 'dist', 'sitemap-0.xml');
 
 // IndexNow endpoints

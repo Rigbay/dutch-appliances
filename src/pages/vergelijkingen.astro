@@ -47,7 +47,7 @@ const itemListSchema = {
   itemListElement: vsArticles.map((a, i) => ({
     '@type': 'ListItem',
     position: i + 1,
-    url: `https://rigbay.github.io/dutch-appliances/${a.data.slug}/`,
+    url: `https://kieskeuken.nl/${a.data.slug}/`,
     name: a.data.title,
   })),
 };
@@ -60,7 +60,7 @@ const categoryKeys = Object.keys(categoryMeta).filter(k => byCategory[k] && byCa
 <BaseLayout
   title={`Apparaten Vergelijken 2026: Alle ${vsArticles.length} Vergelijkingen op een Rij | Beste Apparaten`}
   description={`Twijfel je tussen twee apparaten? Vergelijk airfryer vs friteuse, inductie vs gas, robotstofzuiger vs stofzuiger en ${vsArticles.length - 3} andere directe vergelijkingen. Filter op categorie, vind de beste keuze.`}
-  canonicalUrl="https://rigbay.github.io/dutch-appliances/vergelijkingen/"
+  canonicalUrl="https://kieskeuken.nl/vergelijkingen/"
   structuredData={structuredData}
 >
   <!-- Hero -->

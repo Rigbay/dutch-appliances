@@ -3,8 +3,7 @@ import sitemap from '@astrojs/sitemap';
 import tailwind from '@astrojs/tailwind';
 
 export default defineConfig({
-  site: 'https://rigbay.github.io',
-  base: '/dutch-appliances',
+  site: 'https://kieskeuken.nl',
   integrations: [
     sitemap({
       changefreq: 'weekly',

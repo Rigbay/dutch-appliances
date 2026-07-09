@@ -193,10 +193,10 @@ van prestaties.
 
 ## Gerelateerde koopgidsen
 
-- [Bekijk Beste rijstkoker 2026: 7 modellen voor perfecte rijst elke keer](/dutch-appliances/beste-rijstkoker-2026/)
-- [Bekijk Beste magnetron 2026: solo, grill en combi vergeleken](/dutch-appliances/beste-magnetron-2026/)
-- [Bekijk Sapcentrifuge vs. Slowjuicer 2026: Welke Past Bij Jouw Gezonde Levensstijl?](/dutch-appliances/sapcentrifuge-vs-slowjuicer-2026/)
-- [Bekijk De Beste Airfryers Onder €100 in 2026: Lekker en Betaalbaar Bakken!](/dutch-appliances/beste-airfryer-onder-100-euro-2026/)
+- [Bekijk Beste rijstkoker 2026: 7 modellen voor perfecte rijst elke keer](/beste-rijstkoker-2026/)
+- [Bekijk Beste magnetron 2026: solo, grill en combi vergeleken](/beste-magnetron-2026/)
+- [Bekijk Sapcentrifuge vs. Slowjuicer 2026: Welke Past Bij Jouw Gezonde Levensstijl?](/sapcentrifuge-vs-slowjuicer-2026/)
+- [Bekijk De Beste Airfryers Onder €100 in 2026: Lekker en Betaalbaar Bakken!](/beste-airfryer-onder-100-euro-2026/)
 
 *Deze links verwijzen naar gerelateerde koopgidsen op onze site.*
 

@@ -85,10 +85,10 @@ faq:
 
 ## Gerelateerde koopgidsen
 
-- [Bekijk Beste airfryer 2026: welke heteluchtfriteuse past bij jouw keuken?](/dutch-appliances/beste-airfryer-2026/)
-- [Bekijk Beste Gourmetstellen en Raclette Apparaten 2026: Gezellige Avonden Zonder](/dutch-appliances/beste-gourmetstel-2026/)
-- [Bekijk Airfryer vs. Elektrische Grill 2026: Welke Is de Beste Allrounder voor Snel en Gezond Koken?](/dutch-appliances/airfryer-vs-elektrische-grill-2026/)
-- [Bekijk Beste vleesmolen 2026: 5 vleesmolens voor thuisgebruik](/dutch-appliances/beste-vleesmolen-2026/)
+- [Bekijk Beste airfryer 2026: welke heteluchtfriteuse past bij jouw keuken?](/beste-airfryer-2026/)
+- [Bekijk Beste Gourmetstellen en Raclette Apparaten 2026: Gezellige Avonden Zonder](/beste-gourmetstel-2026/)
+- [Bekijk Airfryer vs. Elektrische Grill 2026: Welke Is de Beste Allrounder voor Snel en Gezond Koken?](/airfryer-vs-elektrische-grill-2026/)
+- [Bekijk Beste vleesmolen 2026: 5 vleesmolens voor thuisgebruik](/beste-vleesmolen-2026/)
 
 *Deze links verwijzen naar gerelateerde koopgidsen op onze site.*
 

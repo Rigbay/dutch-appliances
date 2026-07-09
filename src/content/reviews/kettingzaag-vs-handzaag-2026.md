@@ -168,7 +168,7 @@ Voor de incidentele klusser, de tuinier met een klein budget, of in situaties wa
 
 ## Gerelateerde koopgidsen
 
-- [Bekijk heggenschaar versus bosmaaier — welk tuingereedschap heb je nodig voor jouw tuin?](/dutch-appliances/heggenschaar-vs-bosmaaier-2026/)
+- [Bekijk heggenschaar versus bosmaaier — welk tuingereedschap heb je nodig voor jouw tuin?](/heggenschaar-vs-bosmaaier-2026/)
 
 *Deze links verwijzen naar gerelateerde koopgidsen op onze site.*
 

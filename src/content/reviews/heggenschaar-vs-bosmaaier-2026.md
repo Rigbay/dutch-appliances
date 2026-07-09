@@ -165,7 +165,7 @@ Als u een kleine, nette tuin heeft met voornamelijk hagen, volstaat een heggensc
 
 ## Gerelateerde koopgidsen
 
-- [Bekijk kettingzaag versus handzaag — welk zaaggereedschap voor jouw klus?](/dutch-appliances/kettingzaag-vs-handzaag-2026/)
+- [Bekijk kettingzaag versus handzaag — welk zaaggereedschap voor jouw klus?](/kettingzaag-vs-handzaag-2026/)
 
 *Deze links verwijzen naar gerelateerde koopgidsen op onze site.*
 
