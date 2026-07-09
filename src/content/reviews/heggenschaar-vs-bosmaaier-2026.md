@@ -27,48 +27,36 @@ modelYear: 2026
 featuredProduct: "Heggenschaar (kleine tuin) / Bosmaaier (groot terrein)"
 readingTime: "8 min"
 products:
-  - name: "Gardena EasyCut 500/45 Accu Heggenschaar"
-    verdict: "Ideaal voor het lichte snoeiwerk in kleinere tuinen dankzij zijn wendbaarheid en gebruiksgemak."
-    priceRange: "EUR 70 - 120"
-    bestFor: "Kleine ruimtes / Lichte snoeiwerkzaamheden"
-    rating: 4.0
-    affiliateLink: "https://www.amazon.nl/s?k=Gardena+EasyCut+500/45+Accu+Heggenschaar&tag=kieskeukennl-21"
-  - name: "Bosch UniversalHedgeCut 18V-50 Accu Heggenschaar"
-    verdict: "Een krachtige en comfortabele accu heggenschaar, geschikt voor gezinnen en middelgrote tuinen."
-    priceRange: "EUR 130 - 200"
-    bestFor: "Gezinnen / Middelgrote tuinen"
-    rating: 4.2
-    affiliateLink: "https://www.amazon.nl/s?k=Bosch+UniversalHedgeCut+18V-50+Accu+Heggenschaar&tag=kieskeukennl-21"
-  - name: "Stihl FSA 57 Accu Bosmaaier"
-    verdict: "Een lichte en stille accu bosmaaier, perfect voor gezinnen die veilig en efficiënt willen maaien."
-    priceRange: "EUR 250 - 350"
-    bestFor: "Gezinnen / Veilig en stil maaien"
-    rating: 4.3
-    affiliateLink: "https://www.amazon.nl/s?k=Stihl+FSA+57+Accu+Bosmaaier&tag=kieskeukennl-21"
-  - name: "Black+Decker GT250 Snoer Heggenschaar"
-    verdict: "Een betaalbare en effectieve snoer heggenschaar voor basis tuinonderhoud."
-    priceRange: "EUR 40 - 70"
-    bestFor: "Budget / Kleine tuinen"
-    rating: 3.8
-    affiliateLink: "https://www.amazon.nl/s?k=Black+Decker+GT250+Snoer+Heggenschaar&tag=kieskeukennl-21"
-  - name: "Einhell GC-ET 4530 Snoer Bosmaaier"
-    verdict: "Een budgetvriendelijke snoer bosmaaier voor lichte maaiproblemen."
-    priceRange: "EUR 30 - 60"
-    bestFor: "Budget / Lichte maaiproblemen"
-    rating: 3.7
-    affiliateLink: "https://www.amazon.nl/s?k=Einhell+GC-ET+4530+Snoer+Bosmaaier&tag=kieskeukennl-21"
-  - name: "Makita DUH523Z Accu Heggenschaar"
-    verdict: "Professionele kwaliteit voor de veeleisende gebruiker, biedt gemak en kracht."
-    priceRange: "EUR 90 - 150"
-    bestFor: "Gemak / Professioneel gebruik (excl. accu)"
-    rating: 4.5
-    affiliateLink: "https://www.amazon.nl/s?k=Makita+DUH523Z+Accu+Heggenschaar&tag=kieskeukennl-21"
-  - name: "Husqvarna 115iL Accu Bosmaaier"
-    verdict: "Krachtige en gebruiksvriendelijke accu bosmaaier voor een moeiteloze maaiervaring."
-    priceRange: "EUR 300 - 400"
-    bestFor: "Gemak / Grote oppervlakken"
-    rating: 4.4
-    affiliateLink: "https://www.amazon.nl/s?k=Husqvarna+115iL+Accu+Bosmaaier&tag=kieskeukennl-21"
+- name: 'Product A Budget Model'
+  verdict: Betaalbare keuze met goede prijs-kwaliteitverhouding
+  priceRange: EUR 40-400
+  bestFor: Prijsbewuste kopers
+  rating: 4.0
+  affiliateLink: https://www.amazon.nl/s?k=Product+A&tag=kieskeukennl-21
+- name: 'Product A Middenklasse'
+  verdict: Beste prijs-kwaliteit met uitgebreide functies
+  priceRange: EUR 40-400
+  bestFor: Dagelijks gebruik
+  rating: 4.3
+  affiliateLink: https://www.amazon.nl/s?k=Product+A&tag=kieskeukennl-21
+- name: 'Product A Premium'
+  verdict: Topmodel met de beste prestaties en duurzaamheid
+  priceRange: EUR 40-400
+  bestFor: Veeleisende gebruikers
+  rating: 4.6
+  affiliateLink: https://www.amazon.nl/s?k=Product+A&tag=kieskeukennl-21
+- name: 'Product B Budget Model'
+  verdict: Voordelige instapkeuze
+  priceRange: EUR 40-400
+  bestFor: Beginners
+  rating: 3.8
+  affiliateLink: https://www.amazon.nl/s?k=Product+B&tag=kieskeukennl-21
+- name: 'Product B Premium'
+  verdict: Uitstekende prestaties voor de beste resultaten
+  priceRange: EUR 40-400
+  bestFor: Kwaliteitsbewuste kopers
+  rating: 4.4
+  affiliateLink: https://www.amazon.nl/s?k=Product+B&tag=kieskeukennl-21
 related:
   - "beste-heggenschaar-2026"
   - "beste-bosmaaier-2026"

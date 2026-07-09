@@ -1,0 +1,295 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const allReviews = await getCollection('reviews', ({ data }) => !data.draft);
+
+// Filter to keuken category, non-vs articles (the "beste X" guides)
+const keukenGuides = allReviews
+  .filter(r => r.data.category === 'keuken' && !r.data.slug.includes('-vs-') && r.data.rating >= 3.5)
+  .sort((a, b) => b.data.rating - a.data.rating);
+
+// Parse price range
+const parsePrice = (pr: string) => {
+  const match = pr.match(/(\d+)\s*[-–]\s*(\d+)/);
+  if (!match) return { low: 0, high: 0 };
+  return { low: parseInt(match[1]), high: parseInt(match[2]) };
+};
+
+// Group by price tier
+const budget = keukenGuides.filter(r => parsePrice(r.data.priceRange).low <= 100);
+const midden = keukenGuides.filter(r => {
+  const p = parsePrice(r.data.priceRange);
+  return p.low > 100 && p.low <= 300;
+});
+const premium = keukenGuides.filter(r => parsePrice(r.data.priceRange).low > 300);
+
+const tiers = [
+  { id: 'budget', label: 'Budget', emoji: '🪙', range: 'Onder €100', desc: 'De beste keukenapparaten voor een scherpe prijs. Perfect voor studenten, starters en prijsbewuste kopers.', articles: budget },
+  { id: 'midden', label: 'Middenklasse', emoji: '🏆', range: '€100 – €300', desc: 'De sweet spot: betrouwbare merken, energiezuinige motoren en de beste prijs-kwaliteitverhouding.', articles: midden },
+  { id: 'premium', label: 'Premium', emoji: '👑', range: 'Boven €300', desc: 'Topkwaliteit voor wie het beste wil. Langere garantie, betere materialen en geavanceerde functies.', articles: premium },
+];
+
+// Structured data: ItemList
+const itemListSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'ItemList',
+  name: 'Beste Keukenapparaten per Prijsklasse 2026',
+  description: 'Alle 59 keukenapparaat koopgidsen ingedeeld op budget: onder €100, middenklasse €100-300, en premium boven €300. Met Amazon NL affiliate links (kieskeukennl-21).',
+  numberOfItems: keukenGuides.length,
+  itemListElement: keukenGuides.slice(0, 30).map((r, idx) => ({
+    '@type': 'ListItem',
+    position: idx + 1,
+    item: {
+      '@type': 'Product',
+      name: r.data.title,
+      url: `https://rigbay.github.io/dutch-appliances/${r.data.slug}/`,
+    },
+  })),
+};
+
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: [
+    {
+      '@type': 'Question',
+      name: 'Wat is het beste keukenapparaat onder €100?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'De beste keukenapparaten onder €100 zijn de Philips Airfryer Essential, Braun MultiQuick staafmixer, SodaStream Terra bruiswaterapparaat, en de Tefal Easy Fry airfryer. Deze apparaten scoren hoog op prijs-kwaliteit en zijn ideaal voor dagelijks gebruik. Bekijk onze complete budgetgids voor alle 44 opties.',
+      },
+    },
+    {
+      '@type': 'Question',
+      name: 'Wat is de beste prijsklasse voor keukenapparaten?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'De middenklasse (€100-300) is de sweet spot voor de meeste keukenapparaten. Je krijgt betrouwbare merken zoals Bosch, Philips en KitchenAid, energiezuinige motoren, en vaak 2-5 jaar garantie — zonder de premium prijs van Miele of Gaggenau. Voor apparaten die je dagelijks gebruikt (koffiemachine, airfryer, keukenmachine) is middenklasse de beste investering.',
+      },
+    },
+    {
+      '@type': 'Question',
+      name: 'Zijn dure keukenapparaten de meerprijs waard?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'Bij koelkasten, vaatwassers en inductiekookplaten is premium vaak de moeite waard — deze gaan 10-15 jaar mee en energiezuinigheid telt zwaar. Bij kleine apparaten zoals waterkokers en broodroosters is het verschil kleiner. Lees per apparaat onze specifieke koopgids voor de beste keuze in jouw prijsklasse.',
+      },
+    },
+    {
+      '@type': 'Question',
+      name: 'Hoe kies ik het juiste budget voor mijn keukenapparaat?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'Bepaal eerst hoe vaak je het apparaat gebruikt. Dagelijks gebruik (koffiemachine, airfryer) → middenklasse of premium. Af en toe (gourmetstel, ijsmachine) → budget is prima. Kijk ook naar energiekosten: een zuinige koelkast van €600 verdient zichzelf terug ten opzichte van een budgetmodel van €300. Gebruik onze prijsklassen-pagina om per apparaat de beste keuze te vinden.',
+      },
+    },
+  ],
+};
+---
+
+<BaseLayout
+  title="Beste Keukenapparaten per Prijsklasse 2026: Budget, Middenklasse & Premium"
+  description={`Vergelijk ${keukenGuides.length} keukenapparaten per prijsklasse: ${budget.length} budget (onder €100), ${midden.length} middenklasse (€100-300) en ${premium.length} premium (boven €300). Vind de beste airfryer, koffiemachine, blender en meer in jouw budget.`}
+  canonicalUrl="https://rigbay.github.io/dutch-appliances/prijsklassen/"
+  structuredData={[itemListSchema, faqSchema]}
+>
+  <!-- HERO -->
+  <section class="border-b border-[#e8e1d7] bg-linen">
+    <div class="mx-auto max-w-6xl px-4 py-12 sm:px-6 lg:px-8">
+      <p class="text-sm font-bold uppercase tracking-[0.16em] text-leaf">Koopgids per budget</p>
+      <h1 class="mt-3 font-serif text-4xl font-semibold leading-tight text-ink sm:text-5xl">
+        Beste Keukenapparaten per Prijsklasse 2026
+      </h1>
+      <p class="mt-4 max-w-3xl text-lg leading-8 text-muted">
+        Niet elk budget is hetzelfde. Daarom hebben we onze {keukenGuides.length} keukenapparaat-koopgidsen ingedeeld in drie prijsklassen: budget (onder €100), middenklasse (€100-300) en premium (boven €300). Zo vind je direct het beste apparaat binnen jouw budget — met eerlijke minpunten, productspecificaties en Amazon NL prijzen.
+      </p>
+
+      <!-- Quick stats -->
+      <div class="mt-8 grid grid-cols-3 gap-4">
+        <a href="#budget" class="rounded bg-white border border-[#e6ded2] p-5 text-center shadow-sm hover:-translate-y-0.5 hover:shadow-soft transition">
+          <span class="text-3xl">🪙</span>
+          <p class="mt-2 font-bold text-2xl text-leaf">{budget.length}</p>
+          <p class="text-sm text-muted">Budget onder €100</p>
+        </a>
+        <a href="#midden" class="rounded bg-white border border-[#e6ded2] p-5 text-center shadow-sm hover:-translate-y-0.5 hover:shadow-soft transition">
+          <span class="text-3xl">🏆</span>
+          <p class="mt-2 font-bold text-2xl text-leaf">{midden.length}</p>
+          <p class="text-sm text-muted">Middenklasse €100–300</p>
+        </a>
+        <a href="#premium" class="rounded bg-white border border-[#e6ded2] p-5 text-center shadow-sm hover:-translate-y-0.5 hover:shadow-soft transition">
+          <span class="text-3xl">👑</span>
+          <p class="mt-2 font-bold text-2xl text-leaf">{premium.length}</p>
+          <p class="text-sm text-muted">Premium boven €300</p>
+        </a>
+      </div>
+
+      <!-- Quick nav -->
+      <nav class="mt-6 flex flex-wrap gap-2">
+        <a href="#budget" class="rounded border border-[#dfe8e5] px-4 py-2 text-sm font-semibold text-leaf hover:bg-[#edf4f2] transition">🪙 Budget ({budget.length})</a>
+        <a href="#midden" class="rounded border border-[#dfe8e5] px-4 py-2 text-sm font-semibold text-leaf hover:bg-[#edf4f2] transition">🏆 Middenklasse ({midden.length})</a>
+        <a href="#premium" class="rounded border border-[#dfe8e5] px-4 py-2 text-sm font-semibold text-leaf hover:bg-[#edf4f2] transition">👑 Premium ({premium.length})</a>
+        <a href="#tips" class="rounded border border-[#dfe8e5] px-4 py-2 text-sm font-semibold text-leaf hover:bg-[#edf4f2] transition">💡 Kooptips</a>
+        <a href="#faq" class="rounded border border-[#dfe8e5] px-4 py-2 text-sm font-semibold text-leaf hover:bg-[#edf4f2] transition">❓ FAQ</a>
+      </nav>
+    </div>
+  </section>
+
+  <!-- PER-TIER SECTIONS -->
+  {tiers.map(tier => (
+    <section id={tier.id} class="mx-auto max-w-6xl px-4 py-10 sm:px-6 lg:px-8 border-t border-[#e8e1d7]">
+      <div class="mb-6">
+        <p class="text-sm font-bold uppercase tracking-[0.16em] text-leaf">{tier.emoji} {tier.label}</p>
+        <h2 class="mt-2 font-serif text-3xl font-semibold text-ink">
+          {tier.label} Keukenapparaten — {tier.range} ({tier.articles.length} koopgidsen)
+        </h2>
+        <p class="mt-2 text-muted max-w-3xl">{tier.desc}</p>
+      </div>
+
+      <!-- Table -->
+      <div class="overflow-x-auto rounded border border-[#e8e1d7]">
+        <table class="min-w-full text-sm">
+          <thead>
+            <tr class="bg-[#f8f5f0] text-left">
+              <th class="p-3 font-semibold w-8">#</th>
+              <th class="p-3 font-semibold">Koopgids</th>
+              <th class="p-3 font-semibold hidden sm:table-cell">Top Model</th>
+              <th class="p-3 font-semibold">Rating</th>
+              <th class="p-3 font-semibold">Prijs</th>
+              <th class="p-3 font-semibold hidden md:table-cell">Leestijd</th>
+              <th class="p-3 font-semibold">Bekijk</th>
+            </tr>
+          </thead>
+          <tbody>
+            {tier.articles.map((article, idx) => {
+              const d = article.data;
+              const topProduct = d.products?.[0]?.name || d.featuredProduct || '—';
+              return (
+                <tr class={idx % 2 === 0 ? 'bg-white' : 'bg-[#faf8f3]'}>
+                  <td class="p-3 text-muted text-xs font-mono">{idx + 1}</td>
+                  <td class="p-3 font-medium max-w-xs">
+                    <a href={`/${d.slug}/`} class="text-ink hover:text-leaf transition leading-snug block">
+                      {d.title}
+                    </a>
+                    {d.description && (
+                      <p class="text-xs text-muted mt-0.5 line-clamp-1 hidden sm:block">{d.description}</p>
+                    )}
+                  </td>
+                  <td class="p-3 text-muted text-sm hidden sm:table-cell">{topProduct}</td>
+                  <td class="p-3">
+                    <span class="inline-flex items-center gap-1 font-bold">
+                      <span class="text-amber-500">★</span> {d.rating.toFixed(1)}
+                    </span>
+                  </td>
+                  <td class="p-3 text-muted">{d.priceRange}</td>
+                  <td class="p-3 text-muted hidden md:table-cell">{d.readingTime}</td>
+                  <td class="p-3">
+                    <a href={`/${d.slug}/`} class="inline-block rounded bg-leaf px-3 py-1.5 text-xs font-bold text-white hover:bg-[#1f514b] transition whitespace-nowrap">
+                      Bekijk gids →
+                    </a>
+                  </td>
+                </tr>
+              );
+            })}
+          </tbody>
+        </table>
+      </div>
+
+      <p class="mt-3 text-xs text-muted">
+        {tier.articles.length} koopgidsen in {tier.label.toLowerCase()} — alle Amazon NL links met tag kieskeukennl-21.
+      </p>
+    </section>
+  ))}
+
+  <!-- KOOPTIPS -->
+  <section id="tips" class="mx-auto max-w-6xl px-4 py-10 sm:px-6 lg:px-8 border-t border-[#e8e1d7]">
+    <h2 class="font-serif text-3xl font-semibold text-ink mb-6">💡 Hoe kies je de juiste prijsklasse?</h2>
+    <div class="grid gap-5 md:grid-cols-3 max-w-5xl">
+      <div class="rounded border border-[#e8e1d7] bg-paper p-5">
+        <h3 class="font-semibold text-ink text-lg">🪙 Budget (onder €100)</h3>
+        <p class="mt-2 text-sm text-muted leading-relaxed">
+          <strong>Beste voor:</strong> studenten, starters, vakantiehuisjes, en apparaten die je weinig gebruikt. De kwaliteit is verrassend goed — een airfryer van €60 bakt net zo knapperig als een van €200. Het verschil zit in bouwkwaliteit, geluidsniveau en extra functies.
+        </p>
+        <p class="mt-2 text-sm text-muted">
+          <strong>Let op:</strong> kortere garantie (meestal 2 jaar), plastic onderdelen in plaats van metaal, en minder energiezuinig. Voor dagelijks intensief gebruik is middenklasse vaak een betere investering.
+        </p>
+      </div>
+      <div class="rounded border border-[#e8e1d7] bg-paper p-5">
+        <h3 class="font-semibold text-ink text-lg">🏆 Middenklasse (€100–300)</h3>
+        <p class="mt-2 text-sm text-muted leading-relaxed">
+          <strong>Beste voor:</strong> gezinnen, dagelijks gebruik, en kopers die betrouwbaarheid belangrijker vinden dan de laagste prijs. Dit is de sweet spot — je krijgt merken als Bosch, Philips, KitchenAid en De'Longhi met 2-5 jaar garantie.
+        </p>
+        <p class="mt-2 text-sm text-muted">
+          <strong>Voordelen:</strong> betere motoren (stiller, energiezuiniger), RVS-onderdelen, uitgebreidere functies, en vaak modulair repareerbaar. De meerprijs ten opzichte van budget verdien je terug in levensduur.
+        </p>
+      </div>
+      <div class="rounded border border-[#e8e1d7] bg-paper p-5">
+        <h3 class="font-semibold text-ink text-lg">👑 Premium (boven €300)</h3>
+        <p class="mt-2 text-sm text-muted leading-relaxed">
+          <strong>Beste voor:</strong> liefhebbers, professioneel thuisgebruik, en apparaten die 10+ jaar meegaan. Merken als Miele, Gaggenau, Jura en Liebherr vallen in deze categorie.
+        </p>
+        <p class="mt-2 text-sm text-muted">
+          <strong>Wanneer de moeite waard:</strong> koelkasten en vaatwassers (energiekosten tellen over 15 jaar flink door), inductiekookplaten (veiligheid en snelheid), en volautomatische koffiemachines (smaakverschil is merkbaar). Voor kleine apparaten is premium zelden nodig.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQ -->
+  <section id="faq" class="mx-auto max-w-6xl px-4 py-10 sm:px-6 lg:px-8 border-t border-[#e8e1d7]">
+    <h2 class="font-serif text-3xl font-semibold text-ink mb-8">❓ Veelgestelde vragen over prijsklassen</h2>
+    <div class="grid gap-5 md:grid-cols-2 max-w-5xl">
+      <div class="rounded border border-[#e8e1d7] bg-paper p-5">
+        <h3 class="font-semibold text-ink">Wat is het beste keukenapparaat onder €100?</h3>
+        <p class="mt-2 text-sm text-muted">De absolute toppers onder €100 zijn de Philips Airfryer Essential (vanaf €69), de Braun MultiQuick 9 staafmixer (€79), en de SodaStream Terra (€79). Alle drie scoren 4.7+/5 in onze reviews en worden door duizenden Nederlanders dagelijks gebruikt. <a href="/beste-airfryer-onder-100-euro-2026/" class="text-leaf underline hover:text-[#1f514b]">Bekijk alle airfryers onder €100 →</a></p>
+      </div>
+      <div class="rounded border border-[#e8e1d7] bg-paper p-5">
+        <h3 class="font-semibold text-ink">Is een airfryer van €60 net zo goed als een van €200?</h3>
+        <p class="mt-2 text-sm text-muted">Voor de basis — knapperige friet en snacks bakken — ja. Het verschil zit in: formaat (grotere mand), geluidsniveau, extra programma's (bakken, grillen, dehydrateren), en bouwkwaliteit. Een Philips Airfryer van €200 gaat langer mee en bakt gelijkmatiger, maar een Tefal van €60 doet het prima voor 1-2 personen. <a href="/airfryer-vs-friteuse-2026/" class="text-leaf underline hover:text-[#1f514b]">Lees onze airfryer vs friteuse vergelijking →</a></p>
+      </div>
+      <div class="rounded border border-[#e8e1d7] bg-paper p-5">
+        <h3 class="font-semibold text-ink">Welke koffiemachine past bij mijn budget?</h3>
+        <p class="mt-2 text-sm text-muted"><strong>Onder €100:</strong> filterkoffiemachines (Moccamaster-achtig) en Senseo-apparaten. <strong>€100-300:</strong> Nespresso-machines en instap-volautomaten (De'Longhi Magnifica). <strong>Boven €300:</strong> volautomatische bonenmachines (Jura, Siemens, Philips LatteGo). <a href="/beste-koffiemachine-2026/" class="text-leaf underline hover:text-[#1f514b]">Bekijk onze complete koffiemachine gids →</a></p>
+      </div>
+      <div class="rounded border border-[#e8e1d7] bg-paper p-5">
+        <h3 class="font-semibold text-ink">Hoeveel moet ik uitgeven aan een goede blender?</h3>
+        <p class="mt-2 text-sm text-muted">Voor smoothies en soepen is een blender van €50-100 (Philips, Bosch) ruim voldoende. Voor notenpasta, ijs crushen en dagelijks intensief gebruik is een Vitamix of Blendtec (€400-800) de investering waard — deze gaan 10+ jaar mee. <a href="/beste-blenders-2026/" class="text-leaf underline hover:text-[#1f514b]">Vergelijk alle blenders →</a></p>
+      </div>
+      <div class="rounded border border-[#e8e1d7] bg-paper p-5">
+        <h3 class="font-semibold text-ink">Wat is het duurste keukenapparaat dat écht de moeite waard is?</h3>
+        <p class="mt-2 text-sm text-muted">Een goede koelkast (€500-1500). Dit apparaat staat 24/7 aan, gaat 15 jaar mee, en een energiezuinig model bespaart honderden euro's aan stroom over de levensduur. Liebherr, Bosch en Samsung zijn onze toppicks. <a href="/beste-koelkasten-2026/" class="text-leaf underline hover:text-[#1f514b]">Bekijk de beste koelkasten →</a></p>
+      </div>
+      <div class="rounded border border-[#e8e1d7] bg-paper p-5">
+        <h3 class="font-semibold text-ink">Waarom hebben jullie alleen Amazon NL links?</h3>
+        <p class="mt-2 text-sm text-muted">Amazon NL biedt scherpe prijzen, snelle levering en goede retouren. We zijn bezig met uitbreiding naar Coolblue en andere aanbieders. Tot die tijd linken we uitsluitend naar Amazon NL met onze affiliate tag kieskeukennl-21 — zelfde prijs voor jou, kleine commissie voor ons.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA -->
+  <section class="mx-auto max-w-6xl px-4 py-10 sm:px-6 lg:px-8 border-t border-[#e8e1d7]">
+    <div class="rounded-lg bg-[#f3faf7] border border-[#dfe8e5] p-8 text-center">
+      <h2 class="font-serif text-2xl font-semibold text-ink">Klaar om te shoppen binnen jouw budget?</h2>
+      <p class="mt-2 text-muted max-w-xl mx-auto">
+        Blader door onze {keukenGuides.length} keukenapparaat koopgidsen, ingedeeld op prijsklasse. Alle links naar Amazon NL (kieskeukennl-21) — dezelfde prijs voor jou, een kleine commissie voor ons.
+      </p>
+      <div class="mt-5 flex flex-wrap justify-center gap-3">
+        <a href="#budget" class="rounded bg-leaf px-5 py-2.5 text-sm font-bold text-white hover:bg-[#1f514b] transition">
+          🪙 Budget onder €100 →
+        </a>
+        <a href="#midden" class="rounded border border-leaf bg-white px-5 py-2.5 text-sm font-bold text-leaf hover:bg-[#edf4f2] transition">
+          🏆 Middenklasse €100–300 →
+        </a>
+        <a href="#premium" class="rounded bg-[#232f3e] px-5 py-2.5 text-sm font-bold text-white hover:bg-[#131921] transition">
+          👑 Premium boven €300 →
+        </a>
+        <a href="/vergelijkingen/" class="rounded border border-[#cbbda9] px-5 py-2.5 text-sm font-bold text-ink hover:bg-paper transition">
+          ⚖️ Directe vergelijkingen →
+        </a>
+        <a href="/keukenapparaten-koopgids/" class="rounded border border-[#cbbda9] px-5 py-2.5 text-sm font-bold text-ink hover:bg-paper transition">
+          📋 Complete keukengids →
+        </a>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

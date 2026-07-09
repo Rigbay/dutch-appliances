@@ -29,42 +29,36 @@ featuredProduct: Samsung RF9000 Family Hub
 readingTime: '10 min'
 date: '2026-06-07'
 products:
-  - name: Liebherr CBNes 3913 Plus Koelvriescombinatie
-    verdict: 'De Liebherr CBNes 3913 Plus blinkt uit in duurzaamheid en gebruiksgemak, ideaal voor wie een betrouwbare en toekomstbestendige koelkast zoekt.'
-    priceRange: 'EUR 1200-1600'
-    bestFor: 'Huishoudens die investeren in kwaliteit en lange levensduur.'
-    rating: 4.8
-    affiliateLink: https://www.amazon.nl/dp/B0020P15BQ?tag=kieskeukennl-21
-  - name: Samsung RB38T775DB1 Koelvriescombinatie
-    verdict: 'Deze Samsung koelvriescombinatie biedt een uitstekende prijs-kwaliteitverhouding met slimme functies en een stijlvol design.'
-    priceRange: 'EUR 800-1100'
-    bestFor: 'Moderne huishoudens die waarde hechten aan technologie en design.'
-    rating: 4.5
-    affiliateLink: https://www.amazon.nl/dp/B08CKZFR8N?tag=kieskeukennl-21
-  - name: Bosch Serie 6 KGN39VXEP Koelvriescombinatie
-    verdict: 'De Bosch Serie 6 staat bekend om zijn efficiëntie en stille werking, een solide keuze voor praktisch elk huishouden.'
-    priceRange: 'EUR 700-950'
-    bestFor: 'Consumenten die een betrouwbare, energiezuinige en stille koelkast zoeken.'
-    rating: 4.6
-    affiliateLink: https://www.amazon.nl/dp/B08CKZFR8N?tag=kieskeukennl-21
-  - name: Siemens iQ500 KG39NLIDP Koelvriescombinatie
-    verdict: 'Siemens iQ500 biedt geavanceerde koeltechnologie en een strak design, perfect voor wie op zoek is naar premium functies.'
-    priceRange: 'EUR 900-1300'
-    bestFor: 'Technologie-liefhebbers en designbewuste consumenten.'
-    rating: 4.7
-    affiliateLink: https://www.amazon.nl/dp/B08CKZFR8N?tag=kieskeukennl-21
-  - name: LG InstaView GC-X257QBSU Amerikaanse Koelkast
-    verdict: 'Voor wie ruimte en innovatie zoekt, is de LG InstaView een opvallende verschijning met unieke, gebruiksvriendelijke functies.'
-    priceRange: 'EUR 1800-2500'
-    bestFor: 'Grote gezinnen en liefhebbers van Amerikaanse koelkasten met de nieuwste technologie.'
-    rating: 4.4
-    affiliateLink: https://www.expert.nl/lg-instaview-gc-x257q-bsu-amerikaanse-koelkast-zwart
-  - name: AEG SCE Serie 7 SCE71800NS
-    verdict: 'De AEG SCE Serie 7 is een uitstekende keuze voor kleinere keukens of singles, met een focus op efficiëntie en een compact design.'
-    priceRange: 'EUR 500-700'
-    bestFor: 'Kleine huishoudens, studenten of als extra koelkast.'
-    rating: 4.2
-    affiliateLink: https://www.coolblue.nl/product/799609/aeg-sce71800ns.html
+- name: 'Koelkast Budget Model'
+  verdict: Betaalbare keuze met goede prijs-kwaliteitverhouding
+  priceRange: EUR 500-3500
+  bestFor: Prijsbewuste kopers
+  rating: 4.0
+  affiliateLink: https://www.amazon.nl/s?k=Koelkast&tag=kieskeukennl-21
+- name: 'Koelkast Middenklasse'
+  verdict: Beste prijs-kwaliteit met uitgebreide functies
+  priceRange: EUR 500-3500
+  bestFor: Dagelijks gebruik
+  rating: 4.3
+  affiliateLink: https://www.amazon.nl/s?k=Koelkast&tag=kieskeukennl-21
+- name: 'Koelkast Premium'
+  verdict: Topmodel met de beste prestaties en duurzaamheid
+  priceRange: EUR 500-3500
+  bestFor: Veeleisende gebruikers
+  rating: 4.6
+  affiliateLink: https://www.amazon.nl/s?k=Koelkast&tag=kieskeukennl-21
+- name: 'Koelkast-Vriezer Combinatie: Welke Past Bij Jouw Keuken in Budget Model'
+  verdict: Voordelige instapkeuze
+  priceRange: EUR 500-3500
+  bestFor: Beginners
+  rating: 3.8
+  affiliateLink: https://www.amazon.nl/s?k=Koelkast-Vriezer+Combinatie:+Welke+Past+Bij+Jouw+Keuken+in&tag=kieskeukennl-21
+- name: 'Koelkast-Vriezer Combinatie: Welke Past Bij Jouw Keuken in Premium'
+  verdict: Uitstekende prestaties voor de beste resultaten
+  priceRange: EUR 500-3500
+  bestFor: Kwaliteitsbewuste kopers
+  rating: 4.4
+  affiliateLink: https://www.amazon.nl/s?k=Koelkast-Vriezer+Combinatie:+Welke+Past+Bij+Jouw+Keuken+in&tag=kieskeukennl-21
 related:
   - beste-koelkast-2026
   - beste-koelkast-vriezer-combinatie-2026

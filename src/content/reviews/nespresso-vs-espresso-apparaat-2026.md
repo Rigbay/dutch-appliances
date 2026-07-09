@@ -25,42 +25,36 @@ modelYear: 2026
 featuredProduct: "Nespresso Vertuo Next vs. Sage Barista Express"
 readingTime: "10 min"
 products:
-  - name: "Nespresso Vertuo Next"
-    verdict: "Premium cupsysteem met centrifusietechnologie — crema-laag en 5 kopgroottes."
-    priceRange: "EUR 100-150"
-    bestFor: "Gemakzoekers die café-kwaliteit uit een cup willen"
-    rating: 4.4
-    affiliateLink: "https://www.amazon.nl/s?k=Nespresso+Vertuo+Next&tag=kieskeukennl-21"
-  - name: "Sage Barista Express Impress"
-    verdict: "Halfautomaat met ingebouwde maler — authentieke espresso-ervaring met leercurve."
-    priceRange: "EUR 500-700"
-    bestFor: "Koffieliefhebbers die het ambacht willen leren"
-    rating: 4.7
-    affiliateLink: "https://www.amazon.nl/s?k=Sage+Barista+Express+Impress&tag=kieskeukennl-21"
-  - name: "Nespresso Lattissima One"
-    verdict: "Nespresso met geïntegreerd melksysteem — één knop voor cappuccino en latte."
-    priceRange: "EUR 180-250"
-    bestFor: "Cappuccino-liefhebbers die geen gedoe willen"
-    rating: 4.3
-    affiliateLink: "https://www.amazon.nl/s?k=Nespresso+Lattissima+One&tag=kieskeukennl-21"
-  - name: "De'Longhi La Specialista Arte"
-    verdict: "Stijlvolle pistonmachine — handmatige controle over maalgraad, dosering en temperatuur."
-    priceRange: "EUR 350-500"
-    bestFor: "Espresso-puristen met een beperkt budget"
-    rating: 4.6
-    affiliateLink: "https://www.amazon.nl/s?k=De%27Longhi+La+Specialista+Arte&tag=kieskeukennl-21"
-  - name: "Nespresso Essenza Mini"
-    verdict: "Compactste Nespresso — past in elke keuken, maakt uitstekende espresso."
-    priceRange: "EUR 80-110"
-    bestFor: "Kleine keukens en espresso-minimalisten"
-    rating: 4.2
-    affiliateLink: "https://www.amazon.nl/s?k=Nespresso+Essenza+Mini&tag=kieskeukennl-21"
-  - name: "Gaggia Classic Pro"
-    verdict: "Klassieke Italiaanse pistonmachine — geliefd door hobbyisten vanwege upgrade-mogelijkheden."
-    priceRange: "EUR 400-500"
-    bestFor: "Hobbyisten die willen sleutelen en upgraden"
-    rating: 4.5
-    affiliateLink: "https://www.amazon.nl/s?k=Gaggia+Classic+Pro&tag=kieskeukennl-21"
+- name: 'Product A Budget Model'
+  verdict: Betaalbare keuze met goede prijs-kwaliteitverhouding
+  priceRange: EUR 80-1500
+  bestFor: Prijsbewuste kopers
+  rating: 4.0
+  affiliateLink: https://www.amazon.nl/s?k=Product+A&tag=kieskeukennl-21
+- name: 'Product A Middenklasse'
+  verdict: Beste prijs-kwaliteit met uitgebreide functies
+  priceRange: EUR 80-1500
+  bestFor: Dagelijks gebruik
+  rating: 4.3
+  affiliateLink: https://www.amazon.nl/s?k=Product+A&tag=kieskeukennl-21
+- name: 'Product A Premium'
+  verdict: Topmodel met de beste prestaties en duurzaamheid
+  priceRange: EUR 80-1500
+  bestFor: Veeleisende gebruikers
+  rating: 4.6
+  affiliateLink: https://www.amazon.nl/s?k=Product+A&tag=kieskeukennl-21
+- name: 'Product B Budget Model'
+  verdict: Voordelige instapkeuze
+  priceRange: EUR 80-1500
+  bestFor: Beginners
+  rating: 3.8
+  affiliateLink: https://www.amazon.nl/s?k=Product+B&tag=kieskeukennl-21
+- name: 'Product B Premium'
+  verdict: Uitstekende prestaties voor de beste resultaten
+  priceRange: EUR 80-1500
+  bestFor: Kwaliteitsbewuste kopers
+  rating: 4.4
+  affiliateLink: https://www.amazon.nl/s?k=Product+B&tag=kieskeukennl-21
 related:
   - "beste-nespresso-apparaat-2026"
   - "beste-espresso-apparaat-2026"

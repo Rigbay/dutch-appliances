@@ -25,42 +25,36 @@ modelYear: 2026
 featuredProduct: "De'Longhi La Specialista vs. Jura E8"
 readingTime: "10 min"
 products:
-  - name: "De'Longhi La Specialista Arte"
-    verdict: "Beste pistonmachine voor de echte espresso-liefhebber — handmatige controle over elke stap."
-    priceRange: "EUR 350-500"
-    bestFor: "Espresso-puristen die controle willen"
-    rating: 4.6
-    affiliateLink: "https://www.amazon.nl/s?k=De%27Longhi+La+Specialista+Arte&tag=kieskeukennl-21"
-  - name: "Sage Barista Express Impress"
-    verdict: "Halfautomaat met ingebouwde bonenmaler — perfecte balans tussen controle en gemak."
-    priceRange: "EUR 500-700"
-    bestFor: "Koffieliefhebbers die willen groeien in hun vaardigheden"
-    rating: 4.7
-    affiliateLink: "https://www.amazon.nl/s?k=Sage+Barista+Express+Impress&tag=kieskeukennl-21"
-  - name: "Jura E8 (EB)"
-    verdict: "Topklasse volautomaat — één knop voor perfecte espresso, cappuccino en latte macchiato."
-    priceRange: "EUR 900-1200"
-    bestFor: "Gemak zonder compromis op smaak"
-    rating: 4.8
-    affiliateLink: "https://www.amazon.nl/s?k=Jura+E8+EB&tag=kieskeukennl-21"
-  - name: "Philips 5500 LatteGo"
-    verdict: "Beste prijs-kwaliteit volautomaat met automatisch melksysteem — geen gedoe met schoonmaken."
-    priceRange: "EUR 500-700"
-    bestFor: "Gezinnen die veel cappuccino drinken"
-    rating: 4.5
-    affiliateLink: "https://www.amazon.nl/s?k=Philips+5500+LatteGo&tag=kieskeukennl-21"
-  - name: "De'Longhi Magnifica S"
-    verdict: "Instapmodel volautomaat — compact, betrouwbaar en verrassend goede espresso."
-    priceRange: "EUR 250-350"
-    bestFor: "Budgetbewuste starters met volautomaat"
-    rating: 4.4
-    affiliateLink: "https://www.amazon.nl/s?k=De%27Longhi+Magnifica+S&tag=kieskeukennl-21"
-  - name: "Gaggia Classic Pro"
-    verdict: "Klassieke pistonmachine — geliefd door hobbyisten vanwege upgrade-mogelijkheden."
-    priceRange: "EUR 400-500"
-    bestFor: "Hobbyisten die willen sleutelen en upgraden"
-    rating: 4.5
-    affiliateLink: "https://www.amazon.nl/s?k=Gaggia+Classic+Pro&tag=kieskeukennl-21"
+- name: 'Product A Budget Model'
+  verdict: Betaalbare keuze met goede prijs-kwaliteitverhouding
+  priceRange: EUR 150-2500
+  bestFor: Prijsbewuste kopers
+  rating: 4.0
+  affiliateLink: https://www.amazon.nl/s?k=Product+A&tag=kieskeukennl-21
+- name: 'Product A Middenklasse'
+  verdict: Beste prijs-kwaliteit met uitgebreide functies
+  priceRange: EUR 150-2500
+  bestFor: Dagelijks gebruik
+  rating: 4.3
+  affiliateLink: https://www.amazon.nl/s?k=Product+A&tag=kieskeukennl-21
+- name: 'Product A Premium'
+  verdict: Topmodel met de beste prestaties en duurzaamheid
+  priceRange: EUR 150-2500
+  bestFor: Veeleisende gebruikers
+  rating: 4.6
+  affiliateLink: https://www.amazon.nl/s?k=Product+A&tag=kieskeukennl-21
+- name: 'Product B Budget Model'
+  verdict: Voordelige instapkeuze
+  priceRange: EUR 150-2500
+  bestFor: Beginners
+  rating: 3.8
+  affiliateLink: https://www.amazon.nl/s?k=Product+B&tag=kieskeukennl-21
+- name: 'Product B Premium'
+  verdict: Uitstekende prestaties voor de beste resultaten
+  priceRange: EUR 150-2500
+  bestFor: Kwaliteitsbewuste kopers
+  rating: 4.4
+  affiliateLink: https://www.amazon.nl/s?k=Product+B&tag=kieskeukennl-21
 related:
   - "beste-espresso-apparaat-2026"
   - "beste-volautomatische-koffiemachine-2026"

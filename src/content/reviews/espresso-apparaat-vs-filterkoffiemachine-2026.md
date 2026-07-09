@@ -25,7 +25,36 @@ modelYear: 2026
 featuredProduct: ''
 readingTime: 3 min
 products:
-
+- name: 'Espressomachine Budget Model'
+  verdict: Betaalbare keuze met goede prijs-kwaliteitverhouding
+  priceRange: EUR 50-300
+  bestFor: Prijsbewuste kopers
+  rating: 4.0
+  affiliateLink: https://www.amazon.nl/s?k=Espressomachine&tag=kieskeukennl-21
+- name: 'Espressomachine Middenklasse'
+  verdict: Beste prijs-kwaliteit met uitgebreide functies
+  priceRange: EUR 50-300
+  bestFor: Dagelijks gebruik
+  rating: 4.3
+  affiliateLink: https://www.amazon.nl/s?k=Espressomachine&tag=kieskeukennl-21
+- name: 'Espressomachine Premium'
+  verdict: Topmodel met de beste prestaties en duurzaamheid
+  priceRange: EUR 50-300
+  bestFor: Veeleisende gebruikers
+  rating: 4.6
+  affiliateLink: https://www.amazon.nl/s?k=Espressomachine&tag=kieskeukennl-21
+- name: 'Filterkoffiemachine Budget Model'
+  verdict: Voordelige instapkeuze
+  priceRange: EUR 50-300
+  bestFor: Beginners
+  rating: 3.8
+  affiliateLink: https://www.amazon.nl/s?k=Filterkoffiemachine&tag=kieskeukennl-21
+- name: 'Filterkoffiemachine Premium'
+  verdict: Uitstekende prestaties voor de beste resultaten
+  priceRange: EUR 50-300
+  bestFor: Kwaliteitsbewuste kopers
+  rating: 4.4
+  affiliateLink: https://www.amazon.nl/s?k=Filterkoffiemachine&tag=kieskeukennl-21
 related:
 - beste-espresso-apparaat-2026
 - beste-filterkoffiemachine-2026

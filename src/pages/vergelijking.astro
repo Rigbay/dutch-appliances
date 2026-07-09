@@ -12,6 +12,7 @@ const categoryMeta = {
   tuin: { label: 'Tuin', emoji: '🌿', desc: 'Grasmaaiers, heggenscharen, barbecues, tuinverwarming en gereedschap.' },
 };
 
+const vsArticles = reviews.filter(r => r.data.slug.includes('-vs-'));
 const grouped: Record<string, any[]> = {};
 for (const r of reviews) {
   const cat = r.data.category;

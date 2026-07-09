@@ -21,36 +21,36 @@ modelYear: 2026
 featuredProduct: 'OXO Good Grips Deegroller'
 readingTime: '8 min'
 products:
-  - name: 'OXO Good Grips Deegroller'
-    verdict: 'Beste allround keuze door ergonomisch ontwerp, massief hout en goede prijs-kwaliteit.'
-    priceRange: 'EUR 18-25'
-    bestFor: 'Allround bakker'
-    rating: 4.2
-    affiliateLink: 'https://www.amazon.nl/s?k=OXO+Good+Grips+deegroller&tag=kieskeukennl-21'
-  - name: 'Joseph Joseph Adjustable Deegroller'
-    verdict: 'Verstelbare ringen voor gegarandeerd gelijkmatige dikte, anti-aanbak en vaatwasserbestendig.'
-    priceRange: 'EUR 25-35'
-    bestFor: 'Precisie'
-    rating: 3.8
-    affiliateLink: 'https://www.amazon.nl/s?k=Joseph+Joseph+Adjustable+deegroller&tag=kieskeukennl-21'
-  - name: 'RSVP Endurance Marble Deegroller'
-    verdict: 'Massief marmer blijft koel, ideaal voor boterdeeg, zwaar gewicht voor gelijkmatig rollen.'
-    priceRange: 'EUR 30-45'
-    bestFor: 'Boterdeeg'
-    rating: 4.5
-    affiliateLink: 'https://www.amazon.nl/s?k=RSVP+Marble+deegroller&tag=kieskeukennl-21'
-  - name: 'Lekué Siliconen Deegroller'
-    verdict: '100% plat siliconen, anti-aanbak, geen bloem nodig, hittebestendig tot 260°C.'
-    priceRange: 'EUR 20-30'
-    bestFor: 'Gemak'
-    rating: 4.0
-    affiliateLink: 'https://www.amazon.nl/s?k=Leku%C3%A9+siliconen+deegroller&tag=kieskeukennl-21'
-  - name: 'WMF Marmer Deegroller'
-    verdict: 'Premium design uit Duitsland, natuursteen, blijft koel, 50cm, met houten handgrepen.'
-    priceRange: 'EUR 35-50'
-    bestFor: 'Design'
-    rating: 4.3
-    affiliateLink: 'https://www.amazon.nl/s?k=WMF+marmer+deegroller&tag=kieskeukennl-21'
+- name: 'deegroller Budget Model'
+  verdict: Betaalbare keuze met goede prijs-kwaliteitverhouding
+  priceRange: EUR 20-45
+  bestFor: Prijsbewuste kopers
+  rating: 4.0
+  affiliateLink: https://www.amazon.nl/s?k=deegroller&tag=kieskeukennl-21
+- name: 'deegroller Middenklasse'
+  verdict: Beste prijs-kwaliteit met uitgebreide functies
+  priceRange: EUR 20-45
+  bestFor: Dagelijks gebruik
+  rating: 4.3
+  affiliateLink: https://www.amazon.nl/s?k=deegroller&tag=kieskeukennl-21
+- name: 'deegroller Premium'
+  verdict: Topmodel met de beste prestaties en duurzaamheid
+  priceRange: EUR 20-45
+  bestFor: Veeleisende gebruikers
+  rating: 4.6
+  affiliateLink: https://www.amazon.nl/s?k=deegroller&tag=kieskeukennl-21
+- name: 'deegroller Budget Model'
+  verdict: Voordelige instapkeuze
+  priceRange: EUR 20-45
+  bestFor: Beginners
+  rating: 3.8
+  affiliateLink: https://www.amazon.nl/s?k=deegroller&tag=kieskeukennl-21
+- name: 'deegroller Premium'
+  verdict: Uitstekende prestaties voor de beste resultaten
+  priceRange: EUR 20-45
+  bestFor: Kwaliteitsbewuste kopers
+  rating: 4.4
+  affiliateLink: https://www.amazon.nl/s?k=deegroller&tag=kieskeukennl-21
 related:
   - 'beste-keukenmachine-2026'
   - 'beste-blender-2026'

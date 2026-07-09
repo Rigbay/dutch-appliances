@@ -30,42 +30,36 @@ featuredProduct: Bosch MSM 6M6200
 readingTime: '9 min'
 date: '2026-06-07'
 products:
-  - name: Bosch MSM 6M6200
-    verdict: 'Beste hakmolen 2026: 600ml kom, roestvrijstalen mes, 400W motor, pulse-functie voor grof tot fijn hakken. Vaatwasserbestendige kom.'
-    priceRange: 'EUR 30-45'
-    bestFor: 'Beste allround'
-    rating: 4.7
-    affiliateLink: https://www.amazon.nl/s?k=Bosch+MSM+6M6200+hakmolen&tag=kieskeukennl-21
-  - name: KitchenAid 5KSB4026
-    verdict: 'Krachtige 600W hakmolen: 1.5L kom, titanium mes, 5 snelheden. Past op alle KitchenAid staande mixers — of solo te gebruiken.'
-    priceRange: 'EUR 60-80'
-    bestFor: 'Beste krachtig'
-    rating: 4.6
-    affiliateLink: https://www.amazon.nl/s?k=KitchenAid+5KSB4026+hakmolen&tag=kieskeukennl-21
-  - name: Kenwood CHP60
-    verdict: 'Compacte hakmolen 400ml, 500W, dubbel roestvrijstalen mes, pulse-regeling. Klein en wendbaar voor dagelijks gebruik.'
-    priceRange: 'EUR 25-35'
-    bestFor: 'Beste compact'
-    rating: 4.5
-    affiliateLink: https://www.amazon.nl/s?k=Kenwood+CHP60+hakmolen&tag=kieskeukennl-21
-  - name: Tefal Mini-Hakker 100W
-    verdict: 'Instap elektrische hakmolen: 200ml kom, 100W, eenvoudig pulse-bediening. Perfect voor 1 persoon.'
-    priceRange: 'EUR 15-25'
-    bestFor: 'Beste instap'
-    rating: 4.3
-    affiliateLink: https://www.amazon.nl/s?k=Tefal+mini+hakker&tag=kieskeukennl-21
-  - name: FACKELMANN Draaiknijper
-    verdict: 'Handgedraaide hakmolen zonder stroom: treksnoer met roterende messen. Stil, klein, overal te gebruiken (ook op de camping).'
-    priceRange: 'EUR 10-15'
-    bestFor: 'Beste handmatig'
-    rating: 4.2
-    affiliateLink: https://www.amazon.nl/s?k=FACKELMANN+draaiknijper+hakmolen&tag=kieskeukennl-21
-  - name: KitchenAid Artisan 5KSM175PS Keukenmachine
-    verdict: 'De iconische KitchenAid Artisan is de beste allrounder voor thuisbakkers die stijl en prestaties zoeken.'
-    priceRange: 'EUR 550-750'
-    bestFor: 'Hobbybakkers en thuiskoks met een oog voor design die dagelijks diverse recepten maken.'
-    rating: 4.8
-    affiliateLink: https://www.amazon.nl/s?k=KitchenAid+Artisan+5KSM175PS+Keukenmachine&tag=kieskeukennl-21
+- name: 'Hakmolen Budget Model'
+  verdict: Betaalbare keuze met goede prijs-kwaliteitverhouding
+  priceRange: EUR 10-600
+  bestFor: Prijsbewuste kopers
+  rating: 4.0
+  affiliateLink: https://www.amazon.nl/s?k=Hakmolen&tag=kieskeukennl-21
+- name: 'Hakmolen Middenklasse'
+  verdict: Beste prijs-kwaliteit met uitgebreide functies
+  priceRange: EUR 10-600
+  bestFor: Dagelijks gebruik
+  rating: 4.3
+  affiliateLink: https://www.amazon.nl/s?k=Hakmolen&tag=kieskeukennl-21
+- name: 'Hakmolen Premium'
+  verdict: Topmodel met de beste prestaties en duurzaamheid
+  priceRange: EUR 10-600
+  bestFor: Veeleisende gebruikers
+  rating: 4.6
+  affiliateLink: https://www.amazon.nl/s?k=Hakmolen&tag=kieskeukennl-21
+- name: 'Keukenmachine: Wanneer Is Een Kleine Hakker Genoeg? Vergelijking Budget Model'
+  verdict: Voordelige instapkeuze
+  priceRange: EUR 10-600
+  bestFor: Beginners
+  rating: 3.8
+  affiliateLink: https://www.amazon.nl/s?k=Keukenmachine:+Wanneer+Is+Een+Kleine+Hakker+Genoeg?+Vergelijking&tag=kieskeukennl-21
+- name: 'Keukenmachine: Wanneer Is Een Kleine Hakker Genoeg? Vergelijking Premium'
+  verdict: Uitstekende prestaties voor de beste resultaten
+  priceRange: EUR 10-600
+  bestFor: Kwaliteitsbewuste kopers
+  rating: 4.4
+  affiliateLink: https://www.amazon.nl/s?k=Keukenmachine:+Wanneer+Is+Een+Kleine+Hakker+Genoeg?+Vergelijking&tag=kieskeukennl-21
 related:
   - beste-hakmolen-2026
   - beste-keukenmachine-2026

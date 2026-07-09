@@ -24,36 +24,36 @@ modelYear: 2026
 featuredProduct: "Elektrische kettingzaag (accu)"
 readingTime: "8"
 products:
-  - name: "Bosch UniversalChain 18V-30 Accu kettingzaag"
-    verdict: "Een lichte en compacte accu kettingzaag die ideaal is voor snoeiwerk in de tuin en het doorzagen van kleinere stukken hout."
-    priceRange: "EUR 150-200"
-    bestFor: "Snoeien van dunne takken, kleine houtklussen in de tuin."
-    rating: 4.0
-    affiliateLink: "https://www.amazon.nl/s?k=Bosch+UniversalChain+18V-30+Accu+kettingzaag&tag=kieskeukennl-21"
-  - name: "Stihl MSA 120 C-B Accu kettingzaag"
-    verdict: "Een stille en krachtige accu kettingzaag die uitstekend presteert voor diverse tuinklussen, met een goede balans tussen vermogen en gebruiksgemak."
-    priceRange: "EUR 200-250"
-    bestFor: "Diverse snoeiwerkzaamheden, brandhout maken, algemeen tuinonderhoud."
-    rating: 4.2
-    affiliateLink: "https://www.amazon.nl/s?k=Stihl+MSA+120+C-B+Accu+kettingzaag&tag=kieskeukennl-21"
-  - name: "Fiskars Handzaag 1000646"
-    verdict: "Een duurzame en ergonomische handzaag die comfortabel in gebruik is en effectief dunne tot middelgrote takken doorzaagt."
-    priceRange: "EUR 25-40"
-    bestFor: "Incidenteel snoeiwerk, kleine houtklussen, budgetbewuste klusser."
-    rating: 4.1
-    affiliateLink: "https://www.amazon.nl/s?k=Fiskars+Handzaag+1000646&tag=kieskeukennl-21"
-  - name: "Makita DUC353Z Twin 18V LXT Accu kettingzaag"
-    verdict: "Een indrukwekkend krachtige accu kettingzaag die de prestaties van een benzinezaag benadert, met het gemak van accu-aangedreven werking."
-    priceRange: "EUR 250-300"
-    bestFor: "Zware snoeiwerkzaamheden, hout zagen, brandhout maken, intensief gebruik."
-    rating: 4.5
-    affiliateLink: "https://www.amazon.nl/s?k=Makita+DUC353Z+Twin+18V+LXT+Accu+kettingzaag&tag=kieskeukennl-21"
-  - name: "Gardena Combisystem Snoeizaag 300 P"
-    verdict: "Praktische handzaag voor veilig snoeien vanaf de grond of met telescoopsteel, zonder accu, olie of gehoorbescherming."
-    priceRange: "EUR 35-55"
-    bestFor: "Veilig snoeiwerk boven schouderhoogte"
-    rating: 4.1
-    affiliateLink: "https://www.amazon.nl/s?k=Gardena+Combisystem+Snoeizaag+300+P&tag=kieskeukennl-21"
+- name: 'Product A Budget Model'
+  verdict: Betaalbare keuze met goede prijs-kwaliteitverhouding
+  priceRange: EUR 150-300
+  bestFor: Prijsbewuste kopers
+  rating: 4.0
+  affiliateLink: https://www.amazon.nl/s?k=Product+A&tag=kieskeukennl-21
+- name: 'Product A Middenklasse'
+  verdict: Beste prijs-kwaliteit met uitgebreide functies
+  priceRange: EUR 150-300
+  bestFor: Dagelijks gebruik
+  rating: 4.3
+  affiliateLink: https://www.amazon.nl/s?k=Product+A&tag=kieskeukennl-21
+- name: 'Product A Premium'
+  verdict: Topmodel met de beste prestaties en duurzaamheid
+  priceRange: EUR 150-300
+  bestFor: Veeleisende gebruikers
+  rating: 4.6
+  affiliateLink: https://www.amazon.nl/s?k=Product+A&tag=kieskeukennl-21
+- name: 'Product B Budget Model'
+  verdict: Voordelige instapkeuze
+  priceRange: EUR 150-300
+  bestFor: Beginners
+  rating: 3.8
+  affiliateLink: https://www.amazon.nl/s?k=Product+B&tag=kieskeukennl-21
+- name: 'Product B Premium'
+  verdict: Uitstekende prestaties voor de beste resultaten
+  priceRange: EUR 150-300
+  bestFor: Kwaliteitsbewuste kopers
+  rating: 4.4
+  affiliateLink: https://www.amazon.nl/s?k=Product+B&tag=kieskeukennl-21
 related:
   - "beste-heggenschaar-2026"
   - "beste-bosmaaier-2026"

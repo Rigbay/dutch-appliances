@@ -25,42 +25,36 @@ modelYear: 2026
 featuredProduct: "Moccamaster KBG Select vs. Philips Senseo"
 readingTime: "9 min"
 products:
-  - name: "Moccamaster KBG Select"
-    verdict: "De gouden standaard voor filterkoffie — handgemaakt in Nederland, 10 jaar garantie."
-    priceRange: "EUR 220-260"
-    bestFor: "Filterkoffie-puristen die kwaliteit waarderen"
-    rating: 4.8
-    affiliateLink: "https://www.amazon.nl/s?k=Moccamaster+KBG+Select&tag=kieskeukennl-21"
-  - name: "Philips Grind & Brew"
-    verdict: "Filterkoffiemachine met ingebouwde bonenmaler — verser dan voorgemalen koffie."
-    priceRange: "EUR 120-180"
-    bestFor: "Liefhebbers van verse filterkoffie zonder aparte maler"
-    rating: 4.4
-    affiliateLink: "https://www.amazon.nl/s?k=Philips+Grind+%26+Brew&tag=kieskeukennl-21"
-  - name: "Philips Senseo Original"
-    verdict: "De klassieke cupmachine — snel, eenvoudig en met schuimlaagje."
-    priceRange: "EUR 60-90"
-    bestFor: "Snelle koffiedrinkers die één of twee kopjes per keer zetten"
-    rating: 4.3
-    affiliateLink: "https://www.amazon.nl/s?k=Philips+Senseo+Original&tag=kieskeukennl-21"
-  - name: "Dolce Gusto Genio S Plus"
-    verdict: "Veelzijdige cupmachine — espresso, lungo, cappuccino en zelfs thee uit één apparaat."
-    priceRange: "EUR 80-120"
-    bestFor: "Huishoudens met verschillende koffievoorkeuren"
-    rating: 4.5
-    affiliateLink: "https://www.amazon.nl/s?k=Dolce+Gusto+Genio+S+Plus&tag=kieskeukennl-21"
-  - name: "Melitta AromaFresh II"
-    verdict: "Filterkoffiemachine met bonenmaler en timer — zet 's ochtends automatisch verse koffie."
-    priceRange: "EUR 90-130"
-    bestFor: "Ochtendmensen die wakker willen worden met verse koffiegeur"
-    rating: 4.3
-    affiliateLink: "https://www.amazon.nl/s?k=Melitta+AromaFresh+II&tag=kieskeukennl-21"
-  - name: "Nespresso Vertuo Next"
-    verdict: "Premium cupsysteem met centrifusietechnologie — crema-laag en grote koppen koffie."
-    priceRange: "EUR 100-150"
-    bestFor: "Liefhebbers van café-kwaliteit koffie uit een cup"
-    rating: 4.4
-    affiliateLink: "https://www.amazon.nl/s?k=Nespresso+Vertuo+Next&tag=kieskeukennl-21"
+- name: 'Product A Budget Model'
+  verdict: Betaalbare keuze met goede prijs-kwaliteitverhouding
+  priceRange: EUR 30-300
+  bestFor: Prijsbewuste kopers
+  rating: 4.0
+  affiliateLink: https://www.amazon.nl/s?k=Product+A&tag=kieskeukennl-21
+- name: 'Product A Middenklasse'
+  verdict: Beste prijs-kwaliteit met uitgebreide functies
+  priceRange: EUR 30-300
+  bestFor: Dagelijks gebruik
+  rating: 4.3
+  affiliateLink: https://www.amazon.nl/s?k=Product+A&tag=kieskeukennl-21
+- name: 'Product A Premium'
+  verdict: Topmodel met de beste prestaties en duurzaamheid
+  priceRange: EUR 30-300
+  bestFor: Veeleisende gebruikers
+  rating: 4.6
+  affiliateLink: https://www.amazon.nl/s?k=Product+A&tag=kieskeukennl-21
+- name: 'Product B Budget Model'
+  verdict: Voordelige instapkeuze
+  priceRange: EUR 30-300
+  bestFor: Beginners
+  rating: 3.8
+  affiliateLink: https://www.amazon.nl/s?k=Product+B&tag=kieskeukennl-21
+- name: 'Product B Premium'
+  verdict: Uitstekende prestaties voor de beste resultaten
+  priceRange: EUR 30-300
+  bestFor: Kwaliteitsbewuste kopers
+  rating: 4.4
+  affiliateLink: https://www.amazon.nl/s?k=Product+B&tag=kieskeukennl-21
 related:
   - "beste-filterkoffiemachine-2026"
   - "beste-koffiecupmachine-2026"

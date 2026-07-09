@@ -20,36 +20,36 @@ modelYear: 2026
 featuredProduct: 'Bosch MFW68640 Vleesmolen'
 readingTime: '8 min'
 products:
-  - name: 'Kenwood MG520 Vleesmolen'
-    verdict: '2.5 kg/min, 2400W max, RVS maalschijven (3/5/7mm), worstvulset, groenterasp.'
-    priceRange: 'EUR 60-80'
-    bestFor: 'Prijs-kwaliteit'
-    rating: 4.5
-    affiliateLink: 'https://www.amazon.nl/s?k=Kenwood+MG520+vleesmolen&tag=kieskeukennl-21'
-  - name: 'KitchenAid 5KSMSM Accessoire'
-    verdict: 'Voor KitchenAid Artisan, RVS maalschijf, worstvulset, metalen constructie.'
-    priceRange: 'EUR 70-90'
-    bestFor: 'KitchenAid'
-    rating: 4.3
-    affiliateLink: 'https://www.amazon.nl/s?k=KitchenAid+5KSMSM+vleesmolen&tag=kieskeukennl-21'
-  - name: 'Bosch MFW68640 Vleesmolen'
-    verdict: '2200W, 3.2 kg/min, 3 RVS maalschijven, worstvulset, kebbe-accessoire, omkeerfunctie.'
-    priceRange: 'EUR 80-110'
-    bestFor: 'Krachtig'
-    rating: 4.6
-    affiliateLink: 'https://www.amazon.nl/s?k=Bosch+MFW68640+vleesmolen&tag=kieskeukennl-21'
-  - name: 'Tefal 832628 Vleesmolen'
-    verdict: '2100W, 3 kg/min, RVS maalschijf, worstvulset, compact, antislip, 3.2kg.'
-    priceRange: 'EUR 50-70'
-    bestFor: 'Compact'
-    rating: 4.1
-    affiliateLink: 'https://www.amazon.nl/s?k=Tefal+832628+vleesmolen&tag=kieskeukennl-21'
-  - name: 'Trebs 99212 Vleesmolen'
-    verdict: '1600W, 2 RVS maalschijven, worstvulset, groentesnijder, omkeerfunctie, budget.'
-    priceRange: 'EUR 35-50'
-    bestFor: 'Budget'
-    rating: 3.9
-    affiliateLink: 'https://www.amazon.nl/s?k=Trebs+99212+vleesmolen&tag=kieskeukennl-21'
+- name: 'vleesmolen Budget Model'
+  verdict: Betaalbare keuze met goede prijs-kwaliteitverhouding
+  priceRange: EUR 35-110
+  bestFor: Prijsbewuste kopers
+  rating: 4.0
+  affiliateLink: https://www.amazon.nl/s?k=vleesmolen&tag=kieskeukennl-21
+- name: 'vleesmolen Middenklasse'
+  verdict: Beste prijs-kwaliteit met uitgebreide functies
+  priceRange: EUR 35-110
+  bestFor: Dagelijks gebruik
+  rating: 4.3
+  affiliateLink: https://www.amazon.nl/s?k=vleesmolen&tag=kieskeukennl-21
+- name: 'vleesmolen Premium'
+  verdict: Topmodel met de beste prestaties en duurzaamheid
+  priceRange: EUR 35-110
+  bestFor: Veeleisende gebruikers
+  rating: 4.6
+  affiliateLink: https://www.amazon.nl/s?k=vleesmolen&tag=kieskeukennl-21
+- name: 'vleesmolen Budget Model'
+  verdict: Voordelige instapkeuze
+  priceRange: EUR 35-110
+  bestFor: Beginners
+  rating: 3.8
+  affiliateLink: https://www.amazon.nl/s?k=vleesmolen&tag=kieskeukennl-21
+- name: 'vleesmolen Premium'
+  verdict: Uitstekende prestaties voor de beste resultaten
+  priceRange: EUR 35-110
+  bestFor: Kwaliteitsbewuste kopers
+  rating: 4.4
+  affiliateLink: https://www.amazon.nl/s?k=vleesmolen&tag=kieskeukennl-21
 related:
   - 'beste-keukenmachine-2026'
   - 'beste-hakmolen-2026'

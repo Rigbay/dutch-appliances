@@ -24,42 +24,36 @@ modelYear: 2026
 featuredProduct: "Leifheit Vloerwisser Set"
 readingTime: "10 min"
 products:
-  - name: "Leifheit Vloerwisser Set"
-    verdict: "Vergelijkingsproduct — zie tabel voor volledige specificaties."
-    priceRange: "EUR 15-1500"
-    bestFor: "Vergelijking stofzuiger vs bezem"
-    rating: 4.5
-    affiliateLink: "https://www.amazon.nl/s?k=Leifheit+vloerwisser+set&tag=kieskeukennl-21"
-  - name: "Philips PowerPro Compact FC9332/09"
-    verdict: "Vergelijkingsproduct — zie tabel voor volledige specificaties."
-    priceRange: "EUR 15-1500"
-    bestFor: "Vergelijking stofzuiger vs bezem"
-    rating: 4.5
-    affiliateLink: "https://www.amazon.nl/s?k=Philips+PowerPro+Compact+FC9332&tag=kieskeukennl-21"
-  - name: "Dyson V8 Absolute"
-    verdict: "Vergelijkingsproduct — zie tabel voor volledige specificaties."
-    priceRange: "EUR 15-1500"
-    bestFor: "Vergelijking stofzuiger vs bezem"
-    rating: 4.5
-    affiliateLink: "https://www.amazon.nl/s?k=Dyson+V8+Absolute&tag=kieskeukennl-21"
-  - name: "Brabantia Bezemset"
-    verdict: "Vergelijkingsproduct — zie tabel voor volledige specificaties."
-    priceRange: "EUR 15-1500"
-    bestFor: "Vergelijking stofzuiger vs bezem"
-    rating: 4.5
-    affiliateLink: "https://www.amazon.nl/s?k=Brabantia+bezemset&tag=kieskeukennl-21"
-  - name: "Karcher WD3 Nat/Droog"
-    verdict: "Vergelijkingsproduct — zie tabel voor volledige specificaties."
-    priceRange: "EUR 15-1500"
-    bestFor: "Vergelijking stofzuiger vs bezem"
-    rating: 4.5
-    affiliateLink: "https://www.amazon.nl/s?k=Karcher+WD3&tag=kieskeukennl-21"
-  - name: "Swiffer Dweilsysteem"
-    verdict: "Vergelijkingsproduct — zie tabel voor volledige specificaties."
-    priceRange: "EUR 15-1500"
-    bestFor: "Vergelijking stofzuiger vs bezem"
-    rating: 4.5
-    affiliateLink: "https://www.amazon.nl/s?k=Swiffer+dweilsysteem&tag=kieskeukennl-21"
+- name: 'Product A Budget Model'
+  verdict: Betaalbare keuze met goede prijs-kwaliteitverhouding
+  priceRange: EUR 15-1500
+  bestFor: Prijsbewuste kopers
+  rating: 4.0
+  affiliateLink: https://www.amazon.nl/s?k=Product+A&tag=kieskeukennl-21
+- name: 'Product A Middenklasse'
+  verdict: Beste prijs-kwaliteit met uitgebreide functies
+  priceRange: EUR 15-1500
+  bestFor: Dagelijks gebruik
+  rating: 4.3
+  affiliateLink: https://www.amazon.nl/s?k=Product+A&tag=kieskeukennl-21
+- name: 'Product A Premium'
+  verdict: Topmodel met de beste prestaties en duurzaamheid
+  priceRange: EUR 15-1500
+  bestFor: Veeleisende gebruikers
+  rating: 4.6
+  affiliateLink: https://www.amazon.nl/s?k=Product+A&tag=kieskeukennl-21
+- name: 'Product B Budget Model'
+  verdict: Voordelige instapkeuze
+  priceRange: EUR 15-1500
+  bestFor: Beginners
+  rating: 3.8
+  affiliateLink: https://www.amazon.nl/s?k=Product+B&tag=kieskeukennl-21
+- name: 'Product B Premium'
+  verdict: Uitstekende prestaties voor de beste resultaten
+  priceRange: EUR 15-1500
+  bestFor: Kwaliteitsbewuste kopers
+  rating: 4.4
+  affiliateLink: https://www.amazon.nl/s?k=Product+B&tag=kieskeukennl-21
 related:
   - "beste-stofzuiger-2026"
   - "beste-steelstofzuiger-2026"

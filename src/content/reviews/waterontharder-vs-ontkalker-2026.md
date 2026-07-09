@@ -24,36 +24,36 @@ modelYear: 2026
 featuredProduct: "Waterontharder (permanente oplossing) / Chemische Ontkalker (tijdelijke oplossing)"
 readingTime: "8"
 products:
-  - name: "Aqua-Logic Waterontharder"
-    verdict: "Een betrouwbare keuze voor gezinnen die een alomvattende oplossing zoeken."
-    priceRange: "EUR 1200-2500"
-    bestFor: "Gezinnen"
-    rating: 4.5
-    affiliateLink: "https://www.amazon.nl/s?k=Aqua-Logic+Waterontharder&tag=kieskeukennl-21"
-  - name: "Aquaphor K7"
-    verdict: "Compact en effectief voor kleinere ruimtes of specifieke toepassingen."
-    priceRange: "EUR 50-150"
-    bestFor: "Kleine ruimte"
-    rating: 4.0
-    affiliateLink: "https://www.amazon.nl/s?k=Aquaphor+K7&tag=kieskeukennl-21"
-  - name: "HG Ontkalker / Calgon"
-    verdict: "Budgetvriendelijke en direct beschikbare oplossing voor symptoombestrijding."
-    priceRange: "EUR 5-20"
-    bestFor: "Budget"
-    rating: 3.5
-    affiliateLink: "https://www.amazon.nl/s?k=HG+Ontkalker+/+Calgon&tag=kieskeukennl-21"
-  - name: "BWT Waterontharder"
-    verdict: "Gebruiksvriendelijk en efficiënt voor wie gemak belangrijk vindt."
-    priceRange: "EUR 1500-3000"
-    bestFor: "Gemak"
-    rating: 4.5
-    affiliateLink: "https://www.amazon.nl/s?k=BWT+Waterontharder&tag=kieskeukennl-21"
-  - name: "WPRO Ontkalker voor koffiezetapparaten"
-    verdict: "Logische goedkope onderhoudskeuze voor wie vooral losse apparaten kalkvrij wil houden in plaats van de hele woning te ontharden."
-    priceRange: "EUR 8-20"
-    bestFor: "Periodiek apparaatonderhoud"
-    rating: 3.8
-    affiliateLink: "https://www.amazon.nl/s?k=WPRO+Ontkalker+koffiezetapparaat&tag=kieskeukennl-21"
+- name: 'Product A Budget Model'
+  verdict: Betaalbare keuze met goede prijs-kwaliteitverhouding
+  priceRange: EUR 5-3000
+  bestFor: Prijsbewuste kopers
+  rating: 4.0
+  affiliateLink: https://www.amazon.nl/s?k=Product+A&tag=kieskeukennl-21
+- name: 'Product A Middenklasse'
+  verdict: Beste prijs-kwaliteit met uitgebreide functies
+  priceRange: EUR 5-3000
+  bestFor: Dagelijks gebruik
+  rating: 4.3
+  affiliateLink: https://www.amazon.nl/s?k=Product+A&tag=kieskeukennl-21
+- name: 'Product A Premium'
+  verdict: Topmodel met de beste prestaties en duurzaamheid
+  priceRange: EUR 5-3000
+  bestFor: Veeleisende gebruikers
+  rating: 4.6
+  affiliateLink: https://www.amazon.nl/s?k=Product+A&tag=kieskeukennl-21
+- name: 'Product B Budget Model'
+  verdict: Voordelige instapkeuze
+  priceRange: EUR 5-3000
+  bestFor: Beginners
+  rating: 3.8
+  affiliateLink: https://www.amazon.nl/s?k=Product+B&tag=kieskeukennl-21
+- name: 'Product B Premium'
+  verdict: Uitstekende prestaties voor de beste resultaten
+  priceRange: EUR 5-3000
+  bestFor: Kwaliteitsbewuste kopers
+  rating: 4.4
+  affiliateLink: https://www.amazon.nl/s?k=Product+B&tag=kieskeukennl-21
 related:
   - "beste-elektrische-kachel-2026"
   - "beste-waterontharder-2026"

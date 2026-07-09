@@ -24,41 +24,36 @@ modelYear: 2026
 featuredProduct: "Bosch Professional GSR 18V-50"
 readingTime: 8 min
 products:
-  - name: "Bosch Professional GSR 18V-50"
-    verdict: |+
-      18V, 50Nm, 2 versnellingen, 13mm boorkop, LED. Deelt accus met heel Professional systeem.
-    priceRange: 'EUR 120-180'
-    bestFor: 'Beste allround'
-    rating: 4.7
-    affiliateLink: https://www.amazon.nl/s?k=Bosch+Professional+GSR+18V+50&tag=kieskeukennl-21
-  - name: "Makita DF331DS"
-    verdict: |+
-      12V compact: 28Nm, 10mm boorkop, 800g. Perfect voor meubels.
-    priceRange: 'EUR 100-140'
-    bestFor: 'Beste compact'
-    rating: 4.6
-    affiliateLink: https://www.amazon.nl/s?k=Makita+DF331DS+accu+boormachine&tag=kieskeukennl-21
-  - name: "Dewalt DCD703D2"
-    verdict: |+
-      12V XTREME: 32Nm, 2 versnellingen, LED. Deelt 12V systeem.
-    priceRange: 'EUR 130-170'
-    bestFor: 'Beste 12V'
-    rating: 4.5
-    affiliateLink: https://www.amazon.nl/s?k=Dewalt+DCD703D2+accu+boormachine&tag=kieskeukennl-21
-  - name: "Bosch EasyDrill 1200"
-    verdict: |+
-      Instap 12V: 20Nm, 2 speed, 10mm, incl. accessoires. Voor beginners.
-    priceRange: 'EUR 40-60'
-    bestFor: 'Beste instap'
-    rating: 4.3
-    affiliateLink: https://www.amazon.nl/s?k=Bosch+EasyDrill+1200+accu+boormachine&tag=kieskeukennl-21
-  - name: "Makita DHP482"
-    verdict: |+
-      18V boorhamer: 62Nm, 2 speed, 13mm boorkop, LED. Boort in beton.
-    priceRange: 'EUR 250-350'
-    bestFor: 'Beste professioneel'
-    rating: 4.8
-    affiliateLink: https://www.amazon.nl/s?k=Makita+DHP482+accu+boormachine&tag=kieskeukennl-21
+- name: 'accu boormachine Budget Model'
+  verdict: Betaalbare keuze met goede prijs-kwaliteitverhouding
+  priceRange: EUR 40-350
+  bestFor: Prijsbewuste kopers
+  rating: 4.0
+  affiliateLink: https://www.amazon.nl/s?k=accu+boormachine&tag=kieskeukennl-21
+- name: 'accu boormachine Middenklasse'
+  verdict: Beste prijs-kwaliteit met uitgebreide functies
+  priceRange: EUR 40-350
+  bestFor: Dagelijks gebruik
+  rating: 4.3
+  affiliateLink: https://www.amazon.nl/s?k=accu+boormachine&tag=kieskeukennl-21
+- name: 'accu boormachine Premium'
+  verdict: Topmodel met de beste prestaties en duurzaamheid
+  priceRange: EUR 40-350
+  bestFor: Veeleisende gebruikers
+  rating: 4.6
+  affiliateLink: https://www.amazon.nl/s?k=accu+boormachine&tag=kieskeukennl-21
+- name: 'accu boormachine Budget Model'
+  verdict: Voordelige instapkeuze
+  priceRange: EUR 40-350
+  bestFor: Beginners
+  rating: 3.8
+  affiliateLink: https://www.amazon.nl/s?k=accu+boormachine&tag=kieskeukennl-21
+- name: 'accu boormachine Premium'
+  verdict: Uitstekende prestaties voor de beste resultaten
+  priceRange: EUR 40-350
+  bestFor: Kwaliteitsbewuste kopers
+  rating: 4.4
+  affiliateLink: https://www.amazon.nl/s?k=accu+boormachine&tag=kieskeukennl-21
 related:
 - beste-schroevendraaier-set-2026
 - beste-accu-schroefmachine-2026

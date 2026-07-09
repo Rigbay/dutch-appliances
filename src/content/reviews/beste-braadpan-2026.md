@@ -24,41 +24,36 @@ modelYear: 2026
 featuredProduct: "Le Creuset Braadpan 24cm"
 readingTime: 8 min
 products:
-  - name: "Le Creuset Braadpan 24cm"
-    verdict: |+
-      De klassieker: geëmailleerd gietijzer, 24cm, 4.2L, ovenbestendig tot 260°C. 30 jaar garantie, levenslange investering. Verkrijgbaar in 15+ kleuren.
-    priceRange: 'EUR 150-200'
-    bestFor: 'Beste premium'
-    rating: 4.9
-    affiliateLink: https://www.amazon.nl/s?k=Le+Creuset+braadpan+24cm&tag=kieskeukennl-21
-  - name: "Staub Braadpan 24cm"
-    verdict: |+
-      Franse gietijzeren braadpan: zwart email, zelf-bevochtigend deksel, 24cm, geschikt voor alle warmtebronnen. Net als Le Creuset, maar mat zwart.
-    priceRange: 'EUR 120-170'
-    bestFor: 'Beste Frans'
-    rating: 4.8
-    affiliateLink: https://www.amazon.nl/s?k=Staub+braadpan+24cm&tag=kieskeukennl-21
-  - name: "BK Braadpan Rvs 24cm"
-    verdict: |+
-      Rvs braadpan met aluminium kern, 24cm, 5.2L, inductiegeschikt, oventot 220°C. Degelijk en onderhoudsarm.
-    priceRange: 'EUR 60-90'
-    bestFor: 'Beste rvs'
-    rating: 4.5
-    affiliateLink: https://www.amazon.nl/s?k=BK+braadpan+rvs+24cm&tag=kieskeukennl-21
-  - name: "Tefal Clipso Touch 22cm"
-    verdict: |+
-      Snelkookbraadpan 2-in-1: 22cm, antiaanbak, drukkooksysteem verkort kooktijd met 50%. Perfect voor bonen en stoofvlees.
-    priceRange: 'EUR 70-100'
-    bestFor: 'Beste snelkook'
-    rating: 4.6
-    affiliateLink: https://www.amazon.nl/s?k=Tefal+Clipso+Touch+braadpan&tag=kieskeukennl-21
-  - name: "IKEA Hemkomst Braadpan 26cm"
-    verdict: |+
-      Gietijzer 26cm, geëmailleerd, 3.5L, ovenbestendig tot 250°C. Zeer betaalbare gietijzeren braadpan voor beginners.
-    priceRange: 'EUR 25-40'
-    bestFor: 'Beste budget'
-    rating: 4.4
-    affiliateLink: https://www.amazon.nl/s?k=IKEA+Hemkomst+braadpan&tag=kieskeukennl-21
+- name: 'braadpan Budget Model'
+  verdict: Betaalbare keuze met goede prijs-kwaliteitverhouding
+  priceRange: EUR 25-200
+  bestFor: Prijsbewuste kopers
+  rating: 4.0
+  affiliateLink: https://www.amazon.nl/s?k=braadpan&tag=kieskeukennl-21
+- name: 'braadpan Middenklasse'
+  verdict: Beste prijs-kwaliteit met uitgebreide functies
+  priceRange: EUR 25-200
+  bestFor: Dagelijks gebruik
+  rating: 4.3
+  affiliateLink: https://www.amazon.nl/s?k=braadpan&tag=kieskeukennl-21
+- name: 'braadpan Premium'
+  verdict: Topmodel met de beste prestaties en duurzaamheid
+  priceRange: EUR 25-200
+  bestFor: Veeleisende gebruikers
+  rating: 4.6
+  affiliateLink: https://www.amazon.nl/s?k=braadpan&tag=kieskeukennl-21
+- name: 'braadpan Budget Model'
+  verdict: Voordelige instapkeuze
+  priceRange: EUR 25-200
+  bestFor: Beginners
+  rating: 3.8
+  affiliateLink: https://www.amazon.nl/s?k=braadpan&tag=kieskeukennl-21
+- name: 'braadpan Premium'
+  verdict: Uitstekende prestaties voor de beste resultaten
+  priceRange: EUR 25-200
+  bestFor: Kwaliteitsbewuste kopers
+  rating: 4.4
+  affiliateLink: https://www.amazon.nl/s?k=braadpan&tag=kieskeukennl-21
 related:
 - beste-koekenpan-2026
 - beste-pannenset-2026

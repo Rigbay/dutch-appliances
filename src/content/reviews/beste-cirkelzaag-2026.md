@@ -26,36 +26,36 @@ modelYear: 2026
 featuredProduct: 'Bosch Professional GKS 18V-57 G'
 readingTime: 7 min
 products:
-  - name: 'Bosch Professional GKS 18V-57 G'
-    verdict: 'Beste accu-cirkelzaag voor de professional, 57mm snijdiepte en Bluetooth-koppeling.'
-    priceRange: 'EUR 180-240'
-    bestFor: 'Professioneel klussen'
-    rating: 4.8
-    affiliateLink: https://www.amazon.nl/s?k=Bosch+Professional+GKS+18V-57+G&tag=kieskeukennl-21
-  - name: 'Makita HS7601J/2'
-    verdict: 'Solide snoer-cirkelzaag met 190mm zaagblad, ideaal voor vaste werkplaats.'
-    priceRange: 'EUR 130-170'
-    bestFor: 'Vaste werkplek'
-    rating: 4.7
-    affiliateLink: https://www.amazon.nl/s?k=Makita+HS7601J/2&tag=kieskeukennl-21
-  - name: 'Einhell TC-TS 2025/1 UD'
-    verdict: 'Betaalbare tafelcirkelzaag voor de doe-het-zelver met parallel- en hoekaanslag.'
-    priceRange: 'EUR 80-120'
-    bestFor: 'Budget klusser'
-    rating: 4.4
-    affiliateLink: https://www.amazon.nl/s?k=Einhell+TC-TS+2025/1+UD&tag=kieskeukennl-21
-  - name: 'Dewalt DWE575K'
-    verdict: 'Krachtige 1400W snoer-cirkelzaag met 60mm snijdiepte en stofafzuiging.'
-    priceRange: 'EUR 140-190'
-    bestFor: 'Zwaar zaagwerk'
-    rating: 4.6
-    affiliateLink: https://www.amazon.nl/s?k=Dewalt+DWE575K&tag=kieskeukennl-21
-  - name: 'Ryobi R18CS7-0 ONE+'
-    verdict: 'Betaalbare 18V accu-cirkelzaag voor het ONE+ systeem, voordelig bij al bestaande accus.'
-    priceRange: 'EUR 70-100'
-    bestFor: 'Accu-systeem uitbreiding'
-    rating: 4.3
-    affiliateLink: https://www.amazon.nl/s?k=Ryobi+R18CS7-0+ONE+&tag=kieskeukennl-21
+- name: 'cirkelzaag Budget Model'
+  verdict: Betaalbare keuze met goede prijs-kwaliteitverhouding
+  priceRange: EUR 50-400
+  bestFor: Prijsbewuste kopers
+  rating: 4.0
+  affiliateLink: https://www.amazon.nl/s?k=cirkelzaag&tag=kieskeukennl-21
+- name: 'cirkelzaag Middenklasse'
+  verdict: Beste prijs-kwaliteit met uitgebreide functies
+  priceRange: EUR 50-400
+  bestFor: Dagelijks gebruik
+  rating: 4.3
+  affiliateLink: https://www.amazon.nl/s?k=cirkelzaag&tag=kieskeukennl-21
+- name: 'cirkelzaag Premium'
+  verdict: Topmodel met de beste prestaties en duurzaamheid
+  priceRange: EUR 50-400
+  bestFor: Veeleisende gebruikers
+  rating: 4.6
+  affiliateLink: https://www.amazon.nl/s?k=cirkelzaag&tag=kieskeukennl-21
+- name: 'cirkelzaag Budget Model'
+  verdict: Voordelige instapkeuze
+  priceRange: EUR 50-400
+  bestFor: Beginners
+  rating: 3.8
+  affiliateLink: https://www.amazon.nl/s?k=cirkelzaag&tag=kieskeukennl-21
+- name: 'cirkelzaag Premium'
+  verdict: Uitstekende prestaties voor de beste resultaten
+  priceRange: EUR 50-400
+  bestFor: Kwaliteitsbewuste kopers
+  rating: 4.4
+  affiliateLink: https://www.amazon.nl/s?k=cirkelzaag&tag=kieskeukennl-21
 related:
 - beste-decoupeerzaag-2026
 - beste-accu-boormachine-2026

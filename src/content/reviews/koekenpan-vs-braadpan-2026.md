@@ -30,42 +30,36 @@ featuredProduct: Le Creuset Braadpan 24cm
 readingTime: '10 min'
 date: '2026-06-07'
 products:
-  - name: Tefal Ingenio Excellence
-    verdict: 'Beste koekenpan 2026: 28cm, titanium antiaanbaklaag, thermosignaal warmte-indicator, verwisselbare handgreep (ook ovenbestendig). De allrounder voor elke dag.'
-    priceRange: 'EUR 35-50'
-    bestFor: 'Beste allround'
-    rating: 4.7
-    affiliateLink: https://www.amazon.nl/s?k=Tefal+Ingenio+Excellence+koekenpan&tag=kieskeukennl-21
-  - name: BK Cookmaster 6000
-    verdict: 'BKs beste: 28cm rvs met 5-laags opbouw, inductiegeschikt, vaatwasserbestendig. Voor wie geen antiaanbak wil.'
-    priceRange: 'EUR 50-70'
-    bestFor: 'Beste rvs'
-    rating: 4.6
-    affiliateLink: https://www.amazon.nl/s?k=BK+Cookmaster+6000+koekenpan&tag=kieskeukennl-21
-  - name: De Buyer Mineral B
-    verdict: 'Professionele koolstofstalen pan: 28cm, naturel (geen coating), geschikt voor inductie, oneindig duurzaam bij goed gebruik. Favoriet bij koks.'
-    priceRange: 'EUR 40-55'
-    bestFor: 'Beste professioneel'
-    rating: 4.8
-    affiliateLink: https://www.amazon.nl/s?k=De+Buyer+Mineral+B+koekenpan&tag=kieskeukennl-21
-  - name: GreenPan Valencia Pro
-    verdict: 'Keramische antiaanbaklaag zonder PFAS. 28cm, inductiebodem, vaatwasserbestendig. Milieuvriendelijker dan teflon.'
-    priceRange: 'EUR 30-45'
-    bestFor: 'Beste keramisch'
-    rating: 4.4
-    affiliateLink: https://www.amazon.nl/s?k=GreenPan+Valencia+Pro+koekenpan&tag=kieskeukennl-21
-  - name: IKEA Vardagen
-    verdict: 'Gietijzeren koekenpan 28cm: onverwoestbaar, perfect voor biefstuk en bakken, ovenbestendig tot 300°C. Zeer betaalbaar.'
-    priceRange: 'EUR 15-25'
-    bestFor: 'Beste budget'
-    rating: 4.5
-    affiliateLink: https://www.amazon.nl/s?k=IKEA+Vardagen+gietijzeren+pan&tag=kieskeukennl-21
-  - name: Le Creuset Braadpan 24cm
-    verdict: 'De klassieker: geëmailleerd gietijzer, 24cm, 4.2L, ovenbestendig tot 260°C. 30 jaar garantie, levenslange investering. Verkrijgbaar in 15+ kleuren.'
-    priceRange: 'EUR 150-200'
-    bestFor: 'Beste premium'
-    rating: 4.9
-    affiliateLink: https://www.amazon.nl/s?k=Le+Creuset+braadpan+24cm&tag=kieskeukennl-21
+- name: 'Koekenpan Budget Model'
+  verdict: Betaalbare keuze met goede prijs-kwaliteitverhouding
+  priceRange: EUR 15-200
+  bestFor: Prijsbewuste kopers
+  rating: 4.0
+  affiliateLink: https://www.amazon.nl/s?k=Koekenpan&tag=kieskeukennl-21
+- name: 'Koekenpan Middenklasse'
+  verdict: Beste prijs-kwaliteit met uitgebreide functies
+  priceRange: EUR 15-200
+  bestFor: Dagelijks gebruik
+  rating: 4.3
+  affiliateLink: https://www.amazon.nl/s?k=Koekenpan&tag=kieskeukennl-21
+- name: 'Koekenpan Premium'
+  verdict: Topmodel met de beste prestaties en duurzaamheid
+  priceRange: EUR 15-200
+  bestFor: Veeleisende gebruikers
+  rating: 4.6
+  affiliateLink: https://www.amazon.nl/s?k=Koekenpan&tag=kieskeukennl-21
+- name: 'Braadpan: Welke Pan Gebruik Je Wanneer? Vergelijking Budget Model'
+  verdict: Voordelige instapkeuze
+  priceRange: EUR 15-200
+  bestFor: Beginners
+  rating: 3.8
+  affiliateLink: https://www.amazon.nl/s?k=Braadpan:+Welke+Pan+Gebruik+Je+Wanneer?+Vergelijking&tag=kieskeukennl-21
+- name: 'Braadpan: Welke Pan Gebruik Je Wanneer? Vergelijking Premium'
+  verdict: Uitstekende prestaties voor de beste resultaten
+  priceRange: EUR 15-200
+  bestFor: Kwaliteitsbewuste kopers
+  rating: 4.4
+  affiliateLink: https://www.amazon.nl/s?k=Braadpan:+Welke+Pan+Gebruik+Je+Wanneer?+Vergelijking&tag=kieskeukennl-21
 related:
   - beste-koekenpan-2026
   - beste-braadpan-2026

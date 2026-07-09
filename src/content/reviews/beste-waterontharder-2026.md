@@ -24,41 +24,36 @@ modelYear: 2026
 featuredProduct: "AquaCell Premium 15"
 readingTime: 8 min
 products:
-  - name: "AquaCell Premium 15"
-    verdict: |+
-      Beste waterontharder voor 2026: 15 liter hars, geschikt voor 4-6 personen, elektronische aansturing, Dutch Design.
-    priceRange: 'EUR 800-1100'
-    bestFor: 'Beste allround'
-    rating: 4.7
-    affiliateLink: https://www.amazon.nl/s?k=AquaCell+Premium+waterontharder&tag=kieskeukennl-21
-  - name: "Ionac Waterontharder 15L"
-    verdict: |+
-      Degelijke mechanische ontharder voor 3-5 personen. 15L hars, by-pass kraan, eenvoudig onderhoud. 10 jaar garantie.
-    priceRange: 'EUR 600-800'
-    bestFor: 'Beste prijs-kwaliteit'
-    rating: 4.6
-    affiliateLink: https://www.amazon.nl/s?k=Ionac+waterontharder+15L&tag=kieskeukennl-21
-  - name: "AquaCell Comfort 10"
-    verdict: |+
-      Compacte ontharder voor appartementen en 2-persoonshuishoudens. 10L hars, elektronisch gestuurd.
-    priceRange: 'EUR 500-700'
-    bestFor: 'Beste compact'
-    rating: 4.4
-    affiliateLink: https://www.amazon.nl/s?k=AquaCell+Comfort+10&tag=kieskeukennl-21
-  - name: "Ferroli Tecno Soft 14"
-    verdict: |+
-      Italiaanse kwaliteit: 14L hars, timer-gestuurde regeneratie, geschikt voor hardheid tot 35°Duitse hardheid.
-    priceRange: 'EUR 700-900'
-    bestFor: 'Beste Italiaans'
-    rating: 4.5
-    affiliateLink: https://www.amazon.nl/s?k=Ferroli+Tecno+Soft+14&tag=kieskeukennl-21
-  - name: "Bosch Watersoft 300"
-    verdict: |+
-      Instapmodel van Bosch: 10L hars, mechanische bediening, 2-persoons huishouden. Eenvoudig te installeren.
-    priceRange: 'EUR 400-550'
-    bestFor: 'Beste budget'
-    rating: 4.2
-    affiliateLink: https://www.amazon.nl/s?k=Bosch+Watersoft+300&tag=kieskeukennl-21
+- name: 'waterontharder Budget Model'
+  verdict: Betaalbare keuze met goede prijs-kwaliteitverhouding
+  priceRange: EUR 400-2000
+  bestFor: Prijsbewuste kopers
+  rating: 4.0
+  affiliateLink: https://www.amazon.nl/s?k=waterontharder&tag=kieskeukennl-21
+- name: 'waterontharder Middenklasse'
+  verdict: Beste prijs-kwaliteit met uitgebreide functies
+  priceRange: EUR 400-2000
+  bestFor: Dagelijks gebruik
+  rating: 4.3
+  affiliateLink: https://www.amazon.nl/s?k=waterontharder&tag=kieskeukennl-21
+- name: 'waterontharder Premium'
+  verdict: Topmodel met de beste prestaties en duurzaamheid
+  priceRange: EUR 400-2000
+  bestFor: Veeleisende gebruikers
+  rating: 4.6
+  affiliateLink: https://www.amazon.nl/s?k=waterontharder&tag=kieskeukennl-21
+- name: 'waterontharder Budget Model'
+  verdict: Voordelige instapkeuze
+  priceRange: EUR 400-2000
+  bestFor: Beginners
+  rating: 3.8
+  affiliateLink: https://www.amazon.nl/s?k=waterontharder&tag=kieskeukennl-21
+- name: 'waterontharder Premium'
+  verdict: Uitstekende prestaties voor de beste resultaten
+  priceRange: EUR 400-2000
+  bestFor: Kwaliteitsbewuste kopers
+  rating: 4.4
+  affiliateLink: https://www.amazon.nl/s?k=waterontharder&tag=kieskeukennl-21
 related:
 - beste-ontvochtiger-2026
 - beste-luchtbevochtiger-2026

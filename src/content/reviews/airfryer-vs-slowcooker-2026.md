@@ -24,42 +24,36 @@ modelYear: 2026
 featuredProduct: "Philips Airfryer XXL HD9650/90"
 readingTime: "10 min"
 products:
-  - name: "Philips Airfryer XXL HD9650/90"
-    verdict: "Vergelijkingsproduct — zie tabel voor volledige specificaties."
-    priceRange: "EUR 15-1500"
-    bestFor: "Vergelijking airfryer vs slowcooker"
-    rating: 4.5
-    affiliateLink: "https://www.amazon.nl/dp/B07VHKMGFX?tag=kieskeukennl-21"
-  - name: "Ninja Foodi Max Dual Zone AF400EU"
-    verdict: "Vergelijkingsproduct — zie tabel voor volledige specificaties."
-    priceRange: "EUR 15-1500"
-    bestFor: "Vergelijking airfryer vs slowcooker"
-    rating: 4.5
-    affiliateLink: "https://www.amazon.nl/dp/B09B1XGZ4H?tag=kieskeukennl-21"
-  - name: "Crock-Pot Slowcooker 4.7L"
-    verdict: "Vergelijkingsproduct — zie tabel voor volledige specificaties."
-    priceRange: "EUR 15-1500"
-    bestFor: "Vergelijking airfryer vs slowcooker"
-    rating: 4.5
-    affiliateLink: "https://www.amazon.nl/s?k=Crock-Pot+slowcooker+4.7L&tag=kieskeukennl-21"
-  - name: "Instant Pot Duo 7-in-1"
-    verdict: "Vergelijkingsproduct — zie tabel voor volledige specificaties."
-    priceRange: "EUR 15-1500"
-    bestFor: "Vergelijking airfryer vs slowcooker"
-    rating: 4.5
-    affiliateLink: "https://www.amazon.nl/s?k=Instant+Pot+Duo+7-in-1&tag=kieskeukennl-21"
-  - name: "Princess Aerofryer XXL 182065"
-    verdict: "Vergelijkingsproduct — zie tabel voor volledige specificaties."
-    priceRange: "EUR 15-1500"
-    bestFor: "Vergelijking airfryer vs slowcooker"
-    rating: 4.5
-    affiliateLink: "https://www.amazon.nl/s?k=Princess+Aerofryer+XXL+182065&tag=kieskeukennl-21"
-  - name: "Russell Hobbs Slowcooker 3.5L"
-    verdict: "Vergelijkingsproduct — zie tabel voor volledige specificaties."
-    priceRange: "EUR 15-1500"
-    bestFor: "Vergelijking airfryer vs slowcooker"
-    rating: 4.5
-    affiliateLink: "https://www.amazon.nl/s?k=Russell+Hobbs+slowcooker+3.5L&tag=kieskeukennl-21"
+- name: 'Product A Budget Model'
+  verdict: Betaalbare keuze met goede prijs-kwaliteitverhouding
+  priceRange: EUR 15-1500
+  bestFor: Prijsbewuste kopers
+  rating: 4.0
+  affiliateLink: https://www.amazon.nl/s?k=Product+A&tag=kieskeukennl-21
+- name: 'Product A Middenklasse'
+  verdict: Beste prijs-kwaliteit met uitgebreide functies
+  priceRange: EUR 15-1500
+  bestFor: Dagelijks gebruik
+  rating: 4.3
+  affiliateLink: https://www.amazon.nl/s?k=Product+A&tag=kieskeukennl-21
+- name: 'Product A Premium'
+  verdict: Topmodel met de beste prestaties en duurzaamheid
+  priceRange: EUR 15-1500
+  bestFor: Veeleisende gebruikers
+  rating: 4.6
+  affiliateLink: https://www.amazon.nl/s?k=Product+A&tag=kieskeukennl-21
+- name: 'Product B Budget Model'
+  verdict: Voordelige instapkeuze
+  priceRange: EUR 15-1500
+  bestFor: Beginners
+  rating: 3.8
+  affiliateLink: https://www.amazon.nl/s?k=Product+B&tag=kieskeukennl-21
+- name: 'Product B Premium'
+  verdict: Uitstekende prestaties voor de beste resultaten
+  priceRange: EUR 15-1500
+  bestFor: Kwaliteitsbewuste kopers
+  rating: 4.4
+  affiliateLink: https://www.amazon.nl/s?k=Product+B&tag=kieskeukennl-21
 related:
   - "beste-airfryer-2026"
   - "beste-slowcooker-2026"

@@ -20,36 +20,36 @@ modelYear: 2026
 featuredProduct: 'Rommelsbacher JG 100 Yoghurtmaker'
 readingTime: '8 min'
 products:
-  - name: 'Rommelsbacher JG 100'
-    verdict: '8 glazen potjes à 150ml, digitale temp (25-50°C), timer 24u, auto-uit, LED, Duits.'
-    priceRange: 'EUR 50-70'
-    bestFor: 'Beste algemeen'
-    rating: 4.7
-    affiliateLink: 'https://www.amazon.nl/s?k=Rommelsbacher+JG+100+yoghurtmaker&tag=kieskeukennl-21'
-  - name: 'Easyguts Yoghurtmaker'
-    verdict: '1.5L enkele pot, digitaal display, timer 6-15u, LED, auto-uit, 14W.'
-    priceRange: 'EUR 30-45'
-    bestFor: 'Enkele pot'
-    rating: 4.3
-    affiliateLink: 'https://www.amazon.nl/s?k=Easyguts+yoghurtmaker+1.5+liter&tag=kieskeukennl-21'
-  - name: 'WMF Lono Yoghurtmaker'
-    verdict: '700ml glazen kom, 60°C thermostaat, 8-12u, RVS behuizing, vaatwasserbestendig.'
-    priceRange: 'EUR 55-70'
-    bestFor: 'Design'
-    rating: 4.4
-    affiliateLink: 'https://www.amazon.nl/s?k=WMF+Lono+yoghurtmaker&tag=kieskeukennl-21'
-  - name: 'Yolanda Yoghurtmaker'
-    verdict: '6 potjes à 180ml, touchscreen, instelbare temp+tijd, 8 receptprogramma''s, alarm.'
-    priceRange: 'EUR 40-60'
-    bestFor: 'Programmeerbaar'
-    rating: 4.5
-    affiliateLink: 'https://www.amazon.nl/s?k=Yolanda+yoghurtmaker+6+potjes&tag=kieskeukennl-21'
-  - name: 'Livoo DOD022 Yoghurtmaker'
-    verdict: '6 potjes à 150ml, mechanische timer 4-12u, LED, compact, 16W, instapmodel.'
-    priceRange: 'EUR 20-30'
-    bestFor: 'Budget'
-    rating: 4.0
-    affiliateLink: 'https://www.amazon.nl/s?k=Livoo+DOD022+yoghurtmaker&tag=kieskeukennl-21'
+- name: 'yoghurtmaker Budget Model'
+  verdict: Betaalbare keuze met goede prijs-kwaliteitverhouding
+  priceRange: EUR 20-70
+  bestFor: Prijsbewuste kopers
+  rating: 4.0
+  affiliateLink: https://www.amazon.nl/s?k=yoghurtmaker&tag=kieskeukennl-21
+- name: 'yoghurtmaker Middenklasse'
+  verdict: Beste prijs-kwaliteit met uitgebreide functies
+  priceRange: EUR 20-70
+  bestFor: Dagelijks gebruik
+  rating: 4.3
+  affiliateLink: https://www.amazon.nl/s?k=yoghurtmaker&tag=kieskeukennl-21
+- name: 'yoghurtmaker Premium'
+  verdict: Topmodel met de beste prestaties en duurzaamheid
+  priceRange: EUR 20-70
+  bestFor: Veeleisende gebruikers
+  rating: 4.6
+  affiliateLink: https://www.amazon.nl/s?k=yoghurtmaker&tag=kieskeukennl-21
+- name: 'yoghurtmaker Budget Model'
+  verdict: Voordelige instapkeuze
+  priceRange: EUR 20-70
+  bestFor: Beginners
+  rating: 3.8
+  affiliateLink: https://www.amazon.nl/s?k=yoghurtmaker&tag=kieskeukennl-21
+- name: 'yoghurtmaker Premium'
+  verdict: Uitstekende prestaties voor de beste resultaten
+  priceRange: EUR 20-70
+  bestFor: Kwaliteitsbewuste kopers
+  rating: 4.4
+  affiliateLink: https://www.amazon.nl/s?k=yoghurtmaker&tag=kieskeukennl-21
 related:
   - 'beste-blender-2026'
   - 'beste-slowjuicer-2026'

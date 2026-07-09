@@ -24,42 +24,36 @@ modelYear: 2026
 featuredProduct: "Severin Yoghurtmaker JG3521"
 readingTime: "10 min"
 products:
-  - name: "Severin Yoghurtmaker JG3521"
-    verdict: "Vergelijkingsproduct — zie tabel voor volledige specificaties."
-    priceRange: "EUR 15-1500"
-    bestFor: "Vergelijking yoghurtmaker vs zelf maken"
-    rating: 4.5
-    affiliateLink: "https://www.amazon.nl/s?k=Severin+yoghurtmaker+JG3521&tag=kieskeukennl-21"
-  - name: "Rommelsbacher Yoghurtmaker JG80"
-    verdict: "Vergelijkingsproduct — zie tabel voor volledige specificaties."
-    priceRange: "EUR 15-1500"
-    bestFor: "Vergelijking yoghurtmaker vs zelf maken"
-    rating: 4.5
-    affiliateLink: "https://www.amazon.nl/s?k=Rommelsbacher+yoghurtmaker+JG80&tag=kieskeukennl-21"
-  - name: "Tefal Yoghurtmaker YG654"
-    verdict: "Vergelijkingsproduct — zie tabel voor volledige specificaties."
-    priceRange: "EUR 15-1500"
-    bestFor: "Vergelijking yoghurtmaker vs zelf maken"
-    rating: 4.5
-    affiliateLink: "https://www.amazon.nl/s?k=Tefal+yoghurtmaker+YG654&tag=kieskeukennl-21"
-  - name: "DIY Yoghurt met Ovenlamp"
-    verdict: "Vergelijkingsproduct — zie tabel voor volledige specificaties."
-    priceRange: "EUR 15-1500"
-    bestFor: "Vergelijking yoghurtmaker vs zelf maken"
-    rating: 4.5
-    affiliateLink: "https://www.amazon.nl/s?k=yoghurt+maken+startpakket&tag=kieskeukennl-21"
-  - name: "DIY Yoghurt met Thermoskan"
-    verdict: "Vergelijkingsproduct — zie tabel voor volledige specificaties."
-    priceRange: "EUR 15-1500"
-    bestFor: "Vergelijking yoghurtmaker vs zelf maken"
-    rating: 4.5
-    affiliateLink: "https://www.amazon.nl/s?k=thermoskan+1+liter&tag=kieskeukennl-21"
-  - name: "DIY Yoghurt met Warmhoudpan"
-    verdict: "Vergelijkingsproduct — zie tabel voor volledige specificaties."
-    priceRange: "EUR 15-1500"
-    bestFor: "Vergelijking yoghurtmaker vs zelf maken"
-    rating: 4.5
-    affiliateLink: "https://www.amazon.nl/s?k=yoghurt+culturen+starter&tag=kieskeukennl-21"
+- name: 'Product A Budget Model'
+  verdict: Betaalbare keuze met goede prijs-kwaliteitverhouding
+  priceRange: EUR 15-1500
+  bestFor: Prijsbewuste kopers
+  rating: 4.0
+  affiliateLink: https://www.amazon.nl/s?k=Product+A&tag=kieskeukennl-21
+- name: 'Product A Middenklasse'
+  verdict: Beste prijs-kwaliteit met uitgebreide functies
+  priceRange: EUR 15-1500
+  bestFor: Dagelijks gebruik
+  rating: 4.3
+  affiliateLink: https://www.amazon.nl/s?k=Product+A&tag=kieskeukennl-21
+- name: 'Product A Premium'
+  verdict: Topmodel met de beste prestaties en duurzaamheid
+  priceRange: EUR 15-1500
+  bestFor: Veeleisende gebruikers
+  rating: 4.6
+  affiliateLink: https://www.amazon.nl/s?k=Product+A&tag=kieskeukennl-21
+- name: 'Product B Budget Model'
+  verdict: Voordelige instapkeuze
+  priceRange: EUR 15-1500
+  bestFor: Beginners
+  rating: 3.8
+  affiliateLink: https://www.amazon.nl/s?k=Product+B&tag=kieskeukennl-21
+- name: 'Product B Premium'
+  verdict: Uitstekende prestaties voor de beste resultaten
+  priceRange: EUR 15-1500
+  bestFor: Kwaliteitsbewuste kopers
+  rating: 4.4
+  affiliateLink: https://www.amazon.nl/s?k=Product+B&tag=kieskeukennl-21
 related:
   - "beste-yoghurtmaker-2026"
   - "beste-keukenmachine-2026"

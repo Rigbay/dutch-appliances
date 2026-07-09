@@ -24,41 +24,36 @@ modelYear: 2026
 featuredProduct: "Wusthof Classic 7-delig"
 readingTime: 8 min
 products:
-  - name: "Wusthof Classic 7-delig"
-    verdict: |+
-      Duits: 7 delen (20cm koksmes, 16cm officemes, 12cm groentemes, broodmes, vork, schaar). 45 jaar garantie.
-    priceRange: 'EUR 250-300'
-    bestFor: 'Beste allround'
-    rating: 4.8
-    affiliateLink: https://www.amazon.nl/s?k=W%C3%BCsthof+Classic+7+delig&tag=kieskeukennl-21
-  - name: "Zwilling J.A. Henckels Pro 6-delig"
-    verdict: |+
-      Duits: 20cm koksmes, 16cm officemes, 12cm groentemes. Friodur gehard staal.
-    priceRange: 'EUR 180-250'
-    bestFor: 'Beste Duits'
-    rating: 4.7
-    affiliateLink: https://www.amazon.nl/s?k=Zwilling+Henckels+Pro+6+delig&tag=kieskeukennl-21
-  - name: "Victorinox Fibrox 5-delig"
-    verdict: |+
-      Zwitsers: 5 delen. Anti-slip handvat. Beste prijs-kwaliteit.
-    priceRange: 'EUR 80-120'
-    bestFor: 'Beste prijs-kwaliteit'
-    rating: 4.6
-    affiliateLink: https://www.amazon.nl/s?k=Victorinox+Fibrox+5+delig&tag=kieskeukennl-21
-  - name: "Kyoku 6-delig Damascus"
-    verdict: |+
-      Japans: VG-10 kern, 67 lagen Damascus. Extreem scherp.
-    priceRange: 'EUR 120-180'
-    bestFor: 'Beste Japans'
-    rating: 4.5
-    affiliateLink: https://www.amazon.nl/s?k=Kyoku+Damascus+6+delig&tag=kieskeukennl-21
-  - name: "IKEA Slitig 4-delig"
-    verdict: |+
-      Instap: 20cm koksmes, broodmes, groentemes, schaar. Roestvrij.
-    priceRange: 'EUR 20-35'
-    bestFor: 'Beste budget'
-    rating: 4.2
-    affiliateLink: https://www.amazon.nl/s?k=IKEA+Slitig+messenset&tag=kieskeukennl-21
+- name: 'keukenmes set Budget Model'
+  verdict: Betaalbare keuze met goede prijs-kwaliteitverhouding
+  priceRange: EUR 20-300
+  bestFor: Prijsbewuste kopers
+  rating: 4.0
+  affiliateLink: https://www.amazon.nl/s?k=keukenmes+set&tag=kieskeukennl-21
+- name: 'keukenmes set Middenklasse'
+  verdict: Beste prijs-kwaliteit met uitgebreide functies
+  priceRange: EUR 20-300
+  bestFor: Dagelijks gebruik
+  rating: 4.3
+  affiliateLink: https://www.amazon.nl/s?k=keukenmes+set&tag=kieskeukennl-21
+- name: 'keukenmes set Premium'
+  verdict: Topmodel met de beste prestaties en duurzaamheid
+  priceRange: EUR 20-300
+  bestFor: Veeleisende gebruikers
+  rating: 4.6
+  affiliateLink: https://www.amazon.nl/s?k=keukenmes+set&tag=kieskeukennl-21
+- name: 'keukenmes set Budget Model'
+  verdict: Voordelige instapkeuze
+  priceRange: EUR 20-300
+  bestFor: Beginners
+  rating: 3.8
+  affiliateLink: https://www.amazon.nl/s?k=keukenmes+set&tag=kieskeukennl-21
+- name: 'keukenmes set Premium'
+  verdict: Uitstekende prestaties voor de beste resultaten
+  priceRange: EUR 20-300
+  bestFor: Kwaliteitsbewuste kopers
+  rating: 4.4
+  affiliateLink: https://www.amazon.nl/s?k=keukenmes+set&tag=kieskeukennl-21
 related:
 - beste-keukenmachine-2026
 - beste-keukenweegschaal-2026

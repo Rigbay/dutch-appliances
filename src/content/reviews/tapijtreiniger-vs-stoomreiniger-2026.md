@@ -24,36 +24,36 @@ modelYear: 2026
 featuredProduct: "Bissell SpotClean Pro"
 readingTime: "8"
 products:
-  - name: "Kärcher SC 1 EasyFix Stoomreiniger"
-    verdict: "Ideaal voor kleine ruimtes en snelle, hygiënische opfrisbeurten dankzij de compacte vorm en veelzijdigheid."
-    priceRange: "EUR 100-150"
-    bestFor: "Kleine ruimte"
-    rating: 4.2
-    affiliateLink: "https://www.amazon.nl/s?k=Kärcher+SC+1+EasyFix+Stoomreiniger&tag=kieskeukennl-21"
-  - name: "Bissell SpotClean Pro Tapijtreiniger"
-    verdict: "De beste keuze voor gezinnen die te maken hebben met veelvoorkomend vuil en vlekken op tapijt en meubels."
-    priceRange: "EUR 180-250"
-    bestFor: "Gezinnen"
-    rating: 4.5
-    affiliateLink: "https://www.amazon.nl/s?k=Bissell+SpotClean+Pro+Tapijtreiniger&tag=kieskeukennl-21"
-  - name: "Clatronic DR 3280 Stoomreiniger"
-    verdict: "Een uitstekende budgetvriendelijke optie voor algemene reiniging en desinfectie zonder chemische middelen."
-    priceRange: "EUR 50-80"
-    bestFor: "Budget"
-    rating: 3.8
-    affiliateLink: "https://www.amazon.nl/s?k=Clatronic+DR+3280+Stoomreiniger&tag=kieskeukennl-21"
-  - name: "Bissell Vac & Steam Combireiniger"
-    verdict: "Biedt ultiem gemak door zowel te stofzuigen als te stomen, ideaal voor wie snelheid en veelzijdigheid zoekt."
-    priceRange: "EUR 250-350"
-    bestFor: "Gemak"
-    rating: 4.3
-    affiliateLink: "https://www.amazon.nl/s?k=Bissell+Vac+&+Steam+Combireiniger&tag=kieskeukennl-21"
-  - name: "Kärcher SE 3-18 Compact Tapijtreiniger"
-    verdict: "Handige keuze voor auto's, banken en kleinere tapijtoppervlakken wanneer je dieper wilt reinigen dan met stoom alleen."
-    priceRange: "EUR 140-220"
-    bestFor: "Banken, auto-interieur en kleine tapijten"
-    rating: 4.2
-    affiliateLink: "https://www.amazon.nl/s?k=Kärcher+SE+3-18+Compact+Tapijtreiniger&tag=kieskeukennl-21"
+- name: 'Product A Budget Model'
+  verdict: Betaalbare keuze met goede prijs-kwaliteitverhouding
+  priceRange: EUR 180-250
+  bestFor: Prijsbewuste kopers
+  rating: 4.0
+  affiliateLink: https://www.amazon.nl/s?k=Product+A&tag=kieskeukennl-21
+- name: 'Product A Middenklasse'
+  verdict: Beste prijs-kwaliteit met uitgebreide functies
+  priceRange: EUR 180-250
+  bestFor: Dagelijks gebruik
+  rating: 4.3
+  affiliateLink: https://www.amazon.nl/s?k=Product+A&tag=kieskeukennl-21
+- name: 'Product A Premium'
+  verdict: Topmodel met de beste prestaties en duurzaamheid
+  priceRange: EUR 180-250
+  bestFor: Veeleisende gebruikers
+  rating: 4.6
+  affiliateLink: https://www.amazon.nl/s?k=Product+A&tag=kieskeukennl-21
+- name: 'Product B Budget Model'
+  verdict: Voordelige instapkeuze
+  priceRange: EUR 180-250
+  bestFor: Beginners
+  rating: 3.8
+  affiliateLink: https://www.amazon.nl/s?k=Product+B&tag=kieskeukennl-21
+- name: 'Product B Premium'
+  verdict: Uitstekende prestaties voor de beste resultaten
+  priceRange: EUR 180-250
+  bestFor: Kwaliteitsbewuste kopers
+  rating: 4.4
+  affiliateLink: https://www.amazon.nl/s?k=Product+B&tag=kieskeukennl-21
 related:
   - "beste-tapijtreiniger-2026"
   - "beste-stoomreiniger-2026"

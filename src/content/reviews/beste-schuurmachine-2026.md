@@ -26,36 +26,36 @@ modelYear: 2026
 featuredProduct: 'Bosch Professional GEX 125-150 A'
 readingTime: 7 min
 products:
-  - name: 'Bosch Professional GEX 125-150 A'
-    verdict: 'Professionele excenterschuurmachine met constante toerenregeling en Microfilter-stofbox.'
-    priceRange: 'EUR 120-160'
-    bestFor: 'Professioneel schuren'
-    rating: 4.8
-    affiliateLink: https://www.amazon.nl/s?k=Bosch+Professional+GEX+125-150+A&tag=kieskeukennl-21
-  - name: 'Makita BO5041'
-    verdict: 'Solide 300W vlakschuurmachine met papierspanning zonder klemmen, ideaal voor houtbewerking.'
-    priceRange: 'EUR 60-90'
-    bestFor: 'Houtbewerking'
-    rating: 4.6
-    affiliateLink: https://www.amazon.nl/s?k=Makita+BO5041&tag=kieskeukennl-21
-  - name: 'Ryobi R18OS-0 ONE+'
-    verdict: 'Handzame 18V accu-oscillatieschuurmachine voor het ONE+ systeem.'
-    priceRange: 'EUR 50-70'
-    bestFor: 'Accu-klusser'
-    rating: 4.3
-    affiliateLink: https://www.amazon.nl/s?k=Ryobi+R18OS-0+ONE+&tag=kieskeukennl-21
-  - name: 'Einhell TC-VS 1535'
-    verdict: 'Betaalbare 150W delta schuurmachine met LED-verlichting, perfect voor hoekjes.'
-    priceRange: 'EUR 30-45'
-    bestFor: 'Hoeken en randen'
-    rating: 4.2
-    affiliateLink: https://www.amazon.nl/s?k=Einhell+TC-VS+1535&tag=kieskeukennl-21
-  - name: 'Festool ETS EC 150/3'
-    verdict: 'Topklasse excenterschuurmachine met MMC elektronica en PerfectFinish schijf.'
-    priceRange: 'EUR 180-220'
-    bestFor: 'Fijne afwerking'
-    rating: 4.7
-    affiliateLink: https://www.amazon.nl/s?k=Festool+ETS+EC+150/3&tag=kieskeukennl-21
+- name: 'schuurmachine Budget Model'
+  verdict: Betaalbare keuze met goede prijs-kwaliteitverhouding
+  priceRange: EUR 30-200
+  bestFor: Prijsbewuste kopers
+  rating: 4.0
+  affiliateLink: https://www.amazon.nl/s?k=schuurmachine&tag=kieskeukennl-21
+- name: 'schuurmachine Middenklasse'
+  verdict: Beste prijs-kwaliteit met uitgebreide functies
+  priceRange: EUR 30-200
+  bestFor: Dagelijks gebruik
+  rating: 4.3
+  affiliateLink: https://www.amazon.nl/s?k=schuurmachine&tag=kieskeukennl-21
+- name: 'schuurmachine Premium'
+  verdict: Topmodel met de beste prestaties en duurzaamheid
+  priceRange: EUR 30-200
+  bestFor: Veeleisende gebruikers
+  rating: 4.6
+  affiliateLink: https://www.amazon.nl/s?k=schuurmachine&tag=kieskeukennl-21
+- name: 'schuurmachine Budget Model'
+  verdict: Voordelige instapkeuze
+  priceRange: EUR 30-200
+  bestFor: Beginners
+  rating: 3.8
+  affiliateLink: https://www.amazon.nl/s?k=schuurmachine&tag=kieskeukennl-21
+- name: 'schuurmachine Premium'
+  verdict: Uitstekende prestaties voor de beste resultaten
+  priceRange: EUR 30-200
+  bestFor: Kwaliteitsbewuste kopers
+  rating: 4.4
+  affiliateLink: https://www.amazon.nl/s?k=schuurmachine&tag=kieskeukennl-21
 related:
 - beste-decoupeerzaag-2026
 - beste-multitool-2026

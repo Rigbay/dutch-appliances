@@ -26,36 +26,36 @@ modelYear: 2026
 featuredProduct: 'Bosch Professional GOP 18V-34'
 readingTime: 7 min
 products:
-  - name: 'Bosch Professional GOP 18V-34'
-    verdict: 'Beste accu-multitool met 18V Brushless motor Bluetooth en StarlockMax opname.'
-    priceRange: 'EUR 170-220'
-    bestFor: 'Professioneel'
-    rating: 4.8
-    affiliateLink: https://www.amazon.nl/s?k=Bosch+Professional+GOP+18V-34&tag=kieskeukennl-21
-  - name: 'Makita TM3010C'
-    verdict: 'Krachtige 310W snoer-multitool met constante toerenregeling en gereedschapsloze wissel.'
-    priceRange: 'EUR 90-120'
-    bestFor: 'Vaste werkplek'
-    rating: 4.6
-    affiliateLink: https://www.amazon.nl/s?k=Makita+TM3010C&tag=kieskeukennl-21
-  - name: 'Dewalt DCS355N'
-    verdict: 'Solide 18V accu-multitool met LED-verlichting en universeel accessoire-systeem.'
-    priceRange: 'EUR 120-160'
-    bestFor: 'Accu-gebruik'
-    rating: 4.5
-    affiliateLink: https://www.amazon.nl/s?k=Dewalt+DCS355N&tag=kieskeukennl-21
-  - name: 'Einhell TC-MG 250'
-    verdict: 'Uitstekende budget multitool met 250W motor en 35 accessoires inbegrepen.'
-    priceRange: 'EUR 40-55'
-    bestFor: 'Budget starter set'
-    rating: 4.3
-    affiliateLink: https://www.amazon.nl/s?k=Einhell+TC-MG+250&tag=kieskeukennl-21
-  - name: 'Ryobi R18MT-0 ONE+'
-    verdict: 'Compacte 18V accu-multitool voor het ONE+ systeem met wissel zonder gereedschap.'
-    priceRange: 'EUR 55-75'
-    bestFor: 'Accu-systeem'
-    rating: 4.3
-    affiliateLink: https://www.amazon.nl/s?k=Ryobi+R18MT-0+ONE+&tag=kieskeukennl-21
+- name: 'multitool Budget Model'
+  verdict: Betaalbare keuze met goede prijs-kwaliteitverhouding
+  priceRange: EUR 40-200
+  bestFor: Prijsbewuste kopers
+  rating: 4.0
+  affiliateLink: https://www.amazon.nl/s?k=multitool&tag=kieskeukennl-21
+- name: 'multitool Middenklasse'
+  verdict: Beste prijs-kwaliteit met uitgebreide functies
+  priceRange: EUR 40-200
+  bestFor: Dagelijks gebruik
+  rating: 4.3
+  affiliateLink: https://www.amazon.nl/s?k=multitool&tag=kieskeukennl-21
+- name: 'multitool Premium'
+  verdict: Topmodel met de beste prestaties en duurzaamheid
+  priceRange: EUR 40-200
+  bestFor: Veeleisende gebruikers
+  rating: 4.6
+  affiliateLink: https://www.amazon.nl/s?k=multitool&tag=kieskeukennl-21
+- name: 'multitool Budget Model'
+  verdict: Voordelige instapkeuze
+  priceRange: EUR 40-200
+  bestFor: Beginners
+  rating: 3.8
+  affiliateLink: https://www.amazon.nl/s?k=multitool&tag=kieskeukennl-21
+- name: 'multitool Premium'
+  verdict: Uitstekende prestaties voor de beste resultaten
+  priceRange: EUR 40-200
+  bestFor: Kwaliteitsbewuste kopers
+  rating: 4.4
+  affiliateLink: https://www.amazon.nl/s?k=multitool&tag=kieskeukennl-21
 related:
 - beste-decoupeerzaag-2026
 - beste-cirkelzaag-2026

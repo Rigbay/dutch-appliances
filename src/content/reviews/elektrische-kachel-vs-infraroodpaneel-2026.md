@@ -27,36 +27,36 @@ modelYear: 2026
 featuredProduct: "Infraroodpaneel (lange termijn comfort) / Elektrische kachel (snel, budget)"
 readingTime: "7"
 products:
-  - name: "Tristar KA-5067 Mini Keramische Kachel"
-    verdict: "Ideaal voor het snel en veilig bijverwarmen van zeer kleine ruimtes zoals een badkamer of studeerkamer."
-    priceRange: "EUR 30 - EUR 50"
-    bestFor: "Kleine ruimtes, budget"
-    rating: 4.0
-    affiliateLink: "https://www.amazon.nl/s?k=Tristar+KA-5067+Mini+Keramische+Kachel&tag=kieskeukennl-21"
-  - name: "Inventum INFR900 Design Infraroodpaneel"
-    verdict: "Biedt aangename, gelijkmatige stralingswarmte voor langdurig comfort in middelgrote tot grotere ruimtes met een modern design."
-    priceRange: "EUR 250 - EUR 400"
-    bestFor: "Gezinnen, langdurig comfort"
-    rating: 4.5
-    affiliateLink: "https://www.amazon.nl/s?k=Inventum+INFR900+Design+Infraroodpaneel&tag=kieskeukennl-21"
-  - name: "Eurom WK 1000"
-    verdict: "Een zeer voordelige en eenvoudige elektrische kachel voor incidenteel gebruik in kleine ruimtes."
-    priceRange: "EUR 25 - EUR 40"
-    bestFor: "Budget, kleine ruimtes"
-    rating: 3.5
-    affiliateLink: "https://www.amazon.nl/s?k=Eurom+WK+1000&tag=kieskeukennl-21"
-  - name: "Honeywell HZ-220E Keramische Ventilator Kachel"
-    verdict: "Combineert snelle verwarming met gebruiksgemak en veiligheid, perfect voor flexibel bijverwarmen waar nodig."
-    priceRange: "EUR 50 - EUR 80"
-    bestFor: "Gemak, flexibiliteit"
-    rating: 4.0
-    affiliateLink: "https://www.amazon.nl/s?k=Honeywell+HZ-220E+Keramische+Ventilator+Kachel&tag=kieskeukennl-21"
-  - name: "Princess Smart Infraroodpaneel 700W"
-    verdict: "Betaalbaar infraroodpaneel voor vaste bijverwarming in een werk- of slaapkamer, met stillere warmte dan een ventilatorkachel."
-    priceRange: "EUR 120 - EUR 180"
-    bestFor: "Stille vaste bijverwarming"
-    rating: 4.1
-    affiliateLink: "https://www.amazon.nl/s?k=Princess+Smart+Infraroodpaneel+700W&tag=kieskeukennl-21"
+- name: 'Product A Budget Model'
+  verdict: Betaalbare keuze met goede prijs-kwaliteitverhouding
+  priceRange: EUR 25-500
+  bestFor: Prijsbewuste kopers
+  rating: 4.0
+  affiliateLink: https://www.amazon.nl/s?k=Product+A&tag=kieskeukennl-21
+- name: 'Product A Middenklasse'
+  verdict: Beste prijs-kwaliteit met uitgebreide functies
+  priceRange: EUR 25-500
+  bestFor: Dagelijks gebruik
+  rating: 4.3
+  affiliateLink: https://www.amazon.nl/s?k=Product+A&tag=kieskeukennl-21
+- name: 'Product A Premium'
+  verdict: Topmodel met de beste prestaties en duurzaamheid
+  priceRange: EUR 25-500
+  bestFor: Veeleisende gebruikers
+  rating: 4.6
+  affiliateLink: https://www.amazon.nl/s?k=Product+A&tag=kieskeukennl-21
+- name: 'Product B Budget Model'
+  verdict: Voordelige instapkeuze
+  priceRange: EUR 25-500
+  bestFor: Beginners
+  rating: 3.8
+  affiliateLink: https://www.amazon.nl/s?k=Product+B&tag=kieskeukennl-21
+- name: 'Product B Premium'
+  verdict: Uitstekende prestaties voor de beste resultaten
+  priceRange: EUR 25-500
+  bestFor: Kwaliteitsbewuste kopers
+  rating: 4.4
+  affiliateLink: https://www.amazon.nl/s?k=Product+B&tag=kieskeukennl-21
 related:
   - "beste-elektrische-kachel-2026"
   - "beste-waterontharder-2026"

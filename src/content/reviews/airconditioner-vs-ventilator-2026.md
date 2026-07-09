@@ -30,42 +30,36 @@ featuredProduct: De'Longhi Pinguino PAC EX100
 readingTime: '10 min'
 date: '2026-06-07'
 products:
-  - name: Eurom AC2401 Mobiele Airconditioner
-    verdict: 'Een solide en betaalbare optie voor wie snel verkoeling zoekt zonder poespas.'
-    priceRange: 'EUR 300-400'
-    bestFor: 'Kleine tot middelgrote kamers, beperkt budget.'
-    rating: 4.0
-    affiliateLink: https://www.amazon.nl/s?k=Eurom+AC2401+Mobiele+Airconditioner&tag=kieskeukennl-21
-  - name: De'Longhi Pinguino PAC EX100
-    verdict: 'Uitstekende balans tussen prestaties, gebruiksgemak en geluidsniveau, ideaal voor de veeleisende consument.'
-    priceRange: 'EUR 450-600'
-    bestFor: 'Middelgrote tot grotere kamers, focus op comfort en stilte.'
-    rating: 4.5
-    affiliateLink: https://www.amazon.nl/s?k=De%27Longhi+Pinguino+PAC+EX100&tag=kieskeukennl-21
-  - name: AEG ChillFlex Pro AX3000
-    verdict: 'Een krachtige en efficiënte keuze voor wie serieuze verkoeling nodig heeft, met handige extra functies.'
-    priceRange: 'EUR 550-700'
-    bestFor: 'Grotere ruimtes, maximale koelcapaciteit gewenst.'
-    rating: 4.3
-    affiliateLink: https://www.amazon.nl/s?k=AEG+ChillFlex+Pro+AX3000&tag=kieskeukennl-21
-  - name: Inventum AC200 Mobiele Airconditioner
-    verdict: 'Een no-nonsense apparaat dat doet wat het belooft: betaalbare verkoeling voor kleinere ruimtes.'
-    priceRange: 'EUR 300-380'
-    bestFor: 'Zeer beperkt budget, kleine slaapkamer of studeerkamer.'
-    rating: 3.8
-    affiliateLink: https://www.amazon.nl/s?k=Inventum+AC200+Mobiele+Airconditioner&tag=kieskeukennl-21
-  - name: Trotec PAC 3500 Mobiele Airconditioner
-    verdict: 'Professionele koelkracht in een mobiel jasje, geschikt voor veeleisende gebruikers en grotere oppervlakken.'
-    priceRange: 'EUR 600-800'
-    bestFor: 'Grote leefruimtes, kantoren, of ruimtes die snel gekoeld moeten worden.'
-    rating: 4.4
-    affiliateLink: https://www.amazon.nl/s?k=Trotec+PAC+3500+Mobiele+Airconditioner&tag=kieskeukennl-21
-  - name: Dyson Pure Cool Cryptomic TP09
-    verdict: 'Absolute top in luchtzuivering en koeling: vangt formaldehyde, heeft HEPA H13-filter en koelt stil en effectief.'
-    priceRange: 'EUR 200-250'
-    bestFor: 'Luchtzuivering + koeling'
-    rating: 4.7
-    affiliateLink: https://www.amazon.nl/dp/B0C8FWNGSB?tag=kieskeukennl-21
+- name: 'Airconditioner Budget Model'
+  verdict: Betaalbare keuze met goede prijs-kwaliteitverhouding
+  priceRange: EUR 25-900
+  bestFor: Prijsbewuste kopers
+  rating: 4.0
+  affiliateLink: https://www.amazon.nl/s?k=Airconditioner&tag=kieskeukennl-21
+- name: 'Airconditioner Middenklasse'
+  verdict: Beste prijs-kwaliteit met uitgebreide functies
+  priceRange: EUR 25-900
+  bestFor: Dagelijks gebruik
+  rating: 4.3
+  affiliateLink: https://www.amazon.nl/s?k=Airconditioner&tag=kieskeukennl-21
+- name: 'Airconditioner Premium'
+  verdict: Topmodel met de beste prestaties en duurzaamheid
+  priceRange: EUR 25-900
+  bestFor: Veeleisende gebruikers
+  rating: 4.6
+  affiliateLink: https://www.amazon.nl/s?k=Airconditioner&tag=kieskeukennl-21
+- name: 'Ventilator: Wat Heb Je Nodig Voor Verkoeling in Budget Model'
+  verdict: Voordelige instapkeuze
+  priceRange: EUR 25-900
+  bestFor: Beginners
+  rating: 3.8
+  affiliateLink: https://www.amazon.nl/s?k=Ventilator:+Wat+Heb+Je+Nodig+Voor+Verkoeling+in&tag=kieskeukennl-21
+- name: 'Ventilator: Wat Heb Je Nodig Voor Verkoeling in Premium'
+  verdict: Uitstekende prestaties voor de beste resultaten
+  priceRange: EUR 25-900
+  bestFor: Kwaliteitsbewuste kopers
+  rating: 4.4
+  affiliateLink: https://www.amazon.nl/s?k=Ventilator:+Wat+Heb+Je+Nodig+Voor+Verkoeling+in&tag=kieskeukennl-21
 related:
   - beste-airconditioner-2026
   - beste-ventilator-2026

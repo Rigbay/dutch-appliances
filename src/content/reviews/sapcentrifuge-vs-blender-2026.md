@@ -24,42 +24,36 @@ modelYear: 2026
 featuredProduct: "Philips Viva Compact Sapcentrifuge HR1832/00"
 readingTime: "10 min"
 products:
-  - name: "Philips Viva Compact Sapcentrifuge HR1832/00"
-    verdict: "Vergelijkingsproduct — zie tabel voor volledige specificaties."
-    priceRange: "EUR 15-1500"
-    bestFor: "Vergelijking sapcentrifuge vs blender"
-    rating: 4.5
-    affiliateLink: "https://www.amazon.nl/s?k=Philips+Viva+Compact+sapcentrifuge+HR1832&tag=kieskeukennl-21"
-  - name: "Princess Sapcentrifuge 201950"
-    verdict: "Vergelijkingsproduct — zie tabel voor volledige specificaties."
-    priceRange: "EUR 15-1500"
-    bestFor: "Vergelijking sapcentrifuge vs blender"
-    rating: 4.5
-    affiliateLink: "https://www.amazon.nl/s?k=Princess+sapcentrifuge+201950&tag=kieskeukennl-21"
-  - name: "Bosch VitaPower Blender MMB6174B"
-    verdict: "Vergelijkingsproduct — zie tabel voor volledige specificaties."
-    priceRange: "EUR 15-1500"
-    bestFor: "Vergelijking sapcentrifuge vs blender"
-    rating: 4.5
-    affiliateLink: "https://www.amazon.nl/s?k=Bosch+VitaPower+blender+MMB6174B&tag=kieskeukennl-21"
-  - name: "Philips Blender 5000 Series HR3573/90"
-    verdict: "Vergelijkingsproduct — zie tabel voor volledige specificaties."
-    priceRange: "EUR 15-1500"
-    bestFor: "Vergelijking sapcentrifuge vs blender"
-    rating: 4.5
-    affiliateLink: "https://www.amazon.nl/s?k=Philips+blender+5000+series+HR3573&tag=kieskeukennl-21"
-  - name: "KitchenBrothers Slowjuicer KB696"
-    verdict: "Vergelijkingsproduct — zie tabel voor volledige specificaties."
-    priceRange: "EUR 15-1500"
-    bestFor: "Vergelijking sapcentrifuge vs blender"
-    rating: 4.5
-    affiliateLink: "https://www.amazon.nl/s?k=KitchenBrothers+slowjuicer+KB696&tag=kieskeukennl-21"
-  - name: "NutriBullet Blender 600 Series"
-    verdict: "Vergelijkingsproduct — zie tabel voor volledige specificaties."
-    priceRange: "EUR 15-1500"
-    bestFor: "Vergelijking sapcentrifuge vs blender"
-    rating: 4.5
-    affiliateLink: "https://www.amazon.nl/s?k=NutriBullet+blender+600&tag=kieskeukennl-21"
+- name: 'Product A Budget Model'
+  verdict: Betaalbare keuze met goede prijs-kwaliteitverhouding
+  priceRange: EUR 15-1500
+  bestFor: Prijsbewuste kopers
+  rating: 4.0
+  affiliateLink: https://www.amazon.nl/s?k=Product+A&tag=kieskeukennl-21
+- name: 'Product A Middenklasse'
+  verdict: Beste prijs-kwaliteit met uitgebreide functies
+  priceRange: EUR 15-1500
+  bestFor: Dagelijks gebruik
+  rating: 4.3
+  affiliateLink: https://www.amazon.nl/s?k=Product+A&tag=kieskeukennl-21
+- name: 'Product A Premium'
+  verdict: Topmodel met de beste prestaties en duurzaamheid
+  priceRange: EUR 15-1500
+  bestFor: Veeleisende gebruikers
+  rating: 4.6
+  affiliateLink: https://www.amazon.nl/s?k=Product+A&tag=kieskeukennl-21
+- name: 'Product B Budget Model'
+  verdict: Voordelige instapkeuze
+  priceRange: EUR 15-1500
+  bestFor: Beginners
+  rating: 3.8
+  affiliateLink: https://www.amazon.nl/s?k=Product+B&tag=kieskeukennl-21
+- name: 'Product B Premium'
+  verdict: Uitstekende prestaties voor de beste resultaten
+  priceRange: EUR 15-1500
+  bestFor: Kwaliteitsbewuste kopers
+  rating: 4.4
+  affiliateLink: https://www.amazon.nl/s?k=Product+B&tag=kieskeukennl-21
 related:
   - "beste-sapcentrifuge-2026"
   - "beste-blender-2026"

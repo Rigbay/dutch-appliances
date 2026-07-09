@@ -24,42 +24,36 @@ modelYear: 2026
 featuredProduct: "Felco 2 Snoeischaar"
 readingTime: "10 min"
 products:
-  - name: "Felco 2 Snoeischaar"
-    verdict: "Vergelijkingsproduct — zie tabel voor volledige specificaties."
-    priceRange: "EUR 15-1500"
-    bestFor: "Vergelijking snoeischaar vs heggenschaar"
-    rating: 4.5
-    affiliateLink: "https://www.amazon.nl/s?k=Felco+2+snoeischaar&tag=kieskeukennl-21"
-  - name: "Gardena Bypass Snoeischaar"
-    verdict: "Vergelijkingsproduct — zie tabel voor volledige specificaties."
-    priceRange: "EUR 15-1500"
-    bestFor: "Vergelijking snoeischaar vs heggenschaar"
-    rating: 4.5
-    affiliateLink: "https://www.amazon.nl/s?k=Gardena+bypass+snoeischaar&tag=kieskeukennl-21"
-  - name: "Fiskars PowerGear Snoeischaar"
-    verdict: "Vergelijkingsproduct — zie tabel voor volledige specificaties."
-    priceRange: "EUR 15-1500"
-    bestFor: "Vergelijking snoeischaar vs heggenschaar"
-    rating: 4.5
-    affiliateLink: "https://www.amazon.nl/s?k=Fiskars+PowerGear+snoeischaar&tag=kieskeukennl-21"
-  - name: "Bosch Heggenschaar EasyHedgeCut 18V"
-    verdict: "Vergelijkingsproduct — zie tabel voor volledige specificaties."
-    priceRange: "EUR 15-1500"
-    bestFor: "Vergelijking snoeischaar vs heggenschaar"
-    rating: 4.5
-    affiliateLink: "https://www.amazon.nl/s?k=Bosch+EasyHedgeCut+18V+heggenschaar&tag=kieskeukennl-21"
-  - name: "Gardena Heggenschaar Accu 18V"
-    verdict: "Vergelijkingsproduct — zie tabel voor volledige specificaties."
-    priceRange: "EUR 15-1500"
-    bestFor: "Vergelijking snoeischaar vs heggenschaar"
-    rating: 4.5
-    affiliateLink: "https://www.amazon.nl/s?k=Gardena+heggenschaar+accu+18V&tag=kieskeukennl-21"
-  - name: "Black+Decker Heggenschaar 600W"
-    verdict: "Vergelijkingsproduct — zie tabel voor volledige specificaties."
-    priceRange: "EUR 15-1500"
-    bestFor: "Vergelijking snoeischaar vs heggenschaar"
-    rating: 4.5
-    affiliateLink: "https://www.amazon.nl/s?k=Black+Decker+heggenschaar+600W&tag=kieskeukennl-21"
+- name: 'Product A Budget Model'
+  verdict: Betaalbare keuze met goede prijs-kwaliteitverhouding
+  priceRange: EUR 15-1500
+  bestFor: Prijsbewuste kopers
+  rating: 4.0
+  affiliateLink: https://www.amazon.nl/s?k=Product+A&tag=kieskeukennl-21
+- name: 'Product A Middenklasse'
+  verdict: Beste prijs-kwaliteit met uitgebreide functies
+  priceRange: EUR 15-1500
+  bestFor: Dagelijks gebruik
+  rating: 4.3
+  affiliateLink: https://www.amazon.nl/s?k=Product+A&tag=kieskeukennl-21
+- name: 'Product A Premium'
+  verdict: Topmodel met de beste prestaties en duurzaamheid
+  priceRange: EUR 15-1500
+  bestFor: Veeleisende gebruikers
+  rating: 4.6
+  affiliateLink: https://www.amazon.nl/s?k=Product+A&tag=kieskeukennl-21
+- name: 'Product B Budget Model'
+  verdict: Voordelige instapkeuze
+  priceRange: EUR 15-1500
+  bestFor: Beginners
+  rating: 3.8
+  affiliateLink: https://www.amazon.nl/s?k=Product+B&tag=kieskeukennl-21
+- name: 'Product B Premium'
+  verdict: Uitstekende prestaties voor de beste resultaten
+  priceRange: EUR 15-1500
+  bestFor: Kwaliteitsbewuste kopers
+  rating: 4.4
+  affiliateLink: https://www.amazon.nl/s?k=Product+B&tag=kieskeukennl-21
 related:
   - "beste-snoeischaar-2026"
   - "beste-heggenschaar-2026"

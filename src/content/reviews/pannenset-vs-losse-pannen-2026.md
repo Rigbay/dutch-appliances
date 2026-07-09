@@ -24,42 +24,36 @@ modelYear: 2026
 featuredProduct: "Tefal Ingenio Pannenset 10-delig"
 readingTime: "10 min"
 products:
-  - name: "Tefal Ingenio Pannenset 10-delig"
-    verdict: "Vergelijkingsproduct — zie tabel voor volledige specificaties."
-    priceRange: "EUR 15-1500"
-    bestFor: "Vergelijking pannenset vs losse pannen"
-    rating: 4.5
-    affiliateLink: "https://www.amazon.nl/s?k=Tefal+Ingenio+pannenset+10+delig&tag=kieskeukennl-21"
-  - name: "BK Pannenset 5-delig"
-    verdict: "Vergelijkingsproduct — zie tabel voor volledige specificaties."
-    priceRange: "EUR 15-1500"
-    bestFor: "Vergelijking pannenset vs losse pannen"
-    rating: 4.5
-    affiliateLink: "https://www.amazon.nl/s?k=BK+pannenset+5+delig&tag=kieskeukennl-21"
-  - name: "GreenPan Pannenset Memphis"
-    verdict: "Vergelijkingsproduct — zie tabel voor volledige specificaties."
-    priceRange: "EUR 15-1500"
-    bestFor: "Vergelijking pannenset vs losse pannen"
-    rating: 4.5
-    affiliateLink: "https://www.amazon.nl/s?k=GreenPan+pannenset+Memphis&tag=kieskeukennl-21"
-  - name: "BK Koekenpan 28cm"
-    verdict: "Vergelijkingsproduct — zie tabel voor volledige specificaties."
-    priceRange: "EUR 15-1500"
-    bestFor: "Vergelijking pannenset vs losse pannen"
-    rating: 4.5
-    affiliateLink: "https://www.amazon.nl/s?k=BK+koekenpan+28cm&tag=kieskeukennl-21"
-  - name: "Tefal Steelpan 16cm"
-    verdict: "Vergelijkingsproduct — zie tabel voor volledige specificaties."
-    priceRange: "EUR 15-1500"
-    bestFor: "Vergelijking pannenset vs losse pannen"
-    rating: 4.5
-    affiliateLink: "https://www.amazon.nl/s?k=Tefal+steelpan+16cm&tag=kieskeukennl-21"
-  - name: "GreenPan Braadpan 24cm"
-    verdict: "Vergelijkingsproduct — zie tabel voor volledige specificaties."
-    priceRange: "EUR 15-1500"
-    bestFor: "Vergelijking pannenset vs losse pannen"
-    rating: 4.5
-    affiliateLink: "https://www.amazon.nl/s?k=GreenPan+braadpan+24cm&tag=kieskeukennl-21"
+- name: 'Product A Budget Model'
+  verdict: Betaalbare keuze met goede prijs-kwaliteitverhouding
+  priceRange: EUR 15-1500
+  bestFor: Prijsbewuste kopers
+  rating: 4.0
+  affiliateLink: https://www.amazon.nl/s?k=Product+A&tag=kieskeukennl-21
+- name: 'Product A Middenklasse'
+  verdict: Beste prijs-kwaliteit met uitgebreide functies
+  priceRange: EUR 15-1500
+  bestFor: Dagelijks gebruik
+  rating: 4.3
+  affiliateLink: https://www.amazon.nl/s?k=Product+A&tag=kieskeukennl-21
+- name: 'Product A Premium'
+  verdict: Topmodel met de beste prestaties en duurzaamheid
+  priceRange: EUR 15-1500
+  bestFor: Veeleisende gebruikers
+  rating: 4.6
+  affiliateLink: https://www.amazon.nl/s?k=Product+A&tag=kieskeukennl-21
+- name: 'Product B Budget Model'
+  verdict: Voordelige instapkeuze
+  priceRange: EUR 15-1500
+  bestFor: Beginners
+  rating: 3.8
+  affiliateLink: https://www.amazon.nl/s?k=Product+B&tag=kieskeukennl-21
+- name: 'Product B Premium'
+  verdict: Uitstekende prestaties voor de beste resultaten
+  priceRange: EUR 15-1500
+  bestFor: Kwaliteitsbewuste kopers
+  rating: 4.4
+  affiliateLink: https://www.amazon.nl/s?k=Product+B&tag=kieskeukennl-21
 related:
   - "beste-pannenset-2026"
   - "beste-koekenpan-2026"

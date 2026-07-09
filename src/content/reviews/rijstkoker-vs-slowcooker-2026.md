@@ -25,42 +25,36 @@ modelYear: 2026
 featuredProduct: "Yum Asia Panda vs. Crock-Pot Slowcooker"
 readingTime: "9 min"
 products:
-  - name: "Yum Asia Panda Mini"
-    verdict: "Beste compacte rijstkoker met fuzzy logic — perfecte rijst elke keer, ook voor kleine huishoudens."
-    priceRange: "EUR 70-90"
-    bestFor: "Rijstliefhebbers die elke korrel perfect willen"
-    rating: 4.7
-    affiliateLink: "https://www.amazon.nl/s?k=Yum+Asia+Panda+Mini+rijstkoker&tag=kieskeukennl-21"
-  - name: "Crock-Pot Slowcooker 4.7L"
-    verdict: "De klassieke slowcooker — betrouwbaar, eenvoudig en perfect voor stoofschotels."
-    priceRange: "EUR 70-100"
-    bestFor: "Gezinnen die van stoofvlees en soepen houden"
-    rating: 4.5
-    affiliateLink: "https://www.amazon.nl/s?k=Crock-Pot+Slowcooker+4.7L&tag=kieskeukennl-21"
-  - name: "Instant Pot Duo 7-in-1"
-    verdict: "Multifunctioneel wonder — rijstkoker én slowcooker in één, plus snelkookpan en meer."
-    priceRange: "EUR 100-140"
-    bestFor: "De ultieme alles-in-één oplossing"
-    rating: 4.6
-    affiliateLink: "https://www.amazon.nl/s?k=Instant+Pot+Duo+7-in-1&tag=kieskeukennl-21"
-  - name: "Russell Hobbs Rijstkoker 1.8L"
-    verdict: "Betaalbare rijstkoker met stoommandje — rijst koken en tegelijk groenten stomen."
-    priceRange: "EUR 30-45"
-    bestFor: "Budgetbewuste rijsteters die ook willen stomen"
-    rating: 4.3
-    affiliateLink: "https://www.amazon.nl/s?k=Russell+Hobbs+Rijstkoker+1.8L&tag=kieskeukennl-21"
-  - name: "Russell Hobbs Slowcooker 3.5L"
-    verdict: "Compacte slowcooker voor kleinere porties — ideaal voor 1-2 personen."
-    priceRange: "EUR 40-60"
-    bestFor: "Alleenstaanden en stellen die van slowcooking houden"
-    rating: 4.2
-    affiliateLink: "https://www.amazon.nl/s?k=Russell+Hobbs+Slowcooker+3.5L&tag=kieskeukennl-21"
-  - name: "Cuckoo CR-0632F Rijstkoker"
-    verdict: "Premium Koreaanse rijstkoker met drukfunctie — restaurantkwaliteit rijst thuis."
-    priceRange: "EUR 150-200"
-    bestFor: "Serieuze rijstliefhebbers die het beste willen"
-    rating: 4.8
-    affiliateLink: "https://www.amazon.nl/s?k=Cuckoo+CR-0632F+rijstkoker&tag=kieskeukennl-21"
+- name: 'Product A Budget Model'
+  verdict: Betaalbare keuze met goede prijs-kwaliteitverhouding
+  priceRange: EUR 30-200
+  bestFor: Prijsbewuste kopers
+  rating: 4.0
+  affiliateLink: https://www.amazon.nl/s?k=Product+A&tag=kieskeukennl-21
+- name: 'Product A Middenklasse'
+  verdict: Beste prijs-kwaliteit met uitgebreide functies
+  priceRange: EUR 30-200
+  bestFor: Dagelijks gebruik
+  rating: 4.3
+  affiliateLink: https://www.amazon.nl/s?k=Product+A&tag=kieskeukennl-21
+- name: 'Product A Premium'
+  verdict: Topmodel met de beste prestaties en duurzaamheid
+  priceRange: EUR 30-200
+  bestFor: Veeleisende gebruikers
+  rating: 4.6
+  affiliateLink: https://www.amazon.nl/s?k=Product+A&tag=kieskeukennl-21
+- name: 'Product B Budget Model'
+  verdict: Voordelige instapkeuze
+  priceRange: EUR 30-200
+  bestFor: Beginners
+  rating: 3.8
+  affiliateLink: https://www.amazon.nl/s?k=Product+B&tag=kieskeukennl-21
+- name: 'Product B Premium'
+  verdict: Uitstekende prestaties voor de beste resultaten
+  priceRange: EUR 30-200
+  bestFor: Kwaliteitsbewuste kopers
+  rating: 4.4
+  affiliateLink: https://www.amazon.nl/s?k=Product+B&tag=kieskeukennl-21
 related:
   - "beste-rijstkoker-2026"
   - "beste-slowcooker-2026"

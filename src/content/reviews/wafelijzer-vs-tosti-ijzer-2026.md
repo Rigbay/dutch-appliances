@@ -25,42 +25,36 @@ modelYear: 2026
 featuredProduct: "Princess Wafelijzer vs. Tefal Snack Collection"
 readingTime: "8 min"
 products:
-  - name: "Princess Bubble Wafelijzer 132010"
-    verdict: "Populair wafelijzer voor dikke Belgische wafels — instelbare bruiningsgraad."
-    priceRange: "EUR 30-45"
-    bestFor: "Gezinnen die van dikke, luchtige wafels houden"
-    rating: 4.4
-    affiliateLink: "https://www.amazon.nl/s?k=Princess+Bubble+Wafelijzer+132010&tag=kieskeukennl-21"
-  - name: "Tefal Snack Collection SW854D"
-    verdict: "Verwisselbare platen — tosti's, wafels, panini's en grillen in één apparaat."
-    priceRange: "EUR 60-90"
-    bestFor: "All-in-one oplossing voor wie beide wil"
-    rating: 4.5
-    affiliateLink: "https://www.amazon.nl/s?k=Tefal+Snack+Collection+SW854D&tag=kieskeukennl-21"
-  - name: "Princess Tosti-ijzer 3-in-1 112370"
-    verdict: "Betaalbaar tosti-ijzer met verwisselbare platen voor tosti's, wafels en grillen."
-    priceRange: "EUR 25-35"
-    bestFor: "Budgetbewuste huishoudens die flexibiliteit willen"
-    rating: 4.2
-    affiliateLink: "https://www.amazon.nl/s?k=Princess+Tosti-ijzer+3-in-1+112370&tag=kieskeukennl-21"
-  - name: "Nostalgia MWF5AQ Wafelijzer"
-    verdict: "Retro-design wafelijzer — maakt 5 mini-wafels tegelijk, perfect voor kinderen."
-    priceRange: "EUR 40-60"
-    bestFor: "Gezinnen met kinderen die van mini-wafels houden"
-    rating: 4.3
-    affiliateLink: "https://www.amazon.nl/s?k=Nostalgia+MWF5AQ+Wafelijzer&tag=kieskeukennl-21"
-  - name: "Tefal Optigrill+ XL GC722D"
-    verdict: "Premium grill met automatische programma's — ook voor tosti's, maar geen wafels."
-    priceRange: "EUR 120-180"
-    bestFor: "Serieuze thuiskoks die grillen belangrijker vinden dan wafels"
-    rating: 4.6
-    affiliateLink: "https://www.amazon.nl/s?k=Tefal+Optigrill%2B+XL+GC722D&tag=kieskeukennl-21"
-  - name: "Domo DO9047W Wafelijzer"
-    verdict: "Compact wafelijzer voor hartvormige wafels — schattig en functioneel."
-    priceRange: "EUR 20-30"
-    bestFor: "Kleine keukens en romantische ontbijtjes"
-    rating: 4.1
-    affiliateLink: "https://www.amazon.nl/s?k=Domo+DO9047W+Wafelijzer&tag=kieskeukennl-21"
+- name: 'Product A Budget Model'
+  verdict: Betaalbare keuze met goede prijs-kwaliteitverhouding
+  priceRange: EUR 20-150
+  bestFor: Prijsbewuste kopers
+  rating: 4.0
+  affiliateLink: https://www.amazon.nl/s?k=Product+A&tag=kieskeukennl-21
+- name: 'Product A Middenklasse'
+  verdict: Beste prijs-kwaliteit met uitgebreide functies
+  priceRange: EUR 20-150
+  bestFor: Dagelijks gebruik
+  rating: 4.3
+  affiliateLink: https://www.amazon.nl/s?k=Product+A&tag=kieskeukennl-21
+- name: 'Product A Premium'
+  verdict: Topmodel met de beste prestaties en duurzaamheid
+  priceRange: EUR 20-150
+  bestFor: Veeleisende gebruikers
+  rating: 4.6
+  affiliateLink: https://www.amazon.nl/s?k=Product+A&tag=kieskeukennl-21
+- name: 'Product B Budget Model'
+  verdict: Voordelige instapkeuze
+  priceRange: EUR 20-150
+  bestFor: Beginners
+  rating: 3.8
+  affiliateLink: https://www.amazon.nl/s?k=Product+B&tag=kieskeukennl-21
+- name: 'Product B Premium'
+  verdict: Uitstekende prestaties voor de beste resultaten
+  priceRange: EUR 20-150
+  bestFor: Kwaliteitsbewuste kopers
+  rating: 4.4
+  affiliateLink: https://www.amazon.nl/s?k=Product+B&tag=kieskeukennl-21
 related:
   - "beste-wafelijzer-2026"
   - "beste-tosti-ijzer-2026"

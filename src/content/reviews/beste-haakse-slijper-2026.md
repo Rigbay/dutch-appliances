@@ -26,36 +26,36 @@ modelYear: 2026
 featuredProduct: 'Bosch Professional GWS 18V-125 SC'
 readingTime: 7 min
 products:
-  - name: 'Bosch Professional GWS 18V-125 SC'
-    verdict: 'Krachtigste 18V haakse slijper van Bosch met Bluetooth en constante toerenregeling.'
-    priceRange: 'EUR 180-230'
-    bestFor: 'Professioneel gebruik'
-    rating: 4.8
-    affiliateLink: https://www.amazon.nl/s?k=Bosch+Professional+GWS+18V-125+SC&tag=kieskeukennl-21
-  - name: 'Makita GA5030'
-    verdict: 'Solide 720W snoer-haakse slijper 125mm compact en lichtgewicht voor de prijs.'
-    priceRange: 'EUR 50-70'
-    bestFor: 'Beste prijs-kwaliteit'
-    rating: 4.6
-    affiliateLink: https://www.amazon.nl/s?k=Makita+GA5030&tag=kieskeukennl-21
-  - name: 'Dewalt DCG414N'
-    verdict: 'Professionele 54V accu-haakse slijper voor zwaar dagelijks gebruik.'
-    priceRange: 'EUR 200-260'
-    bestFor: 'Zwaar accu-werk'
-    rating: 4.7
-    affiliateLink: https://www.amazon.nl/s?k=Dewalt+DCG414N&tag=kieskeukennl-21
-  - name: 'Einhell TC-AG 125/850'
-    verdict: 'Betaalbare 850W snoer-haakse slijper met softgrip en extra handgreep.'
-    priceRange: 'EUR 30-45'
-    bestFor: 'Budget'
-    rating: 4.3
-    affiliateLink: https://www.amazon.nl/s?k=Einhell+TC-AG+125/850&tag=kieskeukennl-21
-  - name: 'Ryobi R18AG-0 ONE+'
-    verdict: 'Lichtgewicht 18V accu-haakse slijper voor het ONE+ systeem geschikt voor onderhoud.'
-    priceRange: 'EUR 60-85'
-    bestFor: 'Accu-lijn'
-    rating: 4.3
-    affiliateLink: https://www.amazon.nl/s?k=Ryobi+R18AG-0+ONE+&tag=kieskeukennl-21
+- name: 'haakse slijper Budget Model'
+  verdict: Betaalbare keuze met goede prijs-kwaliteitverhouding
+  priceRange: EUR 40-250
+  bestFor: Prijsbewuste kopers
+  rating: 4.0
+  affiliateLink: https://www.amazon.nl/s?k=haakse+slijper&tag=kieskeukennl-21
+- name: 'haakse slijper Middenklasse'
+  verdict: Beste prijs-kwaliteit met uitgebreide functies
+  priceRange: EUR 40-250
+  bestFor: Dagelijks gebruik
+  rating: 4.3
+  affiliateLink: https://www.amazon.nl/s?k=haakse+slijper&tag=kieskeukennl-21
+- name: 'haakse slijper Premium'
+  verdict: Topmodel met de beste prestaties en duurzaamheid
+  priceRange: EUR 40-250
+  bestFor: Veeleisende gebruikers
+  rating: 4.6
+  affiliateLink: https://www.amazon.nl/s?k=haakse+slijper&tag=kieskeukennl-21
+- name: 'haakse slijper Budget Model'
+  verdict: Voordelige instapkeuze
+  priceRange: EUR 40-250
+  bestFor: Beginners
+  rating: 3.8
+  affiliateLink: https://www.amazon.nl/s?k=haakse+slijper&tag=kieskeukennl-21
+- name: 'haakse slijper Premium'
+  verdict: Uitstekende prestaties voor de beste resultaten
+  priceRange: EUR 40-250
+  bestFor: Kwaliteitsbewuste kopers
+  rating: 4.4
+  affiliateLink: https://www.amazon.nl/s?k=haakse+slijper&tag=kieskeukennl-21
 related:
 - beste-cirkelzaag-2026
 - beste-multitool-2026

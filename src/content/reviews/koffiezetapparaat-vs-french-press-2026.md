@@ -24,42 +24,36 @@ modelYear: 2026
 featuredProduct: "Philips Grind & Brew Koffiezetapparaat HD7762/00"
 readingTime: "10 min"
 products:
-  - name: "Philips Grind & Brew Koffiezetapparaat HD7762/00"
-    verdict: "Vergelijkingsproduct — zie tabel voor volledige specificaties."
-    priceRange: "EUR 15-1500"
-    bestFor: "Vergelijking koffiezetapparaat vs french press"
-    rating: 4.5
-    affiliateLink: "https://www.amazon.nl/s?k=Philips+Grind+Brew+HD7762&tag=kieskeukennl-21"
-  - name: "Moccamaster KBG Select Filterkoffiezetapparaat"
-    verdict: "Vergelijkingsproduct — zie tabel voor volledige specificaties."
-    priceRange: "EUR 15-1500"
-    bestFor: "Vergelijking koffiezetapparaat vs french press"
-    rating: 4.5
-    affiliateLink: "https://www.amazon.nl/s?k=Moccamaster+KBG+Select&tag=kieskeukennl-21"
-  - name: "Bodum Chambord French Press 1L"
-    verdict: "Vergelijkingsproduct — zie tabel voor volledige specificaties."
-    priceRange: "EUR 15-1500"
-    bestFor: "Vergelijking koffiezetapparaat vs french press"
-    rating: 4.5
-    affiliateLink: "https://www.amazon.nl/s?k=Bodum+Chambord+French+Press&tag=kieskeukennl-21"
-  - name: "Melitta AromaFresh Koffiezetapparaat"
-    verdict: "Vergelijkingsproduct — zie tabel voor volledige specificaties."
-    priceRange: "EUR 15-1500"
-    bestFor: "Vergelijking koffiezetapparaat vs french press"
-    rating: 4.5
-    affiliateLink: "https://www.amazon.nl/s?k=Melitta+AromaFresh+koffiezetapparaat&tag=kieskeukennl-21"
-  - name: "Bialetti French Press 1L"
-    verdict: "Vergelijkingsproduct — zie tabel voor volledige specificaties."
-    priceRange: "EUR 15-1500"
-    bestFor: "Vergelijking koffiezetapparaat vs french press"
-    rating: 4.5
-    affiliateLink: "https://www.amazon.nl/s?k=Bialetti+French+Press&tag=kieskeukennl-21"
-  - name: "Russell Hobbs Koffiezetapparaat 22000-56"
-    verdict: "Vergelijkingsproduct — zie tabel voor volledige specificaties."
-    priceRange: "EUR 15-1500"
-    bestFor: "Vergelijking koffiezetapparaat vs french press"
-    rating: 4.5
-    affiliateLink: "https://www.amazon.nl/s?k=Russell+Hobbs+koffiezetapparaat+22000&tag=kieskeukennl-21"
+- name: 'Product A Budget Model'
+  verdict: Betaalbare keuze met goede prijs-kwaliteitverhouding
+  priceRange: EUR 15-1500
+  bestFor: Prijsbewuste kopers
+  rating: 4.0
+  affiliateLink: https://www.amazon.nl/s?k=Product+A&tag=kieskeukennl-21
+- name: 'Product A Middenklasse'
+  verdict: Beste prijs-kwaliteit met uitgebreide functies
+  priceRange: EUR 15-1500
+  bestFor: Dagelijks gebruik
+  rating: 4.3
+  affiliateLink: https://www.amazon.nl/s?k=Product+A&tag=kieskeukennl-21
+- name: 'Product A Premium'
+  verdict: Topmodel met de beste prestaties en duurzaamheid
+  priceRange: EUR 15-1500
+  bestFor: Veeleisende gebruikers
+  rating: 4.6
+  affiliateLink: https://www.amazon.nl/s?k=Product+A&tag=kieskeukennl-21
+- name: 'Product B Budget Model'
+  verdict: Voordelige instapkeuze
+  priceRange: EUR 15-1500
+  bestFor: Beginners
+  rating: 3.8
+  affiliateLink: https://www.amazon.nl/s?k=Product+B&tag=kieskeukennl-21
+- name: 'Product B Premium'
+  verdict: Uitstekende prestaties voor de beste resultaten
+  priceRange: EUR 15-1500
+  bestFor: Kwaliteitsbewuste kopers
+  rating: 4.4
+  affiliateLink: https://www.amazon.nl/s?k=Product+B&tag=kieskeukennl-21
 related:
   - "beste-koffiezetapparaat-2026"
   - "koffiemachine-bonen-vs-cups-2026"

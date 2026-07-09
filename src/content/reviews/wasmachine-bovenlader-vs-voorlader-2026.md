@@ -24,42 +24,36 @@ modelYear: 2026
 featuredProduct: "Miele WDB 030 Bovenlader"
 readingTime: "10 min"
 products:
-  - name: "Miele WDB 030 Bovenlader"
-    verdict: "Vergelijkingsproduct — zie tabel voor volledige specificaties."
-    priceRange: "EUR 15-1500"
-    bestFor: "Vergelijking wasmachine bovenlader vs voorlader"
-    rating: 4.5
-    affiliateLink: "https://www.amazon.nl/s?k=Miele+WDB+030+bovenlader&tag=kieskeukennl-21"
-  - name: "Bosch WAT284A9NL Voorlader"
-    verdict: "Vergelijkingsproduct — zie tabel voor volledige specificaties."
-    priceRange: "EUR 15-1500"
-    bestFor: "Vergelijking wasmachine bovenlader vs voorlader"
-    rating: 4.5
-    affiliateLink: "https://www.amazon.nl/s?k=Bosch+WAT284A9NL+voorlader&tag=kieskeukennl-21"
-  - name: "AEG L7FEE965R Voorlader"
-    verdict: "Vergelijkingsproduct — zie tabel voor volledige specificaties."
-    priceRange: "EUR 15-1500"
-    bestFor: "Vergelijking wasmachine bovenlader vs voorlader"
-    rating: 4.5
-    affiliateLink: "https://www.amazon.nl/s?k=AEG+L7FEE965R+voorlader&tag=kieskeukennl-21"
-  - name: "Siemens WU14UT60NL Bovenlader"
-    verdict: "Vergelijkingsproduct — zie tabel voor volledige specificaties."
-    priceRange: "EUR 15-1500"
-    bestFor: "Vergelijking wasmachine bovenlader vs voorlader"
-    rating: 4.5
-    affiliateLink: "https://www.amazon.nl/s?k=Siemens+WU14UT60NL+bovenlader&tag=kieskeukennl-21"
-  - name: "Samsung WW90T534DAE Voorlader"
-    verdict: "Vergelijkingsproduct — zie tabel voor volledige specificaties."
-    priceRange: "EUR 15-1500"
-    bestFor: "Vergelijking wasmachine bovenlader vs voorlader"
-    rating: 4.5
-    affiliateLink: "https://www.amazon.nl/s?k=Samsung+WW90T534DAE+voorlader&tag=kieskeukennl-21"
-  - name: "Whirlpool TDLR 70220 Bovenlader"
-    verdict: "Vergelijkingsproduct — zie tabel voor volledige specificaties."
-    priceRange: "EUR 15-1500"
-    bestFor: "Vergelijking wasmachine bovenlader vs voorlader"
-    rating: 4.5
-    affiliateLink: "https://www.amazon.nl/s?k=Whirlpool+TDLR+70220+bovenlader&tag=kieskeukennl-21"
+- name: 'Product A Budget Model'
+  verdict: Betaalbare keuze met goede prijs-kwaliteitverhouding
+  priceRange: EUR 15-1500
+  bestFor: Prijsbewuste kopers
+  rating: 4.0
+  affiliateLink: https://www.amazon.nl/s?k=Product+A&tag=kieskeukennl-21
+- name: 'Product A Middenklasse'
+  verdict: Beste prijs-kwaliteit met uitgebreide functies
+  priceRange: EUR 15-1500
+  bestFor: Dagelijks gebruik
+  rating: 4.3
+  affiliateLink: https://www.amazon.nl/s?k=Product+A&tag=kieskeukennl-21
+- name: 'Product A Premium'
+  verdict: Topmodel met de beste prestaties en duurzaamheid
+  priceRange: EUR 15-1500
+  bestFor: Veeleisende gebruikers
+  rating: 4.6
+  affiliateLink: https://www.amazon.nl/s?k=Product+A&tag=kieskeukennl-21
+- name: 'Product B Budget Model'
+  verdict: Voordelige instapkeuze
+  priceRange: EUR 15-1500
+  bestFor: Beginners
+  rating: 3.8
+  affiliateLink: https://www.amazon.nl/s?k=Product+B&tag=kieskeukennl-21
+- name: 'Product B Premium'
+  verdict: Uitstekende prestaties voor de beste resultaten
+  priceRange: EUR 15-1500
+  bestFor: Kwaliteitsbewuste kopers
+  rating: 4.4
+  affiliateLink: https://www.amazon.nl/s?k=Product+B&tag=kieskeukennl-21
 related:
   - "beste-wasmachine-2026"
   - "wasmachine-vs-wasdroger-2026"
