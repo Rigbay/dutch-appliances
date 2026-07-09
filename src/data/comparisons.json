@@ -1,26 +1,179 @@
 [
   {
+    "slug": "inductie-vs-gasfornuis-2026",
+    "title": "Inductie vs. Gasfornuis 2026: De ultieme kookplaatvergelijking",
+    "category": "keuken",
+    "rating": 4.8,
+    "priceRange": "EUR 200-3000",
+    "readingTime": "11 min",
+    "description": "Nieuwe keuken of vervanging van je kookplaat? Vergelijk inductie en gas"
+  },
+  {
+    "slug": "airfryer-vs-heteluchtoven-2026",
+    "title": "Airfryer vs Heteluchtoven 2026: Heb Je Beide Nodig Of Is Eén Genoeg?",
+    "category": "keuken",
+    "rating": 4.7,
+    "priceRange": "EUR 60-900",
+    "readingTime": "9 min",
+    "description": "Airfryer of heteluchtoven? Vergelijk snelheid, energieverbruik, capaciteit"
+  },
+  {
+    "slug": "espresso-vs-filterkoffie-2026",
+    "title": "Espresso vs. Filterkoffie 2026: Welke Zetmethode Past bij Jouw Smaak?",
+    "category": "keuken",
+    "rating": 4.7,
+    "priceRange": "EUR 40-1500",
+    "readingTime": "11 min",
+    "description": "Espresso of filterkoffie? Vergelijk smaakprofiel, cafeïnegehalte, apparatuur"
+  },
+  {
+    "slug": "koffiemachine-bonen-vs-cups-2026",
+    "title": "Bonen vs. Cups Koffiemachine 2026: Welke koffie past bij jou?",
+    "category": "keuken",
+    "rating": 4.7,
+    "priceRange": "EUR 80-1500",
+    "readingTime": "11 min",
+    "description": "Versgemalen bonen of gemak van cups? Vergelijk bonen- en cup-koffiemachines"
+  },
+  {
+    "slug": "koffiemachine-vs-senseo-2026",
+    "title": "Koffiemachine vs. Senseo 2026: Welk Koffiesysteem Past bij Jou?",
+    "category": "keuken",
+    "rating": 4.7,
+    "priceRange": "EUR 50-1500",
+    "readingTime": "12 min",
+    "description": "Volautomatisch bonenapparaat, filterkoffie of Senseo padsysteem? Vergelijk"
+  },
+  {
+    "slug": "nespresso-vs-dolce-gusto-2026",
+    "title": "Nespresso vs Dolce Gusto 2026: Welk Koffiecup Systeem Past Bij Jou?",
+    "category": "keuken",
+    "rating": 4.7,
+    "priceRange": "EUR 50-500",
+    "readingTime": "10 min",
+    "description": "Nespresso of Dolce Gusto? Vergelijk smaak, kosten per kop, capsuleprijzen"
+  },
+  {
+    "slug": "airfryer-vs-oven-2026",
+    "title": "Airfryer vs. Oven 2026: Welke is echt gezonder en zuiniger?",
+    "category": "keuken",
+    "rating": 4.6,
+    "priceRange": "EUR 50-1400",
+    "readingTime": "12 min",
+    "description": "Twijfel je tussen een airfryer en een (hetelucht)oven? Ontdek de verschillen"
+  },
+  {
+    "slug": "blender-vs-staafmixer-vs-keukenmachine-2026",
+    "title": "Blender vs. Staafmixer vs. Keukenmachine: Welke Heb Je Écht Nodig in 2026?",
+    "category": "keuken",
+    "rating": 4.6,
+    "priceRange": "EUR 25-600",
+    "readingTime": "12 min",
+    "description": "Blender, staafmixer of keukenmachine? Ontdek in deze uitgebreide vergelijking"
+  },
+  {
+    "slug": "condensdroger-vs-warmtepompdroger-2026",
+    "title": "Condensdroger vs. Warmtepompdroger 2026: Welke Wasdroger Bespaart Jouw Geld?",
+    "category": "huishoudelijk",
+    "rating": 4.6,
+    "priceRange": "EUR 300-1200",
+    "readingTime": "11 min",
+    "description": "Condensdroger of warmtepompdroger? Vergelijk energiekosten, droogtijd,"
+  },
+  {
+    "slug": "koelkast-vs-koelvriescombinatie-2026",
+    "title": "Koelkast vs. Koelkast-Vriezer Combinatie: Welke Past Bij Jouw Keuken in 2026?",
+    "category": "keuken",
+    "rating": 4.6,
+    "priceRange": "EUR 500-3500",
+    "readingTime": "10 min",
+    "description": "Twijfel je tussen een losse koelkast en een koelkast-vriezer combinatie? Vergelijk ruimte, energieverbruik, prijs en functionaliteit voor de beste keuze."
+  },
+  {
+    "slug": "robotgrasmaaier-vs-grasmaaier-2026",
+    "title": "Robotgrasmaaier vs. Gewone Grasmaaier 2026: Automatisch Maaien of Zelf Doen?",
+    "category": "tuin",
+    "rating": 4.6,
+    "priceRange": "EUR 100-2500",
+    "readingTime": "12 min",
+    "description": "Twijfel je tussen een robotgrasmaaier en een gewone grasmaaier? Vergelijk"
+  },
+  {
+    "slug": "robotstofzuiger-vs-dweilrobot-2026",
+    "title": "Robotstofzuiger vs. Dweilrobot 2026: Apart of Gecombineerd — Wat is Slimmer?",
+    "category": "schoonmaken",
+    "rating": 4.6,
+    "priceRange": "EUR 150-1500",
+    "readingTime": "12 min",
+    "description": "Robotstofzuiger, dweilrobot of een combi? Vergelijk schoonmaakresultaat,"
+  },
+  {
+    "slug": "robotstofzuiger-vs-stofzuiger-2026",
+    "title": "Robotstofzuiger vs. Gewone Stofzuiger 2026: Wat is slimmer voor jou?",
+    "category": "schoonmaken",
+    "rating": 4.6,
+    "priceRange": "EUR 80-1200",
+    "readingTime": "10 min",
+    "description": "Automatisch dagelijks stofzuigen of zelf grondig reinigen? Vergelijk"
+  },
+  {
+    "slug": "strijkijzer-vs-stoomgenerator-2026",
+    "title": "Strijkijzer vs Stoomgenerator 2026: Wat Is De Beste Keuze Voor Jouw Wasgoed?",
+    "category": "huishoudelijk",
+    "rating": 4.6,
+    "priceRange": "EUR 40-600",
+    "readingTime": "9 min",
+    "description": "Strijkijzer of stoomgenerator? Vergelijk prijs, stoomkracht, gebruiksgemak"
+  },
+  {
+    "slug": "tosti-ijzer-vs-broodrooster-2026",
+    "title": "Tosti-ijzer vs. Broodrooster 2026: Welke Past Bij Jouw Broodroutine?",
+    "category": "keuken",
+    "rating": 4.6,
+    "priceRange": "EUR 15-120",
+    "readingTime": "9 min",
+    "description": "Tosti-ijzer of broodrooster? Of allebei? Vergelijk functies, gebruiksgemak"
+  },
+  {
+    "slug": "vaatwasser-vs-handafwas-2026",
+    "title": "Vaatwasser vs Handafwas 2026: Wat Is Goedkoper, Sneller en Hygiënischer?",
+    "category": "keuken",
+    "rating": 4.6,
+    "priceRange": "EUR 0-1200",
+    "readingTime": "9 min",
+    "description": "Vaatwasser of handafwas? Vergelijk kosten, waterverbruik, hygiëne en tijdsbesparing."
+  },
+  {
+    "slug": "wasmachine-vs-wasdroger-combi-2026",
+    "title": "Wasmachine + Aparte Droger vs. Wasdroogcombinatie 2026: Wat is voordeliger?",
+    "category": "huishoudelijk",
+    "rating": 4.6,
+    "priceRange": "EUR 400-2000",
+    "readingTime": "10 min",
+    "description": "Losse wasmachine en droger of een 2-in-1 wasdroogcombinatie? Vergelijk"
+  },
+  {
+    "slug": "waterkoker-vs-quooker-2026",
+    "title": "Waterkoker vs. Quooker 2026: Kokend Water uit de Kraan of Los Apparaat?",
+    "category": "keuken",
+    "rating": 4.6,
+    "priceRange": "EUR 30-1500",
+    "readingTime": "11 min",
+    "description": "Waterkoker of Quooker kraan? Vergelijk aanschafprijs, energieverbruik,"
+  },
+  {
     "slug": "airconditioner-vs-luchtkoeler-2026",
     "title": "Airconditioner vs. Luchtkoeler 2026: Welke Houdt Jouw Huis Koel deze Zomer?",
     "category": "huishoudelijk",
     "rating": 4.5,
     "priceRange": "EUR 40-1500",
     "readingTime": "10 min",
-    "description": "Vergelijk airconditioner vs luchtkoeler in 2026. Eerlijke koopgids met prijzen, voor- en nadelen en Amazon NL affiliate links (tag: kieskeukennl-21)."
-  },
-  {
-    "slug": "airconditioner-vs-ventilator-2026",
-    "title": "Airconditioner vs. Ventilator: Wat Heb Je Nodig Voor Verkoeling in 2026?",
-    "category": "huishoudelijk",
-    "rating": 4.4,
-    "priceRange": "EUR 25-900",
-    "readingTime": "10 min",
-    "description": "Airco of ventilator voor de zomer? Vergelijk prijs, koelvermogen, energieverbruik en geluidsniveau. Maak de juiste keuze voor jouw huis."
+    "description": "Vergelijk airconditioner vs luchtkoeler in 2026. Eerlijke koopgids met"
   },
   {
     "slug": "airfryer-vs-elektrische-grill-2026",
     "title": "Airfryer vs. Elektrische Grill 2026: Welke Is de Beste Allrounder voor Snel en Gezond Koken?",
-    "category": "keuken",
+    "category": "'keuken'",
     "rating": 4.5,
     "priceRange": "EUR 40-250",
     "readingTime": "9 min",
@@ -33,16 +186,7 @@
     "rating": 4.5,
     "priceRange": "EUR 50-400",
     "readingTime": "10 min",
-    "description": "Twijfel je tussen een airfryer en een frituurpan? Ontdek in deze gids 2026 wat voor jou het beste is voor knapperige friet en snacks. Lees onze vergelijking!"
-  },
-  {
-    "slug": "airfryer-vs-heteluchtoven-2026",
-    "title": "Airfryer vs Heteluchtoven 2026: Heb Je Beide Nodig Of Is Eén Genoeg?",
-    "category": "keuken",
-    "rating": 4.7,
-    "priceRange": "EUR 60-900",
-    "readingTime": "9 min",
-    "description": "Airfryer of heteluchtoven? Vergelijk snelheid, energieverbruik, capaciteit en kookresultaat. Ontdek in 2026 of je beide apparaten nodig hebt of dat één volstaat."
+    "description": "Twijfel je tussen een airfryer en een frituurpan? Ontdek in deze gids"
   },
   {
     "slug": "airfryer-vs-magnetron-2026",
@@ -51,21 +195,12 @@
     "rating": 4.5,
     "priceRange": "EUR 50-400",
     "readingTime": "11 min",
-    "description": "Twijfel je tussen een airfryer of magnetron? Ontdek de verschillen in bereiding, snelheid, energieverbruik en veelzijdigheid. Complete vergelijking 2026."
-  },
-  {
-    "slug": "airfryer-vs-oven-2026",
-    "title": "Airfryer vs. Oven 2026: Welke is echt gezonder en zuiniger?",
-    "category": "keuken",
-    "rating": 4.6,
-    "priceRange": "EUR 50-1400",
-    "readingTime": "12 min",
-    "description": "Twijfel je tussen een airfryer en een (hetelucht)oven? Ontdek de verschillen in snelheid, energieverbruik en resultaat in deze vergelijking voor 2026."
+    "description": "Twijfel je tussen een airfryer of magnetron? Ontdek de verschillen in"
   },
   {
     "slug": "airfryer-vs-slowcooker-2026",
     "title": "Airfryer vs. Slowcooker 2026: Snel Krokant of Langzaam Smaakvol — Welke Past bij Jou?",
-    "category": "keuken",
+    "category": "\"keuken\"",
     "rating": 4.5,
     "priceRange": "EUR 15-1500",
     "readingTime": "10 min",
@@ -74,7 +209,7 @@
   {
     "slug": "airfryer-vs-stoomoven-2026",
     "title": "Airfryer vs. Stoomoven 2026: Welke Is Gezonder en Veelzijdiger?",
-    "category": "keuken",
+    "category": "'keuken'",
     "rating": 4.5,
     "priceRange": "EUR 70-500",
     "readingTime": "9 min",
@@ -87,7 +222,7 @@
     "rating": 4.5,
     "priceRange": "EUR 30-1300",
     "readingTime": "11 min",
-    "description": "Barbecue op houtskool, gas of toch een elektrische grill? Vergelijk smaak, gebruiksgemak, kosten en ruimte voor Nederlandse tuinen en balkons in 2026."
+    "description": "Barbecue op houtskool, gas of toch een elektrische grill? Vergelijk smaak,"
   },
   {
     "slug": "barbecue-vs-gourmetstel-2026",
@@ -99,13 +234,13 @@
     "description": "Barbecue of gourmetstel? Vergelijk smaak, gebruiksgemak, kosten en sfeer. Ontdek wat het beste past bij jouw tuinfeest in 2026."
   },
   {
-    "slug": "blender-vs-staafmixer-vs-keukenmachine-2026",
-    "title": "Blender vs. Staafmixer vs. Keukenmachine: Welke Heb Je Écht Nodig in 2026?",
-    "category": "keuken",
-    "rating": 4.6,
-    "priceRange": "EUR 25-600",
-    "readingTime": "12 min",
-    "description": "Blender, staafmixer of keukenmachine? Ontdek in deze uitgebreide vergelijking welk apparaat het beste bij jouw kookstijl past. Koopgids 2026 met top 6 producten."
+    "slug": "braadpan-vs-wokpan-2026",
+    "title": "Braadpan vs. Wokpan 2026: Stoofpot of Roerbak — Welke Pan Past bij Jouw Kookstijl?",
+    "category": "\"keuken\"",
+    "rating": 4.5,
+    "priceRange": "EUR 15-1500",
+    "readingTime": "10 min",
+    "description": "Vergelijk braadpan vs wokpan in 2026. Eerlijke koopgids met prijzen, voor- en nadelen en Amazon NL affiliate links (tag: kieskeukennl-21)."
   },
   {
     "slug": "broodmachine-vs-zelf-bakken-2026",
@@ -117,15 +252,6 @@
     "description": "Broodmachine vs. Zelf Brood Bakken 2026 vergeleken: prijs, gebruiksgemak, prestaties en verborgen nadelen. Eerlijke keuzehulp met Amazon NL affiliate links (kieskeukennl-21)."
   },
   {
-    "slug": "broodrooster-vs-tosti-ijzer-2026",
-    "title": "Broodrooster vs. Tosti-ijzer 2026: Welke Past Bij Jouw Ontbijt- en Lunchroutine?",
-    "category": "keuken",
-    "rating": 4.4,
-    "priceRange": "EUR 20-220",
-    "readingTime": "10 min",
-    "description": "Broodrooster vs. Tosti-ijzer 2026 vergeleken: gebruiksgemak, veelzijdigheid, prijs en schoonmaakgemak. Eerlijke keuzehulp met Amazon NL affiliate links."
-  },
-  {
     "slug": "cirkelzaag-vs-decoupeerzaag-2026",
     "title": "Cirkelzaag vs. Decoupeerzaag: Welke Zaag Voor Welke Klus in 2026?",
     "category": "tuin",
@@ -135,13 +261,13 @@
     "description": "Cirkelzaag of decoupeerzaag — of allebei? Vergelijk rechte zaagsnedes vs. bochten, materialen, precisie en de beste modellen voor elke klus."
   },
   {
-    "slug": "condensdroger-vs-warmtepompdroger-2026",
-    "title": "Condensdroger vs. Warmtepompdroger 2026: Welke Wasdroger Bespaart Jouw Geld?",
-    "category": "huishoudelijk",
-    "rating": 4.6,
-    "priceRange": "EUR 300-1200",
-    "readingTime": "11 min",
-    "description": "Condensdroger of warmtepompdroger? Vergelijk energiekosten, droogtijd, aanschafprijs en levensduur. Ontdek welke droger in 2026 het beste bij jouw huishouden past."
+    "slug": "elektrische-deken-vs-infraroodpaneel-2026",
+    "title": "Elektrische Deken vs. Infraroodpaneel 2026: Persoonlijk Verwarmen of de Hele Kamer — Wat Bespaart Meer?",
+    "category": "\"huishouden\"",
+    "rating": 4.5,
+    "priceRange": "EUR 15-1500",
+    "readingTime": "10 min",
+    "description": "Vergelijk elektrische deken vs infraroodpaneel in 2026. Eerlijke koopgids met prijzen, voor- en nadelen en Amazon NL affiliate links (tag: kieskeukennl-21)."
   },
   {
     "slug": "elektrische-grasmaaier-vs-benzine-grasmaaier-2026",
@@ -155,38 +281,20 @@
   {
     "slug": "elektrische-kachel-vs-infraroodpaneel-2026",
     "title": "elektrische kachel versus infraroodpaneel — wat is de beste bijverwarming voor jouw huis?",
-    "category": "huishoudelijk",
+    "category": "\"huishoudelijk\"",
     "rating": 4.5,
     "priceRange": "EUR 25-500+",
     "readingTime": "7",
     "description": "Vergelijk elektrische kachel vs infraroodpaneel in 2026. Ontdek de voor- en nadelen, prijsvergelijking en welke het beste bij jouw situatie past."
   },
   {
-    "slug": "espresso-apparaat-vs-volautomatisch",
+    "slug": "espresso-apparaat-vs-volautomatisch-2026",
     "title": "Espresso Apparaat vs. Volautomatische Koffiemachine 2026: Handwerk of Gemak — Welke Past bij Jou?",
-    "category": "keuken",
+    "category": "\"keuken\"",
     "rating": 4.5,
     "priceRange": "EUR 150-2500",
     "readingTime": "10 min",
     "description": "Vergelijk espresso apparaat vs volautomatische koffiemachine in 2026. Eerlijke koopgids met prijzen, voor- en nadelen en Amazon NL affiliate links (tag: kieskeukennl-21)."
-  },
-  {
-    "slug": "espresso-vs-filterkoffie-2026",
-    "title": "Espresso vs. Filterkoffie 2026: Welke Zetmethode Past bij Jouw Smaak?",
-    "category": "keuken",
-    "rating": 4.7,
-    "priceRange": "EUR 40-1500",
-    "readingTime": "11 min",
-    "description": "Espresso of filterkoffie? Vergelijk smaakprofiel, cafeïnegehalte, apparatuur en prijs per kopje. Vind de beste koffiezetmethode voor jou in 2026."
-  },
-  {
-    "slug": "filterkoffie-vs-koffiecups",
-    "title": "Filterkoffie vs. Koffiecups 2026: Voordelig Zetten of Supersnel Gemak — Wat Past bij Jou?",
-    "category": "keuken",
-    "rating": 4.4,
-    "priceRange": "EUR 30-300",
-    "readingTime": "9 min",
-    "description": "Vergelijk filterkoffie vs koffiecups in 2026. Eerlijke koopgids met prijzen, voor- en nadelen en Amazon NL affiliate links (tag: kieskeukennl-21)."
   },
   {
     "slug": "gasbarbecue-vs-houtskoolbarbecue-2026",
@@ -198,22 +306,13 @@
     "description": "Gasbarbecue vs. Houtskoolbarbecue 2026 vergeleken: prijs, gebruiksgemak, prestaties en verborgen nadelen. Eerlijke keuzehulp met Amazon NL affiliate links (kieskeukennl-21)."
   },
   {
-    "slug": "hakmolen-vs-keukenmachine-2026",
-    "title": "Hakmolen vs. Keukenmachine: Wanneer Is Een Kleine Hakker Genoeg? Vergelijking 2026",
-    "category": "keuken",
-    "rating": 4.4,
-    "priceRange": "EUR 10-600",
-    "readingTime": "9 min",
-    "description": "Hakmolen of keukenmachine — wat heb je écht nodig? Vergelijk formaat, functies, prijs en ontdek welke het beste past bij jouw kookroutine."
-  },
-  {
     "slug": "handmixer-vs-keukenmachine-2026",
     "title": "Handmixer vs. Keukenmachine 2026: Welke Past Bij Jouw Bak- en Kookroutine?",
     "category": "keuken",
     "rating": 4.5,
     "priceRange": "EUR 25-800",
     "readingTime": "10 min",
-    "description": "Handmixer of keukenmachine? Beslag kloppen, deeg kneden, hakken of pureren — elk apparaat heeft z'n sterke kanten. Vergelijking 2026 met prijzen en Amazon NL aanbevelingen."
+    "description": "Handmixer of keukenmachine? Beslag kloppen, deeg kneden, hakken of pureren"
   },
   {
     "slug": "handmixer-vs-staafmixer-2026",
@@ -227,7 +326,7 @@
   {
     "slug": "heggenschaar-vs-bosmaaier-2026",
     "title": "heggenschaar versus bosmaaier — welk tuingereedschap heb je nodig voor jouw tuin?",
-    "category": "tuin",
+    "category": "\"tuin\"",
     "rating": 4.5,
     "priceRange": "EUR 40 - 400",
     "readingTime": "8 min",
@@ -236,7 +335,7 @@
   {
     "slug": "hogedrukreiniger-vs-tuinslang-2026",
     "title": "Hogedrukreiniger vs. Tuinslang 2026: Wat Is de Beste Keuze voor Jouw Terras en Oprit?",
-    "category": "tuin",
+    "category": "'tuin'",
     "rating": 4.5,
     "priceRange": "EUR 15-500",
     "readingTime": "8 min",
@@ -249,30 +348,21 @@
     "rating": 4.5,
     "priceRange": "EUR 25-300",
     "readingTime": "9 min",
-    "description": "IJsmachine of zelf ijs maken in de diepvries? Vergelijk snelheid, romigheid, gebruiksgemak en kosten. Welke methode geeft het lekkerste resultaat in 2026?"
-  },
-  {
-    "slug": "inductie-vs-gasfornuis-2026",
-    "title": "Inductie vs. Gasfornuis 2026: De ultieme kookplaatvergelijking",
-    "category": "keuken",
-    "rating": 4.8,
-    "priceRange": "EUR 200-3000",
-    "readingTime": "11 min",
-    "description": "Nieuwe keuken of vervanging van je kookplaat? Vergelijk inductie en gas op snelheid, energieverbruik, veiligheid en kookresultaat. Complete gids voor 2026."
+    "description": "IJsmachine of zelf ijs maken in de diepvries? Vergelijk snelheid, romigheid, gebruiksgemak en kosten. Welke methode"
   },
   {
     "slug": "inductie-vs-keramisch-2026",
-    "title": "Inductie vs. Keramische Kookplaat 2026: Snelheid vs. Budget — Wat Past bij Jou?",
+    "title": "Inductie vs. Keramische Kookplaat 2026: Snelheid vs. Budget — Wat Past bij",
     "category": "keuken",
     "rating": 4.5,
     "priceRange": "EUR 40-1500",
     "readingTime": "10 min",
-    "description": "Vergelijk inductie vs keramisch in 2026. Eerlijke koopgids met prijzen, voor- en nadelen en Amazon NL affiliate links (tag: kieskeukennl-21)."
+    "description": "Vergelijk inductie vs keramisch in 2026. Eerlijke koopgids met prijzen,"
   },
   {
     "slug": "kettingzaag-vs-handzaag-2026",
     "title": "kettingzaag versus handzaag — welk zaaggereedschap voor jouw klus?",
-    "category": "tuin",
+    "category": "\"tuin\"",
     "rating": 4.5,
     "priceRange": "EUR 150-300",
     "readingTime": "8",
@@ -299,38 +389,11 @@
   {
     "slug": "koelkast-vs-amerikaanse-koelkast-2026",
     "title": "Koelkast vs. Amerikaanse Koelkast 2026: Welke Past Bij Jouw Keuken en Huishouden?",
-    "category": "keuken",
+    "category": "'keuken'",
     "rating": 4.5,
     "priceRange": "EUR 300-2500",
     "readingTime": "10 min",
     "description": "Standaard koelkast of Amerikaanse koelkast in 2026? Vergelijk ruimte, kosten en energieverbruik. Koopadvies op Amazon.nl (tag: kieskeukennl-21)."
-  },
-  {
-    "slug": "koelkast-vs-koelvriescombinatie-2026",
-    "title": "Koelkast vs. Koelkast-Vriezer Combinatie: Welke Past Bij Jouw Keuken in 2026?",
-    "category": "keuken",
-    "rating": 4.6,
-    "priceRange": "EUR 500-3500",
-    "readingTime": "10 min",
-    "description": "Twijfel je tussen een losse koelkast en een koelkast-vriezer combinatie? Vergelijk ruimte, energieverbruik, prijs en functionaliteit voor de beste keuze."
-  },
-  {
-    "slug": "koffiemachine-bonen-vs-cups-2026",
-    "title": "Bonen vs. Cups Koffiemachine 2026: Welke koffie past bij jou?",
-    "category": "keuken",
-    "rating": 4.7,
-    "priceRange": "EUR 80-1500",
-    "readingTime": "11 min",
-    "description": "Versgemalen bonen of gemak van cups? Vergelijk bonen- en cup-koffiemachines op smaak, prijs per kopje, duurzaamheid en gemak in onze complete gids voor 2026."
-  },
-  {
-    "slug": "koffiemachine-vs-senseo-2026",
-    "title": "Koffiemachine vs. Senseo 2026: Welk Koffiesysteem Past bij Jou?",
-    "category": "keuken",
-    "rating": 4.7,
-    "priceRange": "EUR 50-1500",
-    "readingTime": "12 min",
-    "description": "Volautomatisch bonenapparaat, filterkoffie of Senseo padsysteem? Vergelijk smaak, prijs per kopje, gemak en duurzaamheid. Complete koopgids 2026."
   },
   {
     "slug": "koffiemachine-vs-volautomatische-koffiemachine-2026",
@@ -344,7 +407,7 @@
   {
     "slug": "koffiemolen-vs-voorgemalen-koffie-2026",
     "title": "Koffiemolen vs. Voorgemalen Koffie 2026: Wat Is Lekkerder én Voordeliger?",
-    "category": "keuken",
+    "category": "'keuken'",
     "rating": 4.5,
     "priceRange": "EUR 30-300",
     "readingTime": "9 min",
@@ -353,7 +416,7 @@
   {
     "slug": "koffiezetapparaat-vs-french-press-2026",
     "title": "Koffiezetapparaat vs. French Press 2026: Gemak vs. Smaak — Welke Zet Jij?",
-    "category": "keuken",
+    "category": "\"keuken\"",
     "rating": 4.5,
     "priceRange": "EUR 15-1500",
     "readingTime": "10 min",
@@ -361,21 +424,12 @@
   },
   {
     "slug": "luchtreiniger-vs-luchtbevochtiger-2026",
-    "title": "Luchtreiniger vs. Luchtbevochtiger 2026: Wat Heb Je Nodig voor een Gezond Binnenklimaat?",
+    "title": "Luchtreiniger vs. Luchtbevochtiger 2026: Wat Heb Je Nodig voor een Gezond",
     "category": "huishoudelijk",
     "rating": 4.5,
     "priceRange": "EUR 40-600",
     "readingTime": "11 min",
-    "description": "Luchtreiniger of luchtbevochtiger? Of allebei? Ontdek het verschil en vind de beste oplossing voor allergieën, droge lucht of stof in huis. Vergelijking 2026."
-  },
-  {
-    "slug": "magnetron-vs-combi-magnetron-2026",
-    "title": "Magnetron vs. Combi-Magnetron 2026: Is Een Combi de Meerprijs Waard?",
-    "category": "keuken",
-    "rating": 4.4,
-    "priceRange": "EUR 15-400",
-    "readingTime": "10 min",
-    "description": "Magnetron vs. Combi-Magnetron 2026 vergeleken: prijs, functies, energieverbruik en nadelen. Is een combi-magnetron de meerprijs waard? Eerlijke keuzehulp."
+    "description": "Luchtreiniger of luchtbevochtiger? Of allebei? Ontdek het verschil en"
   },
   {
     "slug": "magnetron-vs-heteluchtoven-2026",
@@ -396,18 +450,9 @@
     "description": "Mobiele Airco vs. Split-Unit Airco 2026 vergeleken: prijs, gebruiksgemak, prestaties en verborgen nadelen. Eerlijke keuzehulp met Amazon NL affiliate links (kieskeukennl-21)."
   },
   {
-    "slug": "nespresso-vs-dolce-gusto-2026",
-    "title": "Nespresso vs Dolce Gusto 2026: Welk Koffiecup Systeem Past Bij Jou?",
-    "category": "keuken",
-    "rating": 4.7,
-    "priceRange": "EUR 50-500",
-    "readingTime": "10 min",
-    "description": "Nespresso of Dolce Gusto? Vergelijk smaak, kosten per kop, capsuleprijzen en machine-aanbod. Ontdek in 2026 welk cupsysteem het beste bij jouw koffiemoment past."
-  },
-  {
-    "slug": "nespresso-vs-espresso-apparaat",
+    "slug": "nespresso-vs-espresso-apparaat-2026",
     "title": "Nespresso vs. Espresso Apparaat 2026: Supersnel Gemak of Authentiek Handwerk — Welke Past bij Jou?",
-    "category": "keuken",
+    "category": "\"keuken\"",
     "rating": 4.5,
     "priceRange": "EUR 80-1500",
     "readingTime": "10 min",
@@ -416,7 +461,7 @@
   {
     "slug": "nespresso-vs-senseo-2026",
     "title": "Nespresso vs. Senseo 2026: Welk Koffiepad-Systeem Past Bij Jouw Ochtendroutine?",
-    "category": "keuken",
+    "category": "'keuken'",
     "rating": 4.5,
     "priceRange": "EUR 60-400",
     "readingTime": "10 min",
@@ -425,20 +470,20 @@
   {
     "slug": "ontvochtiger-vs-luchtbevochtiger-2026",
     "title": "Ontvochtiger vs. Luchtbevochtiger 2026: Welke Heb Je Nodig voor een Gezond Binnenklimaat?",
-    "category": "huishoudelijk",
+    "category": "'huishoudelijk'",
     "rating": 4.5,
     "priceRange": "EUR 40-400",
     "readingTime": "9 min",
     "description": "Ontdek welk apparaat jouw binnenklimaat verbetert in 2026: ontvochtiger of luchtbevochtiger? Lees onze koopgids en vind de beste modellen op Amazon.nl! [kieskeukennl-21]"
   },
   {
-    "slug": "oven-vs-magnetron-2026",
-    "title": "Oven vs Magnetron 2026: Wat Verwarmt Jouw Eten Beter en Sneller?",
-    "category": "keuken",
-    "rating": 4.4,
-    "priceRange": "EUR 0-1000",
-    "readingTime": "8 min lezen",
-    "description": "Oven of magnetron? Vergelijk snelheid, elektriciteitsverbruik, veelzijdigheid en kwaliteit van voedsel. Beslis welke past bij jouw keuken in 2026."
+    "slug": "pannenset-vs-losse-pannen-2026",
+    "title": "Pannenset vs. Losse Pannen 2026: Complete Set of Zelf Samenstellen — Wat is Slimmer?",
+    "category": "\"keuken\"",
+    "rating": 4.5,
+    "priceRange": "EUR 15-1500",
+    "readingTime": "10 min",
+    "description": "Vergelijk pannenset vs losse pannen in 2026. Eerlijke koopgids met prijzen, voor- en nadelen en Amazon NL affiliate links (tag: kieskeukennl-21)."
   },
   {
     "slug": "pizza-oven-vs-gewone-oven-2026",
@@ -447,34 +492,7 @@
     "rating": 4.5,
     "priceRange": "EUR 80-800",
     "readingTime": "10 min",
-    "description": "Pizza oven of gewone oven? Vergelijk temperatuur, baktijd, korstresultaat en kosten. Heb je een aparte pizza oven nodig voor restaurantkwaliteit thuis?"
-  },
-  {
-    "slug": "rijstkoker-vs-slowcooker",
-    "title": "Rijstkoker vs. Slowcooker 2026: Perfecte Rijst of Langzaam Sudderen — Welke Past bij Jou?",
-    "category": "keuken",
-    "rating": 4.4,
-    "priceRange": "EUR 30-200",
-    "readingTime": "9 min",
-    "description": "Vergelijk rijstkoker vs slowcooker in 2026. Eerlijke koopgids met prijzen, voor- en nadelen en Amazon NL affiliate links (tag: kieskeukennl-21)."
-  },
-  {
-    "slug": "robotgrasmaaier-vs-grasmaaier-2026",
-    "title": "Robotgrasmaaier vs. Gewone Grasmaaier 2026: Automatisch Maaien of Zelf Doen?",
-    "category": "tuin",
-    "rating": 4.6,
-    "priceRange": "EUR 100-2500",
-    "readingTime": "12 min",
-    "description": "Twijfel je tussen een robotgrasmaaier en een gewone grasmaaier? Vergelijk gemak, kosten, maaikwaliteit en onderhoud. Eerlijke head-to-head met prijzen en verborgen nadelen."
-  },
-  {
-    "slug": "robotstofzuiger-vs-dweilrobot-2026",
-    "title": "Robotstofzuiger vs. Dweilrobot 2026: Apart of Gecombineerd — Wat is Slimmer?",
-    "category": "schoonmaken",
-    "rating": 4.6,
-    "priceRange": "EUR 150-1500",
-    "readingTime": "12 min",
-    "description": "Robotstofzuiger, dweilrobot of een combi? Vergelijk schoonmaakresultaat, onderhoud en prijs van de beste modellen in 2026. Bespaar je tijd of juist geld?"
+    "description": "Pizza oven of gewone oven? Vergelijk temperatuur, baktijd, korstresultaat en kosten. Heb je een aparte pizza"
   },
   {
     "slug": "robotstofzuiger-vs-steelstofzuiger-2026",
@@ -486,18 +504,9 @@
     "description": "Robotstofzuiger vs steelstofzuiger in 2026: de ultieme vergelijking. Ontdek welke stofzuiger het beste past bij jouw levensstijl, budget en schoonmaakbehoeften."
   },
   {
-    "slug": "robotstofzuiger-vs-stofzuiger-2026",
-    "title": "Robotstofzuiger vs. Gewone Stofzuiger 2026: Wat is slimmer voor jou?",
-    "category": "schoonmaken",
-    "rating": 4.6,
-    "priceRange": "EUR 80-1200",
-    "readingTime": "10 min",
-    "description": "Automatisch dagelijks stofzuigen of zelf grondig reinigen? Vergelijk robotstofzuigers met traditionele stofzuigers op gemak, grondigheid, prijs en gebruikskosten."
-  },
-  {
     "slug": "sapcentrifuge-vs-blender-2026",
     "title": "Sapcentrifuge vs. Blender 2026: Sap of Smoothie — Wat Past bij Jouw Gezonde Routine?",
-    "category": "keuken",
+    "category": "\"keuken\"",
     "rating": 4.5,
     "priceRange": "EUR 15-1500",
     "readingTime": "10 min",
@@ -510,12 +519,12 @@
     "rating": 4.5,
     "priceRange": "EUR 40-600",
     "readingTime": "10 min",
-    "description": "Sapcentrifuge of slowjuicer? Ontdek het verschil in snelheid, sapopbrengst, voedingswaarde en prijs. Eerlijke vergelijking 2026 met Amazon NL aanbevelingen."
+    "description": "Sapcentrifuge of slowjuicer? Ontdek het verschil in snelheid, sapopbrengst,"
   },
   {
     "slug": "slowcooker-vs-snelkookpan-2026",
     "title": "Slowcooker vs. Snelkookpan 2026: Langzaam Garen of Supersnel Koken?",
-    "category": "keuken",
+    "category": "'keuken'",
     "rating": 4.5,
     "priceRange": "EUR 40-250",
     "readingTime": "9 min",
@@ -528,16 +537,16 @@
     "rating": 4.5,
     "priceRange": "EUR 50-1500",
     "readingTime": "11 min",
-    "description": "Slowcooker of stoomoven: welke past bij jou? Vergelijk gezondheid, bereidingstijd, smaak en kosten. Heldere keuzehulp met productaanbevelingen en prijzen."
+    "description": "Slowcooker of stoomoven: welke past bij jou? Vergelijk gezondheid, bereidingstijd,"
   },
   {
-    "slug": "soepmaker-vs-staafmixer-2026",
-    "title": "Soepmaker vs. Staafmixer 2026: Wat Heb Je Echt Nodig Voor Perfecte Soep?",
-    "category": "keuken",
-    "rating": 4.4,
-    "priceRange": "EUR 15-400",
+    "slug": "snoeischaar-vs-heggenschaar-2026",
+    "title": "Snoeischaar vs. Heggenschaar 2026: Precisie Snoeien of Meters Maken — Welk Gereedschap voor Jouw Tuin?",
+    "category": "\"tuin\"",
+    "rating": 4.5,
+    "priceRange": "EUR 15-1500",
     "readingTime": "10 min",
-    "description": "Soepmaker vs. Staafmixer 2026 vergeleken: resultaat, gebruiksgemak, veelzijdigheid en prijs. Is een soepmaker de investering waard?"
+    "description": "Vergelijk snoeischaar vs heggenschaar in 2026. Eerlijke koopgids met prijzen, voor- en nadelen en Amazon NL affiliate links (tag: kieskeukennl-21)."
   },
   {
     "slug": "staafmixer-vs-blender-2026",
@@ -555,34 +564,25 @@
     "rating": 4.5,
     "priceRange": "EUR 100-800",
     "readingTime": "11 min",
-    "description": "Steelstofzuiger of draadloze stofzuiger? Vergelijk zuigkracht, accuduur, gewicht en prijs. Ontdek in 2026 welk type stofzuiger het beste bij jou past."
+    "description": "Steelstofzuiger of draadloze stofzuiger? Vergelijk zuigkracht, accuduur,"
   },
   {
     "slug": "stofzuiger-met-zak-vs-zakloos-2026",
-    "title": "Stofzuiger met Zak vs. Zakloos 2026: De Ultieme Vergelijking voor een Schoon Huis",
+    "title": "Stofzuiger met Zak vs. Zakloos 2026: De Ultieme Vergelijking voor een Schoon",
     "category": "schoonmaken",
     "rating": 4.5,
     "priceRange": "EUR 60-500",
     "readingTime": "11 min",
-    "description": "Twijfel je tussen een stofzuiger met zak of zakloos? Vergelijk hygiëne, onderhoud, kosten en prestaties. Complete gids met de 6 beste modellen van 2026."
+    "description": "Twijfel je tussen een stofzuiger met zak of zakloos? Vergelijk hygiëne,"
   },
   {
     "slug": "stofzuiger-vs-bezem-2026",
     "title": "Stofzuiger vs. Bezem 2026: Wanneer is een Bezem Beter dan een Stofzuiger?",
-    "category": "schoonmaken",
+    "category": "\"schoonmaken\"",
     "rating": 4.5,
     "priceRange": "EUR 15-1500",
     "readingTime": "10 min",
     "description": "Vergelijk stofzuiger vs bezem in 2026. Eerlijke koopgids met prijzen, voor- en nadelen en Amazon NL affiliate links (tag: kieskeukennl-21)."
-  },
-  {
-    "slug": "stofzuiger-vs-kruimeldief-2026",
-    "title": "Stofzuiger vs. Kruimeldief 2026: Heb Je Beide Nodig Of Is Eén Genoeg?",
-    "category": "schoonmaken",
-    "rating": 4.4,
-    "priceRange": "EUR 15-400",
-    "readingTime": "10 min",
-    "description": "Stofzuiger vs. Kruimeldief 2026 vergeleken: gebruiksgemak, zuigkracht, prijs en batterijduur. Heb je beide nodig? Eerlijke keuzehulp."
   },
   {
     "slug": "stofzuiger-vs-steelstofzuiger-2026",
@@ -591,7 +591,7 @@
     "rating": 4.5,
     "priceRange": "EUR 50-800",
     "readingTime": "10 min",
-    "description": "Twijfel je tussen een traditionele stofzuiger met snoer en een draadloze steelstofzuiger? Vergelijk zuigkracht, gebruiksgemak, prijs en levensduur in onze gids voor 2026."
+    "description": "Twijfel je tussen een traditionele stofzuiger met snoer en een draadloze"
   },
   {
     "slug": "stoomreiniger-vs-hogedrukreiniger-2026",
@@ -600,75 +600,30 @@
     "rating": 4.5,
     "priceRange": "EUR 40-1500",
     "readingTime": "10 min",
-    "description": "Vergelijk stoomreiniger vs hogedrukreiniger in 2026. Eerlijke koopgids met prijzen, voor- en nadelen en Amazon NL affiliate links (tag: kieskeukennl-21)."
-  },
-  {
-    "slug": "strijkijzer-vs-handstomer-2026",
-    "title": "Strijkijzer vs. Handstomer 2026: Wat Is Beter Voor Kreukvrije Kleding?",
-    "category": "huishoudelijk",
-    "rating": 4.4,
-    "priceRange": "EUR 15-400",
-    "readingTime": "10 min",
-    "description": "Strijkijzer vs. Handstomer 2026 vergeleken: resultaat, gebruiksgemak, prijs en geschiktheid per stofsoort. Welke past bij jouw kledingkast?"
-  },
-  {
-    "slug": "strijkijzer-vs-stoomgenerator-2026",
-    "title": "Strijkijzer vs Stoomgenerator 2026: Wat Is De Beste Keuze Voor Jouw Wasgoed?",
-    "category": "huishoudelijk",
-    "rating": 4.6,
-    "priceRange": "EUR 40-600",
-    "readingTime": "9 min",
-    "description": "Strijkijzer of stoomgenerator? Vergelijk prijs, stoomkracht, gebruiksgemak en strijksnelheid. Ontdek in 2026 welke strijkoplossing het beste bij jouw huishouden past."
+    "description": "Vergelijk stoomreiniger vs hogedrukreiniger in 2026. Eerlijke koopgids"
   },
   {
     "slug": "tapijtreiniger-vs-stoomreiniger-2026",
     "title": "tapijtreiniger versus stoomreiniger — welke reiniger maakt jouw vloeren en meubels écht schoon?",
-    "category": "schoonmaken",
+    "category": "\"schoonmaken\"",
     "rating": 4.5,
     "priceRange": "EUR 180-250",
     "readingTime": "8",
     "description": "Vergelijk tapijtreiniger vs stoomreiniger in 2026. Ontdek de voor- en nadelen, prijsvergelijking en welke het beste bij jouw situatie past."
   },
   {
-    "slug": "tosti-ijzer-vs-broodrooster-2026",
-    "title": "Tosti-ijzer vs. Broodrooster 2026: Welke Past Bij Jouw Broodroutine?",
-    "category": "keuken",
-    "rating": 4.6,
-    "priceRange": "EUR 15-120",
-    "readingTime": "9 min",
-    "description": "Tosti-ijzer of broodrooster? Of allebei? Vergelijk functies, gebruiksgemak en prijs. Ontdek welk apparaat past bij jouw ontbijt- en lunchgewoontes in 2026."
-  },
-  {
     "slug": "vaatwasser-inbouw-vs-vrijstaand-2026",
     "title": "Inbouw vs. Vrijstaande Vaatwasser 2026: Welke Past in Jouw Keuken?",
-    "category": "keuken",
+    "category": "'keuken'",
     "rating": 4.5,
     "priceRange": "EUR 350-1500",
     "readingTime": "9 min",
     "description": "Twijfel je tussen een inbouw of vrijstaande vaatwasser? Ontdek de verschillen in design, installatie en kosten met onze koopgids voor 2026 op Amazon.nl (kieskeukennl-21)."
   },
   {
-    "slug": "vaatwasser-vs-handafwas-2026",
-    "title": "Vaatwasser vs Handafwas 2026: Wat Is Goedkoper, Sneller en Hygiënischer?",
-    "category": "keuken",
-    "rating": 4.6,
-    "priceRange": "EUR 0-1200",
-    "readingTime": "9 min",
-    "description": "Vaatwasser of handafwas? Vergelijk kosten, waterverbruik, hygiëne en tijdsbesparing. Ontdek in 2026 welke afwasmethode het beste is voor jouw huishouden."
-  },
-  {
-    "slug": "wafelijzer-vs-tosti-ijzer",
-    "title": "Wafelijzer vs. Tosti-ijzer 2026: Zoete Wafels of Hartige Tosti's — Welke Past bij Jou?",
-    "category": "keuken",
-    "rating": 4.3,
-    "priceRange": "EUR 20-150",
-    "readingTime": "8 min",
-    "description": "Vergelijk wafelijzer vs tosti-ijzer in 2026. Eerlijke koopgids met prijzen, voor- en nadelen en Amazon NL affiliate links (tag: kieskeukennl-21)."
-  },
-  {
     "slug": "wasdroger-vs-droogrek-2026",
     "title": "Wasdroger vs. Droogrek 2026: Wat Is Écht Goedkoper en Beter voor Je Was?",
-    "category": "huishoudelijk",
+    "category": "'huishoudelijk'",
     "rating": 4.5,
     "priceRange": "EUR 15-1200",
     "readingTime": "9 min",
@@ -677,7 +632,7 @@
   {
     "slug": "wasmachine-bovenlader-vs-voorlader-2026",
     "title": "Wasmachine Bovenlader vs. Voorlader 2026: Ruimte, Gemak en Wasresultaat Vergeleken",
-    "category": "huishoudelijk",
+    "category": "\"huishoudelijk\"",
     "rating": 4.5,
     "priceRange": "EUR 15-1500",
     "readingTime": "10 min",
@@ -693,39 +648,147 @@
     "description": "Ontdek de diepgaande vergelijking tussen een wasmachine en wasdroger in 2026. Leer welke het beste bij jouw behoeften past op basis van energie, kosten en gemak."
   },
   {
-    "slug": "wasmachine-vs-wasdroger-combi-2026",
-    "title": "Wasmachine + Aparte Droger vs. Wasdroogcombinatie 2026: Wat is voordeliger?",
-    "category": "huishoudelijk",
-    "rating": 4.6,
-    "priceRange": "EUR 400-2000",
-    "readingTime": "10 min",
-    "description": "Losse wasmachine en droger of een 2-in-1 wasdroogcombinatie? Vergelijk prijs, ruimtebesparing, droogprestaties en energiekosten voor de beste keuze in 2026."
-  },
-  {
     "slug": "waterkoker-vs-fluitketel-2026",
     "title": "Waterkoker vs. Fluitketel 2026: Wat Is Sneller, Stiller en Zuiniger?",
-    "category": "keuken",
+    "category": "'keuken'",
     "rating": 4.5,
     "priceRange": "EUR 15-180",
     "readingTime": "8 min",
     "description": "Vergelijk waterkoker en fluitketel op snelheid, geluid en energieverbruik. Koopadvies en deals op Amazon.nl. Tag: kieskeukennl-21"
   },
   {
-    "slug": "waterkoker-vs-quooker-2026",
-    "title": "Waterkoker vs. Quooker 2026: Kokend Water uit de Kraan of Los Apparaat?",
-    "category": "keuken",
-    "rating": 4.6,
-    "priceRange": "EUR 30-1500",
-    "readingTime": "11 min",
-    "description": "Waterkoker of Quooker kraan? Vergelijk aanschafprijs, energieverbruik, gebruiksgemak en installatie. Ontdek in 2026 wat voordeliger is voor jouw keuken."
-  },
-  {
     "slug": "waterontharder-vs-ontkalker-2026",
     "title": "waterontharder versus ontkalker — wat is de beste oplossing tegen kalk in huis?",
-    "category": "huishoudelijk",
+    "category": "\"huishoudelijk\"",
     "rating": 4.5,
     "priceRange": "EUR 5-3000+",
     "readingTime": "8",
     "description": "Vergelijk waterontharder vs ontkalker in 2026. Ontdek de voor- en nadelen, prijsvergelijking en welke het beste bij jouw situatie past."
+  },
+  {
+    "slug": "yoghurtmaker-vs-zelf-maken-2026",
+    "title": "Yoghurtmaker vs. Zelf Yoghurt Maken 2026: Apparaat of Oven/Pan — Wat Geeft de Beste Yoghurt?",
+    "category": "\"keuken\"",
+    "rating": 4.5,
+    "priceRange": "EUR 15-1500",
+    "readingTime": "10 min",
+    "description": "Vergelijk yoghurtmaker vs zelf maken in 2026. Eerlijke koopgids met prijzen, voor- en nadelen en Amazon NL affiliate links (tag: kieskeukennl-21)."
+  },
+  {
+    "slug": "airconditioner-vs-ventilator-2026",
+    "title": "Airconditioner vs. Ventilator: Wat Heb Je Nodig Voor Verkoeling in 2026?",
+    "category": "huishoudelijk",
+    "rating": 4.4,
+    "priceRange": "EUR 25-900",
+    "readingTime": "10 min",
+    "description": "Airco of ventilator voor de zomer? Vergelijk prijs, koelvermogen, energieverbruik en geluidsniveau. Maak de juiste keuze voor jouw huis."
+  },
+  {
+    "slug": "broodrooster-vs-tosti-ijzer-2026",
+    "title": "Broodrooster vs. Tosti-ijzer 2026: Welke Past Bij Jouw Ontbijt- en Lunchroutine?",
+    "category": "keuken",
+    "rating": 4.4,
+    "priceRange": "EUR 20-220",
+    "readingTime": "10 min",
+    "description": "Broodrooster vs. Tosti-ijzer 2026 vergeleken: gebruiksgemak, veelzijdigheid, prijs en schoonmaakgemak. Eerlijke keuzehulp met Amazon NL affiliate links."
+  },
+  {
+    "slug": "filterkoffie-vs-koffiecups-2026",
+    "title": "Filterkoffie vs. Koffiecups 2026: Voordelig Zetten of Supersnel Gemak — Wat Past bij Jou?",
+    "category": "\"keuken\"",
+    "rating": 4.4,
+    "priceRange": "EUR 30-300",
+    "readingTime": "9 min",
+    "description": "Vergelijk filterkoffie vs koffiecups in 2026. Eerlijke koopgids met prijzen, voor- en nadelen en Amazon NL affiliate links (tag: kieskeukennl-21)."
+  },
+  {
+    "slug": "hakmolen-vs-keukenmachine-2026",
+    "title": "Hakmolen vs. Keukenmachine: Wanneer Is Een Kleine Hakker Genoeg? Vergelijking 2026",
+    "category": "keuken",
+    "rating": 4.4,
+    "priceRange": "EUR 10-600",
+    "readingTime": "9 min",
+    "description": "Hakmolen of keukenmachine — wat heb je écht nodig? Vergelijk formaat, functies, prijs en ontdek welke het beste past bij jouw kookroutine."
+  },
+  {
+    "slug": "magnetron-vs-combi-magnetron-2026",
+    "title": "Magnetron vs. Combi-Magnetron 2026: Is Een Combi de Meerprijs Waard?",
+    "category": "keuken",
+    "rating": 4.4,
+    "priceRange": "EUR 15-400",
+    "readingTime": "10 min",
+    "description": "Magnetron vs. Combi-Magnetron 2026 vergeleken: prijs, functies, energieverbruik en nadelen. Is een combi-magnetron de meerprijs waard? Eerlijke keuzehulp."
+  },
+  {
+    "slug": "oven-vs-magnetron-2026",
+    "title": "Oven vs Magnetron 2026: Wat Verwarmt Jouw Eten Beter en Sneller?",
+    "category": "keuken",
+    "rating": 4.4,
+    "priceRange": "EUR 0-1000",
+    "readingTime": "8 min lezen",
+    "description": "Oven of magnetron? Vergelijk snelheid, elektriciteitsverbruik, veelzijdigheid"
+  },
+  {
+    "slug": "rijstkoker-vs-slowcooker-2026",
+    "title": "Rijstkoker vs. Slowcooker 2026: Perfecte Rijst of Langzaam Sudderen — Welke Past bij Jou?",
+    "category": "\"keuken\"",
+    "rating": 4.4,
+    "priceRange": "EUR 30-200",
+    "readingTime": "9 min",
+    "description": "Vergelijk rijstkoker vs slowcooker in 2026. Eerlijke koopgids met prijzen, voor- en nadelen en Amazon NL affiliate links (tag: kieskeukennl-21)."
+  },
+  {
+    "slug": "soepmaker-vs-staafmixer-2026",
+    "title": "Soepmaker vs. Staafmixer 2026: Wat Heb Je Echt Nodig Voor Perfecte Soep?",
+    "category": "keuken",
+    "rating": 4.4,
+    "priceRange": "EUR 15-400",
+    "readingTime": "10 min",
+    "description": "Soepmaker vs. Staafmixer 2026 vergeleken: resultaat, gebruiksgemak, veelzijdigheid en prijs. Is een soepmaker de investering waard?"
+  },
+  {
+    "slug": "stofzuiger-vs-kruimeldief-2026",
+    "title": "Stofzuiger vs. Kruimeldief 2026: Heb Je Beide Nodig Of Is Eén Genoeg?",
+    "category": "schoonmaken",
+    "rating": 4.4,
+    "priceRange": "EUR 15-400",
+    "readingTime": "10 min",
+    "description": "Stofzuiger vs. Kruimeldief 2026 vergeleken: gebruiksgemak, zuigkracht, prijs en batterijduur. Heb je beide nodig? Eerlijke keuzehulp."
+  },
+  {
+    "slug": "strijkijzer-vs-handstomer-2026",
+    "title": "Strijkijzer vs. Handstomer 2026: Wat Is Beter Voor Kreukvrije Kleding?",
+    "category": "huishoudelijk",
+    "rating": 4.4,
+    "priceRange": "EUR 15-400",
+    "readingTime": "10 min",
+    "description": "Strijkijzer vs. Handstomer 2026 vergeleken: resultaat, gebruiksgemak, prijs en geschiktheid per stofsoort. Welke past bij jouw kledingkast?"
+  },
+  {
+    "slug": "broodmachine-vs-broodrooster-2026",
+    "title": "Broodmachine vs. Broodrooster 2026: Zelf Bakken of Kant-en-Klaar Roosteren?",
+    "category": "keuken",
+    "rating": 4.3,
+    "priceRange": "€15-200",
+    "readingTime": "7 min",
+    "description": "Broodmachine vs. Broodrooster 2026: De Ultieme Koopgids Juli 2026."
+  },
+  {
+    "slug": "espresso-apparaat-vs-filterkoffiemachine-2026",
+    "title": "Espressomachine vs. Filterkoffiemachine 2026: Welke Past bij Jouw Koffieritueel?",
+    "category": "keuken",
+    "rating": 4.3,
+    "priceRange": "€200-1400",
+    "readingTime": "3 min",
+    "description": "Koopgids: Espressomachine vs Filterkoffiemachine 2026 – Welke past bij jou? Juli 2026."
+  },
+  {
+    "slug": "wafelijzer-vs-tosti-ijzer-2026",
+    "title": "Wafelijzer vs. Tosti-ijzer 2026: Zoete Wafels of Hartige Tosti's — Welke Past bij Jou?",
+    "category": "\"keuken\"",
+    "rating": 4.3,
+    "priceRange": "EUR 20-150",
+    "readingTime": "8 min",
+    "description": "Vergelijk wafelijzer vs tosti-ijzer in 2026. Eerlijke koopgids met prijzen, voor- en nadelen en Amazon NL affiliate links (tag: kieskeukennl-21)."
   }
 ]
