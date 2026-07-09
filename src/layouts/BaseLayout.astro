@@ -78,6 +78,14 @@ const webSiteSchema = {
     <script type="application/ld+json" set:html={JSON.stringify(orgSchema)} />
     <script type="application/ld+json" set:html={JSON.stringify(webSiteSchema)} />
     {structuredData && <script type="application/ld+json" set:html={JSON.stringify(structuredData)} />}
+    <!-- Google tag (gtag.js) -->
+    <script is:inline async src="https://www.googletagmanager.com/gtag/js?id=G-KHV3TR0T28"></script>
+    <script is:inline>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-KHV3TR0T28');
+    </script>
   </head>
   <body>
     <Header />
