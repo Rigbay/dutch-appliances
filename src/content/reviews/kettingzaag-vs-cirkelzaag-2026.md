@@ -1,7 +1,7 @@
 ---
 title: 'Kettingzaag vs. Cirkelzaag 2026: Bomen Vellen of Planken Zagen — Welke Zaag Heb Jij Nodig?'
 slug: kettingzaag-vs-cirkelzaag
-description: Oké, hier is de koopgids, geschreven vanuit het perspectief van een Nederlandse consumentenjournalist in juli 2026.
+description: 'Kettingzaag of cirkelzaag? Vergelijk kracht, veiligheid, precisie en gebruiksgemak en ontdek welke zaag past bij jouw klus in 2026.'
 category: tuin
 rating: 4.3
 priceRange: EUR 50-500
@@ -63,9 +63,6 @@ related:
 draft: false
 ---
 
-Oké, hier is de koopgids, geschreven vanuit het perspectief van een Nederlandse consumentenjournalist in juli 2026.
-
----
 
 **Kettingzaag vs. Cirkelzaag 2026: De Ultieme Keuzehulp voor de Nederlandse Klusser**
 

@@ -61,9 +61,6 @@ related:
 draft: false
 ---
 
-Absoluut! Hier is een uitgebreide koopgids, geschreven vanuit het perspectief van een Nederlandse consumentenjournalist, over de Braadpan vs Wokpan in 2026.
-
----
 
 **Braadpan vs Wokpan 2026: De Keukenstrijd om Smaak, Snelheid en Traditie**
 

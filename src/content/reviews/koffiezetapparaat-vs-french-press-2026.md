@@ -61,9 +61,6 @@ related:
 draft: false
 ---
 
-Oké, hier is de koopgids, geschreven vanuit het perspectief van een Nederlandse consumentenjournalist in juli 2026.
-
----
 
 **Koffiezetapparaat vs. French Press: De Ultieme Keuze voor de Nederlandse Koffieliefhebber in 2026**
 

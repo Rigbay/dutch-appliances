@@ -78,9 +78,6 @@ faq:
   a: 'Mobiele airconditioners verbruiken aanzienlijk meer energie (bijv. 1000-1350 Watt) en vereisen een afvoerslang naar buiten en condenswaterafvoer. Luchtkoelers zijn veel energiezuiniger (bijv. 75-110 Watt), hebben geen afvoerslang nodig, maar moeten wel regelmatig met water worden bijgevuld.'
 ---
 
-Oké, hier is de koopgids voor consumenten, geschreven vanuit het perspectief van een Nederlandse consumentenjournalist, gericht op juni 2026.
-
----
 
 **Koopgids 2026: Airco vs. onze [airco gids](/beste-airconditioner-2026/). Luchtkoeler – De Ultieme Zomeroplossing voor Thuis**
 

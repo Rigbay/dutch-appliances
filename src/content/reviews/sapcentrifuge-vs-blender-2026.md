@@ -61,9 +61,6 @@ related:
 draft: false
 ---
 
-Oké, hier is een uitgebreide koopgids over sapcentrifuges versus blenders, geschreven vanuit het perspectief van een Nederlandse consumentenjournalist, gericht op de zomer van 2026.
-
----
 
 **Sapcentrifuge vs. Blender: De Ultieme Zomerse Gezondheidstrijd in 2026**
 

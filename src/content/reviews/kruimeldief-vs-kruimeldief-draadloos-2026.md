@@ -63,9 +63,6 @@ related:
 draft: false
 ---
 
-Oké, hier is de complete koopgids voor kruimeldieven, geschreven vanuit het perspectief van een Nederlandse consumentenjournalist in juli 2026.
-
----
 
 **Kruimeldief met Snoer vs. Draadloze Kruimeldief 2026: De Ultieme Koopgids**
 

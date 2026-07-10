@@ -1,7 +1,7 @@
 ---
 title: 'Koelkast vs. Vriezer 2026: Vers Bewaren of Langdurig Invriezen — Wat Heb Je Echt Nodig?'
 slug: koelkast-vs-vriezer
-description: Absoluut! Hier is een uitgebreide koopgids voor koelkasten en vriezers in 2026, geschreven vanuit het perspectief van een Nederlandse consumentenjournalist.
+description: 'Koelkast of vriezer? Vergelijk energieverbruik, indeling, capaciteit en prijs en vind het beste model voor jouw keuken in 2026.'
 category: huishoudelijk
 rating: 4.3
 priceRange: EUR 50-500
@@ -63,9 +63,6 @@ related:
 draft: false
 ---
 
-Absoluut! Hier is een uitgebreide koopgids voor koelkasten en vriezers in 2026, geschreven vanuit het perspectief van een Nederlandse consumentenjournalist.
-
----
 
 **Koelkast vs. Vriezer 2026: De Ultieme Keuzegids voor Jouw Keuken**
 

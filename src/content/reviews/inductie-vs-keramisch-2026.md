@@ -69,9 +69,6 @@ related:
 draft: false
 ---
 
-Hier is een complete koopgids over inductie versus keramische kookplaten in 2026, geschreven vanuit het perspectief van een Nederlandse consumentenjournalist. onze [inductiekookplaat gids](/beste-inductiekookplaat-2026/). onze [inductie gasfornuis gids](/inductie-vs-gasfornuis-2026/).
-
----
 
 # Inductie vs. Keramisch: De Grote Kookplaatkeuze voor 2026 – Snelheid Tegen Betaalbaarheid
 

@@ -68,9 +68,6 @@ related:
 draft: false
 ---
 
-Oké, hier is de koopgids, geschreven vanuit het perspectief van een Nederlandse consumentenjournalist, klaar voor publicatie in juni 2026.
-
----
 
 **Koopgids 2026: Stoomreiniger vs. onze [stoomreiniger gids](/beste-stoomreiniger-2026/). Hogedrukreiniger – Welk Krachtpatsers Past Bij Jou?**
 

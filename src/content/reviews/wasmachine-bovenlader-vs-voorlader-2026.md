@@ -61,9 +61,6 @@ related:
 draft: false
 ---
 
-Oké, hier is een complete koopgids over bovenladers versus voorladers, geschreven vanuit het perspectief van een Nederlandse consumentenjournalist in juli 2026.
-
----
 
 **De Grote Wasmachine Keuze 2026: Bovenlader of Voorlader? Uw Gids voor de Ideale Machine**
 

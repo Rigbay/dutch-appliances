@@ -62,9 +62,6 @@ related:
 draft: false
 ---
 
-Absoluut! Hier is een uitgebreide koopgids voor airfryers en slowcookers, geschreven vanuit het perspectief van een Nederlandse consumentenjournalist, met de gevraagde structuur en inhoud.
-
----
 
 **Airfryer vs. Slowcooker: Welk Keukenwonder Past in 2026 in Uw Keuken? Een Complete Koopgids.**
 
