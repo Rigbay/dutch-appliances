@@ -15,6 +15,7 @@ cons:
 - Kosten kunnen oplopen met accessoires
 - Sommige modellen kunnen luidruchtig zijn
 affiliateLinks:
+- https://www.awin1.com/awclick.php?mid=85161&id=2899551&p=https%3A%2F%2Fwww.coolblue.nl
 - "https://www.amazon.nl/s?k=KitchenAid+Artisan&tag=kieskeukennl-21"
 date: 2026-05-13
 modelYear: 2026
@@ -191,7 +192,7 @@ Bij de aanschaf van een keukenmachine kijk je al snel naar het vermogen en de in
 | Magimix 5200XL | 3 L | 1100 W | €400-600 | Voedselbereiding (snijden, hakken), ruimtebesparend | 4.6 |
 | Smeg SMF03 | 4.8 L | 800 W | €400-600 | Designbewuste consumenten, retrostijl, lichte deegsoorten | 4.4 |
 
-*Prijzen zijn indicatief en kunnen variëren afhankelijk van de aanbiedingen en de retailer (bijv. Bol.com, Coolblue, MediaMarkt).
+*Prijzen zijn indicatief en kunnen variëren afhankelijk van de aanbiedingen en de retailer (bijv. Bol.com, [Coolblue](https://www.awin1.com/awclick.php?mid=85161&id=2899551&p=https%3A%2F%2Fwww.coolblue.nl), MediaMarkt).
 
 ## Conclusie: De Echte Afweging
 

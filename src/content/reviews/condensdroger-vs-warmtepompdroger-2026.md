@@ -17,6 +17,7 @@ cons:
 - Warmtepomp vereist regelmatig reinigen van condensor
 affiliateLinks:
 - https://www.amazon.nl/s?k=Miele+TSD+663+WP&tag=kieskeukennl-21
+- https://www.awin1.com/awclick.php?mid=85161&id=2899551&p=https%3A%2F%2Fwww.coolblue.nl
 modelYear: 2026
 featuredProduct: Miele TSD 663 WP
 readingTime: 11 min
@@ -80,7 +81,7 @@ De wasdroger is voor veel Nederlandse huishoudens geen luxe meer maar een noodza
 
 ### Beste Koop (ca. EUR 550-750)
 
-Dit is de sweet spot voor warmtepompdrogers. De **Bosch WTR85V00NL** (EUR 550-700) combineert een A++ label met een droogtijd die nauwelijks onderdoet voor condensdrogers. De AutoDry-sensor meet continu het restvocht en stopt precies op het juiste moment — geen overgedroogde, gekrompen kleding meer. De **Siemens iQ500 WT45RVG0NL** (EUR 600-750) is de iets luxere variant met dezelfde Duitse degelijkheid en een ruimer display. Beide hebben een vulgewicht van 8 kg (genoeg voor een gezin van 3-4 personen) en een selfCleaning-condensor die je bijna nooit handmatig hoeft te reinigen. Verkrijgbaar bij Coolblue, MediaMarkt en via Amazon.
+Dit is de sweet spot voor warmtepompdrogers. De **Bosch WTR85V00NL** (EUR 550-700) combineert een A++ label met een droogtijd die nauwelijks onderdoet voor condensdrogers. De AutoDry-sensor meet continu het restvocht en stopt precies op het juiste moment — geen overgedroogde, gekrompen kleding meer. De **Siemens iQ500 WT45RVG0NL** (EUR 600-750) is de iets luxere variant met dezelfde Duitse degelijkheid en een ruimer display. Beide hebben een vulgewicht van 8 kg (genoeg voor een gezin van 3-4 personen) en een selfCleaning-condensor die je bijna nooit handmatig hoeft te reinigen. Verkrijgbaar bij [Coolblue](https://www.awin1.com/awclick.php?mid=85161&id=2899551&p=https%3A%2F%2Fwww.coolblue.nl), MediaMarkt en via Amazon.
 
 ### Beste Prestaties (ca. EUR 950-1200)
 

@@ -17,6 +17,7 @@ cons:
 affiliateLinks:
 - https://www.amazon.nl/s?k=beste+tosti+ijzer+2026&tag=kieskeukennl-21
 - https://www.amazon.nl/s?k=beste+tosti+ijzer+2026&tag=kieskeukennl-21
+- https://www.awin1.com/awclick.php?mid=85161&id=2899551&p=https%3A%2F%2Fwww.coolblue.nl
 date: 2026-05-14
 modelYear: 2026
 featuredProduct: Tefal Snack Collection
@@ -147,7 +148,7 @@ Bij de aanschaf van een tosti-ijzer of panini-grill zijn er een aantal 'onzichtb
 | **Russell Hobbs Panini** | 1800W (grill) | €40 - €60 | Panini-liefhebbers, snelle bereiding, extra grillfunctie | 8.5/10 |
 | **WMF Tosti-ijzer** | 900W | €70 - €100 | Designbewuste consumenten, duurzaamheid, premium uitstraling | 8.5/10 |
 
-*Prijsindicaties zijn gebaseerd op gemiddelde prijzen bij Nederlandse webshops zoals Bol.com en Coolblue op het moment van schrijven en kunnen variëren.*
+*Prijsindicaties zijn gebaseerd op gemiddelde prijzen bij Nederlandse webshops zoals Bol.com en [Coolblue](https://www.awin1.com/awclick.php?mid=85161&id=2899551&p=https%3A%2F%2Fwww.coolblue.nl) op het moment van schrijven en kunnen variëren.*
 
 ## Conclusie
 

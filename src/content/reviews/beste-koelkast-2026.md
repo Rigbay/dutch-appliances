@@ -20,6 +20,7 @@ affiliateLinks:
 - https://www.mediamarkt.nl/nl/product/_siemens-iq500-kg39nlidp-1852274.html
 - https://www.koelkasten.nl/liebherr-cbn-es-3913-plus.html
 - https://www.expert.nl/lg-instaview-gc-x257q-bsu-amerikaanse-koelkast-zwart
+- https://www.awin1.com/awclick.php?mid=85161&id=2899551&p=https%3A%2F%2Fwww.coolblue.nl
 date: 2026-05-14
 modelYear: 2026
 featuredProduct: Liebherr CBNes 3913 Plus
@@ -106,7 +107,7 @@ Niet iedereen heeft dezelfde behoeften. Snel de beste keuze maken? Hieronder vin
 
 ## Beste Keuze per Budget: Van Betaalbaar tot Premium
 
-De prijs van een koelkast kan sterk variëren, afhankelijk van het merk, de functies en de grootte. Hieronder vindt u onze aanbevelingen, onderverdeeld in verschillende budgetcategorieën. Prijzen zijn indicaties en kunnen variëren afhankelijk van aanbiedingen en winkels zoals Bol.com, Coolblue en MediaMarkt.
+De prijs van een koelkast kan sterk variëren, afhankelijk van het merk, de functies en de grootte. Hieronder vindt u onze aanbevelingen, onderverdeeld in verschillende budgetcategorieën. Prijzen zijn indicaties en kunnen variëren afhankelijk van aanbiedingen en winkels zoals Bol.com, [Coolblue](https://www.awin1.com/awclick.php?mid=85161&id=2899551&p=https%3A%2F%2Fwww.coolblue.nl) en MediaMarkt.
 
 ### Beste Koop: Samsung RB38T775DB1
 

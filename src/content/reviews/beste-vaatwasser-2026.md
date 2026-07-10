@@ -19,6 +19,7 @@ cons:
 - Inbouwmodellen vereisen installatiekennis.
 affiliateLinks:
 - https://www.coolblue.nl/vaatwassers
+- https://www.awin1.com/awclick.php?mid=85161&id=2899551&p=https%3A%2F%2Fwww.coolblue.nl
 date: 2026-05-14
 modelYear: 2026
 featuredProduct: Bosch Serie 8 SMV88TD36E
@@ -184,7 +185,7 @@ Hieronder een overzicht van de modellen die we in deze gids bespreken, met hun b
 | Etna VM460ZIN | 13 | 49 | 450-650 | Betaalbare inbouw | 4.3 |
 | Siemens iQ500 SR556S01TE (Smal) | 10 | 44 | 600-800 | Ruimtebesparend | 4.6 |
 
-*Prijzen zijn indicatief en kunnen variëren per winkel (zoals Bol.com, Coolblue, MediaMarkt) en aanbiedingen.* 
+*Prijzen zijn indicatief en kunnen variëren per winkel (zoals Bol.com, [Coolblue](https://www.awin1.com/awclick.php?mid=85161&id=2899551&p=https%3A%2F%2Fwww.coolblue.nl), MediaMarkt) en aanbiedingen.* 
 
 ## Conclusie: De Juiste Afweging voor Uw Gezin
 

@@ -16,6 +16,7 @@ cons:
 - Beschikbaarheid verschilt per model
 affiliateLinks:
 - https://www.amazon.nl/s?k=De+Ultieme+Koopgids%3A+Jouw+Weg+naar+de+Perfecte+Koffiemolen+in+2026&tag=kieskeukennl-21
+- https://www.awin1.com/awclick.php?mid=85161&id=2899551&p=https%3A%2F%2Fwww.coolblue.nl
 date: 2026-05-14
 modelYear: 2026
 featuredProduct: 'De Ultieme Koopgids: Jouw Weg naar de Perfecte Koffiemolen in 2026'
@@ -71,7 +72,7 @@ Welkom bij de koopgids die jouw dagelijkse kopje koffie voorgoed zal veranderen.
 De keuze voor de beste koffiemolen hangt sterk af van jouw persoonlijke voorkeuren, budget en de manier waarop je koffie zet. Hier is ons snelle advies om je op weg te helpen:
 
 * **Voor de allround thuisgebruiker die gemak zoekt:** Als je zowel filterkoffie, Aeropress als af en toe een espresso zet, en je wilt een betrouwbare elektrische molen die niet de hoofdprijs kost, dan is de **Baratza Encore ESP** een uitstekende keuze. Deze molen biedt een breed scala aan maalgraden en is relatief eenvoudig in gebruik, ideaal voor de beginnende enthousiasteling. Verkrijgbaar via gespecialiseerde koffiewinkels en online warenhuizen zoals Bol.com.
-* **Voor de serieuze espressoliefhebber:** Als espresso jouw primaire focus is en je bereid bent te investeren in precisie en consistentie voor die perfecte shot, dan is de **Eureka Mignon Specialita** een absolute aanrader. Met zijn traploze maalgraadinstelling en vlakke maalschijven biedt deze molen de controle die nodig is voor espresso van hoge kwaliteit. Te vinden bij koffiespeciaalzaken en online bij Coolblue.
+* **Voor de serieuze espressoliefhebber:** Als espresso jouw primaire focus is en je bereid bent te investeren in precisie en consistentie voor die perfecte shot, dan is de **Eureka Mignon Specialita** een absolute aanrader. Met zijn traploze maalgraadinstelling en vlakke maalschijven biedt deze molen de controle die nodig is voor espresso van hoge kwaliteit. Te vinden bij koffiespeciaalzaken en online bij [Coolblue](https://www.awin1.com/awclick.php?mid=85161&id=2899551&p=https%3A%2F%2Fwww.coolblue.nl).
 * **Voor de purist, reiziger of bewuste budgetkoper:** Als je waarde hecht aan het ritueel van koffiezetten, geen haast hebt, of een robuuste molen zoekt voor onderweg, dan is een handmatige molen zoals de **Comandante C40 MK4 Nitro Blade** de topkeuze. Voor een iets vriendelijker budget biedt de **Timemore Chestnut C3 Pro** al verrassend veel kwaliteit. Deze molens zijn te bestellen bij de betere koffie webshops.
 
 ## Beste keuzes — Onze aanraders

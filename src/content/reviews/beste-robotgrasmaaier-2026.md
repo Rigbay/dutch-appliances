@@ -16,6 +16,7 @@ cons:
 - Veiligheid van kinderen en huisdieren vereist aandacht
 affiliateLinks:
 - https://www.coolblue.nl/c/robotgrasmaaiers/c6095.html
+- https://www.awin1.com/awclick.php?mid=85161&id=2899551&p=https%3A%2F%2Fwww.coolblue.nl
 date: 2026-05-20
 modelYear: 2026
 featuredProduct: Husqvarna Automower 405X

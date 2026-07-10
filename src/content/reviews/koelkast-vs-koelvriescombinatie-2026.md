@@ -24,6 +24,7 @@ affiliateLinks:
   - https://www.amazon.nl/s?k=Bosch+KGN86AI3P+Serie+8&tag=kieskeukennl-21
   - https://www.amazon.nl/s?k=AEG+SCS+61800+F1&tag=kieskeukennl-21
   - https://www.amazon.nl/s?k=LG+InstaView+Door-in-Door+GSX960NSAZ&tag=kieskeukennl-21
+- https://www.awin1.com/awclick.php?mid=85161&id=2899551&p=https%3A%2F%2Fwww.coolblue.nl
 modelYear: 2026
 featuredProduct: Samsung RF9000 Family Hub
 readingTime: '10 min'

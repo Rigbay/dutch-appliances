@@ -16,6 +16,7 @@ cons:
 - Minder luxe functies
 affiliateLinks:
 - https://www.amazon.nl/s?k=beste+koffiemachine+200+euro+2026&tag=kieskeukennl-21
+- https://www.awin1.com/awclick.php?mid=85161&id=2899551&p=https%3A%2F%2Fwww.coolblue.nl
 modelYear: 2026
 featuredProduct: De'Longhi Stilosa
 readingTime: 7 min
@@ -83,7 +84,7 @@ Of je nu houdt van een krachtige espresso, een romige cappuccino, of gewoon een 
 
 ### Beste Koop: De'Longhi Stilosa (€150-€200)
 
-De De'Longhi Stilosa is een absolute winnaar in het betaalbare segment voor volautomaten. Voor een bedrag dat zelden boven de €200 uitkomt, haal je een machine in huis die verse koffiebonen maalt en met één druk op de knop een heerlijke espresso of lungo serveert. Het compacte formaat is een groot pluspunt voor kleinere keukens. De bediening is intuïtief dankzij de duidelijke knoppen. Hoewel de opties voor melkbereiding beperkt zijn tot een handmatige stoompijp, kun je hiermee toch een redelijke cappuccino of latte macchiato maken als je even de tijd neemt. De Stilosa is de perfecte instap in de wereld van volautomaten zonder meteen diep in de buidel te tasten. Je vindt de Stilosa vaak bij grote elektronicawinkels zoals Coolblue en MediaMarkt, en ook online op Bol.com.
+De De'Longhi Stilosa is een absolute winnaar in het betaalbare segment voor volautomaten. Voor een bedrag dat zelden boven de €200 uitkomt, haal je een machine in huis die verse koffiebonen maalt en met één druk op de knop een heerlijke espresso of lungo serveert. Het compacte formaat is een groot pluspunt voor kleinere keukens. De bediening is intuïtief dankzij de duidelijke knoppen. Hoewel de opties voor melkbereiding beperkt zijn tot een handmatige stoompijp, kun je hiermee toch een redelijke cappuccino of latte macchiato maken als je even de tijd neemt. De Stilosa is de perfecte instap in de wereld van volautomaten zonder meteen diep in de buidel te tasten. Je vindt de Stilosa vaak bij grote elektronicawinkels zoals [Coolblue](https://www.awin1.com/awclick.php?mid=85161&id=2899551&p=https%3A%2F%2Fwww.coolblue.nl) en MediaMarkt, en ook online op Bol.com.
 
 ### Beste Prestaties: Philips 5400 Series Lite (Prijs varieert, vaak rond €180-€200 in de aanbieding)
 

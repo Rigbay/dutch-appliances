@@ -17,6 +17,7 @@ cons:
 - Beschikbaarheid verschilt per model
 affiliateLinks:
 - https://www.amazon.nl/s?k=De+Ultieme+Koopgids%3A+Verse+Sappen+Thuis+met+de+Beste+Sapcentrifuges&tag=kieskeukennl-21
+- https://www.awin1.com/awclick.php?mid=85161&id=2899551&p=https%3A%2F%2Fwww.coolblue.nl
 date: 2026-05-14
 modelYear: 2026
 featuredProduct: 'De Ultieme Koopgids: Verse Sappen Thuis met de Beste Sapcentrifuges
@@ -83,7 +84,7 @@ Maar welke machine past nu het beste bij jou? De markt is overvol met opties, va
 Sapcentrifuges werken met een snel roterende rasp en zeef. Het fruit en de groenten worden fijngemalen en door de middelpuntvliedende kracht wordt het sap van de pulp gescheiden. Dit type juicer is snel, maar genereert wel meer warmte en lucht, wat de oxidatie van voedingsstoffen kan versnellen.
 
 **1. Philips HR1869/01 Viva Collection Sapcentrifuge**
-* **Prijsindicatie:** €90 - €130 (o.a. verkrijgbaar bij Bol.com, Coolblue)
+* **Prijsindicatie:** €90 - €130 (o.a. verkrijgbaar bij Bol.com, [Coolblue](https://www.awin1.com/awclick.php?mid=85161&id=2899551&p=https%3A%2F%2Fwww.coolblue.nl))
 * **Beschrijving:** Dit model van Philips is al jaren een betrouwbare keuze voor wie een instapmodel zoekt dat gewoon doet wat het moet doen: snel sap maken. Met een vermogen van 700W en een extra grote vulopening (75 mm) hoef je de meeste vruchten en groenten niet eens voor te snijden. Het QuickClean-systeem belooft een snelle reiniging, wat een groot pluspunt is voor dagelijks gebruik.
 * **Voordelen:**
  * **Snel en efficiënt:** Binnen enkele seconden een vers glas sap.

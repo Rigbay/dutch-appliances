@@ -17,6 +17,7 @@ cons:
 affiliateLinks:
 - https://www.amazon.nl/dp/B0FQNQYJ94?tag=kieskeukennl-21
 - https://www.coolblue.nl/...
+- https://www.awin1.com/awclick.php?mid=85161&id=2899551&p=https%3A%2F%2Fwww.coolblue.nl
 date: 2026-05-13
 modelYear: 2026
 featuredProduct: Mill Oil 2000W

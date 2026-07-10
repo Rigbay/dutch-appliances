@@ -15,6 +15,7 @@ cons:
 - Sommige modellen vereisen regelmatig ontdooien
 - Installatie en verhuizing kunnen zwaar zijn
 affiliateLinks:
+- https://www.awin1.com/awclick.php?mid=85161&id=2899551&p=https%3A%2F%2Fwww.coolblue.nl
 - "https://www.amazon.nl/s?k=Liebherr+GN+2723+Vrieskast&tag=kieskeukennl-21"
 date: 2026-05-14
 modelYear: 2026
@@ -152,7 +153,7 @@ De manier waarop je vriezer is ingedeeld, bepaalt mede hoe praktisch hij is in h
 Het energielabel, dat loopt van A (meest zuinig) tot G (minst zuinig), is cruciaal voor je energierekening en het milieu. In 2026 is het realistisch om te mikken op een model met energielabel C of beter (volgens de nieuwe EU-labeling). Houd er rekening mee dat een grotere vriezer, zelfs met een goed energielabel, absoluut meer energie verbruikt dan een kleiner model. Vergelijk dus vriezers van vergelijkbare grootte om een realistisch beeld te krijgen. Een vriezer is een langetermijninvestering, dus de extra kosten voor een energiezuiniger model verdien je vaak terug in de vorm van lagere stroomkosten.
 
 **Garantie en Vervangbare Onderdelen**
-Een vriezer is een forse aankoop, dus een goede garantie is belangrijk. Veel fabrikanten bieden standaard 2 jaar garantie, maar sommige, zoals Liebherr, bieden optioneel verlengde garantie of servicepakketten. Belangrijker nog is de beschikbaarheid van vervangbare onderdelen. Gaat een lade kapot of werkt de thermostaat niet meer naar behoren, dan wil je dat dit tegen redelijke kosten gerepareerd kan worden. Merken met een sterke reputatie en een goede serviceorganisatie in Nederland (denk aan Bol.com of Coolblue die veel merken aanbieden met goede service) zijn hierin vaak betrouwbaarder. Check dus vooraf hoe het zit met de garantietermijn en de verkrijgbaarheid van onderdelen.
+Een vriezer is een forse aankoop, dus een goede garantie is belangrijk. Veel fabrikanten bieden standaard 2 jaar garantie, maar sommige, zoals Liebherr, bieden optioneel verlengde garantie of servicepakketten. Belangrijker nog is de beschikbaarheid van vervangbare onderdelen. Gaat een lade kapot of werkt de thermostaat niet meer naar behoren, dan wil je dat dit tegen redelijke kosten gerepareerd kan worden. Merken met een sterke reputatie en een goede serviceorganisatie in Nederland (denk aan Bol.com of [Coolblue](https://www.awin1.com/awclick.php?mid=85161&id=2899551&p=https%3A%2F%2Fwww.coolblue.nl) die veel merken aanbieden met goede service) zijn hierin vaak betrouwbaarder. Check dus vooraf hoe het zit met de garantietermijn en de verkrijgbaarheid van onderdelen.
 
 ## Vergelijkingstabel: De Beste Vriezers in 2026 Op een Rij
 

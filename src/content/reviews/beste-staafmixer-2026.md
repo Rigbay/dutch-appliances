@@ -16,6 +16,7 @@ cons:
 - Geluidsproductie kan storend zijn bij langdurig gebruik
 affiliateLinks:
 - https://www.coolblue.nl/categorie/staafmixers
+- https://www.awin1.com/awclick.php?mid=85161&id=2899551&p=https%3A%2F%2Fwww.coolblue.nl
 date: 2026-05-12
 modelYear: 2026
 featuredProduct: Braun MultiQuick 9

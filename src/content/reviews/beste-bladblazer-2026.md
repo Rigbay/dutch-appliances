@@ -18,6 +18,7 @@ cons:
 affiliateLinks:
 - https://www.amazon.nl/dp/B0979R365P?tag=kieskeukennl-21
 - https://www.amazon.nl/dp/B0979R365P?tag=kieskeukennl-21
+- https://www.awin1.com/awclick.php?mid=85161&id=2899551&p=https%3A%2F%2Fwww.coolblue.nl
 date: 2026-05-14
 modelYear: 2026
 featuredProduct: Makita DUB362Z
@@ -138,7 +139,7 @@ Wie op zoek is naar een uitstekende balans tussen kracht, veelzijdigheid en prij
 
 Voor de kleinere tuin, het beperktere budget, of de gebruiker die simpelweg een licht en gebruiksvriendelijk apparaat zoekt om snel de dagelijkse bladeren op te ruimen, is de **Bosch ALB 36 LI** een uitstekende, betaalbare optie. De meegeleverde accu en lader maken de instap laagdrempelig.
 
-Uiteindelijk hangt de beste keuze af van jouw specifieke situatie: de grootte van je tuin, het type afval dat je wilt opruimen, je budget en je persoonlijke voorkeuren op het gebied van gewicht, geluid en merk. Met deze koopgids ben je hopelijk goed geïnformeerd om de juiste beslissing te nemen en deze herfst, en vele herfsten daarna, met een schone en opgeruimde tuin tegemoet te treden. Vergeet niet de prijzen te vergelijken bij bekende Nederlandse winkels zoals Bol.com, Coolblue en MediaMarkt om de beste deal te scoren!
+Uiteindelijk hangt de beste keuze af van jouw specifieke situatie: de grootte van je tuin, het type afval dat je wilt opruimen, je budget en je persoonlijke voorkeuren op het gebied van gewicht, geluid en merk. Met deze koopgids ben je hopelijk goed geïnformeerd om de juiste beslissing te nemen en deze herfst, en vele herfsten daarna, met een schone en opgeruimde tuin tegemoet te treden. Vergeet niet de prijzen te vergelijken bij bekende Nederlandse winkels zoals Bol.com, [Coolblue](https://www.awin1.com/awclick.php?mid=85161&id=2899551&p=https%3A%2F%2Fwww.coolblue.nl) en MediaMarkt om de beste deal te scoren!
 
 
 ## Gerelateerde koopgidsen
