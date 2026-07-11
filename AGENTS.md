@@ -24,3 +24,16 @@ grep -rn -iE 'geschreven vanuit het perspectief|Door uw consumentenjournalist|^(
 Any hit = the generation script pasted the model's framing sentence ("Oké, hier is de koopgids...") into the article. Strip it: the article body must START at its first real heading; the description must be a real meta description, never the model's reply preamble. Root cause: generation scripts writing the raw model response without trimming the conversational wrapper — add a trim step to every new gen-*.py.
 
 Receipt: 2026-07-10 Fable found 14 PUBLISHED articles with this leak (13 kieskeuken + 1 dutch-ai-tools, 2 leaked into SEO meta descriptions), stripped them (commits ab3a6ec / 09f8d276).
+
+
+## Frontmatter Validation — deploy is a SILENT failure point (added 2026-07-11 by Fable)
+
+ONE YAML-broken article kills the ENTIRE GitHub Pages deploy — and every deploy after it — while `git push` keeps succeeding. On Jul 10 the 38-article Coolblue Awin wiring (commit 4b150c7) was pushed but NEVER went live: one article had the Coolblue link inserted at column 0 under `affiliateLinks:`, breaking its YAML and freezing kieskeuken.nl on the previous build until Jul 11 02:36.
+
+Before committing ANY generated or edited article:
+
+1. Run `python3 ~/clawd/scripts/fable-guardian/lint-money-repos.py` — validates YAML parseability for all kieskeuken content (and the dutch-ai-tools schema). Zero output between the headers = clean.
+2. The #1 generator bug: Dutch plural apostrophes (`BBQ's`, `accu's`) inside single-quoted YAML values. Emit DOUBLE-quoted YAML strings, never single-quoted. List items inserted by scripts must match sibling indentation exactly.
+3. After every push, verify the deploy actually succeeded: `gh run list -R Rigbay/dutch-appliances -L 1` must show `success`. **"Pushed" is not "live."**
+
+Receipt: 2026-07-11 Fable, commit 189bf93 (plus 9 articles in dutch-ai-tools, ca21cf85).
