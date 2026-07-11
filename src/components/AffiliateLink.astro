@@ -40,6 +40,8 @@ const hasUrl = !!url;
       rel="sponsored nofollow"
       target={target}
       class={className}
+      data-affiliate-merchant={merchantId}
+      data-affiliate-site={siteId}
     >
       <slot>{merchant?.name || merchantId}</slot>
       {isPending && <span class="text-xs opacity-70 ml-1">(in behandeling)</span>}

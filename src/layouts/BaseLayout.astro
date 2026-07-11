@@ -85,6 +85,24 @@ const webSiteSchema = {
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
       gtag('config', 'G-KHV3TR0T28');
+
+      document.addEventListener('click', function (event) {
+        var target = event.target;
+        if (!(target instanceof Element)) return;
+
+        var link = target.closest('a[data-affiliate-merchant]');
+        if (!(link instanceof HTMLAnchorElement) || typeof window.gtag !== 'function') return;
+
+        var destination = new URL(link.href, window.location.href);
+        window.gtag('event', 'affiliate_outbound_click', {
+          affiliate_merchant: link.dataset.affiliateMerchant || 'unknown',
+          affiliate_site: link.dataset.affiliateSite || 'kieskeuken',
+          link_domain: destination.hostname,
+          link_url: destination.href,
+          page_location: window.location.href,
+          transport_type: 'beacon'
+        });
+      });
     </script>
   </head>
   <body>
