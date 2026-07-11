@@ -4,3 +4,11 @@ dist/
 .env
 .DS_Store
 dutch-ai-tools/
+
+# Agent execution artifacts and private operator state never belong in the
+# public GitHub Pages source repository.
+delegate-log-*.md
+delegate-cc-log-*.md
+scripts/delegate-log-*.md
+scripts/delegate-cc-log-*.md
+private/

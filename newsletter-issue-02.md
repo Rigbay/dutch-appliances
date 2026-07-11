@@ -47,7 +47,7 @@ Toen ontdekte ik dat je in ChatGPT "custom instructions" kunt instellen. Setting
 
 - "Ik ben druk, geef me korte antwoorden (max 3 zinnen)"
 - "Ik werk in de zorg/admin, gebruik professioneel maar warm Nederlands"
-- "Noem me anonymous-operator"
+- "Noem me Sanne"
 
 Sindsdien hoef ik niet meer bij elke vraag uit te leggen wie ik ben en wat ik wil. ChatGPT onthoudt het. Het klinkt klein, maar het scheelt me serieus 10 minuten per dag aan "uitleggen wat ik bedoel."
 

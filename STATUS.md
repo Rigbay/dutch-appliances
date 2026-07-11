@@ -1,6 +1,6 @@
 # Status: needs-human
 
-The Dutch content site is built and compiles. anonymous-operator needs to complete these steps to go live.
+The Dutch content site is built and compiles. The operator needs to complete these steps to go live.
 
 ## Human-Only Checklist
 
@@ -9,7 +9,7 @@ The Dutch content site is built and compiles. anonymous-operator needs to comple
 - After purchase: point A-record to Vercel's DNS (76.76.21.21)
 
 ### 2. Create GitHub repo and push code
-- Create private repo (e.g. `anonymous-operator/beste-apparaten`)
+- Create a private repository under the chosen brand account
 - Add the built site directory as initial commit:
   ```bash
   cd /workspace/agent-workspace/scripts/missions/passive-income/dutch-appliances-site/
@@ -53,4 +53,4 @@ The Dutch content site is built and compiles. anonymous-operator needs to comple
 - Maintenance: <1 hour/week (monitor rankings, update seasonal models)
 
 ## Blockers
-None — anonymous-operator can proceed whenever she has 15 minutes for the domain/GitHub/Vercel steps.
+None — the operator can proceed whenever there are 15 minutes for the domain/GitHub/Vercel steps.

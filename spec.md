@@ -4,7 +4,7 @@
 Build a Dutch-language SEO content site focused on home appliance reviews and comparisons ("beste [apparaat] 2026"), monetized via Bol.com affiliate links. Target: reach 50 published articles within 2 weeks, begin earning affiliate commissions within 6-12 months.
 
 ## Constraints (non-negotiable)
-- No active daily time required from anonymous-operator after build (<1 hr/week monitoring)
+- No active daily operator time required after build (<1 hr/week monitoring)
 - No crypto/trading/dropshipping
 - All content in Dutch (native-speaker quality)
 - Capital budget: €200 first year
@@ -15,8 +15,8 @@ Build a Dutch-language SEO content site focused on home appliance reviews and co
 - **Styling:** Tailwind CSS (via Astro integration)
 - **Content:** Markdown files in `src/content/reviews/` — no CMS
 - **Hosting:** Vercel (free tier, auto-deploy on git push)
-- **Domain:** TransIP or Namecheap (~€10/year) — anonymous-operator buys after site is built
-- **Git:** GitHub repo (anonymous-operator creates after build)
+- **Domain:** TransIP or Namecheap (~€10/year) — the operator buys after the site is built
+- **Git:** GitHub repository (the operator creates it after build)
 - **Content generation:** Python script calling Gemini API (free tier) for Dutch article drafts
 - **Monetization:** Bol.com Partner Program (apply after 10+ articles live)
 
@@ -48,12 +48,12 @@ Build a Dutch-language SEO content site focused on home appliance reviews and co
    - Has rate limiting and cost logging
 10. Build verification: `npm run build` passes, no broken links, Lighthouse score >80
 
-## What requires anonymous-operator / human hands (Codex writes STATUS.md for these)
+## What requires operator / human hands (Codex writes STATUS.md for these)
 - Buy domain (~€10) and point DNS to Vercel
 - Create GitHub repo and push initial code
 - Create Vercel project and link to GitHub
 - Apply for Bol.com Partner Program (needs live site URL)
-- Set `GEMINI_API_KEY` env var (anonymous-operator already has Google AI Studio access)
+- Set `GEMINI_API_KEY` env var (requires existing Google AI Studio access)
 - Replace affiliate link placeholders with real Bol.com deep links after approval
 
 ## File structure to create
@@ -127,7 +127,7 @@ dutch-appliances-site/
 2. Codex writes RESULT.md with build summary
 3. Codex writes STATUS.md with human-only checklist (domain, GitHub repo, Vercel, Bol.com signup)
 4. Hermes reads RESULT.md + STATUS.md, updates opportunities.md
-5. anonymous-operator completes human checklist when she has 10 minutes
+5. The operator completes the human checklist when there are 10 minutes
 6. Once live: run `scripts/generate-article.py` weekly to add new articles
 7. Goal: 50 articles by end of month 2, 200+ by month 6
 
@@ -138,7 +138,7 @@ dutch-appliances-site/
 - ✅ All SEO meta tags present
 - ✅ Affiliate disclosure included on every article
 - ✅ Mobile-responsive (test via browser devtools)
-- ✅ STATUS.md lists exactly what anonymous-operator needs to do (domain, GitHub, Vercel, Bol.com)
+- ✅ STATUS.md lists exactly what the operator needs to do (domain, GitHub, Vercel, Bol.com)
 
 ## Kill condition
 If after 4 months of being live with 50+ articles, the site earns <€50/month and shows no traffic growth trend — archive and post-mortem. Otherwise: iterate and scale.
