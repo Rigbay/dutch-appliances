@@ -78,31 +78,51 @@ const webSiteSchema = {
     <script type="application/ld+json" set:html={JSON.stringify(orgSchema)} />
     <script type="application/ld+json" set:html={JSON.stringify(webSiteSchema)} />
     {structuredData && <script type="application/ld+json" set:html={JSON.stringify(structuredData)} />}
-    <!-- Google tag (gtag.js) -->
-    <script is:inline async src="https://www.googletagmanager.com/gtag/js?id=G-KHV3TR0T28"></script>
     <script is:inline>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', 'G-KHV3TR0T28');
+      (function () {
+        var qaStorageKey = 'orbit_analytics_qa';
+        var qaParameter = new URLSearchParams(window.location.search).get('orbit_qa');
 
-      document.addEventListener('click', function (event) {
-        var target = event.target;
-        if (!(target instanceof Element)) return;
+        if (qaParameter === '1') {
+          window.sessionStorage.setItem(qaStorageKey, '1');
+        } else if (qaParameter === '0') {
+          window.sessionStorage.removeItem(qaStorageKey);
+        }
 
-        var link = target.closest('a[data-affiliate-merchant]');
-        if (!(link instanceof HTMLAnchorElement) || typeof window.gtag !== 'function') return;
+        var isLocal = /^(localhost|127\.0\.0\.1|\[::1\])$/.test(window.location.hostname);
+        var analyticsSuppressed = isLocal || window.sessionStorage.getItem(qaStorageKey) === '1';
+        window.__orbitAnalyticsSuppressed = analyticsSuppressed;
 
-        var destination = new URL(link.href, window.location.href);
-        window.gtag('event', 'affiliate_outbound_click', {
-          affiliate_merchant: link.dataset.affiliateMerchant || 'unknown',
-          affiliate_site: link.dataset.affiliateSite || 'kieskeuken',
-          link_domain: destination.hostname,
-          link_url: destination.href,
-          page_location: window.location.href,
-          transport_type: 'beacon'
+        if (analyticsSuppressed) return;
+
+        window.dataLayer = window.dataLayer || [];
+        window.gtag = function () { window.dataLayer.push(arguments); };
+        window.gtag('js', new Date());
+        window.gtag('config', 'G-KHV3TR0T28');
+
+        var googleTag = document.createElement('script');
+        googleTag.async = true;
+        googleTag.src = 'https://www.googletagmanager.com/gtag/js?id=G-KHV3TR0T28';
+        document.head.appendChild(googleTag);
+
+        document.addEventListener('click', function (event) {
+          var target = event.target;
+          if (!(target instanceof Element)) return;
+
+          var link = target.closest('a[data-affiliate-merchant]');
+          if (!(link instanceof HTMLAnchorElement) || typeof window.gtag !== 'function') return;
+
+          var destination = new URL(link.href, window.location.href);
+          window.gtag('event', 'affiliate_outbound_click', {
+            affiliate_merchant: link.dataset.affiliateMerchant || 'unknown',
+            affiliate_site: link.dataset.affiliateSite || 'kieskeuken',
+            link_domain: destination.hostname,
+            link_url: destination.href,
+            page_location: window.location.href,
+            transport_type: 'beacon'
+          });
         });
-      });
+      })();
     </script>
   </head>
   <body>
