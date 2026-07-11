@@ -124,8 +124,13 @@ export function resolveAffiliateUrl(
 
   // Inject caller-provided params (asin, productId, targetUrl, etc.)
   for (const [key, value] of Object.entries(params)) {
+    if (!value) continue;
     const re = new RegExp(`\\{${key}\\}`, 'g');
     template = template.replace(re, value);
+  }
+
+  if (/\{[^}]+\}/.test(template)) {
+    return null;
   }
 
   return template;
