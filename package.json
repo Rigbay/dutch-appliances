@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build",
+    "audit:privacy": "node scripts/audit-public-identity.mjs",
+    "build": "npm run audit:privacy && astro build",
     "postbuild": "node scripts/submit-indexnow.cjs",
     "preview": "astro preview",
     "astro": "astro"

@@ -96,7 +96,7 @@ cons:
 - '<CON_2>'
 - '<CON_3>'
 affiliateLinks:
-- https://www.beehiiv.com/?via=anonymous-operator
+- https://www.beehiiv.com/
 - https://taskade.com/?via=55nfr2
 - https://writesonic.com/?via=aitoolsnl
 - https://rytr.me?via=hermes-affiliates
@@ -113,7 +113,7 @@ tools:
   priceRange: '<PRIJSRANGE>'
   bestFor: '<BEST_FOR>'
   rating: <1-5>
-  affiliateLink: https://www.beehiiv.com/?via=anonymous-operator
+  affiliateLink: https://www.beehiiv.com/
 - name: '<AANBIEDER_2>'
   verdict: '<1-2 zinnen verdict>'
   priceRange: '<PRIJSRANGE>'

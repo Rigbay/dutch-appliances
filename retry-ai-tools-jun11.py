@@ -118,7 +118,7 @@ def build_frontmatter(topic):
     lines.append("- Tools continu in ontwikkeling — check actuele features")
     lines.append("- Advies hangt af van specifieke praktijkgrootte en behoeften")
     lines.append("affiliateLinks:")
-    lines.append("- https://www.beehiiv.com/?via=anonymous-operator")
+    lines.append("- https://www.beehiiv.com/")
     lines.append("date: '2026-06-11'")
     lines.append("modelYear: 2026")
     lines.append(f"featuredTool: {topic['tools'][0]['name']}")

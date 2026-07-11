@@ -81,7 +81,7 @@
       "perSite": {
         "dutch-ai-tools": {
           "status": "active",
-          "affiliateId": "anonymous-operator"
+          "affiliateId": null
         }
       },
       "commission": {
@@ -90,9 +90,9 @@
         "notes": "50-60% Boost program"
       },
       "cookieDurationHours": 720,
-      "linkTemplate": "https://www.beehiiv.com/?via={affiliateId}",
+      "linkTemplate": "https://www.beehiiv.com/",
       "lastVerified": "2026-05-27T00:00:00+02:00",
-      "notes": "Core for Dutch AI Tools. via=anonymous-operator.",
+      "notes": "Referral attribution is disabled for privacy until an anonymous brand-owned ID is verified.",
       "domainHints": [
         "beehiiv.com"
       ]
