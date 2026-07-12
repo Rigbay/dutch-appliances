@@ -1,7 +1,7 @@
 ---
 title: 'Koffiemachine Bonen vs. Cupmachine 2026: Vers Gemalen of Gemak — Welke Koffie Past bij Jou?'
 slug: koffiemachine-bonen-vs-koffiecupmachine
-description: Oké, hier is je complete koopgids voor koffiemachines in de stijl van een Nederlandse consumentenjournalist, gericht op de situatie in juli 2026.
+description: Koffiemachine met bonen of een cupmachine? Vergelijk versheid, kosten per kop, gemak en onderhoud en kies de beste koffieoplossing voor jouw keuken in 2026.
 category: keuken
 rating: 4.3
 priceRange: EUR 50-500
@@ -63,7 +63,6 @@ related:
 draft: false
 ---
 
-Oké, hier is je complete koopgids voor koffiemachines in de stijl van een Nederlandse consumentenjournalist, gericht op de situatie in juli 2026.
 
 ---
 
