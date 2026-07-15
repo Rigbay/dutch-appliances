@@ -13,7 +13,7 @@ jobs:
       - name: Submit sitemap URLs to IndexNow
         uses: jakob-bagterp/index-now-submit-sitemap-urls-action@v1
         with:
-          host: rigbay.github.io
+          host: kieskeuken.nl
           api_key: ${{ secrets.INDEX_NOW_API_KEY }}
-          api_key_location: https://rigbay.github.io/dutch-appliances/107f03c08e12ebfc07a124ba28b5dd6f.txt
-          sitemap_locations: https://rigbay.github.io/dutch-appliances/sitemap-index.xml
+          api_key_location: https://kieskeuken.nl/107f03c08e12ebfc07a124ba28b5dd6f.txt
+          sitemap_locations: https://kieskeuken.nl/sitemap-index.xml
