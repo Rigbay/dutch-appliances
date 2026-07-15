@@ -3,6 +3,7 @@ import type { CollectionEntry } from 'astro:content';
 import BaseLayout from './BaseLayout.astro';
 import AffiliateNotice from '../components/AffiliateNotice.astro';
 import AffiliateLink from '../components/AffiliateLink.astro';
+import AirfryerDecisionTool from '../components/AirfryerDecisionTool.astro';
 import ArticleCard from '../components/ArticleCard.astro';
 import Breadcrumb from '../components/Breadcrumb.astro';
 import ComparisonTable from '../components/ComparisonTable.astro';
@@ -30,6 +31,7 @@ const categoryLabel = {
   tuin: 'Tuin'
 }[data.category];
 const categoryUrl = `/categorie/${data.category}/`;
+const isA2AirfryerExperiment = data.slug === 'beste-airfryer-2026';
 
 const bestProduct = data.products[0];
 const extractAsin = (url: string): string => {
@@ -165,54 +167,85 @@ const faqSchema = data.faq && data.faq.length > 0 ? {
   <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
   {faqSchema && <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />}
 
-  <Breadcrumb category={data.category} categoryLabel={categoryLabel || 'Overig'} featuredProduct={data.featuredProduct} />
+  <Breadcrumb
+    category={data.category}
+    categoryLabel={categoryLabel || 'Overig'}
+    featuredProduct={isA2AirfryerExperiment ? 'Beste airfryer 2026' : data.featuredProduct}
+  />
 
-  <article class="mx-auto max-w-6xl px-4 py-6 sm:px-6 lg:px-8">
-    <header class="grid gap-8 lg:grid-cols-[1.6fr_0.9fr] lg:items-end">
+  <article class:list={['mx-auto max-w-6xl px-4 py-6 sm:px-6 lg:px-8', isA2AirfryerExperiment && 'a2-airfryer-page']}>
+    <header class:list={['grid gap-8 lg:grid-cols-[1.6fr_0.9fr] lg:items-end', isA2AirfryerExperiment && 'a2-editorial-hero']}>
       <div>
-        <p class="text-sm font-bold uppercase tracking-[0.16em] text-leaf">{categoryLabel} / koopgids {data.modelYear}</p>
-        <h1 class="mt-4 max-w-4xl font-serif text-4xl font-semibold leading-tight text-ink sm:text-5xl">
-          {data.title}
+        <p class:list={['text-sm font-bold uppercase tracking-[0.16em] text-leaf', isA2AirfryerExperiment && 'a2-hero__eyebrow']}>
+          {isA2AirfryerExperiment ? 'De onafhankelijke airfryer-keuzehulp' : `${categoryLabel} / koopgids ${data.modelYear}`}
+        </p>
+        <h1 class:list={['mt-4 max-w-4xl font-serif text-4xl font-semibold leading-tight text-ink sm:text-5xl', isA2AirfryerExperiment && 'a2-hero__title']}>
+          {isA2AirfryerExperiment ? (
+            <>
+              <span>Beste airfryer 2026</span>
+              <span>Welke past écht bij jouw keuken?</span>
+            </>
+          ) : data.title}
         </h1>
-        <p class="mt-5 max-w-3xl text-lg leading-8 text-muted">{data.description}</p>
-        <div class="mt-6 flex flex-wrap gap-3 text-sm font-semibold">
-          <span class="rounded bg-[#edf4f2] px-3 py-1.5 text-leaf">Score {data.rating.toFixed(1)}/5</span>
-          <span class="rounded bg-linen px-3 py-1.5 text-muted">{data.priceRange}</span>
-          <span class="rounded bg-linen px-3 py-1.5 text-muted">{data.readingTime}</span>
+        <p class:list={['mt-5 max-w-3xl text-lg leading-8 text-muted', isA2AirfryerExperiment && 'a2-hero__intro']}>{data.description}</p>
+        <div class:list={['mt-6 flex flex-wrap gap-3 text-sm font-semibold', isA2AirfryerExperiment && 'a2-hero__meta']}>
+          <span class="rounded bg-[#edf4f2] px-3 py-1.5 text-leaf">
+            {isA2AirfryerExperiment ? '5 modellen, eerlijk vergeleken' : `Score ${data.rating.toFixed(1)}/5`}
+          </span>
+          <span class="rounded bg-linen px-3 py-1.5 text-muted">{isA2AirfryerExperiment ? '3 vragen naar je match' : data.priceRange}</span>
+          <span class="rounded bg-linen px-3 py-1.5 text-muted">{isA2AirfryerExperiment ? 'Geen account nodig' : data.readingTime}</span>
           <time class="rounded bg-linen px-3 py-1.5 text-muted" datetime={data.date.toISOString()}>
             Update {data.date.toLocaleDateString('nl-NL', { year: 'numeric', month: 'long', day: 'numeric' })}
           </time>
         </div>
       </div>
 
-      <aside class="rounded border border-[#dfe8e5] bg-[#f3faf7] p-5">
-        <p class="text-sm font-bold uppercase tracking-[0.16em] text-leaf">Beste keuze</p>
-        <h2 class="mt-2 font-serif text-2xl font-semibold text-ink">{bestProduct.name}</h2>
-        <p class="mt-3 text-sm leading-6 text-muted">{bestProduct.verdict}</p>
-        <div class="mt-5">
-          <AffiliateLink
-            merchantId="amazon-nl"
-            siteId="kieskeuken"
-            params={{ asin: extractAsin(bestProduct.affiliateLink) }}
-            class="inline-flex rounded bg-leaf px-4 py-2 text-sm font-bold text-white hover:bg-[#1f514b]"
-          >
-            Bekijk beste prijs
-          </AffiliateLink>
-        </div>
-        <a class="mt-3 inline-flex rounded bg-[#232f3e] px-4 py-2 text-sm font-bold text-white hover:bg-[#131921]" href={amazonSearch(bestProduct.name)} rel="nofollow sponsored" target="_blank" data-affiliate-merchant="amazon-nl" data-affiliate-site="kieskeuken">
-          Zoek op Amazon
-        </a>
-      </aside>
+      {isA2AirfryerExperiment ? (
+        <aside class="a2-hero__route" aria-label="Zo werkt de keuzehulp">
+          <p class="a2-hero__route-label">Begin niet bij een merk. Begin bij je keuken.</p>
+          <h2>Van twijfel naar een shortlist in 30 seconden.</h2>
+          <ol>
+            <li><span>1</span><div><strong>Vertel hoe je kookt</strong><small>Huishouden, manden en prioriteit</small></div></li>
+            <li><span>2</span><div><strong>Zie waarom het past</strong><small>Een uitlegbare match, geen zwarte doos</small></div></li>
+            <li><span>3</span><div><strong>Vergelijk rustig verder</strong><small>Prijs, minpunten en alternatieven blijven zichtbaar</small></div></li>
+          </ol>
+          <a href="#airfryer-keuzehulp">Start de keuzehulp <span aria-hidden="true">↓</span></a>
+          <p class="a2-hero__route-note">Geen login · geen opgeslagen antwoorden</p>
+        </aside>
+      ) : (
+        <aside class="rounded border border-[#dfe8e5] bg-[#f3faf7] p-5">
+          <p class="text-sm font-bold uppercase tracking-[0.16em] text-leaf">Beste keuze</p>
+          <h2 class="mt-2 font-serif text-2xl font-semibold text-ink">{bestProduct.name}</h2>
+          <p class="mt-3 text-sm leading-6 text-muted">{bestProduct.verdict}</p>
+          <div class="mt-5">
+            <AffiliateLink
+              merchantId="amazon-nl"
+              siteId="kieskeuken"
+              params={{ asin: extractAsin(bestProduct.affiliateLink) }}
+              class="inline-flex rounded bg-leaf px-4 py-2 text-sm font-bold text-white hover:bg-[#1f514b]"
+            >
+              Bekijk beste prijs
+            </AffiliateLink>
+          </div>
+          <a class="mt-3 inline-flex rounded bg-[#232f3e] px-4 py-2 text-sm font-bold text-white hover:bg-[#131921]" href={amazonSearch(bestProduct.name)} rel="nofollow sponsored" target="_blank" data-affiliate-merchant="amazon-nl" data-affiliate-site="kieskeuken">
+            Zoek op Amazon
+          </a>
+        </aside>
+      )}
     </header>
 
-    <section class="mt-10 grid gap-4 md:grid-cols-2">
-      <div class="rounded border border-[#e6ded2] bg-paper p-5">
+    {isA2AirfryerExperiment && <AirfryerDecisionTool products={data.products} />}
+
+    <section class:list={['mt-10 grid gap-4 md:grid-cols-2', isA2AirfryerExperiment && 'a2-balance-sheet']}>
+      <div class:list={['rounded border border-[#e6ded2] bg-paper p-5', isA2AirfryerExperiment && 'a2-balance-sheet__card a2-balance-sheet__card--plus']}>
+        {isA2AirfryerExperiment && <p class="a2-balance-sheet__kicker">Wat je wint</p>}
         <h2 class="font-serif text-2xl font-semibold text-ink">Pluspunten</h2>
         <ul class="mt-4 space-y-2 text-muted">
           {data.pros.map((item) => <li class="flex gap-2"><span class="font-bold text-leaf">+</span><span>{item}</span></li>)}
         </ul>
       </div>
-      <div class="rounded border border-[#e6ded2] bg-paper p-5">
+      <div class:list={['rounded border border-[#e6ded2] bg-paper p-5', isA2AirfryerExperiment && 'a2-balance-sheet__card a2-balance-sheet__card--minus']}>
+        {isA2AirfryerExperiment && <p class="a2-balance-sheet__kicker">Waar je op let</p>}
         <h2 class="font-serif text-2xl font-semibold text-ink">Minpunten</h2>
         <ul class="mt-4 space-y-2 text-muted">
           {data.cons.map((item) => <li class="flex gap-2"><span class="font-bold text-clay">-</span><span>{item}</span></li>)}
@@ -220,18 +253,31 @@ const faqSchema = data.faq && data.faq.length > 0 ? {
       </div>
     </section>
 
-    <section class="mt-10">
-      <h2 class="font-serif text-3xl font-semibold text-ink">Vergelijking in het kort</h2>
+    <section class:list={['mt-10', isA2AirfryerExperiment && 'a2-shortlist']}>
+      {isA2AirfryerExperiment && <p class="a2-shortlist__eyebrow">De shortlist</p>}
+      <h2 class="font-serif text-3xl font-semibold text-ink">
+        {isA2AirfryerExperiment ? 'Vijf sterke keuzes, zonder verkooppraat' : 'Vergelijking in het kort'}
+      </h2>
       <p class="mt-2 max-w-3xl text-muted">
-        De links hieronder bevatten affiliate links naar Amazon.nl. Coolblue en andere aanbieders volgen zodra deze zijn goedgekeurd. Bekijk prijzen, specificaties en minpunten in één oogopslag.
+        {isA2AirfryerExperiment
+          ? 'Bekijk na je match ook de alternatieven. De verschillen in formaat, prijs en dagelijks gebruik zijn belangrijker dan één winnaar voor iedereen.'
+          : 'De links hieronder bevatten affiliate links naar Amazon.nl. Coolblue en andere aanbieders volgen zodra deze zijn goedgekeurd. Bekijk prijzen, specificaties en minpunten in één oogopslag.'}
       </p>
       <div class="mt-5">
-        <ComparisonTable products={data.products} />
+        <ComparisonTable
+          products={data.products}
+          trackDirectAmazonSearch={isA2AirfryerExperiment}
+          enhancedAirfryerLayout={isA2AirfryerExperiment}
+        />
       </div>
     </section>
 
     <div class="mt-10">
-      <AffiliateNotice />
+      {isA2AirfryerExperiment ? (
+        <aside class="border-y border-[#e8e1d7] py-3 text-sm leading-6 text-muted">
+          <p><strong class="font-semibold text-ink">Affiliate melding:</strong> sommige links gaan naar Amazon.nl; bij een aankoop kan Beste Apparaten commissie ontvangen, zonder extra kosten voor jou. Dit verandert onze rangschikking niet.</p>
+        </aside>
+      ) : <AffiliateNotice />}
     </div>
 
     <div class="prose-review mx-auto mt-10 max-w-3xl">
@@ -334,3 +380,227 @@ const faqSchema = data.faq && data.faq.length > 0 ? {
     </section>
   </article>
 </BaseLayout>
+
+<style is:global>
+  .a2-airfryer-page {
+    --a2-forest: #153f39;
+    --a2-forest-deep: #0d2f2b;
+    --a2-cream: #fffaf0;
+    --a2-gold: #e6bd74;
+    --a2-coral: #d77452;
+    padding-top: clamp(1rem, 3vw, 2rem);
+  }
+
+  .a2-editorial-hero {
+    position: relative;
+    overflow: hidden;
+    border: 1px solid #e4ddd0;
+    border-radius: 2rem;
+    background:
+      radial-gradient(circle at 84% 12%, rgba(230, 189, 116, 0.16), transparent 28rem),
+      linear-gradient(145deg, #fffdf8 0%, #f6f1e8 100%);
+    padding: clamp(1.4rem, 5vw, 3.4rem);
+    box-shadow: 0 2rem 5rem rgba(31, 41, 51, 0.08);
+  }
+
+  .a2-editorial-hero::after {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 7.5rem;
+    height: 0.3rem;
+    border-radius: 0 0 999px 0;
+    background: linear-gradient(90deg, var(--a2-forest), var(--a2-gold));
+    content: '';
+  }
+
+  .a2-hero__eyebrow { color: var(--a2-coral); font-size: 0.72rem; }
+
+  .a2-hero__title {
+    display: grid;
+    max-width: 13ch;
+    gap: 0.15em;
+    font-size: clamp(2.65rem, 7vw, 5.6rem);
+    letter-spacing: -0.052em;
+    line-height: 0.91;
+  }
+
+  .a2-hero__title span:last-child {
+    color: var(--a2-forest);
+    font-size: 0.56em;
+    font-style: italic;
+    letter-spacing: -0.025em;
+    line-height: 1.06;
+  }
+
+  .a2-hero__intro { max-width: 40rem; color: #596764; font-size: clamp(1rem, 2vw, 1.15rem); line-height: 1.7; }
+
+  .a2-hero__meta { gap: 0.45rem; }
+
+  .a2-hero__meta > * {
+    border: 1px solid rgba(21, 63, 57, 0.1);
+    border-radius: 999px;
+    background: rgba(255, 253, 248, 0.72);
+    padding: 0.42rem 0.68rem;
+    color: #4f625e;
+    font-size: 0.68rem;
+    backdrop-filter: blur(8px);
+  }
+
+  .a2-hero__meta > :first-child { background: #eaf3ef; color: var(--a2-forest); }
+
+  .a2-hero__route {
+    position: relative;
+    overflow: hidden;
+    border-radius: 1.45rem;
+    background: var(--a2-forest-deep);
+    padding: clamp(1.25rem, 3vw, 2rem);
+    box-shadow: 0 1.5rem 3.5rem rgba(13, 47, 43, 0.2);
+    color: var(--a2-cream);
+  }
+
+  .a2-hero__route::before {
+    position: absolute;
+    right: -4rem;
+    bottom: -5rem;
+    width: 12rem;
+    height: 12rem;
+    border-radius: 50%;
+    background: radial-gradient(circle, rgba(230, 189, 116, 0.25), transparent 68%);
+    content: '';
+    pointer-events: none;
+  }
+
+  .a2-hero__route-label {
+    margin: 0;
+    color: var(--a2-gold);
+    font-size: 0.68rem;
+    font-weight: 850;
+    letter-spacing: 0.13em;
+    line-height: 1.5;
+    text-transform: uppercase;
+  }
+
+  .a2-hero__route h2 {
+    max-width: 15ch;
+    margin: 0.65rem 0 0;
+    font-family: Fraunces, ui-serif, Georgia, serif;
+    font-size: clamp(1.55rem, 3vw, 2.2rem);
+    font-weight: 600;
+    letter-spacing: -0.025em;
+    line-height: 1.05;
+  }
+
+  .a2-hero__route ol { display: grid; gap: 0.8rem; margin: 1.35rem 0 0; padding: 0; list-style: none; }
+
+  .a2-hero__route li { display: grid; grid-template-columns: 1.6rem minmax(0, 1fr); gap: 0.65rem; align-items: start; }
+
+  .a2-hero__route li > span {
+    display: grid;
+    width: 1.55rem;
+    height: 1.55rem;
+    place-items: center;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 50%;
+    color: var(--a2-gold);
+    font-size: 0.65rem;
+    font-weight: 850;
+  }
+
+  .a2-hero__route li div { display: grid; gap: 0.05rem; }
+  .a2-hero__route li strong { font-size: 0.8rem; }
+  .a2-hero__route li small { color: rgba(255, 250, 240, 0.58); font-size: 0.7rem; line-height: 1.4; }
+
+  .a2-hero__route > a {
+    position: relative;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 1.35rem;
+    border-radius: 999px;
+    background: var(--a2-cream);
+    padding: 0.78rem 1rem;
+    color: var(--a2-forest-deep);
+    font-size: 0.78rem;
+    font-weight: 850;
+    text-decoration: none;
+  }
+
+  .a2-hero__route > a:hover { background: #fff; }
+  .a2-hero__route-note { margin: 0.65rem 0 0; text-align: center; color: rgba(255, 250, 240, 0.5); font-size: 0.64rem; }
+
+  .a2-balance-sheet { margin-top: clamp(2.5rem, 6vw, 4.5rem); }
+
+  .a2-balance-sheet__card {
+    position: relative;
+    overflow: hidden;
+    border-radius: 1.35rem;
+    padding: clamp(1.2rem, 3vw, 1.8rem);
+    box-shadow: 0 1rem 2.5rem rgba(31, 41, 51, 0.055);
+  }
+
+  .a2-balance-sheet__card::before { position: absolute; top: 0; right: 0; left: 0; height: 0.22rem; content: ''; }
+  .a2-balance-sheet__card--plus::before { background: linear-gradient(90deg, var(--a2-forest), #81ad9f); }
+  .a2-balance-sheet__card--minus::before { background: linear-gradient(90deg, var(--a2-coral), #e6bd74); }
+
+  .a2-balance-sheet__kicker {
+    margin: 0 0 0.3rem;
+    color: #75827f;
+    font-size: 0.64rem;
+    font-weight: 850;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+  }
+
+  .a2-balance-sheet__card li { align-items: flex-start; font-size: 0.9rem; line-height: 1.55; }
+  .a2-balance-sheet__card li > span:first-child { margin-top: 0.05rem; }
+
+  .a2-shortlist { margin-top: clamp(3rem, 7vw, 5.2rem); }
+  .a2-shortlist__eyebrow { margin: 0 0 0.4rem; color: var(--a2-coral); font-size: 0.7rem; font-weight: 850; letter-spacing: 0.16em; text-transform: uppercase; }
+  .a2-shortlist > h2 { max-width: 18ch; font-size: clamp(2rem, 5vw, 3.2rem); letter-spacing: -0.035em; line-height: 1.02; }
+  .a2-shortlist > p { line-height: 1.7; }
+
+  @media (max-width: 767px) {
+    body:has(.a2-airfryer-page) > header > div { gap: 0.75rem; padding-block: 0.8rem; }
+
+    body:has(.a2-airfryer-page) > header nav {
+      overflow-x: auto;
+      width: calc(100% + 2rem);
+      margin-inline: -1rem;
+      padding-inline: 1rem;
+      scrollbar-width: none;
+      mask-image: linear-gradient(90deg, transparent, #000 1rem, #000 calc(100% - 1rem), transparent);
+    }
+
+    body:has(.a2-airfryer-page) > header nav::-webkit-scrollbar { display: none; }
+    body:has(.a2-airfryer-page) > header nav ul { width: max-content; flex-wrap: nowrap; gap: 0.1rem; padding-inline: 0.35rem; }
+    body:has(.a2-airfryer-page) > header nav a { padding: 0.45rem 0.62rem; font-size: 0.72rem; }
+
+    body:has(.a2-airfryer-page) main > nav {
+      overflow: hidden;
+      padding-top: 0.65rem;
+      padding-bottom: 0.2rem;
+      white-space: nowrap;
+    }
+
+    body:has(.a2-airfryer-page) main > nav ol { overflow: hidden; flex-wrap: nowrap; }
+    body:has(.a2-airfryer-page) main > nav li:last-child { overflow: hidden; text-overflow: ellipsis; }
+
+    .a2-airfryer-page { padding-top: 0.75rem; }
+    .a2-editorial-hero { gap: 1.35rem; border-radius: 1.5rem; padding: 1.35rem; }
+    .a2-hero__eyebrow { font-size: 0.63rem; line-height: 1.5; }
+    .a2-hero__title { margin-top: 0.8rem; font-size: clamp(2.75rem, 13vw, 4rem); }
+    .a2-hero__intro { margin-top: 1rem; font-size: 0.94rem; line-height: 1.6; }
+    .a2-hero__meta { margin-top: 1rem; }
+    .a2-hero__meta > * { padding: 0.34rem 0.52rem; font-size: 0.61rem; }
+    .a2-hero__route { border-radius: 1.15rem; padding: 1.1rem; }
+    .a2-hero__route ol { margin-top: 1rem; }
+    .a2-balance-sheet { gap: 0.75rem; }
+    .a2-shortlist { margin-top: 3.4rem; }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .a2-hero__route > a { scroll-behavior: auto; }
+  }
+</style>

@@ -12,17 +12,23 @@ interface Product {
 
 interface Props {
   products: Product[];
+  trackDirectAmazonSearch?: boolean;
+  enhancedAirfryerLayout?: boolean;
 }
 
-const { products } = Astro.props;
+const {
+  products,
+  trackDirectAmazonSearch = false,
+  enhancedAirfryerLayout = false
+} = Astro.props;
 const extractAsin = (url: string): string => {
   const match = url.match(/\/dp\/([A-Z0-9]+)/);
   return match ? match[1] : '';
 };
 ---
 
-<div class="overflow-x-auto rounded border border-[#e6ded2] bg-paper">
-  <table class="w-full min-w-[760px] border-collapse text-left text-sm">
+<div class:list={['overflow-x-auto rounded border border-[#e6ded2] bg-paper', enhancedAirfryerLayout && 'airfryer-mobile-cards']}>
+  <table class:list={['w-full min-w-[760px] border-collapse text-left text-sm', enhancedAirfryerLayout && 'airfryer-comparison-table']}>
     <thead class="bg-linen text-ink">
       <tr>
         <th class="px-4 py-3">Product</th>
@@ -36,12 +42,12 @@ const extractAsin = (url: string): string => {
     <tbody>
       {products.map((product) => (
         <tr class="border-t border-[#e8e1d7] align-top">
-          <td class="px-4 py-3 font-semibold text-ink">{product.name}</td>
-          <td class="px-4 py-3 text-muted">{product.bestFor}</td>
-          <td class="px-4 py-3 text-muted">{product.priceRange}</td>
-          <td class="px-4 py-3 font-bold text-leaf">{product.rating.toFixed(1)}/5</td>
-          <td class="px-4 py-3 text-muted">{product.verdict}</td>
-          <td class="px-4 py-3">
+          <td class="px-4 py-3 font-semibold text-ink" data-kind="product">{product.name}</td>
+          <td class="px-4 py-3 text-muted" data-label="Beste voor">{product.bestFor}</td>
+          <td class="px-4 py-3 text-muted" data-label="Prijsrange">{product.priceRange}</td>
+          <td class="px-4 py-3 font-bold text-leaf" data-label="Redactionele score">{product.rating.toFixed(1)}/5</td>
+          <td class="px-4 py-3 text-muted" data-kind="verdict">{product.verdict}</td>
+          <td class="px-4 py-3" data-kind="links">
             <div class="flex flex-col gap-1">
               <AffiliateLink
                 merchantId="amazon-nl"
@@ -51,7 +57,14 @@ const extractAsin = (url: string): string => {
               >
                 Bekijk
               </AffiliateLink>
-              <a class="inline-flex rounded bg-[#232f3e] px-3 py-2 text-xs font-bold text-white hover:bg-[#131921]" href={`https://www.amazon.nl/s?k=${encodeURIComponent(product.name.replace(/\*\*/g, '').trim())}&tag=kieskeukennl-21`} rel="nofollow sponsored" target="_blank">
+              <a
+                class="inline-flex rounded bg-[#232f3e] px-3 py-2 text-xs font-bold text-white hover:bg-[#131921]"
+                href={`https://www.amazon.nl/s?k=${encodeURIComponent(product.name.replace(/\*\*/g, '').trim())}&tag=kieskeukennl-21`}
+                rel="nofollow sponsored"
+                target="_blank"
+                data-affiliate-merchant={trackDirectAmazonSearch ? 'amazon-nl' : undefined}
+                data-affiliate-site={trackDirectAmazonSearch ? 'kieskeuken' : undefined}
+              >
                 Amazon
               </a>
             </div>
@@ -61,3 +74,96 @@ const extractAsin = (url: string): string => {
     </tbody>
   </table>
 </div>
+
+<style>
+  @media (max-width: 639px) {
+    .airfryer-mobile-cards {
+      overflow: visible;
+      border: 0;
+      border-radius: 0;
+      background: transparent;
+    }
+
+    .airfryer-comparison-table,
+    .airfryer-comparison-table tbody,
+    .airfryer-comparison-table tr,
+    .airfryer-comparison-table td {
+      display: block;
+      width: 100%;
+      min-width: 0;
+    }
+
+    .airfryer-comparison-table thead { display: none; }
+
+    .airfryer-comparison-table tbody {
+      display: grid;
+      gap: 0.85rem;
+    }
+
+    .airfryer-comparison-table tr {
+      overflow: hidden;
+      border: 1px solid #e4ddd0;
+      border-radius: 1.15rem;
+      background: #fffdf8;
+      box-shadow: 0 0.8rem 2.1rem rgba(31, 41, 51, 0.055);
+    }
+
+    .airfryer-comparison-table td {
+      border: 0;
+      padding: 0.35rem 1rem;
+    }
+
+    .airfryer-comparison-table td[data-kind='product'] {
+      position: relative;
+      padding-top: 1rem;
+      padding-bottom: 0.65rem;
+      font-family: Fraunces, ui-serif, Georgia, serif;
+      font-size: 1.25rem;
+      font-weight: 600;
+      letter-spacing: -0.02em;
+      line-height: 1.15;
+    }
+
+    .airfryer-comparison-table td[data-kind='product']::before {
+      display: block;
+      margin-bottom: 0.35rem;
+      color: #d77452;
+      font-family: Inter, ui-sans-serif, system-ui, sans-serif;
+      font-size: 0.6rem;
+      font-weight: 850;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      content: 'Shortlist';
+    }
+
+    .airfryer-comparison-table td[data-label] {
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      gap: 1rem;
+      font-size: 0.78rem;
+    }
+
+    .airfryer-comparison-table td[data-label]::before {
+      flex: 0 0 auto;
+      color: #7a8581;
+      font-size: 0.65rem;
+      font-weight: 750;
+      letter-spacing: 0.04em;
+      content: attr(data-label);
+    }
+
+    .airfryer-comparison-table td[data-kind='verdict'] {
+      margin-top: 0.55rem;
+      border-top: 1px solid #eee8de;
+      padding-top: 0.8rem;
+      color: #596764;
+      font-size: 0.78rem;
+      line-height: 1.55;
+    }
+
+    .airfryer-comparison-table td[data-kind='links'] { padding-top: 0.85rem; padding-bottom: 1rem; }
+    .airfryer-comparison-table td[data-kind='links'] > div { display: flex; flex-direction: row; flex-wrap: wrap; gap: 0.45rem; }
+    .airfryer-comparison-table td[data-kind='links'] a { min-height: 2.5rem; flex: 1 1 8rem; align-items: center; justify-content: center; border-radius: 999px; }
+  }
+</style>

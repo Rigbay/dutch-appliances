@@ -1,0 +1,730 @@
+---
+interface Product {
+  name: string;
+  verdict: string;
+  priceRange: string;
+  bestFor: string;
+  rating: number;
+  affiliateLink: string;
+}
+
+interface Props {
+  products: Product[];
+}
+
+const { products } = Astro.props;
+const recommendationUrl = (product: Product) => {
+  const asin = product.affiliateLink.match(/\/dp\/([A-Z0-9]+)/)?.[1];
+  return asin
+    ? `https://www.amazon.nl/dp/${asin}?tag=kieskeukennl-21`
+    : `https://www.amazon.nl/s?k=${encodeURIComponent(product.name)}&tag=kieskeukennl-21`;
+};
+const toolProducts = products.map((product) => ({
+  name: product.name,
+  verdict: product.verdict,
+  priceRange: product.priceRange,
+  bestFor: product.bestFor,
+  affiliateLink: recommendationUrl(product),
+}));
+---
+
+<section id="airfryer-keuzehulp" data-orbit-tool="a2-airfryer-decision-tool-01" class="a2-tool" aria-labelledby="a2-tool-title">
+  <div class="a2-tool__glow a2-tool__glow--one" aria-hidden="true"></div>
+  <div class="a2-tool__glow a2-tool__glow--two" aria-hidden="true"></div>
+
+  <header class="a2-tool__header">
+    <div>
+      <p class="a2-tool__eyebrow"><span aria-hidden="true">✦</span> De Airfryer Matchmaker</p>
+      <h2 id="a2-tool-title">Drie keuzes. Eén match die bij je keuken past.</h2>
+      <p class="a2-tool__intro">
+        Geen eindeloze specificatielijst. Vertel hoe je echt kookt en krijg een transparante aanbeveling uit de vijf modellen in deze gids.
+      </p>
+    </div>
+    <ul class="a2-tool__trust" aria-label="Eigenschappen van de keuzehulp">
+      <li><span aria-hidden="true">✓</span> 30 seconden</li>
+      <li><span aria-hidden="true">✓</span> Geen account</li>
+      <li><span aria-hidden="true">✓</span> Antwoorden blijven lokaal</li>
+    </ul>
+  </header>
+
+  <div class="a2-tool__surface">
+    <div data-tool-progress class="a2-progress" aria-live="polite">
+      <div class="a2-progress__copy">
+        <span data-progress-label>Vraag 1 van 3</span>
+        <span data-progress-context>Je huishouden</span>
+      </div>
+      <div class="a2-progress__track" aria-hidden="true">
+        <span data-progress-fill></span>
+      </div>
+    </div>
+
+    <form data-tool-form novalidate>
+      <fieldset data-tool-step="0" tabindex="-1" class="a2-step">
+        <legend>
+          <span class="a2-step__number">01</span>
+          Voor hoeveel mensen kook je meestal?
+        </legend>
+        <p class="a2-step__hint">Denk aan een gewone doordeweekse maaltijd, niet aan die ene verjaardag.</p>
+        <div class="a2-options a2-options--three">
+          <label class="a2-option">
+            <input type="radio" name="household" value="small" required />
+            <span class="a2-option__mark" aria-hidden="true"></span>
+            <span class="a2-option__copy"><strong>1–2 personen</strong><small>Compact is vaak genoeg</small></span>
+          </label>
+          <label class="a2-option">
+            <input type="radio" name="household" value="family" required />
+            <span class="a2-option__mark" aria-hidden="true"></span>
+            <span class="a2-option__copy"><strong>3–4 personen</strong><small>Ruimte voor een gezin</small></span>
+          </label>
+          <label class="a2-option">
+            <input type="radio" name="household" value="large" required />
+            <span class="a2-option__mark" aria-hidden="true"></span>
+            <span class="a2-option__copy"><strong>5 of meer</strong><small>Capaciteit telt echt</small></span>
+          </label>
+        </div>
+      </fieldset>
+
+      <fieldset data-tool-step="1" tabindex="-1" class="a2-step" hidden>
+        <legend>
+          <span class="a2-step__number">02</span>
+          Wil je vaak twee gerechten tegelijk bereiden?
+        </legend>
+        <p class="a2-step__hint">Bijvoorbeeld friet en groente, elk met een eigen tijd en temperatuur.</p>
+        <div class="a2-options a2-options--two">
+          <label class="a2-option">
+            <input type="radio" name="dual" value="yes" required />
+            <span class="a2-option__mark" aria-hidden="true"></span>
+            <span class="a2-option__copy"><strong>Ja, graag</strong><small>Twee manden zijn belangrijk</small></span>
+          </label>
+          <label class="a2-option">
+            <input type="radio" name="dual" value="no" required />
+            <span class="a2-option__mark" aria-hidden="true"></span>
+            <span class="a2-option__copy"><strong>Niet per se</strong><small>Eén goede mand is genoeg</small></span>
+          </label>
+        </div>
+      </fieldset>
+
+      <fieldset data-tool-step="2" tabindex="-1" class="a2-step" hidden>
+        <legend>
+          <span class="a2-step__number">03</span>
+          Wat mag jouw keuze vooral goed doen?
+        </legend>
+        <p class="a2-step__hint">Kies de grens waar je het minst op wilt inleveren.</p>
+        <div class="a2-options a2-options--four">
+          <label class="a2-option">
+            <input type="radio" name="priority" value="budget" required />
+            <span class="a2-option__mark" aria-hidden="true"></span>
+            <span class="a2-option__copy"><strong>Prijs laag houden</strong><small>Functioneel boven luxe</small></span>
+          </label>
+          <label class="a2-option">
+            <input type="radio" name="priority" value="compact" required />
+            <span class="a2-option__mark" aria-hidden="true"></span>
+            <span class="a2-option__copy"><strong>Ruimte besparen</strong><small>Voor een smaller aanrecht</small></span>
+          </label>
+          <label class="a2-option">
+            <input type="radio" name="priority" value="easy" required />
+            <span class="a2-option__mark" aria-hidden="true"></span>
+            <span class="a2-option__copy"><strong>Dagelijks gemak</strong><small>Logisch en veelzijdig</small></span>
+          </label>
+          <label class="a2-option">
+            <input type="radio" name="priority" value="performance" required />
+            <span class="a2-option__mark" aria-hidden="true"></span>
+            <span class="a2-option__copy"><strong>Beste prestaties</strong><small>Snel en flexibel koken</small></span>
+          </label>
+        </div>
+      </fieldset>
+
+      <p data-tool-error class="a2-tool__error" role="alert" hidden>Kies eerst één antwoord om verder te gaan.</p>
+
+      <div class="a2-tool__actions">
+        <button data-tool-back type="button" class="a2-button a2-button--quiet" hidden>
+          <span aria-hidden="true">←</span> Vorige
+        </button>
+        <button data-tool-next type="button" class="a2-button a2-button--primary" disabled>
+          Volgende <span aria-hidden="true">→</span>
+        </button>
+        <button data-tool-submit type="submit" class="a2-button a2-button--primary" hidden disabled>
+          Toon mijn match <span aria-hidden="true">→</span>
+        </button>
+      </div>
+    </form>
+
+    <div data-tool-result class="a2-result" aria-live="polite" tabindex="-1" hidden>
+      <div class="a2-result__topline">
+        <p><span aria-hidden="true">✦</span> Beste match voor jouw antwoorden</p>
+        <button data-tool-edit type="button">Pas antwoorden aan</button>
+      </div>
+      <div class="a2-result__grid">
+        <div>
+          <p data-result-best-for class="a2-result__best-for"></p>
+          <h3 data-result-name></h3>
+          <p data-result-reason class="a2-result__reason"></p>
+        </div>
+        <div class="a2-result__facts">
+          <div><span>Waarom deze</span><p data-result-verdict></p></div>
+          <div><span>Richtprijs</span><p data-result-price></p></div>
+        </div>
+      </div>
+      <div class="a2-result__footer">
+        <a
+          data-result-link
+          data-affiliate-merchant="amazon-nl"
+          data-affiliate-site="kieskeuken"
+          data-orbit-experiment="a2-airfryer-decision-tool-01"
+          href="https://www.amazon.nl/"
+          rel="nofollow sponsored"
+          target="_blank"
+        >
+          Bekijk actuele prijs op Amazon <span aria-hidden="true">↗</span>
+        </a>
+        <p>Affiliate link · jij betaalt niets extra</p>
+      </div>
+    </div>
+
+    <p class="a2-tool__privacy">
+      <span aria-hidden="true">◌</span>
+      Deze keuzehulp werkt in je browser. We bewaren of versturen je antwoorden niet; alleen een anonieme voltooiing kan worden geteld.
+    </p>
+  </div>
+</section>
+
+<script is:inline define:vars={{ toolProducts }}>
+  (function () {
+    var toolId = 'a2-airfryer-decision-tool-01';
+    var root = document.querySelector('[data-orbit-tool="' + toolId + '"]');
+    if (!(root instanceof HTMLElement)) return;
+
+    var form = root.querySelector('[data-tool-form]');
+    var steps = Array.from(root.querySelectorAll('[data-tool-step]'));
+    var error = root.querySelector('[data-tool-error]');
+    var backButton = root.querySelector('[data-tool-back]');
+    var nextButton = root.querySelector('[data-tool-next]');
+    var submitButton = root.querySelector('[data-tool-submit]');
+    var editButton = root.querySelector('[data-tool-edit]');
+    var progressLabel = root.querySelector('[data-progress-label]');
+    var progressContext = root.querySelector('[data-progress-context]');
+    var progressFill = root.querySelector('[data-progress-fill]');
+    var result = root.querySelector('[data-tool-result]');
+    var resultName = root.querySelector('[data-result-name]');
+    var resultBestFor = root.querySelector('[data-result-best-for]');
+    var resultReason = root.querySelector('[data-result-reason]');
+    var resultVerdict = root.querySelector('[data-result-verdict]');
+    var resultPrice = root.querySelector('[data-result-price]');
+    var resultLink = root.querySelector('[data-result-link]');
+    if (!(form instanceof HTMLFormElement) || !(resultLink instanceof HTMLAnchorElement) || steps.length !== 3) return;
+
+    var stepContexts = ['Je huishouden', 'Hoe je kookt', 'Wat voor jou telt'];
+    var currentStep = 0;
+    var completionSent = false;
+    var outboundSent = false;
+    var completionKey = 'orbit_a2_airfryer_tool_completed';
+    var outboundKey = 'orbit_a2_airfryer_tool_outbound';
+
+    function hasMarker(key) {
+      try {
+        return window.sessionStorage.getItem(key) === '1';
+      } catch (_) {
+        return false;
+      }
+    }
+
+    function setMarker(key) {
+      try {
+        window.sessionStorage.setItem(key, '1');
+      } catch (_) {
+        // In-memory flags below still prevent repeats on this page view.
+      }
+    }
+
+    function sendOnce(eventName, key, alreadySent) {
+      if (alreadySent || hasMarker(key)) return true;
+      if (window.__orbitAnalyticsSuppressed || typeof window.gtag !== 'function') return false;
+      window.gtag('event', eventName, {
+        tool_id: toolId,
+        transport_type: 'beacon'
+      });
+      setMarker(key);
+      return true;
+    }
+
+    function findProduct(fragment) {
+      return toolProducts.find(function (product) {
+        return product.name.indexOf(fragment) !== -1;
+      });
+    }
+
+    function chooseProduct(household, dual, priority) {
+      if (priority === 'budget') {
+        return {
+          product: findProduct('Princess Digitale Airfryer XXL 182026'),
+          reason: 'Je wilt vooral slim met je budget omgaan. De Princess levert genoeg inhoud voor dagelijks gebruik zonder dat je betaalt voor functies die je minder belangrijk vindt.'
+        };
+      }
+      if (priority === 'compact') {
+        return {
+          product: findProduct('Tefal Easy Fry & Grill EY5018'),
+          reason: 'Aanrechtruimte is jouw harde grens. Deze compactere Tefal houdt de keuken rustig en biedt toch genoeg capaciteit voor een kleiner huishouden.'
+        };
+      }
+      if (priority === 'performance') {
+        return {
+          product: findProduct('Ninja Foodi Dual Zone AF400EU'),
+          reason: 'Je kiest snelheid en flexibiliteit boven de laagste prijs. De twee onafhankelijke zones maken de Ninja sterk voor complete maaltijden met verschillende bereidingstijden.'
+        };
+      }
+      if (dual === 'yes' || household === 'large') {
+        return {
+          product: findProduct('Philips 3000 Series Dual Airfryer NA352/00'),
+          reason: 'Je kookt voor meerdere mensen of wilt onderdelen tegelijk klaar hebben. De ruime dubbele mand maakt de Philips de meest evenwichtige match voor jouw routine.'
+        };
+      }
+      return {
+        product: findProduct('Tefal Easy Fry & Grill XXL EY8018'),
+        reason: 'Eén ruime mand past bij hoe jij kookt. De Tefal combineert dagelijks gemak, veel inhoud en een grillfunctie zonder de prijs van een premium dual-zone model.'
+      };
+    }
+
+    function selectedValue(step) {
+      var checked = step.querySelector('input[type="radio"]:checked');
+      return checked instanceof HTMLInputElement ? checked.value : null;
+    }
+
+    function updateStep(moveFocus) {
+      steps.forEach(function (step, index) {
+        step.hidden = index !== currentStep;
+      });
+      if (progressLabel instanceof HTMLElement) progressLabel.textContent = 'Vraag ' + (currentStep + 1) + ' van 3';
+      if (progressContext instanceof HTMLElement) progressContext.textContent = stepContexts[currentStep];
+      if (progressFill instanceof HTMLElement) progressFill.style.width = ((currentStep + 1) / 3 * 100) + '%';
+      if (backButton instanceof HTMLButtonElement) backButton.hidden = currentStep === 0;
+      if (nextButton instanceof HTMLButtonElement) {
+        nextButton.hidden = currentStep === steps.length - 1;
+        nextButton.disabled = !selectedValue(steps[currentStep]);
+      }
+      if (submitButton instanceof HTMLButtonElement) {
+        submitButton.hidden = currentStep !== steps.length - 1;
+        submitButton.disabled = !selectedValue(steps[currentStep]);
+      }
+      if (error instanceof HTMLElement) error.hidden = true;
+      if (moveFocus && steps[currentStep] instanceof HTMLElement) steps[currentStep].focus({ preventScroll: true });
+    }
+
+    form.addEventListener('change', function () {
+      updateStep(false);
+    });
+
+    if (nextButton instanceof HTMLButtonElement) {
+      nextButton.addEventListener('click', function () {
+        if (!selectedValue(steps[currentStep])) {
+          if (error instanceof HTMLElement) error.hidden = false;
+          return;
+        }
+        currentStep = Math.min(currentStep + 1, steps.length - 1);
+        updateStep(true);
+      });
+    }
+
+    if (backButton instanceof HTMLButtonElement) {
+      backButton.addEventListener('click', function () {
+        currentStep = Math.max(currentStep - 1, 0);
+        updateStep(true);
+      });
+    }
+
+    form.addEventListener('submit', function (event) {
+      event.preventDefault();
+      var values = new FormData(form);
+      var household = values.get('household');
+      var dual = values.get('dual');
+      var priority = values.get('priority');
+      if (!household || !dual || !priority) {
+        if (error instanceof HTMLElement) error.hidden = false;
+        return;
+      }
+
+      var choice = chooseProduct(household, dual, priority);
+      if (!choice.product) return;
+
+      if (resultName instanceof HTMLElement) resultName.textContent = choice.product.name;
+      if (resultBestFor instanceof HTMLElement) resultBestFor.textContent = choice.product.bestFor;
+      if (resultReason instanceof HTMLElement) resultReason.textContent = choice.reason;
+      if (resultVerdict instanceof HTMLElement) resultVerdict.textContent = choice.product.verdict;
+      if (resultPrice instanceof HTMLElement) resultPrice.textContent = choice.product.priceRange;
+      resultLink.href = choice.product.affiliateLink;
+      form.hidden = true;
+      var progress = root.querySelector('[data-tool-progress]');
+      if (progress instanceof HTMLElement) progress.hidden = true;
+      if (result instanceof HTMLElement) {
+        result.hidden = false;
+        result.focus?.({ preventScroll: true });
+        result.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+      }
+
+      completionSent = sendOnce('decision_tool_complete', completionKey, completionSent);
+    });
+
+    if (editButton instanceof HTMLButtonElement) {
+      editButton.addEventListener('click', function () {
+        if (result instanceof HTMLElement) result.hidden = true;
+        form.hidden = false;
+        var progress = root.querySelector('[data-tool-progress]');
+        if (progress instanceof HTMLElement) progress.hidden = false;
+        currentStep = 0;
+        updateStep(true);
+      });
+    }
+
+    resultLink.addEventListener('click', function () {
+      outboundSent = sendOnce('decision_tool_outbound', outboundKey, outboundSent);
+    });
+
+    updateStep(false);
+  })();
+</script>
+
+<style>
+  .a2-tool {
+    --forest: #153f39;
+    --forest-deep: #0d2f2b;
+    --cream: #fffaf0;
+    --paper: #fffdf8;
+    --ink: #1d2927;
+    --muted: #63716d;
+    --gold: #e6bd74;
+    --coral: #d77452;
+    position: relative;
+    isolation: isolate;
+    overflow: clip;
+    margin-top: clamp(2rem, 6vw, 4.5rem);
+    border: 1px solid rgba(255, 255, 255, 0.16);
+    border-radius: 2rem;
+    background: var(--forest-deep);
+    box-shadow: 0 2.5rem 5.5rem rgba(18, 46, 42, 0.2);
+    color: var(--cream);
+  }
+
+  .a2-tool::before {
+    position: absolute;
+    inset: 0;
+    z-index: -2;
+    background-image:
+      linear-gradient(rgba(255, 255, 255, 0.025) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(255, 255, 255, 0.025) 1px, transparent 1px);
+    background-size: 2.75rem 2.75rem;
+    content: '';
+  }
+
+  .a2-tool__glow {
+    position: absolute;
+    z-index: -1;
+    width: 24rem;
+    height: 24rem;
+    border-radius: 50%;
+    filter: blur(2px);
+    opacity: 0.42;
+    pointer-events: none;
+  }
+
+  .a2-tool__glow--one {
+    top: -15rem;
+    right: -8rem;
+    background: radial-gradient(circle, rgba(230, 189, 116, 0.44), transparent 68%);
+  }
+
+  .a2-tool__glow--two {
+    bottom: -18rem;
+    left: -8rem;
+    background: radial-gradient(circle, rgba(73, 139, 126, 0.55), transparent 68%);
+  }
+
+  .a2-tool__header {
+    display: grid;
+    gap: 1.5rem;
+    padding: clamp(1.5rem, 5vw, 3.25rem);
+  }
+
+  .a2-tool__eyebrow {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.55rem;
+    margin: 0;
+    color: var(--gold);
+    font-size: 0.75rem;
+    font-weight: 800;
+    letter-spacing: 0.17em;
+    text-transform: uppercase;
+  }
+
+  .a2-tool__header h2 {
+    max-width: 15ch;
+    margin: 0.75rem 0 0;
+    font-family: Fraunces, ui-serif, Georgia, serif;
+    font-size: clamp(2rem, 6vw, 4.35rem);
+    font-weight: 600;
+    letter-spacing: -0.035em;
+    line-height: 0.98;
+  }
+
+  .a2-tool__intro {
+    max-width: 42rem;
+    margin: 1rem 0 0;
+    color: rgba(255, 250, 240, 0.74);
+    font-size: clamp(1rem, 2vw, 1.12rem);
+    line-height: 1.7;
+  }
+
+  .a2-tool__trust {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: end;
+    gap: 0.55rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .a2-tool__trust li {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    border: 1px solid rgba(255, 255, 255, 0.13);
+    border-radius: 999px;
+    background: rgba(255, 255, 255, 0.055);
+    padding: 0.45rem 0.7rem;
+    color: rgba(255, 250, 240, 0.83);
+    font-size: 0.73rem;
+    font-weight: 700;
+  }
+
+  .a2-tool__trust span { color: var(--gold); }
+
+  .a2-tool__surface {
+    margin: 0.45rem;
+    border-radius: 1.65rem;
+    background: var(--paper);
+    padding: clamp(1.25rem, 4vw, 2.5rem);
+    color: var(--ink);
+  }
+
+  .a2-progress { margin-bottom: clamp(1.5rem, 4vw, 2.6rem); }
+
+  .a2-progress__copy {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    margin-bottom: 0.65rem;
+    color: var(--muted);
+    font-size: 0.75rem;
+    font-weight: 750;
+  }
+
+  [data-progress-label] { color: var(--forest); letter-spacing: 0.08em; text-transform: uppercase; }
+
+  .a2-progress__track {
+    overflow: hidden;
+    height: 0.3rem;
+    border-radius: 999px;
+    background: #e9e8df;
+  }
+
+  .a2-progress__track span {
+    display: block;
+    width: 33.333%;
+    height: 100%;
+    border-radius: inherit;
+    background: linear-gradient(90deg, var(--forest), #4e8d80);
+    transition: width 260ms ease;
+  }
+
+  .a2-step { min-width: 0; margin: 0; border: 0; padding: 0; outline: 0; }
+
+  .a2-step legend {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.75rem;
+    max-width: 24ch;
+    padding: 0;
+    font-family: Fraunces, ui-serif, Georgia, serif;
+    font-size: clamp(1.55rem, 4vw, 2.35rem);
+    font-weight: 600;
+    letter-spacing: -0.025em;
+    line-height: 1.08;
+  }
+
+  .a2-step__number {
+    margin-top: 0.15rem;
+    color: var(--coral);
+    font-family: Inter, ui-sans-serif, system-ui, sans-serif;
+    font-size: 0.7rem;
+    font-weight: 850;
+    letter-spacing: 0.1em;
+  }
+
+  .a2-step__hint { margin: 0.7rem 0 1.35rem; color: var(--muted); font-size: 0.9rem; }
+
+  .a2-options { display: grid; gap: 0.7rem; }
+
+  .a2-option {
+    position: relative;
+    display: flex;
+    min-height: 5.1rem;
+    cursor: pointer;
+    align-items: center;
+    gap: 0.8rem;
+    border: 1px solid #deded4;
+    border-radius: 1rem;
+    background: #fff;
+    padding: 0.9rem;
+    box-shadow: 0 0.4rem 1.4rem rgba(24, 54, 49, 0.035);
+    transition: border-color 160ms ease, box-shadow 160ms ease, transform 160ms ease, background 160ms ease;
+  }
+
+  .a2-option:hover { border-color: #95b2aa; transform: translateY(-1px); }
+  .a2-option:has(input:checked) { border-color: var(--forest); background: #f1f8f5; box-shadow: 0 0 0 2px rgba(21, 63, 57, 0.1); }
+  .a2-option:has(input:focus-visible) { box-shadow: 0 0 0 3px rgba(21, 63, 57, 0.2); }
+
+  .a2-option input { position: absolute; width: 1px; height: 1px; opacity: 0; }
+
+  .a2-option__mark {
+    display: grid;
+    width: 1.25rem;
+    height: 1.25rem;
+    flex: 0 0 auto;
+    place-items: center;
+    border: 1.5px solid #a8b2ae;
+    border-radius: 50%;
+    background: #fff;
+  }
+
+  .a2-option__mark::after {
+    width: 0.55rem;
+    height: 0.55rem;
+    border-radius: 50%;
+    background: var(--forest);
+    content: '';
+    opacity: 0;
+    transform: scale(0.3);
+    transition: opacity 160ms ease, transform 160ms ease;
+  }
+
+  .a2-option:has(input:checked) .a2-option__mark { border-color: var(--forest); }
+  .a2-option:has(input:checked) .a2-option__mark::after { opacity: 1; transform: scale(1); }
+
+  .a2-option__copy { display: grid; gap: 0.15rem; line-height: 1.25; }
+  .a2-option__copy strong { color: var(--ink); font-size: 0.91rem; }
+  .a2-option__copy small { color: var(--muted); font-size: 0.76rem; line-height: 1.35; }
+
+  .a2-tool__error { margin: 1rem 0 0; color: #a4442f; font-size: 0.82rem; font-weight: 750; }
+
+  .a2-tool__actions {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 0.65rem;
+    margin-top: 1.5rem;
+  }
+
+  .a2-button {
+    display: inline-flex;
+    min-height: 3rem;
+    cursor: pointer;
+    align-items: center;
+    justify-content: center;
+    gap: 0.55rem;
+    border: 0;
+    border-radius: 999px;
+    padding: 0.75rem 1.2rem;
+    font-size: 0.82rem;
+    font-weight: 800;
+    transition: background 160ms ease, color 160ms ease, transform 160ms ease, opacity 160ms ease;
+  }
+
+  .a2-button--primary { background: var(--forest); color: #fff; box-shadow: 0 0.65rem 1.5rem rgba(21, 63, 57, 0.16); }
+  .a2-button--primary:hover:not(:disabled) { background: var(--forest-deep); transform: translateY(-1px); }
+  .a2-button--primary:disabled { cursor: not-allowed; opacity: 0.38; box-shadow: none; }
+  .a2-button--quiet { margin-right: auto; background: transparent; color: var(--forest); }
+  .a2-button--quiet:hover { background: #edf4f1; }
+
+  .a2-result {
+    border: 1px solid #c7d9d3;
+    border-radius: 1.35rem;
+    background: linear-gradient(145deg, #f2f8f5 0%, #fffaf0 100%);
+    padding: clamp(1.15rem, 4vw, 2.2rem);
+    box-shadow: inset 0 1px rgba(255, 255, 255, 0.9);
+  }
+
+  .a2-result__topline {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    border-bottom: 1px solid rgba(21, 63, 57, 0.12);
+    padding-bottom: 0.9rem;
+  }
+
+  .a2-result__topline p { margin: 0; color: var(--forest); font-size: 0.72rem; font-weight: 850; letter-spacing: 0.1em; text-transform: uppercase; }
+  .a2-result__topline button { cursor: pointer; border: 0; background: transparent; color: var(--muted); font-size: 0.74rem; font-weight: 700; text-decoration: underline; text-underline-offset: 0.2rem; white-space: nowrap; }
+  .a2-result__grid { display: grid; gap: 1.4rem; padding-top: 1.3rem; }
+  .a2-result__best-for { margin: 0; color: var(--coral); font-size: 0.74rem; font-weight: 850; letter-spacing: 0.08em; text-transform: uppercase; }
+  .a2-result h3 { max-width: 18ch; margin: 0.35rem 0 0; font-family: Fraunces, ui-serif, Georgia, serif; font-size: clamp(1.7rem, 5vw, 2.8rem); font-weight: 600; letter-spacing: -0.03em; line-height: 1.03; }
+  .a2-result__reason { max-width: 40rem; margin: 0.8rem 0 0; color: var(--muted); font-size: 0.93rem; line-height: 1.65; }
+  .a2-result__facts { display: grid; gap: 0.65rem; }
+  .a2-result__facts div { border-left: 2px solid var(--gold); padding: 0.2rem 0 0.2rem 0.8rem; }
+  .a2-result__facts span { color: var(--muted); font-size: 0.67rem; font-weight: 800; letter-spacing: 0.09em; text-transform: uppercase; }
+  .a2-result__facts p { margin: 0.2rem 0 0; color: var(--ink); font-size: 0.82rem; font-weight: 700; line-height: 1.45; }
+  .a2-result__footer { display: flex; flex-wrap: wrap; align-items: center; gap: 0.7rem 1rem; margin-top: 1.4rem; }
+  .a2-result__footer a { display: inline-flex; align-items: center; gap: 0.55rem; border-radius: 999px; background: #232f3e; padding: 0.8rem 1.15rem; color: #fff; font-size: 0.8rem; font-weight: 800; text-decoration: none; }
+  .a2-result__footer a:hover { background: #111923; }
+  .a2-result__footer p { margin: 0; color: var(--muted); font-size: 0.7rem; }
+
+  .a2-tool__privacy {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.55rem;
+    margin: 1.2rem 0 0;
+    color: #78837f;
+    font-size: 0.69rem;
+    line-height: 1.5;
+  }
+
+  .a2-tool__privacy span { color: var(--forest); font-size: 1rem; line-height: 1; }
+
+  [hidden] { display: none !important; }
+
+  @media (min-width: 700px) {
+    .a2-tool__header { grid-template-columns: minmax(0, 1.65fr) minmax(14rem, 0.8fr); align-items: end; }
+    .a2-tool__surface { margin: 0.65rem; }
+    .a2-options--two { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .a2-options--three { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+    .a2-options--four { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .a2-result__grid { grid-template-columns: minmax(0, 1.45fr) minmax(15rem, 0.75fr); align-items: end; }
+  }
+
+  @media (max-width: 480px) {
+    .a2-tool { margin-inline: -0.25rem; border-radius: 1.5rem; }
+    .a2-tool__header { padding: 1.35rem 1.2rem 1.1rem; }
+    .a2-tool__header h2 { font-size: 2.15rem; }
+    .a2-tool__intro { font-size: 0.92rem; line-height: 1.58; }
+    .a2-tool__trust { gap: 0.35rem; }
+    .a2-tool__trust li { padding: 0.35rem 0.55rem; font-size: 0.65rem; }
+    .a2-tool__surface { margin: 0.35rem; border-radius: 1.2rem; padding: 1.05rem; }
+    .a2-progress__copy { font-size: 0.68rem; }
+    .a2-step legend { font-size: 1.55rem; }
+    .a2-step__hint { margin-bottom: 1rem; font-size: 0.8rem; line-height: 1.5; }
+    .a2-option { min-height: 4.35rem; border-radius: 0.85rem; padding: 0.75rem; }
+    .a2-tool__actions { margin-top: 1.1rem; }
+    .a2-button { min-height: 2.8rem; padding-inline: 1rem; }
+    .a2-result__topline { align-items: center; }
+    .a2-result__topline p { max-width: 12.5rem; line-height: 1.4; }
+    .a2-result__topline button { font-size: 0.7rem; }
+    .a2-result__footer a { width: 100%; justify-content: center; }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .a2-progress__track span,
+    .a2-option,
+    .a2-option__mark::after,
+    .a2-button { transition: none; }
+  }
+</style>
